@@ -1,14 +1,18 @@
 Latin WordNet 2.0
 Lemmas - E
 
+
 EA (r) (rp--------)
     in or at that place; 'they have lived there for years'; 'it's not there'; 'that man <who is> there' (r#00106088)
     to or toward that place; away from the speaker; 'go there around noon!' (r#00106274)
     in that matter; 'I agree with you there' (r#00106407)
     (informal) to a great degree or by a great distance; very much; 'way over budget'; 'way off base'; 'right smart' is regional (US S and Midland) as in 'the other side of the hill is right smart steeper than the side we are on' (r#00098754)
+
 EADEM (r) (rp--------)
     in like or similar manner; 'He was similarly affected'; 'some people have littlepower to do good, and have likewise little strength to resist evil'- Samuel Johnson (r#00133999)
+
 EALE (n) (n-s---fn1g)
+
 EAPROPTER (r) (rp--------)
     as a consequence; 'he had good reason to be grateful for the opportunities which they had made available to him and which consequently led to the good position he now held' (r#00288701)
     (sentence connectors) because of the reason given; 'consequently, he didn't do it'; 'continued to have severe headaches and accordingly returned to the doctor' (r#00060454)
@@ -18,32 +22,47 @@ EAPROPTER (r) (rp--------)
     (archaic) from this place; 'get thee hence!' (r#00041436)
     from that place or from there; 'proceeded thence directly to college'; 'flew to Helsinki and thence to Moscow'; 'roads that lead therefrom' (r#00041514)
     from that circumstance or source; 'atomic formulas and all compounds thence constructible'- W.V.Quine; 'a natural conclusion follows thence';'public interest and a policy deriving therefrom'; 'Typhus fever results therefrom' (r#00041700)
+
 EARE (r) (rp--------)
+
 EARINUS (a) (aps---mn1-)
+
 EATENUS (r) (rp--------)
     (usually followed by `that') to an extent or degree as expressed; 'he was so tired he could hardly stand'; 'so dirty that it smells' (r#00142910)
     up to the present time; 'I have yet to see the results'; 'details are yet to be worked out' (r#00026875)
+
 EBENEUS (a) (aps---mn1-)
+
 EBENINUS (a) (aps---mn1-)
+
 EBENOTRICHON (n) (n-s---nn2g)
+
 EBENUM (n) (n-s---nn2-)
     tropical tree of southern Asia having hard dark-colored heartwood used in cabinetwork (n#09069360)
     hard dark-colored heartwood of the ebony tree; used in cabinetwork and for piano keys (n#09069554)
+
 EBENUS (n) (n-s---fn2-)
     tropical tree of southern Asia having hard dark-colored heartwood used in cabinetwork (n#09069360)
     hard dark-colored heartwood of the ebony tree; used in cabinetwork and for piano keys (n#09069554)
+
 EBIBO (v) (v1spia--3-)
     spend thoughtlessly; throw away; 'He wasted his inheritance on his insincere friends' (v#01552355)
+
 EBISCUM (n) (n-s---nn2-)
+
 EBITO (v) (v1spia--3-)
+
 EBITUS (a) (aps---mn1-)
+
 EBLANDIOR (v) (v1spid--4-)
     be valid, applicable, or true; 'This theory still holds' (v#01808210)
     cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm; 'You can't persuade me to buy this ugly vase!' (v#00520277)
     receive a specified treatment (abstract); 'These aspects of civilization do not find expression or receive an interpretation'; 'His movie received a good review'; 'I got nothing but trouble for my good intentions' (v#00364767)
     win approval or support for; 'Carry all before one' (v#01762892)
     come into possession of; 'How did you obtain the visa?' (v#01531769)
+
 EBLANDITUS (a) (aps---mn1-)
+
 EBORARIUS (n) (n-s---mn2-)
     concerned with actual use or practice; 'he is a very practical person'; 'the idea had no practical application'; 'a practical knowledge of Japanese'; 'woodworking is a practical art' (a#01762874)
     designed for or adapted to a function or use; 'functional education selects knowledge that is concrete and usable rather than abstract and theoretical'; 'functional architecture' (a#01763584)
@@ -71,25 +90,34 @@ EBORARIUS (n) (n-s---mn2-)
     relating to or based on function especially as opposed to structure; 'the problem now is not a constitutional one; it is a functional one'; 'delegates elected on a functional rather than a geographical basis' (a#02741248)
     of or relating to a surgical operation; 'operative surgery' (a#02670911)
     running away from (or as if from) danger; 'the fleeing survivors' (a#01503487)
+
 EBORATUS (a) (aps---mn1-)
     provided with something intended to increase its beauty or distinction (a#00056778)
     adorned by inlays (a#00061028)
     clothed or adorned with finery (a#00423284)
+
 EBOREUS (a) (aps---mn1-)
     successful or assured of success; 'now I am a made man forever'- Christopher Marlowe (a#02220970)
     produced by a manufacturing process; 'bought some made goods at the local store; rope and nails' (a#00636055)
     determined by mathematical computation; 'the calculated velocity of a bullet'; 'a derived value' (a#00296924)
     (of a bed) having the sheets and blankets set in order; 'a neatly made bed' (a#01409211)
     formed or developed from something else; not original; 'the belief that classes and organizations are secondary and derived'- John Dewey (a#00663810)
+
 EBRIACUS (a) (aps---mn1-)
     given to or marked by the consumption of alcohol; 'a bibulous fellow'; 'a bibulous evening'; 'his boozy drinking companions'; 'thick boozy singing'; 'a drunken binge'; 'two drunken gentleman holding each other up'; 'sottish behavior' (a#00760549)
     stupefied or excited by a chemical substance (especially alcohol); 'a noisy crowd of intoxicated sailors'; 'helplessly inebriated' (a#00759599)
+
 EBRIAMEN (n) (n-s---nn3-)
+
 EBRIATUS (a) (aps---mn1-)
+
 EBRIETAS (n) (n-s---fn3-)
     a temporary state resulting from excessive consumption of alcohol (n#10097920)
+
 EBRIO (v) (v1spia--1-)
+
 EBRIOLATUS (a) (aps---mn1-)
+
 EBRIOLUS (a) (aps---mn1-)
     naughtily or annoyingly playful; 'teasing and worrying with impish laughter' (a#02046986)
     of textiles; 'a close weave'; 'smooth percale with a very tight weave' (a#02127164)
@@ -136,11 +164,14 @@ EBRIOLUS (a) (aps---mn1-)
     broken into sharp pieces; 'shattered glass'; 'your eyeglasses are smashed'; 'the police came in through the splintered door' (a#00285119)
     (of walls) covered with a coat of plaster (a#01636926)
     (British informal) trivial; 'potty little details' (a#01228996)
+
 EBRIOSITAS (n) (n-s---fn3-)
     prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms (n#10125512)
     the act of drinking alcoholic beverages to excess; 'drink was his downfall' (n#00482267)
     a temporary state resulting from excessive consumption of alcohol (n#10097920)
+
 EBRIOSUS (n) (n-s---mn2-)
+
 EBRIOSUS (a) (aps---mn1-)
     acknowledged as a supposition; 'given the engine's condition, it is a wonder that it started' (a#00029357)
     specified in advance; 'a given number'; 'we will meet at a given time and location' (a#01047898)
@@ -149,11 +180,16 @@ EBRIOSUS (a) (aps---mn1-)
     stupefied or excited by a chemical substance (especially alcohol); 'a noisy crowd of intoxicated sailors'; 'helplessly inebriated' (a#00759599)
     given to or marked by the consumption of alcohol; 'a bibulous fellow'; 'a bibulous evening'; 'his boozy drinking companions'; 'thick boozy singing'; 'a drunken binge'; 'two drunken gentleman holding each other up'; 'sottish behavior' (a#00760549)
     having possession delivered or transferred without compensation (a#01070520)
+
 EBRIULATUS (a) (aps---mn1-)
+
 EBRIUS (n) (n-s---mn2-)
+
 EBRIUS (a) (aps---mn1-)
     stupefied or excited by a chemical substance (especially alcohol); 'a noisy crowd of intoxicated sailors'; 'helplessly inebriated' (a#00759599)
+
 EBULINUS (a) (aps---mn1-)
+
 EBULLIO (v) (v1spia--4-)
     make a babbling, gurgling sound, as of water; 'babbling brooks' (v#01498085)
     pass by, as of time (v#01418612)
@@ -197,7 +233,9 @@ EBULLIO (v) (v1spia--4-)
     utter meaningless sounds, like a baby, or utter in an incoherent way; 'The old man is only babbling--don't pay attention' (v#00723086)
     bring forth or yield: 'The tree would not produce fruit' (v#01197357)
     flow freely and abundantly; 'Tears streamed down her face' (v#01416816)
+
 EBULLITIO (n) (n-s---fn3-)
+
 EBULLO (v) (v1spia--1-)
     create or manufacture a man-made product: 'We produce more cars than we can sell'; 'The company has been making toys for two centuries' (v#01114991)
     divulge information or secrets; spill the beans; 'Be careful--his secretary talks' (v#00634807)
@@ -216,8 +254,10 @@ EBULLO (v) (v1spia--1-)
     make a babbling, gurgling sound, as of water; 'babbling brooks' (v#01498085)
     to talk foolishly; 'The two women babbled and crooned at the baby' (v#00702751)
     drink from a flask with a gurgling sound (v#00795996)
+
 EBULUM (n) (n-s---nn2-)
     dwarf herbaceous elder of Europe having pink flowers and a nauseous odor (n#08978768)
+
 EBULUS (n) (n-s---mn2-)
     a person who is abnormally small (n#07232039)
     a legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure (n#06893154)
@@ -227,32 +267,41 @@ EBULUS (n) (n-s---mn2-)
     dwarf herbaceous elder of Europe having pink flowers and a nauseous odor (n#08978768)
     None (n#N0002226)
     bristly herb of eastern and central North America having black fruit and medicinal bark (n#08109368)
+
 EBULUS (n) (n-s---fn2-)
+
 EBUR (n) (n-s---nn3-)
     five-toed pachyderm (n#01997527)
     a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses (n#10578609)
+
 EBURARIUS (n) (n-s---mn2-)
     a worker in ivory (n#L9017182)
+
 EBURATUS (a) (aps---mn1-)
     provided with something intended to increase its beauty or distinction (a#00056778)
     adorned by inlays (a#00061028)
     clothed or adorned with finery (a#00423284)
+
 EBUREUS (a) (aps---mn1-)
     successful or assured of success; 'now I am a made man forever'- Christopher Marlowe (a#02220970)
     produced by a manufacturing process; 'bought some made goods at the local store; rope and nails' (a#00636055)
     determined by mathematical computation; 'the calculated velocity of a bullet'; 'a derived value' (a#00296924)
     (of a bed) having the sheets and blankets set in order; 'a neatly made bed' (a#01409211)
     formed or developed from something else; not original; 'the belief that classes and organizations are secondary and derived'- John Dewey (a#00663810)
+
 EBURNEOLUS (a) (aps---mn1-)
     produced by a manufacturing process; 'bought some made goods at the local store; rope and nails' (a#00636055)
     (of a bed) having the sheets and blankets set in order; 'a neatly made bed' (a#01409211)
     successful or assured of success; 'now I am a made man forever'- Christopher Marlowe (a#02220970)
+
 EBURNEUS (a) (aps---mn1-)
     a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses (n#10578609)
     a shade of white the color of bleached bones (n#03878065)
+
 EBURNUS (n) (n-s---mn2-)
     a shade of white the color of bleached bones (n#03878065)
     a hard smooth ivory colored dentine that makes up most of the tusks of elephants and walruses (n#10578609)
+
 EBURNUS (a) (aps---mn1-)
     (of coffee) having cream or milk added (a#00720975)
     (of hair) having lost its color; 'the white hairs of old age' (a#00378574)
@@ -272,10 +321,14 @@ EBURNUS (a) (aps---mn1-)
     glowing white with heat; 'white flames'; a white-hot center of the fire' (a#01199615)
     of or belonging to a racial group having light skin coloration; 'voting patterns within the white population' (a#00239024)
     free from moral blemish or impurity; unsullied; 'in shining white armor' (a#01835495)
+
 ECANTO (v) (v1spia--1-)
+
 ECAUDIS (a) (aps---cn3i)
+
 ECBASIS (n) (n-s---fn3i)
     wandering from the main path of a journey (n#00201294)
+
 ECBIBO (v) (v1spia--3-)
     the act of bringing to completion or fruition (n#00035376)
     bring or fetch; 'Get me those books over there, please'; 'Could you bring over the wine?'; 'The dog fetched the hat' (v#00982468)
@@ -373,22 +426,36 @@ ECBIBO (v) (v1spia--3-)
     None (v#N0002597)
     take hold of so as to seize or restrain or stop the motion of; 'Catch the ball!' 'Grab the elevator door!' (v#00986697)
     proceed or get along; 'How is she doing in her new job?' 'How are you making out in graduate school?' 'He's come a long way' (v#01785226)
+
 ECBOLA (n) (n-s---fn1-)
+
 ECBOLAS (n) (n-s---fn3-)
+
 ECCE (r) (rp--------)
+
 ECCENTROS (n) (n-s---fn2g)
+
 ECCERE (r) (rp--------)
+
 ECCHEUMA (n) (n-s---nn3-)
+
 ECCLESIA (n) (n-s---fn1-)
     for public (especially Christian) worship; 'the church was empty' (n#02438778)
+
 ECCLESIALIS (a) (aps---cn3-)
     of or associated with the Christian Church; 'ecclesiastic history' (a#02680018)
+
 ECCLESIASTICE (r) (rp--------)
+
 ECCLESIASTICUM (n) (n-s---nn2-)
+
 ECCLESIASTICUS (a) (aps---mn1-)
     of or associated with the Christian Church; 'ecclesiastic history' (a#02680018)
+
 ECCLESIASTICUS (n) (n-s---mn2-)
+
 ECCLESIECDICUS (n) (n-s---mn2-)
+
 ECCLESIOLA (n) (n-s---fn1-)
     a place of worship that has its own altar (n#02422521)
     a group of Christians; any group professing Christian doctrine or belief; 'church is a biblical term for assembly' (n#06024357)
@@ -397,7 +464,9 @@ ECCLESIOLA (n) (n-s---fn1-)
     a garment size for a small person (n#03976234)
     for public (especially Christian) worship; 'the church was empty' (n#02438778)
     the slender part of the back (n#04306328)
+
 ECCUM (r) (rp--------)
+
 ECDICUS (n) (n-s---mn2-)
     a district where people live; occupied primarily by private residences (n#06305554)
     the body of people in a learned occupation; 'the news spread rapidly through the medical community' (n#06047005)
@@ -408,8 +477,11 @@ ECDICUS (n) (n-s---mn2-)
     a group of people living in a particular local area; 'the team is drawn from all parts of the community' (n#06104982)
     a group of people having ethnic or cultural or religious characteristics in common; 'the Christian community of the apostolic age'; 'he was well known throughout the Catholic community' (n#06105250)
     a group of nations having common interests; 'they hoped to join the NATO community' (n#06105527)
+
 ECFACIO (v) (v1spia--3i)
+
 ECFARCIO (v) (v1spia--4-)
+
 ECFATUM (n) (n-s---nn2-)
     a judgment by a higher court that the judgment of a lower court was correct and should stand (n#00767693)
     a solemn declaration that serves the same purpose as an oath (if an oath is objectionable to the person on religious or ethical grounds) (n#05011715)
@@ -444,6 +516,7 @@ ECFATUM (n) (n-s---nn2-)
     a proposal offered for acceptance or rejection (n#05355937)
     prophecy by supernatural means (n#04454528)
     an idea that is suggested; 'the picnic was her suggestion' (n#04543845)
+
 ECFATUS (a) (aps---mn1-)
     firm in purpose or belief; characterized by firmness and determination; 'stood resolute against the enemy'; 'faced with a resolute opposition'; 'a resolute and unshakeable faith' (a#01917862)
     caused by or suggestive of psychological compulsion; 'compulsive drinking' (a#01527042)
@@ -513,11 +586,16 @@ ECFATUS (a) (aps---mn1-)
     planted so as to give an effect of wild growth; 'drifts of naturalized daffodils' (a#01760338)
     compelled forcibly by an outside agency; 'mobs goaded by blind hatred' (a#02400314)
     following accepted customs and proprieties; 'conventional wisdom'; 'she had strayed from the path of conventional behavior'; 'conventional forms of address' (a#00572731)
+
 ECFATUS (n) (n-s---mn4-)
     sounds uttered for auditory communication (n#05320427)
+
 ECFERCIO (v) (v1spia--4-)
+
 ECFERITAS (n) (n-s---fn3-)
+
 ECFICIO (v) (v1spia--3i)
+
 ECFIO (v) (v1spia--3-)
     accept or judge as acceptable; 'The teacher passed the student although we was weak' (v#01720906)
     transfer to another; of rights or property; 'Our house passed under his official control' (v#01520476)
@@ -567,12 +645,14 @@ ECFIO (v) (v1spia--3-)
     move toward, travel toward something or somebody or approach something or somebody; 'He came singing down the road'; 'Come with me to the Casbah'; 'come down here!'; 'come out of the closet!'; 'come into the room' (v#01262658)
     make laws, bills, etc.: 'They passed the amendment' (v#01680633)
     come from; 'The present name derives from an older form' (v#00171969)
+
 ECFLICTIM (r) (rp--------)
     with great urgency; 'health care reform is needed urgently'; 'the soil desperately needed potash' (r#00070365)
     in a stormy or violent manner (r#00033818)
     in a turbulent manner; with turbulence; 'the river rolls turbulently boiling' (r#00476287)
     with passion; 'she kissed him passionately' (r#00206319)
     in intense despair; 'the child clung desperately to her mother' (r#00503424)
+
 ECFLORESCO (v) (v1spia--3-)
     spread out or open from a folded state; 'open the map' (v#01087519)
     burst outward, usually with noise; 'The champagne bottle exploded' (v#00211486)
@@ -606,6 +686,7 @@ ECFLORESCO (v) (v1spia--3-)
     force out or release suddenly and often violently something pent up; 'break into tears'; 'erupt in anger' (v#01219416)
     move suddenly, energetically, or violently; 'He burst out of the house into the cool night' (v#01337339)
     make a resonant sound; as of artillery: 'His deep voice boomed through the hall.' (v#01497743)
+
 ECFLORO (v) (v1spia--1-)
     spread out or open from a folded state; 'open the map' (v#01087519)
     burst outward, usually with noise; 'The champagne bottle exploded' (v#00211486)
@@ -639,7 +720,9 @@ ECFLORO (v) (v1spia--1-)
     force out or release suddenly and often violently something pent up; 'break into tears'; 'erupt in anger' (v#01219416)
     move suddenly, energetically, or violently; 'He burst out of the house into the cool night' (v#01337339)
     make a resonant sound; as of artillery: 'His deep voice boomed through the hall.' (v#01497743)
+
 ECFODIO (v) (v1spia--3i)
+
 ECFOR (v) (v1spid--1-)
     pass on a communication: 'The news was carried to every village in the province' (v#00719410)
     transfer or deliver to another, as of information; 'convey the news to everyone' (v#01527059)
@@ -956,7 +1039,9 @@ ECFOR (v) (v1spid--1-)
     assign a rank or rating to; 'how would you rank these students?' (v#00443221)
     invalidate by judicial action; 'The will was broken' (v#01688962)
     separate from a clinch, in boxing; 'The referee broke the boxers' (v#01073674)
+
 ECFRENO (v) (v1spia--1-)
+
 ECFUGIO (v) (v1spia--3-)
     avert, turn away, or repel; 'Ward off danger' (v#00766732)
     fail to reach or get to: 'She missed her train' (v#01381493)
@@ -1479,6 +1564,7 @@ ECFUGIO (v) (v1spia--3-)
     reach by calculation; 'What do you get when you add up these numbers?' (v#00432256)
     have a certain range, as of guns; 'This rifle carries for 3,000 feet' (v#00762507)
     leave a vehicle, aircraft, etc. (v#01376459)
+
 ECFUNDO (v) (v1spia--3-)
     have a certain range, as of guns; 'This rifle carries for 3,000 feet' (v#00762507)
     cover a certain distance or advance beyond, as of a ball in golf; 'The drive carried to the green' (v#00762328)
@@ -1895,21 +1981,35 @@ ECFUNDO (v) (v1spia--3-)
     as from a country (v#01704959)
     hold within range of an aimed firearm (v#00766414)
     lock up in jail (v#01699803)
+
 ECFUTUO (v) (v1spia--3-)
+
 ECHEA (n) (n-p---nn2-)
+
 ECHEDERMIA (n) (n-s---fn1-)
+
 ECHEIA (n) (n-p---nn2-)
+
 ECHENEIS (n) (n-s---fn3-)
     marine fishes with a flattened elongated body and a sucking disk on the head for attaching to large fish or moving objects (n#02065085)
+
 ECHEON (n) (n-s---nn2g)
+
 ECHIDNA (n) (n-s---fn1-)
     venomous Old World snakes characterized by hollow venom-conducting fangs in the upper jaw (n#01272450)
+
 ECHINATUS (a) (aps---mn1-)
+
 ECHINOMETRA (n) (n-s---fn1-)
+
 ECHINOMETRAE (n) (n-p---mn1-)
+
 ECHINOPHORA (n) (n-s---fn1-)
+
 ECHINOPUS (n) (n-s---mn3-)
+
 ECHINUS (n) (n-s---fn2-)
+
 ECHINUS (n) (n-s---mn2-)
     a copper penny (n#09645594)
     a ductile malleable reddish-brown corrosion-resistant diamagnetic metallic element; occurs in various minerals but is the only metal that occurs abundantly in large masses; used as an electrical and thermal conductor (n#10484763)
@@ -1923,20 +2023,32 @@ ECHINUS (n) (n-s---mn2-)
     a parabolic reflector for microwave or radio frequency radiation that is used as a directional antenna (n#02577346)
     any substance that can be used as food (n#05617311)
     a particular item of prepared food; 'she prepared a special dish for dinner' (n#05632416)
+
 ECHION (n) (n-s---nn2g)
+
 ECHIOS (n) (n-s---fn2g)
+
 ECHIS (n) (n-s---mn3i)
+
 ECHITE (n) (n-s---fn1g)
+
 ECHITIS (n) (n-s---fn3-)
+
 ECHIUM (n) (n-s---nn2-)
+
 ECHO (n) (n-s---fn4-)
     the persistence of a sound after its source has stopped (n#03914178)
+
 ECHOICUS (a) (aps---mn1-)
+
 ECLECTICISMUS (n) (n-s---mn2-)
     making decisions on the basis of what seems best instead of following some single doctrine or style (n#04461818)
+
 ECLECTISMUS (n) (n-s---mn2-)
     making decisions on the basis of what seems best instead of following some single doctrine or style (n#04461818)
+
 ECLESIA (n) (n-s---fn1-)
+
 ECLIGMA (n) (n-s---nn3-)
     (informal) a spokesperson (as a lawyer) (n#07421842)
     an adhesive made from water and flour or starch; used on paper and paperboard (n#10541519)
@@ -1953,26 +2065,43 @@ ECLIGMA (n) (n-s---nn3-)
     a person conceived as a consumer of food; 'he has four mouths to feed' (n#07421720)
     the opening through which food is taken in and vocalizations emerge; 'he stuffed his mouth with candy' (n#04115581)
     something that treats or prevents or alleviates the symptoms of disease (n#02981307)
+
 ECLIGMATIUM (n) (n-s---nn2-)
+
 ECLIPSIS (n) (n-s---fn3i)
     one celestial body obscures another (n#05486800)
+
 ECLIPTICA (n) (n-s---fn1-)
     the great circle representing the apparent annual path of the sun; the plane of the Earth's orbit around the sun; makes an angle of about 23 degrees with the equator; 'all of the planets rotate the sun in approximately the same ecliptic' (n#06313243)
+
 ECLIPTICUS (a) (aps---mn1-)
+
 ECLOGA (n) (n-s---fn1-)
     a passage selected from a larger work; 'he presented exerpts from William James' philosophical writings' (n#04824539)
+
 ECLOGARII (n) (n-p---mn2-)
+
 ECLOGARIUM (n) (n-s---nn2-)
+
 ECLOGARIUS (n) (n-s---mn2-)
+
 ECLOGARIUS (a) (aps---mn1-)
+
 ECNEPHIAS (n) (n-s---mn1-)
     a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale) (n#07806319)
+
 ECONTRA (r) (rp--------)
+
 ECONTRARIO (r) (rp--------)
+
 ECPHORA (n) (n-s---fn1-)
+
 ECPHRASTES (n) (n-s---mn1-)
+
 ECPYROSIS (n) (n-s---fn3i)
+
 ECQUALIS (a) (aps---cn3i)
+
 ECQUANDO (r) (rp--------)
     at any time; 'did you ever smoke?'; 'the best con man of all time' (r#00142539)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
@@ -1989,13 +2118,19 @@ ECQUANDO (r) (rp--------)
     at any time or in any event; 'you can always resign if you don't like it'; 'you could always take a day off' (r#00018743)
     conforming to truth; 'I wouldn't have told you this if it weren't so'; 'a truthful statement' (a#02342823)
     not ever; at no time in the past or future; 'I have never been to China'; 'I shall never forget this day'; 'had never seen a circus'; 'never on Sunday'; 'I will never marry you!' (r#00019520)
+
 ECQUI (r) (rp--------)
+
 ECQUID (r) (rp--------)
+
 ECQUINAM (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 ECQUO (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 ECRAGINO (v) (v1spia--1-)
+
 ECSTASIA (n) (n-s---fn1-)
     a time for working (after which you will be relieved by someone else); 'it's my go'; 'a spell of work' (n#10984524)
     a state of mind in which consciousness is fragile and voluntary action is poor or missing; a state resembling deep sleep (n#04391152)
@@ -2012,8 +2147,10 @@ ECSTASIA (n) (n-s---fn1-)
     something that serves as a means of transportation (n#02495376)
     a drug designed to have the effects of amphetamines but to avoid the drug laws (n#02992824)
     a magical spell (n#04586141)
+
 ECSTASIS (n) (n-s---fn3i)
     a state of being carried away by overwhelming emotion: 'listening to sweet music in a perfect rapture'- Charles Dickens (n#10075760)
+
 ECSTATICUS (a) (aps---mn1-)
     deeply moved; 'sat completely still, enraptured by the music'; 'listened with rapt admiration'; 'rapt in reverie' (a#01497832)
     having or displaying great dignity or nobility; 'a gallant pageant'; 'lofty ships'; 'majestic cities'; 'proud alpine peaks' (a#01231908)
@@ -2029,7 +2166,9 @@ ECSTATICUS (a) (aps---mn1-)
     having or showing or indicative of high or elevated character; 'a noble spirit'; 'noble deeds' (a#01530980)
     of or relating to the philosophical doctrine of the reality of ideas (a#02577177)
     of high moral or intellectual value; elevated in nature or style; 'an exalted ideal'; 'argue in terms of high-flown ideals'- Oliver Franks; 'a noble and lofty concept' (a#01531409)
+
 ECTASIS (n) (n-s---fn3i)
+
 ECTHETA (n) (n-s---fn1-)
     a process of linguistic change over a period of time (n#09720031)
     (mining) a horizontal (or nearly horizontal) passageway in a mine; 'they dug a drift parallel with the vein' (n#02602858)
@@ -2049,27 +2188,42 @@ ECTHETA (n) (n-s---fn1-)
     the direction or path along which something moves or along which it lies (n#06390208)
     a porch along the outside of a building (sometimes partly enclosed) (n#03571958)
     a force that moves something along (n#07791222)
+
 ECTHLIPSIS (n) (n-s---fn3i)
+
 ECTOMON (n) (n-s---nn2-)
+
 ECTROMA (n) (n-s---nn3-)
+
 ECTROPA (n) (n-s---fn1-)
+
 ECTYPUS (a) (aps---mn1-)
+
 ECULA (n) (n-s---fn1-)
+
 ECULEUS (n) (n-s---mn2-)
     a young male horse under the age of four (n#01877584)
     stretches, disjoints or mutilates victims (n#03200533)
+
 ECULUS (n) (n-s---mn2-)
+
 ECUS (n) (n-s---mn2-)
+
 EDACITAS (n) (n-s---fn3-)
     (Babylonian) goddess of healing and consort of Ninurta (n#06872961)
     habitual eating to excess (n#03827106)
     eating to excess (personified as one of the deadly sins) (n#00490089)
+
 EDAX (a) (aps---an3i)
     devouring or craving food in great quantities; 'edacious vultures'; 'a rapacious appetite'; 'ravenous as wolves'; 'voracious sharks' (a#00011404)
     wanting to eat or drink more than one can reasonably consume; 'don't be greedy with the cookies' (a#00011658)
+
 EDEATROS (n) (n-s---mn2g)
+
 EDECIMO (v) (v1spia--1-)
+
 EDECUMO (v) (v1spia--1-)
+
 EDENDUM (n) (n-s---nn2-)
     the financial means whereby one lives; 'each child was expected to pay for their keep'; 'he applied to the state for support'; 'he could no longer earn his own livelihood' (n#09624494)
     the act of supplying food and nourishment (n#00684853)
@@ -2081,23 +2235,36 @@ EDENDUM (n) (n-s---nn2-)
     any substance that can be used as food (n#05617311)
     the act of sustaining (n#00788511)
     food for domestic livestock (n#05834217)
+
 EDENTANEUS (a) (aps---mn1-)
+
 EDENTO (v) (v1spia--1-)
+
 EDENTULUS (a) (aps---mn1-)
     lacking teeth; 'most birds are toothless'; 'a toothless old crone' (a#02320440)
+
 EDEPOL (r) (rp--------)
     so as to pass a given point; 'every hour a train goes past' (r#00412129)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
+
 EDERA (n) (n-s---fn1-)
+
 EDERACEUS (a) (aps---mn1-)
+
 EDERATUS (a) (aps---mn1-)
+
 EDERIGER (a) (aps---mn1r)
+
 EDEROSUS (a) (aps---mn1-)
+
 EDIBILIS (a) (aps---cn3i)
+
 EDICO (v) (v1spia--3-)
     state firmly; 'He declared that he was innocent' (v#00557342)
     announce officially; 'The President declared war' (v#00654101)
+
 EDICTALIS (a) (aps---cn3i)
+
 EDICTIO (n) (n-s---fn3-)
     the sacrament of ordination (n#00672215)
     an association of people who share common beliefs or activities; 'the message was addressed not just to employees but to every member of the company family'; 'the church welcomed new members into its fellowship' (n#06108270)
@@ -2200,24 +2367,35 @@ EDICTIO (n) (n-s---fn3-)
     a customary way of operation or behavior; 'it is their practice to give annual raises'; 'they changed their dietary pattern' (n#00263204)
     a state of equilibrium (n#10087814)
     a specific size and style of type within a type family (n#05113097)
+
 EDICTO (v) (v1spia--1-)
+
 EDICTUM (n) (n-s---nn2-)
     a legally binding command or decision entered on the court record (as if issued by a court or judge); 'a friend in New Mexico said that the order caused no trouble out there' (n#04909380)
+
 EDICTUS (a) (aps---mn1-)
+
 EDISCO (v) (v1spia--3-)
     commit to memory; learn by heart (v#00408232)
     acquire or gain knowledge or skills; 'She learned dancing from her sister'; 'I learned Sanskrit' (v#00403772)
     be a student of a certain subject; 'She is reading for the bar exam' (v#00405251)
     find out or learn with certainty; 'I want to see whether she speaks French'; 'See whether it works'; 'Watch how he will react' (v#00622450)
+
 EDISSERATOR (n) (n-s---mn3-)
+
 EDISSERO (v) (v1spia--3-)
     spread out or open from a folded state; 'open the map' (v#01087519)
     state by way of explanation (v#00722994)
     give an explanation for (v#00635987)
+
 EDISSERTATIO (n) (n-s---fn3-)
+
 EDISSERTATOR (n) (n-s---mn3-)
+
 EDISSERTATUS (a) (aps---mn1-)
+
 EDISSERTIO (n) (n-s---fn3-)
+
 EDISSERTO (v) (v1spia--1-)
     ask for permission to be released from an engagement (v#00605842)
     make excuses for (v#00606341)
@@ -2324,8 +2502,11 @@ EDISSERTO (v) (v1spia--1-)
     excuse or make allowances for; be lenient with; 'excuse someone's behavior' (v#00605154)
     serve as an excuse for (v#00605303)
     grant exemption or release to; 'Please excuse me from this class (v#00605518)
+
 EDISSERTUS (a) (aps---mn1-)
+
 EDITA (n) (n-p---nn2-)
+
 EDITICIUS (a) (aps---mn1-)
     fixed and unmoving; 'with eyes set in a fixed glassy stare'; 'his bearded face already has a set hollow look'- Connor Cruise O'Brien; 'a face rigid with pain' (a#01508672)
     designed or carried out according to a plan; 'the planned outlays for new equipment' (a#01725315)
@@ -2339,12 +2520,16 @@ EDITICIUS (a) (aps---mn1-)
     made known or openly avowed; 'their declared and their covert objectives'; 'a declared liberal' (a#00652408)
     declared publicly; made widely known; 'their announced intentions'; 'the newspaper's proclaimed adherence to the government's policy' (a#00652784)
     being below the horizon; 'the moon is set' (a#02374015)
+
 EDITIO (n) (n-s---fn3-)
     all of the identical copies of something offered to the public at the same time; 'the first edition appeared in 1920' or 'it was too late for the morning edition' or 'they issued a limited edition of Bach recordings' (n#05968443)
     an issue of a newspaper; 'he read it in yesterday's edition of the Times' (n#04948748)
     the form in which a text (especially a printed book) is published (n#04944727)
+
 EDITITIUS (a) (aps---mn1-)
+
 EDITIUNCULA (n) (n-s---fn1-)
+
 EDITOR (n) (n-s---mn3-)
     (computer science) a program designed to perform such editorial functions as rearrangement or modification or deletion of data (n#04933998)
     a firm in the publishing business (n#06009454)
@@ -2355,10 +2540,14 @@ EDITOR (n) (n-s---mn3-)
     a person responsible for the editorial aspects of publication (n#07234892)
     a business engaged in manufacturing some product (n#06007767)
     someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work) (n#07503790)
+
 EDITUM (n) (n-s---nn2-)
+
 EDITUS (a) (aps---mn1-)
     used of sounds and voices; high in pitch or frequency (a#01162278)
+
 EDITUS (n) (n-s---mn4-)
+
 EDIUS (a) (aps---mn1-)
     depending on or incidental to what is original or primary; 'a secondary infection' (a#01786141)
     of the stage of education and schools preceding collegiate; 'secondary school'; 'high school' (a#01787403)
@@ -2457,6 +2646,7 @@ EDIUS (a) (aps---mn1-)
     advanced into the most active period; 'went to Europe in high season' (a#01435828)
     of second rank or importance or value; not direct or immediate; 'the stone will be hauled to a secondary crusher'; 'a secondary source'; 'a secondary issue'; 'secondary streams' (a#01782330)
     set at a sharp or high angle or slant; 'a high-pitched roof' (a#01183917)
+
 EDO (v) (v1spia--3-)
     publish a magazine or newspaper, for example (v#00655737)
     eat greedily (v#00813980)
@@ -2469,8 +2659,11 @@ EDO (v) (v1spia--3-)
     give out freely (v#01507640)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
     expel, as of gases and odors (v#00071495)
+
 EDO (n) (n-s---mn3-)
+
 EDOCENTER (r) (rp--------)
+
 EDOCEO (v) (v1spia--2-)
     make aware of; 'Have the students been apprised of the tuition hike?' (v#00563742)
     give information; 'I informed him of his rights' (v#00564266)
@@ -2507,7 +2700,9 @@ EDOCEO (v) (v1spia--2-)
     find out or learn with certainty; 'I want to see whether she speaks French'; 'See whether it works'; 'Watch how he will react' (v#00622450)
     terminate the employment of; 'The boss fired his secretary today' (v#01636994)
     impart skills or knowledge to; 'I taught them French'; 'He instructed me in building a boat'; 'learn' is not standard (v#00562446)
+
 EDOCTUS (a) (aps---mn1-)
+
 EDOLO (v) (v1spia--1-)
     remove body hair with a razor (v#00026356)
     give the appearance or impression of; 'cut a nice figure' (v#01460792)
@@ -2646,10 +2841,15 @@ EDOLO (v) (v1spia--1-)
     intentionally fail to attend: 'cut class' (v#01782727)
     hit sharply (v#00763053)
     shape, form, or improve something: 'work stone into tools'; 'process iron' (v#01145518)
+
 EDOMATUS (a) (aps---mn1-)
+
 EDOMINO (v) (v1spia--1-)
+
 EDOMITO (v) (v1spia--1-)
+
 EDOMITUS (a) (aps---mn1-)
+
 EDOMO (v) (v1spia--1-)
     to bring (a necessary but unpleasant task) to an end; 'Let's get this job over with'; 'It's a question of getting over an unpleasant task' (v#01127085)
     make subservient; force to submit (v#01701149)
@@ -2724,14 +2924,18 @@ EDOMO (v) (v1spia--1-)
     keep to the curb; 'curb your dogs' (v#00888871)
     travel through water; 'We had to swim for 20 minutes to reach the shore' (v#01335172)
     take up, as of debts or payments; 'absorb the costs for something' (v#01517979)
+
 EDONUS (a) (aps---mn1-)
+
 EDOR (n) (n-s---nn3-)
+
 EDORMIO (v) (v1spia--4-)
     work in a house where one does not live; of domestic help (v#00800309)
     live out one's life; live to the end (v#01786540)
     be asleep (v#00009805)
     get rid off by sleeping, as of a hangover (v#01563990)
     be able to accommodate for sleeping; 'This tent sleeps six people' (v#01842856)
+
 EDORMISCO (v) (v1spia--3-)
     fill or stop up; 'Can you close the cracks with caulking?' (v#00975328)
     work in a house where one does not live; of domestic help (v#00800309)
@@ -2748,12 +2952,15 @@ EDORMISCO (v) (v1spia--3-)
     get rid off by sleeping, as of a hangover (v#01563990)
     fill or meet a want or need (v#00804764)
     be able to accommodate for sleeping; 'This tent sleeps six people' (v#01842856)
+
 EDUCATIO (n) (n-s---fn3-)
     raising someone to be an accepted member of the community; 'they debated whether nature or nurture was more important' (n#00731545)
+
 EDUCATIVUS (a) (aps---mn1-)
     providing knowledge; 'an educational film' (a#01271218)
     serving to instruct of enlighten or inform (a#01270374)
     relating to the process of education; 'educational psychology' (a#02716766)
+
 EDUCATOR (n) (n-s---mn3-)
     a teacher in a school below the college level (n#07551404)
     a person who gives private instruction (as in singing or acting) (n#07162304)
@@ -2765,6 +2972,7 @@ EDUCATOR (n) (n-s---mn3-)
     a specialist in the theory of education (n#07235207)
     someone who educates (n#07235322)
     a carriage pulled by four horses with one driver (n#02459686)
+
 EDUCATRIX (n) (n-s---fn3-)
     a woman who is the custodian of children (n#07427165)
     a person who gives private instruction (as in singing or acting) (n#07162304)
@@ -2778,8 +2986,11 @@ EDUCATRIX (n) (n-s---fn3-)
     a person whose occupation is teaching (n#07632177)
     female goat (n#01913590)
     a carriage pulled by four horses with one driver (n#02459686)
+
 EDUCATUS (n) (n-s---mn4-)
+
 EDUCATUS (a) (aps---mn1-)
+
 EDUCO (v) (v1spia--3-)
     bring up; 'raise a family'; 'bring up children' (v#01731610)
     prepare for a future task or career; 'I am training young minds'; 'develop leaders' (v#00407541)
@@ -2789,23 +3000,38 @@ EDUCO (v) (v1spia--3-)
     train to be discriminative; as of taste or judgment; 'Cultivate your musical taste'; 'Train your tastebuds'; 'She is well schooled in poetry' (v#01626835)
     cause to rise up (v#01351052)
     construct, build, or erect; 'Raise a barn' (v#01140839)
+
 EDUCO (v) (v1spia--1-)
+
 EDUCTIO (n) (n-s---fn3-)
+
 EDUCTOR (n) (n-s---mn3-)
+
 EDUCTUS (a) (aps---mn1-)
+
 EDULCO (v) (v1spia--1-)
+
 EDULCORO (v) (v1spia--1-)
     make sweeter in taste (v#01502992)
     make sweeter, more pleasant, or more agreeable; 'sweeten a deal' (v#00362298)
+
 EDULEO (n) (n-s---mn3-)
+
 EDULEUS (n) (n-s---mn2-)
+
 EDULIA (n) (n-p---nn2-)
+
 EDULIS (a) (aps---cn3i)
     suitable for use as food (a#00789841)
+
 EDULIUM (n) (n-s---nn2-)
+
 EDULUS (n) (n-s---mn2-)
+
 EDURATUS (a) (aps---mn1-)
+
 EDURESCO (v) (v1spia--3-)
+
 EDURO (v) (v1spia--1-)
     stay alive; survive; 'he could barely exist on such a low wage' (v#01784619)
     be ranked or compare; 'This violinist is as good as Juilliard-trained violinists go' (v#01867275)
@@ -2914,6 +3140,7 @@ EDURO (v) (v1spia--1-)
     have life, be alive; 'Our great leader is no more' (v#01782836)
     lead a certain kind of life; live in a certain style (v#01782943)
     continue in a place, position, or situation: 'After graduation, she stayed on in Cambridge as a student adviser'; 'Stay with me, please'; 'despite student protests, he remained Dean for another year'; 'She continued as deputy mayor for another year' (v#01865371)
+
 EDURUS (a) (aps---mn1-)
     characterized by toilsome effort to the point of exhaustion; especially physical effort; 'worked their arduous way up the mining valley'; 'a grueling campaign'; 'hard labor'; 'heavy work'; 'heavy going'; 'spent many laborious hours on the project'; 'set a punishing pace' (a#00797350)
     used to give emphasis; 'the very essence of artistic expression is invention'- Irving R. Kaufman; 'the very back of the room' (a#00006887)
@@ -2930,14 +3157,21 @@ EDURUS (a) (aps---mn1-)
     precisely as stated; 'the very center of town' (a#01767538)
     of speech sounds (a#01109786)
     of a drinker or drinking; indulging intemperately; 'does a lot of hard drinking'; 'a heavy drinker' (a#02287465)
+
 EDUS (n) (n-s---mn2-)
     soft smooth leather from the hide of a young goat; 'kid gloves' (n#10583496)
     young goat (n#01913446)
+
 EDYLLIUM (n) (n-s---nn2-)
+
 EFFABILIS (a) (aps---cn3i)
+
 EFFAECATUS (a) (aps---mn1-)
+
 EFFAFILATUS (a) (aps---mn1-)
+
 EFFAMEN (n) (n-s---nn3-)
+
 EFFARCIO (v) (v1spia--4-)
     proceed or get along; 'How is she doing in her new job?' 'How are you making out in graduate school?' 'He's come a long way' (v#01785226)
     penetrate or cut through with a sharp instrument (v#00988556)
@@ -3034,13 +3268,19 @@ EFFARCIO (v) (v1spia--4-)
     try to establish: 'She made out that she know nothing about the crime' (v#00514423)
     depart suddenly; 'He plumped out of the house' (v#01377621)
     live from day to day, as with some hardship: 'He eked out his years in great poverty' (v#01784189)
+
 EFFASCINATIO (n) (n-s---fn3-)
+
 EFFASCINO (v) (v1spia--1-)
+
 EFFATIO (n) (n-s---fn3-)
+
 EFFATUM (n) (n-s---nn2-)
     a saying that widely accepted on its own merits (n#05350719)
+
 EFFATUS (n) (n-s---mn4-)
     sounds uttered for auditory communication (n#05320427)
+
 EFFATUS (a) (aps---mn1-)
     firm in purpose or belief; characterized by firmness and determination; 'stood resolute against the enemy'; 'faced with a resolute opposition'; 'a resolute and unshakeable faith' (a#01917862)
     caused by or suggestive of psychological compulsion; 'compulsive drinking' (a#01527042)
@@ -3110,32 +3350,44 @@ EFFATUS (a) (aps---mn1-)
     planted so as to give an effect of wild growth; 'drifts of naturalized daffodils' (a#01760338)
     compelled forcibly by an outside agency; 'mobs goaded by blind hatred' (a#02400314)
     following accepted customs and proprieties; 'conventional wisdom'; 'she had strayed from the path of conventional behavior'; 'conventional forms of address' (a#00572731)
+
 EFFATUUS (a) (aps---mn1-)
+
 EFFECATUS (a) (aps---mn1-)
+
 EFFECTE (r) (rp--------)
     (informal) to a great degree or by a great distance; very much; 'way over budget'; 'way off base'; 'right smart' is regional (US S and Midland) as in 'the other side of the hill is right smart steeper than the side we are on' (r#00098754)
     in a productive way; 'they worked together productively for two years' (r#00210129)
+
 EFFECTIO (n) (n-s---fn3-)
     the act of doing something successfully; using knowledge as distinguished from merely possessing it; 'experience generally improves performance' (n#00061811)
     the act of accomplishing something (n#00020977)
+
 EFFECTITO (v) (v1spia--1-)
+
 EFFECTIVA (n) (n-s---fn1-)
     a practical method or art applied to some particular task (n#04380245)
+
 EFFECTIVE (r) (rp--------)
     in actuality or reality or fact; 'she is effectively his wife'; 'in effect, they had no choice' (r#00057975)
     in an effective manner; 'these are real problems that can be dealt with most effectively by rational discussion' (r#00321194)
     in a productive way; 'they worked together productively for two years' (r#00210129)
+
 EFFECTIVUS (a) (aps---mn1-)
     sufficient to produce a result; 'a man to whom painting was but another and less effectual way of writing dramas or novels or history' (a#00796743)
     producing a strong effect; 'gave an impressive performance as Othello'; 'a telling gesture' (a#00795989)
     producing or capable of producing an intended result or having a striking effect; 'an air-cooled motor was more effective than a witch's broomstick for rapid long-distance transportation'-LewisMumford; 'effective teaching methods'; 'effective steps toward peace'; 'made an effective entrance'; 'his complaint proved to be effectual in bringing action'; 'an efficacious law' (a#00795039)
     productive or conducive to producing in abundance; 'be fruitful and multiply' (a#01027790)
     marked by qualities giving the power to produce an intended effect; 'written propaganda is less efficacious than the habits and prejudices...of the readers'-Aldous Huxley; 'the medicine is efficacious in stopping a cough' (a#00799334)
+
 EFFECTO (v) (v1spia--1-)
+
 EFFECTOR (n) (n-s---mn3-)
     writes (books or stories or articles or the like) professionally (for pay) (n#07689380)
     someone who originates or causes or initiates something; 'he was the generator of several complaints' (n#07288141)
+
 EFFECTORIUS (a) (aps---mn1-)
+
 EFFECTRIX (n) (n-s---fn3-)
     a facility where something is available (n#03372354)
     the trait of being highly motivated; 'his drive and energy exhausted his co-workers' (n#03790494)
@@ -3218,6 +3470,7 @@ EFFECTRIX (n) (n-s---fn3-)
     a physiological state corresponding to a strong need or desire (n#10110247)
     a special set of circumstances; 'in that event, the first possibility is excluded'; 'it may rain in which case the picnic will be canceled' (n#10047274)
     any entity that causes events to happen (n#00003731)
+
 EFFECTUM (n) (n-s---nn2-)
     a vague idea in which some confidence is placed; 'his impression of her was favorable'; 'what are your feelings about the crisis?'; 'it strengthened my belief in his sincerity' (n#04544110)
     an impression (especially one that is artificial or contrived); 'he just did it for effect' (n#04544710)
@@ -3266,7 +3519,9 @@ EFFECTUM (n) (n-s---nn2-)
     one of a series published periodically; 'she found an old issue of the magazine in her dentist's waitingroom' (n#04948541)
     a rod of magnetic material (as soft iron) that passes through a coil and serves to increase the inductance of the coil (n#02501030)
     the region of a nuclear reactor containing the fissile material where the reaction takes place (n#02501218)
+
 EFFECTUOSUS (a) (aps---mn1-)
+
 EFFECTUS (n) (n-s---mn4-)
     the act of doing something successfully; using knowledge as distinguished from merely possessing it; 'experience generally improves performance' (n#00061811)
     putting a condemned person to death (n#00752981)
@@ -3278,16 +3533,27 @@ EFFECTUS (n) (n-s---mn4-)
     (of a law) having legal validity; 'the law is still in effect' (n#03773297)
     the act of presenting a play or a piece of music or other entertainment; 'we congratulated him on his performance at the recital' (n#00359430)
     the process of carrying out an instruction by a computer (n#09750253)
+
 EFFECTUS (a) (aps---mn1-)
+
 EFFECUNDO (v) (v1spia--1-)
+
 EFFEMINATE (r) (rp--------)
+
 EFFEMINATIO (n) (n-s---fn3-)
+
 EFFEMINATORIUM (n) (n-s---nn2-)
+
 EFFEMINATUS (a) (aps---mn1-)
+
 EFFEMINO (v) (v1spia--1-)
+
 EFFERASCO (v) (v1spia--3-)
+
 EFFERATE (r) (rp--------)
+
 EFFERATIO (n) (n-s---fn3-)
+
 EFFERATUS (a) (aps---mn1-)
     unjustly domineering; 'incensed at the government's heavy-handed economic economic policies'; 'a manager who rode roughshod over all opposition' (a#00751066)
     capable of quick response and great speed; 'a hot sports car' (a#00927375)
@@ -3400,6 +3666,7 @@ EFFERATUS (a) (aps---mn1-)
     marked by deep ill will; deliberately harmful; 'a malevolent lie'; 'poisonous hate...in his eyes'- Ernest Hemingway; 'venomous criticism'; 'vicious gossip' (a#00222282)
     not carefully or expertly made; 'managed to make a crude splint'; 'a crude cabin of logs with bark still on them'; 'rough carpentry' (a#02124533)
     very fast; 'a blistering pace'; 'got off to a hot start'; 'in hot pursuit'; 'a red-hot line drive' (a#00926569)
+
 EFFERCIO (v) (v1spia--4-)
     eat until one is sated; 'He filled up on turkey' (v#00819287)
     fill completely; 'The child stuffed his pockets with candy' (v#01048139)
@@ -3410,6 +3677,7 @@ EFFERCIO (v) (v1spia--4-)
     press or force; 'Stuff money into an envelope'; 'She thrust the letter into his hand' (v#01435291)
     increase in phase; 'the moon is waxing' (v#00302084)
     make (a garment) fuller by pleating or gathering (v#00302209)
+
 EFFERITAS (n) (n-s---fn3-)
     a brutal barbarous savage act (n#00270320)
     intensity or forcefulness of expression: 'the vehemence of his denial' or 'his emphasis on civil rights' (n#03933280)
@@ -3423,6 +3691,7 @@ EFFERITAS (n) (n-s---fn3-)
     a feeling of intense anger; 'hell hath no fury like a woman scorned'; 'his face turned red with rage' (n#05588413)
     extreme emotional intensity; 'the wildness of his anger' (n#05561743)
     a state of nature (n#03842772)
+
 EFFERO (v) (v1spia--1-)
     make worse; 'This drug aggravates the pain' (v#00142648)
     raise from a lower to a higher position; 'Raise your hands'; 'Lift a load' (v#01343923)
@@ -3430,6 +3699,7 @@ EFFERO (v) (v1spia--1-)
     construct, build, or erect; 'Raise a barn' (v#01140839)
     make visible; 'Summer brings out bright clothes'; 'He brings out the best in her' (v#01467069)
     raise in rank or condition: 'The new law lifted many people from poverty' (v#00380903)
+
 EFFERTUS (a) (aps---mn1-)
     extending relatively far inward; 'a deep border' (a#02438023)
     present in great quantity; 'an abundant supply of water' (a#00014012)
@@ -3491,6 +3761,7 @@ EFFERTUS (a) (aps---mn1-)
     marked by great fruitfulness; 'fertile farmland'; 'a fat land'; 'a productive vineyard'; 'rich soil' (a#01028535)
     bearing in abundance especially offspring; 'flying foxes are extremely prolific'; 'a prolific pear tree' (a#01028986)
     containing as much or as many as is possible or normal; 'a full glass'; 'a sky full of stars'; 'a full life'; 'the auditorium was full to overflowing' (a#01030147)
+
 EFFERUS (a) (aps---mn1-)
     unjustly domineering; 'incensed at the government's heavy-handed economic economic policies'; 'a manager who rode roughshod over all opposition' (a#00751066)
     characterized by violence or bloodshed; 'writes of crimson deeds and barbaric days'- Andrea Parke; 'fann'd by Conquest's crimson wing'- Thomas Gray; 'convulsed with red rage'- Hudson Strode (a#00244959)
@@ -3560,13 +3831,18 @@ EFFERUS (a) (aps---mn1-)
     having the nature of vice (a#02393618)
     produced without being planted or without human labor; 'wild strawberries' (a#01761384)
     severe; 'a harsh penalty' (a#01141308)
+
 EFFERVENS (a) (aps---an3i)
+
 EFFERVEO (v) (v1spia--2-)
+
 EFFERVESCENTIA (n) (n-s---fn1-)
     the property of giving off bubbles (n#03720529)
     the process of bubbling as gas escapes (n#09672414)
+
 EFFERVESCO (v) (v1spia--3-)
     boil vigorously; 'The liquid was seething' (v#00225019)
+
 EFFERVO (v) (v1spia--3-)
     have violent emotions, such as anger or frustration (v#01206358)
     cook in boiling liquid; 'boil potatoes' (v#00227567)
@@ -3577,20 +3853,28 @@ EFFERVO (v) (v1spia--3-)
     bring to, or maintain at, the boiling point, as of water and other liquids; 'boil this liquid until it evaporates' (v#00261276)
     come to the boiling point and change from a liquid to vapor; 'Water boils at 100 degrees Celsius' (v#00261606)
     overflow or cause to overflow while boiling; 'The milk is boiling over' (v#00261817)
+
 EFFETO (v) (v1spia--1-)
+
 EFFETUS (a) (aps---mn1-)
     completely emptied of resources or properties; 'impossible to grow tobacco on the exhausted soil'; 'the exhausted food sources'; 'exhausted oil wells' (a#00878089)
+
 EFFIBULO (v) (v1spia--1-)
+
 EFFICABILIS (a) (aps---cn3i)
+
 EFFICABILITER (r) (rp--------)
+
 EFFICACIA (n) (n-s---fn1-)
     the power to be effective (n#04047189)
     capacity or power to produce a desired effect (n#04047544)
     (physics) the rate of doing work; measured in watts (= joules/second) (n#07795077)
+
 EFFICACITAS (n) (n-s---fn3-)
     the power to be effective (n#04047189)
     capacity or power to produce a desired effect (n#04047544)
     (physics) the rate of doing work; measured in watts (= joules/second) (n#07795077)
+
 EFFICACITER (r) (rp--------)
     the act of achieving an aim; 'the attainment of independence' (n#00036271)
     an attainment that is successful; 'his success in the marathon was unexpected'; 'his new play was a great success' (n#00036683)
@@ -3612,9 +3896,12 @@ EFFICACITER (r) (rp--------)
     a successful ending of a struggle or contest; 'the general always gets credit for his army's victory'; 'the agreement was a triumph for common sense' (n#05556959)
     accepted practice (n#00265102)
     a manner of performance; 'a manner of living'; 'in the characteristic New York style'; 'a way of life' (n#03856995)
+
 EFFICAX (a) (aps---an3i)
     producing or capable of producing an intended result or having a striking effect; 'an air-cooled motor was more effective than a witch's broomstick for rapid long-distance transportation'-LewisMumford; 'effective teaching methods'; 'effective steps toward peace'; 'made an effective entrance'; 'his complaint proved to be effectual in bringing action'; 'an efficacious law' (a#00795039)
+
 EFFICIENS (a) (aps---an3i)
+
 EFFICIENTER (r) (rp--------)
     in actuality or reality or fact; 'she is effectively his wife'; 'in effect, they had no choice' (r#00057975)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -3629,6 +3916,7 @@ EFFICIENTER (r) (rp--------)
     in an effective manner; 'these are real problems that can be dealt with most effectively by rational discussion' (r#00321194)
     in the way indicated; 'hold the brush so'; 'set up the pieces thus'; (`thusly' is a nonstandard variant) (r#00118084)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 EFFICIENTIA (n) (n-s---fn1-)
     physical strength (n#03928263)
     possession of controlling influence; 'the deterrent power of nuclear weapons'; 'the power of his love saved her' (n#04041746)
@@ -3646,7 +3934,9 @@ EFFICIENTIA (n) (n-s---fn1-)
     the effect of one thing (or person) on another; 'the influence of mechanical action' (n#07768179)
     the ratio of the output to the input of any system (n#09954508)
     a mathematical notation indicating the number of times a quantity is multiplied by itself (n#05101570)
+
 EFFICILIS (a) (aps---cn3i)
+
 EFFICIO (v) (v1spia--3i)
     provide evidence for; 'The blood test showed that he was the father'; 'Her behavior testified to her incompetence' (v#00686544)
     carry out a task (v#01126836)
@@ -3664,14 +3954,21 @@ EFFICIO (v) (v1spia--3i)
     institute, enact, or establish; 'make laws' (v#00448781)
     create or manufacture a man-made product: 'We produce more cars than we can sell'; 'The company has been making toys for two centuries' (v#01114991)
     make by combining materials and parts: 'this little pig made his house out of straw'; 'Some eccentric constructed an electric brassiere warmer' (v#01136484)
+
 EFFICIOLUS (a) (aps---mn1-)
+
 EFFICTIO (n) (n-s---fn3-)
+
 EFFICTUS (a) (aps---mn1-)
+
 EFFIGIA (n) (n-s---fn1-)
     a visual representation of an object or scene or person produced on a surface; 'they showed us the pictures of their wedding'; 'a movie is a series of images projected so rapidly that the eye integrates them' (n#03118233)
     an iconic mental representation; 'her imagination forced images upon her too awful to contemplate' (n#04551473)
+
 EFFIGIATUS (n) (n-s---mn4-)
+
 EFFIGIENTIA (n) (n-s---fn1-)
+
 EFFIGIES (n) (n-s---fn5-)
     a mental representation of some haunting experience; 'he looked like he had seen a ghost'; 'it aroused specters from his past' (n#04533237)
     a suggestion of some quality; 'there was a touch of sarcasm in his tone'; 'he detected a ghost of a smile on her face' (n#05357270)
@@ -3680,10 +3977,14 @@ EFFIGIES (n) (n-s---fn5-)
     an imitation or reproduction of an original; 'she made a copy of the designer dress' (n#02498378)
     an iconic mental representation; 'her imagination forced images upon her too awful to contemplate' (n#04551473)
     any likeness of a person; 'the photographer made excellent portraits' (n#03160624)
+
 EFFIGIO (v) (v1spia--1-)
     make a portrait of: 'showing society what it looked like..portraying..its ugliness and its beauties..' (v#01158733)
+
 EFFIGURATIO (n) (n-s---fn3-)
+
 EFFINDO (v) (v1spia--3-)
+
 EFFINGO (v) (v1spia--3-)
     make a portrait of: 'showing society what it looked like..portraying..its ugliness and its beauties..' (v#01158733)
     cause to shape or form; 'shape a bun'; 'shape a ball from the dough' (v#00095506)
@@ -3697,6 +3998,7 @@ EFFINGO (v) (v1spia--3-)
     take the place of (v#01841374)
     show in, or as in, a picture; 'This scene depicts country life' (v#01157992)
     give shape to; 'form the clay into a head' (v#01091650)
+
 EFFIO (v) (v1spia--3-)
     accept or judge as acceptable; 'The teacher passed the student although we was weak' (v#01720906)
     transfer to another; of rights or property; 'Our house passed under his official control' (v#01520476)
@@ -3746,7 +4048,9 @@ EFFIO (v) (v1spia--3-)
     move toward, travel toward something or somebody or approach something or somebody; 'He came singing down the road'; 'Come with me to the Casbah'; 'come down here!'; 'come out of the closet!'; 'come into the room' (v#01262658)
     make laws, bills, etc.: 'They passed the amendment' (v#01680633)
     come from; 'The present name derives from an older form' (v#00171969)
+
 EFFIRMO (v) (v1spia--1-)
+
 EFFLAGITATIO (n) (n-s---fn3-)
     the act of enticing a person to do something wrong (as an offer of sex in return for money) (n#00104565)
     an entreaty addressed to someone of superior status; 'a solicitation to the king for relief' (n#05371966)
@@ -3759,11 +4063,14 @@ EFFLAGITATIO (n) (n-s---fn3-)
     a formal message requesting something submitted to an authority (n#04888919)
     request for a sum of money (as in church) (n#04889243)
     an urgent or peremptory request; 'his demands for attention were unceasing' (n#05374854)
+
 EFFLAGITATUS (a) (aps---mn1-)
+
 EFFLAGITATUS (n) (n-s---mn4-)
     the act of enticing a person to do something wrong (as an offer of sex in return for money) (n#00104565)
     request for a sum of money (as in church) (n#04889243)
     an entreaty addressed to someone of superior status; 'a solicitation to the king for relief' (n#05371966)
+
 EFFLAGITO (v) (v1spia--1-)
     state categorically (v#00687441)
     force or impel in an indicated direction; 'I urged him to finish his studies' (v#00519742)
@@ -3891,12 +4198,18 @@ EFFLAGITO (v) (v1spia--1-)
     call upon in supplication; entreat; 'I beg you to stop!' (v#00515892)
     to declare or affirm as true: 'Before God I swear I am innocent.' (v#00683865)
     insist on having one's opinions and rights recognized; 'Women should assert themselves more!' (v#01616630)
+
 EFFLAMMANS (a) (aps---an3i)
+
 EFFLATIO (n) (n-s---fn3-)
+
 EFFLATUS (n) (n-s---mn4-)
+
 EFFLEO (v) (v1spia--2-)
+
 EFFLICTE (r) (rp--------)
     in a violent manner; 'they attacked violently' (r#00220271)
+
 EFFLICTIM (r) (rp--------)
     with great urgency; 'health care reform is needed urgently'; 'the soil desperately needed potash' (r#00070365)
     in a violent manner; 'they attacked violently' (r#00220271)
@@ -3904,7 +4217,9 @@ EFFLICTIM (r) (rp--------)
     in a turbulent manner; with turbulence; 'the river rolls turbulently boiling' (r#00476287)
     with passion; 'she kissed him passionately' (r#00206319)
     in intense despair; 'the child clung desperately to her mother' (r#00503424)
+
 EFFLICTO (v) (v1spia--1-)
+
 EFFLIGO (v) (v1spia--3-)
     destroy completely; damage irreparably; 'You have ruined my car by pouring sugar in the tank!'; 'The tears ruined her make-up' (v#01077449)
     destroy completely (v#01137612)
@@ -3914,6 +4229,7 @@ EFFLIGO (v) (v1spia--3-)
     defeat soundly: 'The home team demolished the visitors' (v#00734516)
     cause to die; put to death; 'This man has killed several people when he tried to rob a bank' (v#00903723)
     as of animals: 'The customs agents destroyed the dog that was found to be rabid' (v#00904974)
+
 EFFLO (v) (v1spia--1-)
     be alive; 'Every creature that breathes' (v#01784886)
     continue to live, endure or last; 'We went without water and food for 3 days'; 'The legend of Elvis lives on'; 'These superstitions survive in the backwaters of America' (v#01785787)
@@ -3976,10 +4292,13 @@ EFFLO (v) (v1spia--1-)
     release something from a container (v#00984577)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
     exhale hard; 'blow on the soup to cool it down' (v#00005052)
+
 EFFLOREO (v) (v1spia--2-)
+
 EFFLORESCO (v) (v1spia--3-)
     develop or come to a promising stage; 'Youth blossomed into maturity' (v#00202346)
     produce or yield flowers; 'The cherry tree bloomed' (v#00202730)
+
 EFFLORO (v) (v1spia--1-)
     spread out or open from a folded state; 'open the map' (v#01087519)
     burst outward, usually with noise; 'The champagne bottle exploded' (v#00211486)
@@ -4013,12 +4332,18 @@ EFFLORO (v) (v1spia--1-)
     force out or release suddenly and often violently something pent up; 'break into tears'; 'erupt in anger' (v#01219416)
     move suddenly, energetically, or violently; 'He burst out of the house into the cool night' (v#01337339)
     make a resonant sound; as of artillery: 'His deep voice boomed through the hall.' (v#01497743)
+
 EFFLUENTER (r) (rp--------)
+
 EFFLUENTIA (n) (n-s---fn1-)
+
 EFFLUESCO (v) (v1spia--3-)
+
 EFFLUO (v) (v1spia--3-)
     escape potentially unpleasant consequences; get away with a forbidden action; 'She gets away with murder!' 'I couldn't get out from under these responsibilities' (v#00550772)
+
 EFFLUUS (a) (aps---mn1-)
+
 EFFLUVIUM (n) (n-s---nn2-)
     a place in a wiring system where current can be taken to run electrical devices (n#03587268)
     (music) the act or manner of terminating a musical phrase or tone (n#00137955)
@@ -4046,7 +4371,9 @@ EFFLUVIUM (n) (n-s---nn2-)
     a process that liberates or discharges something; 'there was a sudden release of oxygen'; 'the release of iodine from the thyroid gland' (n#09679559)
     a phenomenon that follows and is caused by some previous phenomenon; 'the magnetic effect was greater when the rod was lengthwise'; 'his decision had depressing consequences for business' (n#07766144)
     one of a series published periodically; 'she found an old issue of the magazine in her dentist's waitingroom' (n#04948541)
+
 EFFLUXIO (n) (n-s---fn3-)
+
 EFFLUXUS (a) (aps---mn1-)
     preceding in time or order (a#00124764)
     not blatant or overly aggressive in manner or appearance; 'a retiring disposition' (a#01556732)
@@ -4077,12 +4404,17 @@ EFFLUXUS (a) (aps---mn1-)
     hostile or indifferent to religion (a#01715131)
     no longer active or practicing; 'a lapsed Catholic' (a#01715682)
     not arrogant or presuming; 'unassuming to a fault, skeptical about the value of his work'; 'a shy retiring girl' (a#01477103)
+
 EFFOCO (v) (v1spia--1-)
+
 EFFODIO (v) (v1spia--3i)
     find by digging in the ground; 'I dug up an old box in the garden'; 'The archaeologists digging up the battlefield turned up a lot of old helmets' (v#00897525)
     remove the inner part or the core of (v#00895553)
+
 EFFOECUNDO (v) (v1spia--1-)
+
 EFFOEDO (v) (v1spia--1-)
+
 EFFOR (v) (v1spid--1-)
     recite or repeat a fixed text; 'Say grace'; 'She said her `Hail Mary'' (v#00640598)
     tell somebody to do something; 'I said to him to go home'; 'She ordered him to do the shopping' (v#00506398)
@@ -4092,6 +4424,7 @@ EFFOR (v) (v1spid--1-)
     indicate; 'The clock says noon' (v#00624506)
     express an idea, etc. in words; 'He said that he wanted to marry her'; 'tell me what is bothering you'; 'state your opinion' (v#00682542)
     speak, pronounce, or utter in a certain way; 'She pronounces French words in a funny way'; 'I cannot say `zip wire'' (v#00662608)
+
 EFFORMATIO (n) (n-s---fn3-)
     a detailed analysis; 'he studied the anatomy of crimes' (n#00422714)
     an amount of money expressed numerically; 'a figure of $17 was suggested' (n#09598019)
@@ -4179,6 +4512,7 @@ EFFORMATIO (n) (n-s---fn3-)
     a printed document with spaces in which to write; 'he filled out his tax form' (n#04862026)
     a customary way of operation or behavior; 'it is their practice to give annual raises'; 'they changed their dietary pattern' (n#00263204)
     a life-size dummy used to display clothes (n#02963916)
+
 EFFORMO (v) (v1spia--1-)
     settle conclusively; come to terms; 'We finally settled the argument' (v#00518436)
     reach a destination, either real or abstract; 'We hit Detroit by noon'; 'The water reached the doorstep'; 'We barely made the plane'; 'I have to hit the MAC machine before the weekend starts' (v#01379952)
@@ -4270,27 +4604,43 @@ EFFORMO (v) (v1spia--1-)
     prepare for eating by applying heat; 'Cook me dinner, please'; 'can you make me an omelette?' 'fix breakfast for the guests, please' (v#01142893)
     put in order or neaten: 'make the bed'; 'make up a room' (v#00188762)
     assure the success of; 'A good review by this critic will make your play!' (v#00603740)
+
 EFFORO (v) (v1spia--1-)
+
 EFFORUS (a) (aps---mn1-)
+
 EFFOSSIO (n) (n-s---fn3-)
+
 EFFOSSUS (a) (aps---mn1-)
+
 EFFOTUS (a) (aps---mn1-)
+
 EFFOVEO (v) (v1spia--2-)
+
 EFFRACTARIUS (n) (n-s---mn2-)
+
 EFFRACTOR (n) (n-s---mn3-)
+
 EFFRACTURA (n) (n-s---fn1-)
     trespassing for an unlawful purpose (n#00502562)
+
 EFFRACTUS (a) (aps---mn1-)
+
 EFFRAGRO (v) (v1spia--1-)
+
 EFFRENATE (r) (rp--------)
     in a violent manner; 'they attacked violently' (r#00220271)
     in an unrestrained manner (r#00483446)
+
 EFFRENATIO (n) (n-s---fn3-)
     rash impulsiveness (n#03675022)
+
 EFFRENATUS (a) (aps---mn1-)
     not subject to restraint; 'unrestrained laughter' (a#01929458)
     acting with or marked by or resulting from great force or energy or emotional intensity; 'a violent attack'; 'a violent person'; 'violent feelings'; 'a violent rage'; 'felt a violent dislike' (a#02390806)
+
 EFFRENIS (a) (aps---cn3i)
+
 EFFRENO (v) (v1spia--1-)
     make slack as by lessening tension or firmness (v#00293010)
     become looser or slack; 'the rope slackened' (v#00293275)
@@ -4325,14 +4675,20 @@ EFFRENO (v) (v1spia--1-)
     make larger, of clothes; 'Let out that dress--I gained a lot of weight' (v#00209933)
     put into circulation; of counterfeit currency (v#01396547)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
+
 EFFRENUS (a) (aps---mn1-)
     not subject to restraint; 'unrestrained laughter' (a#01929458)
     acting with or marked by or resulting from great force or energy or emotional intensity; 'a violent attack'; 'a violent person'; 'violent feelings'; 'a violent rage'; 'felt a violent dislike' (a#02390806)
+
 EFFRICO (v) (v1spia--1-)
+
 EFFRIGO (v) (v1spia--3-)
+
 EFFRINGO (v) (v1spia--3-)
     break into pieces, as by striking or knocking over; 'Smash a plate' (v#00232384)
+
 EFFRONDESCO (v) (v1spia--3-)
+
 EFFRONS (a) (aps---an3i)
     bluntly direct and outspoken but good-natured; 'a bluff but pleasant manner'; 'a bluff and rugged natural leader' (a#00728026)
     marked by imagination, initiative, and readiness to undertake new projects; 'an enterprising foreign policy'; 'an enterprising young man likely to go far' (a#00841516)
@@ -4383,7 +4739,9 @@ EFFRONS (a) (aps---an3i)
     expressing offensive reproach (a#01569114)
     having or marked by confidence or assurance; 'a confident speaker'; 'a confident reply'; 'his manner is more confident these days'; 'confident of fulfillment' (a#00330147)
     marked by excessive confidence; 'an arrogant and cocksure materialist'; 'so bold and impudent as to speak to the queen'; 'the less he knows the more positive he gets' (a#00330582)
+
 EFFRUTICO (v) (v1spia--1-)
+
 EFFUGATIO (n) (n-s---fn3-)
     an instance of traveling by air; 'flying was still an exciting adventure for him' (n#00195810)
     hitting a golf ball off of a tee with a driver; 'he sliced his drive out of bounds' (n#00375657)
@@ -4400,15 +4758,20 @@ EFFUGATIO (n) (n-s---fn3-)
     voluntarily absent from home or country (n#07252140)
     the path followed by a moving object (n#07817417)
     a scheduled trip by plane between designated airports; 'I took the noon flight to Chicago' (n#00195002)
+
 EFFUGIA (n) (n-s---fn1-)
+
 EFFUGIO (v) (v1spia--3i)
     avoid and stay away from deliberately; stay clear of (v#00551826)
     refrain from doing something; 'She refrains from calling her therapist too often'; 'He should avoid publishing his wife's memoires' (v#01678404)
     prevent the occurrence of; prevent from happening; 'Let's avoid a confrontation'; 'head off a confrontation'; 'avert a strike' (v#01671878)
     stay clear from; keep away from; keep out of the way of someone or something; 'Her former friends now avoid her' (v#00551242)
+
 EFFUGIUM (n) (n-s---nn2-)
     the act of escaping physically; 'he made his escape from the mental hospital'; 'the canary escaped from its cage'; 'his flight was an indication of his guilt' (n#00032687)
+
 EFFUGIUS (a) (aps---mn1-)
+
 EFFUGO (v) (v1spia--1-)
     lose strength or effectiveness; become or appear boring, insipid, or tiresome (to); 'the course palled on her' (v#00271993)
     to cause or order to be taken, directed, or transmitted to another place: 'He had sent the dispatches downtown to the proper people and had slept.' (v#00985091)
@@ -4604,12 +4967,18 @@ EFFUGO (v) (v1spia--1-)
     reach by calculation; 'What do you get when you add up these numbers?' (v#00432256)
     change or be different within limits; 'Estimates for the losses in the earthquake range as high as $2 billion'; 'Interest rates run from 5 to 10 percent'; 'The instruments ranged from tuba to cymbals'; My students range from very bright to dull' (v#01865057)
     cause to lose courage; 'dashed by the refusal' (v#01219733)
+
 EFFULGENTER (r) (rp--------)
+
 EFFULGENTIA (n) (n-s---fn1-)
+
 EFFULGEO (v) (v1spia--2-)
     be shiny, as if wet; 'His eyes were glistening' (v#01480723)
+
 EFFULGURO (v) (v1spia--1-)
+
 EFFULSIO (n) (n-s---fn3-)
+
 EFFULTUS (a) (aps---mn1-)
     held up by braces or buttresses (a#02239370)
     supported from above; 'the child dabbled his dangling feet in the water'; 'fuchsias in hanging pots'; 'pendent bunches of grapes'; 'a suspended fireplace' (a#02239467)
@@ -4629,8 +4998,11 @@ EFFULTUS (a) (aps---mn1-)
     having partial financial support from public funds; 'lived in subsidized public housing' (a#02242316)
     held up or having the weight borne especially from below; 'supported joints in a railroad track have ties directly under the rail ends' (a#02238932)
     having a base; 'firmly based ice' (a#02239285)
+
 EFFUMIGATUS (a) (aps---mn1-)
+
 EFFUMO (v) (v1spia--1-)
+
 EFFUNDO (v) (v1spia--3-)
     flow or run over (a limit or brim) (v#01418065)
     put out or expel from a place; 'The child was expelled from the classroom' (v#01007120)
@@ -4643,7 +5015,9 @@ EFFUNDO (v) (v1spia--3-)
     pour in drops; 'shed tears'; 'spill blood'; also metaphorically, as in 'God shed His grace on Thee' (v#01061056)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
     expel, as of gases and odors (v#00071495)
+
 EFFUSA (n) (n-p---nn2-)
+
 EFFUSE (r) (rp--------)
     without care; in a slapdash manner; 'the Prime Minister was wearing a gray suit and a white shirt with a soft collar, but his neck had become thinner and the collar stood away from it as if it had been bought haphazard' (r#00347657)
     in a wasteful manner; 'the United States, up to the 1920s, used fuel lavishly, mainly because it was so cheap' (r#00329812)
@@ -4673,21 +5047,32 @@ EFFUSE (r) (rp--------)
     in such a manner as to be understood and accepted; 'she cannot get her ideas across' (r#00268271)
     to a great extent (r#00036007)
     in a widespread way; 'oxidation ponds are extensively used for sewage treatment in the Midwest' (r#00036082)
+
 EFFUSIO (n) (n-s---fn3-)
     the property of being extremely abundant (n#03987430)
     excessive spending (n#00479309)
+
 EFFUSOR (n) (n-s---mn3-)
+
 EFFUSORIE (r) (rp--------)
+
 EFFUSORIUM (n) (n-s---nn2-)
+
 EFFUSUS (a) (aps---mn1-)
     having great (or a certain) extent from one side to the other; 'wide roads'; 'a wide necktie'; 'wide margins'; 'three feet wide'; 'a river two miles broad'; 'broad shoulders'; 'a broad river' (a#02436517)
+
 EFFUTICIUS (a) (aps---mn1-)
+
 EFFUTILIS (a) (aps---cn3i)
+
 EFFUTIO (v) (v1spia--4-)
     to talk foolishly; 'The two women babbled and crooned at the baby' (v#00702751)
     speak (about unimportant matters) rapidly and incessantly (v#00702218)
+
 EFFUTITIUS (a) (aps---mn1-)
+
 EFFUTITUS (a) (aps---mn1-)
+
 EFFUTTIO (v) (v1spia--3-)
     have a lengthy discussion, usually between people of different backgrounds (v#00518297)
     to make melodious sounds; 'The nightingale was singing' (v#00724908)
@@ -4744,10 +5129,14 @@ EFFUTTIO (v) (v1spia--3-)
     reveal information; let the cat out of the bag; 'If you don't oblige me, I'll talk!' (v#00645075)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
     make a whining, ringing, or whistling sound; 'the kettle was singing'; 'the bullet sang past his ear' (v#00707219)
+
 EFFUTUO (v) (v1spia--3-)
     exhaust completely through sexual intercourse (v#L7359192)
+
 EFFUTUTUS (a) (aps---mn1-)
+
 EGELIDO (v) (v1spia--1-)
+
 EGELIDUS (a) (aps---mn1-)
     extended meanings; especially of psychological coldness; without human warmth or emotion; 'a cold unfriendly nod'; 'a cold and unaffectionate person'; 'a cold impersonal manner'; 'cold logic'; 'the concert left me cold' (a#01206050)
     unmoved by feeling; 'he kept his emotionless objectivity and faith in the cause he served'; 'this passionless girl was like an icicle in the sunshine'-Margaret Deland (a#01206410)
@@ -4816,7 +5205,9 @@ EGELIDUS (a) (aps---mn1-)
     unsusceptible to or destitute of or showing no emotion (a#00816043)
     not characterized by emotion; 'a female form in marble--a chilly but ideal medium for depicting abstract virtues'-C.W.Cunningham (a#00816371)
     (informal) very good; 'a bully pulpit'; 'a cool sports car'; 'had a great time at the party'; 'you look simply smashing' (a#01076845)
+
 EGELO (v) (v1spia--1-)
+
 EGENS (n) (n-s---cn3-)
     100 lisente equal 1 loti (n#09850128)
     the psychological feature that arouses an organism to action; the reason for the action; 'we did not understand his motivation'; 'he acted with the best of motives' (n#00013700)
@@ -4841,10 +5232,15 @@ EGENS (n) (n-s---cn3-)
     the state of having little or no money and few or no material possessions (n#10397144)
     a state of extreme poverty or destitution; 'their indigence appalled him'; 'a general state of need exists among the homeless' (n#10397595)
     a person with few or no possessions (n#07487883)
+
 EGENS (a) (aps---an3i)
+
 EGENTIA (n) (n-s---fn1-)
+
 EGENULUS (a) (aps---mn1-)
+
 EGENUM (n) (n-s---nn2-)
+
 EGENUS (a) (aps---mn1-)
     destroyed financially; 'the broken fortunes of the family' (a#00700689)
     having little money or few possessions; 'deplored the gap between rich and poor countries'; 'the proverbial poor artist living in a garret' (a#01951368)
@@ -4852,8 +5248,10 @@ EGENUS (a) (aps---mn1-)
     poor enough to need help from others (a#01951827)
     holding or containing nothing; 'an empty glass'; 'an empty room'; 'full of empty seats'; 'empty hours' (a#01034130)
     completely wanting or lacking; 'writing barren of insight'; 'young recruits destitute of experience'; 'a novel devoid of wit and inventiveness'; 'a life empty of happiness'; 'innocent of literary merit'; 'void of understanding' (a#01034714)
+
 EGENUS (n) (n-s---mn2-)
     the hand that is on the left side of the body; 'jab with your left' (n#04311998)
+
 EGEO (v) (v1spia--2-)
     claim as due or just; 'The bank demanded payment of the loan' (v#00687967)
     ask to be informed of: 'I demand an explanation' (v#00688152)
@@ -4976,16 +5374,22 @@ EGEO (v) (v1spia--2-)
     lay claim to; as of an idea; 'She took credit for the whole idea' (v#00515522)
     fail to attend an event or activity: 'I missed the concert'; 'He missed school for a week' (v#01782539)
     fail to perceive or to catch with the senses or the mind; 'I missed that remark'; 'She missed his point'; 'We lost part of what he said' (v#01456000)
+
 EGERIES (n) (n-s---fn5-)
+
 EGERMINO (v) (v1spia--1-)
+
 EGERO (v) (v1spia--3-)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
     eliminate, as of bodily substances (v#00071198)
+
 EGERSIMON (n) (n-s---nn2-)
+
 EGESTAS (n) (n-s---fn3-)
     the state of having little or no money and few or no material possessions (n#10397144)
     a state of extreme poverty or destitution; 'their indigence appalled him'; 'a general state of need exists among the homeless' (n#10397595)
     anything that is necessary but lacking; 'he had sufficient means to meet his simple needs'; 'I tried to supply his wants' (n#06846731)
+
 EGESTIO (n) (n-s---fn3-)
     the state of being active; 'his sphere of activity'; 'he is out of action' (n#10090167)
     the capital raised by a corporation through the issue of shares entitling holders to partial ownership; 'he owns a controlling share of the company's stock' (n#09599721)
@@ -5008,14 +5412,23 @@ EGESTIO (n) (n-s---fn3-)
     a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong (n#00765298)
     a preset plan of action in team sports; 'the coach drew up the plays for her team' (n#00364173)
     give back (v#01579009)
+
 EGESTIVUS (a) (aps---mn1-)
+
 EGESTOSUS (a) (aps---mn1-)
+
 EGESTUOSUS (a) (aps---mn1-)
+
 EGESTUS (a) (aps---mn1-)
+
 EGESTUS (n) (n-s---mn4-)
+
 EGIGNO (v) (v1spia--3-)
+
 EGITURUS (a) (aps---mn1-)
+
 EGLECOPALA (n) (n-s---fn1-)
+
 EGLOGA (n) (n-s---fn1-)
     None (n#N0001504)
     particularly a section of medium length (n#04824319)
@@ -5046,10 +5459,13 @@ EGLOGA (n) (n-s---fn1-)
     the occupation for which you are paid; 'he is looking for a job'; 'a lot of people are out of work' (n#00383807)
     the fielding position of the player on a baseball team who is stationed between 2nd and 3rd base (n#00465099)
     None (n#N0000485)
+
 EGO (v) (v1spia--3-)
+
 EGOISTA (n) (n-s---fn1-)
     a self-centered person with little regard for others (n#07236018)
     a conceited and self-centered person (n#07236224)
+
 EGOISTICUS (a) (aps---mn1-)
     characteristic of those having an inflated idea of their own importance (a#02024015)
     characteristic of false pride; having an exaggerated sense of self-importance; 'a conceited fool'; 'an attitude of self-conceited arrogance'; 'an egotistical disregard of others'; 'so swollen by victory that he was unfit for normal duty'; 'growing ever more swollen-headed and arbitrary'; 'vain about her clothes' (a#01819704)
@@ -5062,30 +5478,43 @@ EGOISTICUS (a) (aps---mn1-)
     unproductive of success; 'a fruitless search'; 'futile years after her artistic peak'; 'a sleeveless errand'; 'a vain attempt' (a#01795599)
     concerned chiefly or only with yourself; 'Selfish men were...trying to make capital for themselves out of the sacred cause of civil rights'- Maria Weston Chapman (a#02023556)
     that feels envy of another's possessions (a#02023897)
+
 EGRAMINATUS (a) (aps---mn1-)
+
 EGRANATUS (a) (aps---mn1-)
+
 EGREDIOR (v) (v1spid--3i)
     go beyond; 'Their loyalty exceeds their national bonds' (v#01821151)
     be issued or published, as of news in a paper, a book, or a movie; 'Did your latest book appear yet?' 'The new Woody Allen film hasn't come out yet' (v#00296448)
     be or do something to a greater degree; 'her performance surpasses that of any other student I know'; 'She outdoes all other athletes'; 'This exceeds all my expectations' (v#00748500)
     go ashore; 'The passengers disembarked at Southampton' (v#01348051)
+
 EGREGIATUS (n) (n-s---mn4-)
+
 EGREGIE (r) (rp--------)
     in an excellent manner; 'the job had been done excellently' (r#00178443)
+
 EGREGIETAS (n) (n-s---fn3-)
+
 EGREGIUS (a) (aps---mn1-)
     of the highest quality; 'made an excellent speech'; 'the school has excellent teachers'; 'a first-class mind' (a#02232109)
     beyond what is ordinary or usual; highly unusual or exceptional or remarkable; 'extraordinary authority'; 'an extraordinary achievement'; 'her extraordinary beauty'; 'enjoyed extraordinary popularity'; 'an extraordinary capacity for work'; 'an extraordinary session of the legislature' (a#01616002)
+
 EGREGIUS (n) (n-s---mn2-)
+
 EGRESSIO (n) (n-s---fn3-)
     advancing toward a goal; 'persuading him was easy going' or 'the proposal faces tough sledding' (n#00025630)
     a turning aside (of your course or attention or concern): 'a diversion from the main highway'; 'a digression into irrelevant details'; 'a deflection from his goal' (n#00224903)
     a message that departs from the main subject (n#04950917)
     act of departing (n#00029100)
+
 EGRESSUS (n) (n-s---mn4-)
     the point where a stream issues into a larger body of water; 'New York is at the mouth of the Hudson' (n#06728126)
+
 EGRETUS (a) (aps---mn1-)
+
 EGREX (a) (aps---an3-)
+
 EGRITUDO (n) (n-s---fn3-)
     any unwholesome or desperate condition; 'what maladies afflict our nation?' (n#10442586)
     disgust so strong it makes you feel sick (n#05578076)
@@ -5093,9 +5522,13 @@ EGRITUDO (n) (n-s---fn3-)
     the state that precedes vomiting (n#10302574)
     impairment of normal physiological function affecting part or all of an organism (n#10123988)
     an impairment of health or a condition of abnormal functioning (n#10129713)
+
 EGULA (n) (n-s---fn1-)
+
 EGURGITO (v) (v1spia--1-)
+
 EHEU (n) (n-s---nn4-)
+
 EIACULO (v) (v1spia--1-)
     come into existence through birth; 'She was born on a farm' (v#00251991)
     be born or come into existence; 'All these flowers come to life when the rains come' (v#00252195)
@@ -5145,6 +5578,7 @@ EIACULO (v) (v1spia--1-)
     produce buds, branches, or germinate; of plants (v#00249716)
     utter with vibrating vocal chords (v#00644607)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
+
 EIACULOR (v) (v1spid--1-)
     throw out onto a flat surface, as of die; 'Throw a six' (v#00984973)
     make available or free for sale or publication (v#01699581)
@@ -5301,11 +5735,13 @@ EIACULOR (v) (v1spid--1-)
     write all the required information onto a form; 'fill out this questionnaire, please!'; 'make out a form' (v#00690164)
     cause to be confused emotionally (v#01222893)
     lock up in jail (v#01699803)
+
 EICIO (v) (v1spia--3i)
     put out or expel from a place; 'The child was expelled from the classroom' (v#01007120)
     eject the contents of the stomach through the mouth; 'After drinking too much, the students vomited' (v#00053004)
     eliminate, as of bodily substances (v#00071198)
     force to go away; used both with concrete and metaphoric meanings; 'Drive away potential burglars'; 'drive away bad thoughts'; 'dispel doubts' (v#01366372)
+
 EIECTAMENTUM (n) (n-s---nn2-)
     the distinctive form in which a thing is made; 'pottery of this cast was found throughout the region' (n#10026446)
     a violent throw (n#00067444)
@@ -5320,10 +5756,15 @@ EIECTAMENTUM (n) (n-s---nn2-)
     the part of a ship's equipment or cargo that is thrown overboard to lighten the load in a storm (n#02875450)
     the actors in a play (n#06114774)
     the act of throwing a fishing line out over the water by means of a rod and reel (n#00288600)
+
 EIECTATIO (n) (n-s---fn3-)
+
 EIECTATUS (a) (aps---mn1-)
+
 EIECTICIA (n) (n-s---fn1-)
+
 EIECTICIUS (a) (aps---mn1-)
+
 EIECTIO (n) (n-s---fn3-)
     the act of expelling someone (n#00135765)
     the act of excluding someone from society by general consent (n#00135937)
@@ -5361,9 +5802,13 @@ EIECTIO (n) (n-s---fn3-)
     a prediction made by extrapolating from past observations (n#04453784)
     the act of spitting (forcefully expelling saliva) (n#00075659)
     the act of banishing someone (n#00135464)
+
 EIECTITIA (n) (n-s---fn1-)
+
 EIECTITIUS (a) (aps---mn1-)
+
 EIECTIUNCULA (n) (n-s---fn1-)
+
 EIECTO (v) (v1spia--1-)
     wander about aimlessly; 'The gypsies roamed the woods' (v#01284430)
     forbid the public distribution of; as of movies or newspapers (v#01699442)
@@ -5430,9 +5875,13 @@ EIECTO (v) (v1spia--1-)
     put out or expel from a place; 'The child was expelled from the classroom' (v#01007120)
     to put into a state or activity hastily, suddenly, or carelessly; 'Jane threw dinner together', throw the car into reverse' (v#01437776)
     utter with force; utter vehemently; 'hurl insults'; 'throw accusations at someone' (v#00724756)
+
 EIECTORIUS (a) (aps---mn1-)
+
 EIECTURA (n) (n-s---fn1-)
+
 EIECTUS (a) (aps---mn1-)
+
 EIECTUS (n) (n-s---mn4-)
     the act of expelling someone (n#00135765)
     the act of excluding someone from society by general consent (n#00135937)
@@ -5459,7 +5908,9 @@ EIECTUS (n) (n-s---mn4-)
     the act of expelling or projecting or ejecting (n#00074431)
     a prediction made by extrapolating from past observations (n#04453784)
     the act of banishing someone (n#00135464)
+
 EIERATIO (n) (n-s---fn3-)
+
 EIERO (v) (v1spia--1-)
     come to terms; 'After some discussion we finally made up' (v#00519247)
     reject with contempt; 'She spurned his advances' (v#00541445)
@@ -5507,6 +5958,7 @@ EIERO (v) (v1spia--1-)
     accept or undergo, often unwillingly; 'We took a pay cut' (v#00451837)
     present formally (v#01579272)
     accept as inevitable; 'He resigned himself to his fate' (v#00496653)
+
 EIICIO (v) (v1spia--3i)
     utter with force; utter vehemently; 'hurl insults'; 'throw accusations at someone' (v#00724756)
     cause to be in a certain state; cause to be in a certain relation; 'That song put me in awful good humor.' (v#01025850)
@@ -6016,8 +6468,10 @@ EIICIO (v) (v1spia--3i)
     reach in time; 'We barely made the plane' (v#01380463)
     reach a destination, either real or abstract; 'We hit Detroit by noon'; 'The water reached the doorstep'; 'We barely made the plane'; 'I have to hit the MAC machine before the weekend starts' (v#01379952)
     lock up in jail (v#01699803)
+
 EILETON (n) (n-s---nn2-)
     a noncommissioned officer in the army or airforce or marines (n#07184867)
+
 EINLATUS (n) (n-s---mn4-)
     loud cries made while weeping (n#00558177)
     a joke that seems extremely funny (n#05077460)
@@ -6025,12 +6479,15 @@ EINLATUS (n) (n-s---mn4-)
     a high-pitched noise resembling a human cry; 'he ducked at the screechings of shells'; 'he heard the scream of the brakes' (n#05503486)
     sharp piercing cry (n#05330158)
     the process of shedding tears (usually accompanied by sobs or other inarticulate sounds); 'I hate to hear a child crying'; 'she was in tears' (n#00557729)
+
 EIULABILIS (a) (aps---cn3i)
+
 EIULABUNDUS (a) (aps---mn1-)
     no longer inhabited; 'weed-grown yard of an abandoned farmhouse' (a#01258647)
     left desolate or empty; 'an abandoned child'; 'their deserted wives and children'; 'an abandoned shack'; 'deserted villages' (a#00996592)
     free from constraint; 'an abandoned sadness born of grief'- Liam O'Flaherty (a#01262162)
     vocally expressing grief or sorrow or resembling such expression; 'lamenting sinners'; 'wailing mourners'; 'the wailing wind'; 'wailful bagpipes'; 'tangle her desires with wailful sonnets'- Shakespeare (a#01312788)
+
 EIULATIO (n) (n-s---fn3-)
     loud cries made while weeping (n#00558177)
     a mournful poem; a lament for the dead (n#04809253)
@@ -6039,6 +6496,7 @@ EIULATIO (n) (n-s---fn3-)
     a song or hymn of mourning composed or performed as a memorial to a dead person (n#05286621)
     a written statement of the grounds of complaint made to court law asking for the grievance to be redressed (n#05403362)
     the process of shedding tears (usually accompanied by sobs or other inarticulate sounds); 'I hate to hear a child crying'; 'she was in tears' (n#00557729)
+
 EIULATUS (n) (n-s---mn4-)
     loud cries made while weeping (n#00558177)
     a mournful poem; a lament for the dead (n#04809253)
@@ -6047,7 +6505,9 @@ EIULATUS (n) (n-s---mn4-)
     a song or hymn of mourning composed or performed as a memorial to a dead person (n#05286621)
     a written statement of the grounds of complaint made to court law asking for the grievance to be redressed (n#05403362)
     the process of shedding tears (usually accompanied by sobs or other inarticulate sounds); 'I hate to hear a child crying'; 'she was in tears' (n#00557729)
+
 EIULITO (v) (v1spia--1-)
+
 EIULO (v) (v1spia--1-)
     utter words loudly and forcefully; '`Get out of here,' he roared.' (v#00619854)
     feel remorse for; feel sorry for; be contrite about (v#01225879)
@@ -6064,11 +6524,17 @@ EIULO (v) (v1spia--1-)
     act or proceed in a riotous, turbulent, or disorderly way: 'desperadoes from the hills regularly roared in to take over the town'-R.A.Billington (v#01361265)
     laugh unrestrainedly and heartily (v#00020869)
     express grief verbally (v#01229528)
+
 EIULOR (v) (v1spid--1-)
+
 EIUNCESCO (v) (v1spia--3-)
+
 EIUNCIDUS (a) (aps---mn1-)
+
 EIURATIO (n) (n-s---fn3-)
+
 EIURATUS (a) (aps---mn1-)
+
 EIURO (v) (v1spia--1-)
     cause to be in a specified state; 'The inflation left them penniless'; 'He left money on the table for his wife to find' (v#01866915)
     come to terms; 'After some discussion we finally made up' (v#00519247)
@@ -6196,8 +6662,11 @@ EIURO (v) (v1spia--1-)
     move out of; as of a room, a country, a bus, etc. (v#01376117)
     the act of sending off something (n#00034968)
     be sold at a certain price or in a certain way: 'These books sell like hot cakes' (v#01865738)
+
 EIUSCEMODI (r) (rp--------)
+
 EIUSDEMMODI (r) (rp--------)
+
 EIUSMODI (r) (rp--------)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -6209,6 +6678,7 @@ EIUSMODI (r) (rp--------)
     consistent with fact or reality; not false; 'the story is true'; 'it is undesirable to believe a proposition when there is no ground whatever for supposing it true'- B. Russell; 'the true meaning of the statement' (a#02341880)
     conforming to truth; 'I wouldn't have told you this if it weren't so'; 'a truthful statement' (a#02342823)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
+
 EKTHETA (n) (n-s---fn1-)
     a process of linguistic change over a period of time (n#09720031)
     (mining) a horizontal (or nearly horizontal) passageway in a mine; 'they dug a drift parallel with the vein' (n#02602858)
@@ -6228,9 +6698,11 @@ EKTHETA (n) (n-s---fn1-)
     the direction or path along which something moves or along which it lies (n#06390208)
     a porch along the outside of a building (sometimes partly enclosed) (n#03571958)
     a force that moves something along (n#07791222)
+
 ELABOR (v) (v1spid--3-)
     escape potentially unpleasant consequences; get away with a forbidden action; 'She gets away with murder!' 'I couldn't get out from under these responsibilities' (v#00550772)
     fail to experience; 'Fortunately, I missed the hurricane' (v#00550636)
+
 ELABORATIO (n) (n-s---fn3-)
     a notable achievement: 'the book was her finest effort' (n#00021392)
     the process of removing impurities from oil or metals or sugar (n#09745908)
@@ -6247,7 +6719,9 @@ ELABORATIO (n) (n-s---fn3-)
     a series of actions advancing a principle or tending toward a particular end; 'he supported populist campaigns'; 'they worked in the cause of world peace'; 'the team was ready for a drive toward the pennant'; 'the movement to end slavery'; 'contributed to the war effort' (n#00509919)
     (electricity) the act of increasing voltage or power or current (n#00235112)
     a highly developed state; 'they performed with great polish' (n#10374580)
+
 ELABORATUS (a) (aps---mn1-)
+
 ELABORATUS (n) (n-s---mn4-)
     struggling for effect; 'agonistic poses' (a#00075691)
     characterized by toilsome effort to the point of exhaustion; especially physical effort; 'worked their arduous way up the mining valley'; 'a grueling campaign'; 'hard labor'; 'heavy work'; 'heavy going'; 'spent many laborious hours on the project'; 'set a punishing pace' (a#00797350)
@@ -6303,6 +6777,7 @@ ELABORATUS (n) (n-s---mn4-)
     under great stress; 'her voice was strained as she asked the question' (a#02291238)
     unusually great in degree or quantity or number; 'heavy taxes'; 'a heavy fine'; 'heavy casualties'; 'heavy losses'; 'heavy rain'; 'heavy traffic' (a#01141075)
     requiring great physical effort (a#00797119)
+
 ELABORO (v) (v1spia--1-)
     proceed or get along; 'How is she doing in her new job?' 'How are you making out in graduate school?' 'He's come a long way' (v#01785226)
     press, drive, or impel to action; 'He pushed her to finish her doctorate' (v#00519945)
@@ -6543,20 +7018,35 @@ ELABORO (v) (v1spia--1-)
     poke or thrust abruptly; 'he jabbed his finger into her ribs' (v#00838192)
     shape, form, or improve something: 'work stone into tools'; 'process iron' (v#01145518)
     be identical to; be someone or something, as in 'The president of the company is John Smith'; 'This is my house' (v#01784339)
+
 ELACATA (n) (n-s---fn1-)
+
 ELACATENA (n) (n-s---fn1-)
+
 ELACATENES (n) (n-s---mn3-)
+
 ELACTESCO (v) (v1spia--3-)
+
 ELAEEMPORIA (n) (n-s---fn1-)
+
 ELAEOGARUM (n) (n-s---nn2-)
+
 ELAEOMALACHE (n) (n-s---fn1g)
+
 ELAEOMELI (n) (n-s---nn--)
+
 ELAEOMOLOCHE (n) (n-s---fn1g)
+
 ELAEON (n) (n-s---mn3-)
+
 ELAEOTHESIUM (n) (n-s---nn2-)
+
 ELAEUS (n) (n-s---fn3i)
+
 ELAMBO (v) (v1spia--3-)
+
 ELAMENTABILIS (a) (aps---cn3i)
+
 ELANGUENS (a) (aps---an3-)
     weak from exhaustion (a#02314904)
     having or showing vigorous vegetal or animal life; 'flourishing crops'; 'flourishing chicks'; 'a growing boy'; 'fast-growing weeds'; 'a thriving deer population' (a#01122767)
@@ -6580,6 +7070,7 @@ ELANGUENS (a) (aps---an3-)
     hanging down (as from exhaustion or weakness) (a#02288938)
     increasing in size or degree or amount; 'her growing popularity'; 'growing evidence of a world depression'; 'a growing city'; 'growing businesses' (a#02414183)
     depleted of strength or energy; 'tired mothers with crying babies'; 'too tired to eat' (a#02313346)
+
 ELANGUESCO (v) (v1spia--3-)
     move in order to make room for someone for something; 'The park gave way to a supermarket'; '`Move over,' he told the crowd' (v#01261992)
     make slack as by lessening tension or firmness (v#00293010)
@@ -6653,10 +7144,15 @@ ELANGUESCO (v) (v1spia--3-)
     fail to perceive or to catch with the senses or the mind; 'I missed that remark'; 'She missed his point'; 'We lost part of what he said' (v#01456000)
     fail to win; 'We lost the battle but we won the war' (v#00743671)
     grow worse; 'Her condition deteriorated' (v#00062377)
+
 ELANGUIDUS (a) (aps---mn1-)
+
 ELAPHOBOSCON (n) (n-s---nn2-)
+
 ELAPIDATUS (a) (aps---mn1-)
+
 ELAPSIO (n) (n-s---fn3-)
+
 ELAPSUS (n) (n-s---mn2-)
     turning in the opposite direction (n#00222304)
     a break or intermission in the occurrence of something; 'a lapse of three weeks between letters' (n#10970069)
@@ -6668,8 +7164,11 @@ ELAPSUS (n) (n-s---mn2-)
     (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee) (n#09606335)
     returning to a former state (n#00153104)
     a failure to maintain a higher state (n#00040312)
+
 ELAPSUS (a) (aps---mn1-)
+
 ELAQUEO (v) (v1spia--1-)
+
 ELARGIOR (v) (v1spid--4-)
     place into the hands or custody of; 'Turn the files over to me, please'; 'He turned over the prisoner to his lawyers' (v#01526289)
     of medications (v#00055849)
@@ -6688,9 +7187,13 @@ ELARGIOR (v) (v1spid--4-)
     bestow, esp. officially; 'grant a degree'; 'give a divorce'; 'This bill grants us new rights' (v#01583295)
     bring about; 'His two singles gave the team the victory' (v#01120116)
     organize or be responsible for; 'hold a reception,' 'have, throw, or make a party', 'give a course', etc. (v#01185771)
+
 ELARGITIO (n) (n-s---fn3-)
+
 ELARGITOR (n) (n-s---mn3-)
+
 ELASSESCO (v) (v1spia--3-)
+
 ELASTICITAS (n) (n-s---fn3-)
     a light springing movement upwards or forwards (n#00076563)
     a metal device that returns to its shape or position when pushed or pulled or pressed; 'the spring was broken' (n#03390661)
@@ -6699,6 +7202,7 @@ ELASTICITAS (n) (n-s---fn3-)
     the tendency of a body to return to its original shape after it has been stretched or compressed (n#03920674)
     the elasticity of something that can be stretched and returns to its original length (n#03921242)
     a point at which water issues forth (n#06275985)
+
 ELASTICUS (a) (aps---mn1-)
     able to flex; able to bend easily; 'slim flexible birches' (a#00969783)
     capable of being bent or flexed or twisted without breaking; 'a flexible wire'; 'a pliant young tree' (a#00969996)
@@ -6721,6 +7225,7 @@ ELASTICUS (a) (aps---mn1-)
     (physics) having viscous as well as elastic properties (a#00805460)
     able to adjust readily to different conditions; 'an adaptable person'; 'a flexible personality'; 'an elastic clause in a contract' (a#00975648)
     susceptible to being led or directed; 'fictile masses of people ripe for propaganda' (a#02250842)
+
 ELATA (n) (n-s---fn1-)
     the application of a liquid in the form of small particles ejected from a sprayer (n#00460150)
     the dispersion of fungicides or insecticides or fertilizer on growing crops (often from a low-flying aircraft) (n#00237202)
@@ -6731,12 +7236,15 @@ ELATA (n) (n-s---fn1-)
     a jet of vapor (n#05537972)
     a worker who applies spray to a surface (n#07603125)
     a single branch or shoot bearing flowers and foliage (n#03390174)
+
 ELATE (n) (n-s---fn1g)
+
 ELATE (r) (rp--------)
     in a lofty manner; 'she bore herself loftily' (r#00387265)
     in a haughty manner; 'he peered haughtily down his nose' (r#00170787)
     in an insolent manner; 'he had replied insolently to his superiors' (r#00352429)
     in a proud manner; 'he walked proudly into town' (r#00186262)
+
 ELATER (n) (n-s---mn2r)
     a light springing movement upwards or forwards (n#00076563)
     a metal device that returns to its shape or position when pushed or pulled or pressed; 'the spring was broken' (n#03390661)
@@ -6760,6 +7268,7 @@ ELATER (n) (n-s---mn2r)
     a plumbing fixture that provides a flow of water (n#02717804)
     an artificially produced jet of water (n#02717915)
     a structure from which an artificially produced jet of water arises (n#02718013)
+
 ELATERIUM (n) (n-s---nn2-)
     any of several liquids of the body (n#04196137)
     a wild and uninhabited area (n#06391772)
@@ -6771,7 +7280,9 @@ ELATERIUM (n) (n-s---nn2-)
     punishment for one's actions; 'you have to face the music'; 'take your medicine' (n#00755322)
     cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons (n#05756703)
     something that treats or prevents or alleviates the symptoms of disease (n#02981307)
+
 ELATINE (n) (n-s---fn1g)
+
 ELATIO (n) (n-s---fn3-)
     the act of transporting something from one location to another (n#00204553)
     the event of something being raised (n#05488391)
@@ -6780,10 +7291,15 @@ ELATIO (n) (n-s---fn3-)
     a state of being carried away by overwhelming emotion: 'listening to sweet music in a perfect rapture'- Charles Dickens (n#10075760)
     the act of raising something; 'he responded with a lift of his eyebrow'; 'fireman learn several different raises for getting ladders up' (n#00074216)
     the rising of something; 'the coulds' uplifting revealed the blue of a summer sky' (n#05492038)
+
 ELATITES (n) (n-s---mn1g)
+
 ELATIVUS (a) (aps---mn1-)
+
 ELATO (v) (v1spia--1-)
+
 ELATORIE (r) (rp--------)
+
 ELATRO (v) (v1spia--1-)
     articulate; either verbally or with a cry, shout, or noise; 'She expressed her anger'; 'He uttered a curse' (v#00636716)
     remove the bark of a tree (v#00861951)
@@ -6794,6 +7310,7 @@ ELATRO (v) (v1spia--1-)
     tan (a skin) with bark tannins (v#00356275)
     put into circulation; of counterfeit currency (v#01396547)
     express audibly; utter sounds (not necessarily words); 'She let out a big heavy sigh'; 'He uttered strange sounds that nobody could understand' (v#00665595)
+
 ELATUS (a) (aps---mn1-)
     upright in position or posture; 'an erect stature'; 'erect flower stalks'; 'for a dog, an erect tail indicates aggression'; 'a column still vertical amid the ruins'; 'he sat bolt upright' (a#01184641)
     depending on or incidental to what is original or primary; 'a secondary infection' (a#01786141)
@@ -6931,12 +7448,19 @@ ELATUS (a) (aps---mn1-)
     of second rank or importance or value; not direct or immediate; 'the stone will be hauled to a secondary crusher'; 'a secondary source'; 'a secondary issue'; 'secondary streams' (a#01782330)
     increased especially to abnormal levels; 'the raised prices frightened away customers'; 'inflated wages'; 'an inflated economy' (a#00838268)
     set at a sharp or high angle or slant; 'a high-pitched roof' (a#01183917)
+
 ELAUDO (v) (v1spia--1-)
+
 ELAUTUS (a) (aps---mn1-)
+
 ELAVO (v) (v1spia--1-)
+
 ELBIDUS (a) (aps---mn1-)
+
 ELECEBRA (n) (n-s---fn1-)
+
 ELECTA (n) (n-p---nn2-)
+
 ELECTA (n) (n-s---fn1-)
     the name for Korea as a Japanese province (1910-1945) (n#06540738)
     a prediction of the course of a disease (n#00099666)
@@ -6949,6 +7473,7 @@ ELECTA (n) (n-s---fn1-)
     one who is the object of choice; who is given preference; 'she was Mama's chosen' (n#07155954)
     belief about (or mental picture of) the future (n#04564355)
     a politician who is running for public office (n#07136302)
+
 ELECTARIUM (n) (n-s---nn2-)
     (informal) a spokesperson (as a lawyer) (n#07421842)
     an adhesive made from water and flour or starch; used on paper and paperboard (n#10541519)
@@ -6965,8 +7490,11 @@ ELECTARIUM (n) (n-s---nn2-)
     a person conceived as a consumer of food; 'he has four mouths to feed' (n#07421720)
     the opening through which food is taken in and vocalizations emerge; 'he stuffed his mouth with candy' (n#04115581)
     something that treats or prevents or alleviates the symptoms of disease (n#02981307)
+
 ELECTE (r) (rp--------)
+
 ELECTILIS (a) (aps---cn3i)
+
 ELECTIO (n) (n-s---fn3-)
     a passage selected from a larger work; 'he presented exerpts from William James' philosophical writings' (n#04824539)
     the trait of resoluteness as evidenced by firmness of character or purpose; 'a man of unusual decisiveness' (n#03810995)
@@ -7004,23 +7532,31 @@ ELECTIO (n) (n-s---fn3-)
     a natural process resulting in the evolution of organisms best adapted to the environment (n#09742697)
     a position or opinion or judgment reached after consideration: 'a decision unfavorable to the opposition'; 'his conclusion took the evidence into accout'; 'satisfied with the panel's determination' (n#04496054)
     the trait of being resolute; firmness of purpose; 'his resoluteness carried him through the battle'; 'it was his unshakeable resolution to finish the work' (n#03809479)
+
 ELECTISSIMUS (n) (n-s---mn2-)
     a group or class of persons enjoying superior intellectual or social or economic status (n#06205356)
+
 ELECTIVE (r) (rp--------)
+
 ELECTIVUS (a) (aps---mn1-)
     subject to popular election; 'elective official' (a#00806061)
     relating to or composed of electors; 'electoral college' (a#00806210)
     filled by popular election rather than by appointment (a#00806322)
     possible but not necessary; left to personal choice (a#00807238)
     not compulsory; 'elective surgery'; 'an elective course of study' (a#00807416)
+
 ELECTO (v) (v1spia--1-)
+
 ELECTOR (n) (n-s---mn3-)
     a citizen who has a legal right to vote (n#07670539)
+
 ELECTREUS (a) (aps---mn1-)
+
 ELECTRICITAS (n) (n-s---fn3-)
     keen and shared excitement; 'the stage crackled with electricity whenever she was on it' (n#05586574)
     a form of energy associated with moving electrons and protons (n#07793035)
     energy made available by the flow of electric charge through a conductor (n#07793357)
+
 ELECTRICUS (a) (aps---mn1-)
     creating or arousing excitement; 'an exciting account of her trip' (a#00873571)
     affected by emotion as if by electricity; thrilling; 'gave an electric reading of the play'; 'the new leader had a galvanic effect on morale' (a#00874188)
@@ -7029,10 +7565,13 @@ ELECTRICUS (a) (aps---mn1-)
     (electricity) pertaining to or producing electric current by chemical action; 'a galvanic cell'; 'a voltaic (or galvanic) couple' (a#02622668)
     in or of a state of physical or nervous tension (a#02290045)
     (of a situation) exceptionally tense; 'an atmosphere electric with suspicion' (a#02290994)
+
 ELECTRIFER (a) (aps---mn1r)
+
 ELECTRIFICATIO (n) (n-s---fn3-)
     the act of providing electricity; 'the electrification of rural Tennessee' (n#00609704)
     the activity of thrilling or markedly exciting some person or group (n#00678057)
+
 ELECTRIFICINA (n) (n-s---fn1-)
     a very luminous meteor (sometimes exploding) (n#06759482)
     the luminous center of a nuclear explosion (n#06759590)
@@ -7041,6 +7580,7 @@ ELECTRIFICINA (n) (n-s---fn1-)
     an electrical generating station (n#03168190)
     someone whose career progresses rapidly (n#07294789)
     a team considered to be the best of its class (n#06023299)
+
 ELECTRIFICO (v) (v1spia--1-)
     send cables, wires, or telegrams (v#00681108)
     provide with electrical circuits, as of a house or a car (v#01608225)
@@ -7048,10 +7588,13 @@ ELECTRIFICO (v) (v1spia--1-)
     charge with electricity, as of a conductor (v#00351544)
     fasten with wire; 'The columns were wired to the beams for support' (v#01100928)
     string on a wire, as of beads (v#01101183)
+
 ELECTRINUS (a) (aps---mn1-)
+
 ELECTRISATIO (n) (n-s---fn3-)
     the act of providing electricity; 'the electrification of rural Tennessee' (n#00609704)
     the activity of thrilling or markedly exciting some person or group (n#00678057)
+
 ELECTRISO (v) (v1spia--1-)
     to cause or order to be taken, directed, or transmitted to another place: 'He had sent the dispatches downtown to the proper people and had slept.' (v#00985091)
     give a point to; 'The candles are tapered' (v#00272798)
@@ -7170,22 +7713,32 @@ ELECTRISO (v) (v1spia--1-)
     act as a stimulant; 'The book stimulated her imagination' (v#00350457)
     furnish or contribute; 'She committed herself to the work of God'; 'give one's talents to a good cause' (v#00601722)
     to make a rush at or sudden attack upon, as in battle: 'he saw Jess charging at him with a pitchfork.' (v#00760988)
+
 ELECTRIX (n) (n-s---fn3-)
+
 ELECTROCHEMIA (n) (n-s---fn1-)
     branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions (n#04641276)
+
 ELECTROCHEMICUS (a) (aps---mn1-)
+
 ELECTRODA (n) (n-s---fn1-)
     a conductor used to make electrical contact with some nonmetallic part of a circuit (n#02630022)
+
 ELECTRODUS (n) (n-s---mn2-)
     a conductor used to make electrical contact with some nonmetallic part of a circuit (n#02630022)
+
 ELECTROLYTICUS (a) (aps---mn1-)
+
 ELECTROLYTUM (n) (n-s---nn2-)
     a solution that conducts electricity (n#10452627)
+
 ELECTROMAGNETICUS (a) (aps---mn1-)
     pertaining to or exhibiting magnetism produced by electric charge in motion; 'electromagnetic energy' (a#02700840)
+
 ELECTROMAGNETISMUS (n) (n-s---mn2-)
     the branch of physics concerned with electromagnetic phenomena (n#04644561)
     magnetism produced by an electric current; 'electromagnetism was discovered when it was observed that a copper wire carrying an electric current can magnetize pieces of iron or steel near it' (n#07815796)
+
 ELECTROMETRUM (n) (n-s---nn2-)
     keen and shared excitement; 'the stage crackled with electricity whenever she was on it' (n#05586574)
     rhythm as given by division into parts of equal time (n#03900085)
@@ -7194,26 +7747,37 @@ ELECTROMETRUM (n) (n-s---nn2-)
     energy made available by the flow of electric charge through a conductor (n#07793357)
     the basic unit of length adopted under the System International d'Unites (approximately 1.094 yards) (n#09822324)
     (prosody) the accent in a metrical foot of verse (n#05307231)
+
 ELECTRONICA (n) (n-s---fn1-)
+
 ELECTRONICUS (a) (aps---mn1-)
     of or concerned with electrons; 'electronic energy' (a#02560936)
     of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons; 'electronic devices' (a#02560732)
+
 ELECTROSCOPIUM (n) (n-s---nn2-)
     detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign (n#02634654)
+
 ELECTROSTATICUS (a) (aps---mn1-)
     concerned with or producing or caused by static electricity; 'an electrostatic generator produces high-voltage static electricity' (a#02561172)
+
 ELECTROTECHNICA (n) (n-s---fn1-)
+
 ELECTROTECHNICUS (n) (n-s---mn2-)
     the position of a player on a football team who is stationed on the line of scrimmage (n#00466741)
     one of the players on the line of scrimmage (n#07375445)
     the surveyor who marks positions with a range pole (n#07375614)
     a person who installs or repairs electrical or telephone lines (n#07237560)
     the official (in tennis or soccer) who watches the lines (n#07375956)
+
 ELECTROTHERAPIA (n) (n-s---fn1-)
+
 ELECTRUM (n) (n-s---nn2-)
     a hard yellowish to brownish translucent fossil resin; used for jewelry (n#10685974)
+
 ELECTRUS (n) (n-s---mn2-)
+
 ELECTRUS (a) (aps---mn1-)
+
 ELECTUARIUM (n) (n-s---nn2-)
     (informal) a spokesperson (as a lawyer) (n#07421842)
     an adhesive made from water and flour or starch; used on paper and paperboard (n#10541519)
@@ -7230,12 +7794,15 @@ ELECTUARIUM (n) (n-s---nn2-)
     a person conceived as a consumer of food; 'he has four mouths to feed' (n#07421720)
     the opening through which food is taken in and vocalizations emerge; 'he stuffed his mouth with candy' (n#04115581)
     something that treats or prevents or alleviates the symptoms of disease (n#02981307)
+
 ELECTUM (n) (n-s---nn2-)
     the person or thing chosen or selected; 'he was my pick for mayor' (n#04462889)
     the act of choosing or selecting; 'your choice of colors was unfortunate'; 'you can take your pick' (n#00104850)
     an alternative action; 'what option did I have?' or 'there no other alternative' or 'my only choice is to refuse' (n#04463475)
+
 ELECTUS (n) (n-s---mn4-)
     the act of choosing or selecting; 'your choice of colors was unfortunate'; 'you can take your pick' (n#00104850)
+
 ELECTUS (a) (aps---mn1-)
     chosen in preference to another (a#02047720)
     preferred above all others; 'the chosen few'; 'her chosen abode' (a#02047878)
@@ -7243,10 +7810,14 @@ ELECTUS (a) (aps---mn1-)
     selected or chosen for special qualifications; 'the blue-ribbon event of the season' (a#02231337)
     of superior grade; 'choice wines'; 'fine wines' 'prime beef'; 'prize carnations'; 'quality paper'; 'select peaches' (a#02231896)
     appealing to refined taste; 'choice wine' (a#02282648)
+
 ELEEMOSYNA (n) (n-s---fn1-)
     voluntary contributions to aid the poor (n#00706785)
+
 ELEEMOSYNAE (n) (n-p---fn1-)
+
 ELEEMOSYNARIUS (a) (aps---mn1-)
+
 ELEFANTUS (n) (n-s---mn2-)
     a living organism characterized by voluntary movement (n#00008019)
     a special kind of domesticated animals within a species; 'he experimented on a particular breed of white rats'; 'he created a new variety of sheep' (n#06037015)
@@ -7275,7 +7846,9 @@ ELEFANTUS (n) (n-s---mn2-)
     the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874 (n#05150020)
     a human being; `wight' is an archaic term (n#07192170)
     a person who is used to perform unpleasant or dishonest tasks for someone else (n#07192274)
+
 ELEGANS (a) (aps---an3i)
+
 ELEGANTER (r) (rp--------)
     in a correct manner; 'he guessed right' (r#00200650)
     in a delicate manner; 'finely shaped features'; 'her fine drawn body' (r#00099254)
@@ -7305,7 +7878,9 @@ ELEGANTER (r) (rp--------)
     in a complete and thorough manner; 'he was soundly defeated'; (`good' is used informally for `thoroughly' as in 'we beat him good') (r#00055611)
     (informal) exactly; 'he fell flop on his face' (r#00056236)
     an interjection expressing agreement (r#00146482)
+
 ELEGANTES (n) (n-p---mn3i)
+
 ELEGANTIA (n) (n-s---fn1-)
     a discrimination made between things as different; 'it is necessary to make a distinction between love and infatuation' (n#04434776)
     (accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets) (n#09598982)
@@ -7442,6 +8017,7 @@ ELEGANTIA (n) (n-s---fn1-)
     ability to make good judgments (n#04348023)
     smallness of stature (n#03983249)
     pleasant palatability (n#03902647)
+
 ELEGANTIUS (a) (aps----n1-)
     taking heed; giving close and thoughtful attention; 'heedful of the warnings'; 'so heedful a writer'; 'heedful of what they were doing' (a#01145007)
     full of or exhibiting respect; 'respectful behavior'; 'a respectful glance' (a#01921872)
@@ -7471,6 +8047,7 @@ ELEGANTIUS (a) (aps----n1-)
     having or showing or requiring special skill; 'only the most skilled gymnasts make an Olympic team'; 'a skilled surgeon has many years of training and experience'; 'a skilled reconstruction of her damaged elbow'; 'a skilled trade' (a#02120292)
     marked by great skill especially in meticulous technique; 'a surgeon's delicate touch' (a#02122114)
     (of metal or glass) not annealed and consequently easily cracked or fractured (a#01459801)
+
 ELEGATUS (n) (n-s---mn2-)
 ELEGEIA (n) (n-s---fn1-)
     a mournful poem; a lament for the dead (n#04809253)

@@ -1,20 +1,27 @@
 Latin WordNet 2.0
 Lemmas - T
 
+
 TABACARIUS (a) (aps---mn1-)
+
 TABACINUS (a) (aps---mn1-)
     of or relating to tobacco (a#L89342)
+
 TABACISMUS (n) (n-s---mn2-)
     leaves of the tobacco plant dried and prepared for smoking or ingestion (n#03510496)
     being abnormally dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs) (n#10124557)
     aromatic annual or perennial herbs and shrubs (n#09205053)
     an abnormally strong craving (n#05565534)
+
 TABACUM (n) (n-s---nn2-)
     leaves of the tobacco plant dried and prepared for smoking or ingestion (n#03510496)
     aromatic annual or perennial herbs and shrubs (n#09205053)
+
 TABANUS (n) (n-s---mn2-)
+
 TABEFACIO (v) (v1spia--3i)
     reduce from a solid to a liquid state, usually by heating; 'melt butter'; 'melt down gold' (v#00310395)
+
 TABEFACTUS (a) (aps---mn1-)
     changed from a solid to a liquid state; 'rivers filled to overflowing by melted snow' (a#01444059)
     physically and forcibly separated into pieces or cracked or split; or legally or emotionally destroyed; 'a broken mirror'; 'a broken tooth'; 'a broken leg'; 'his neck is broken'; 'children from broken homes'; 'a broken marriage'; 'a broken heart' (a#00283316)
@@ -31,7 +38,9 @@ TABEFACTUS (a) (aps---mn1-)
     filled or brimming with tears; 'swimming eyes'; 'watery eyes'; 'sorrow made the eyes of many grow liquid' (a#02354361)
     yielding; lacking any hint of hardness; 'the liquid stillness of the night enveloping him'; 'the liquid brown eyes of a spaniel' (a#01109379)
     smooth and flowing in quality; entirely free of harshness; 'the liquid song of a robin' (a#01443115)
+
 TABEFIO (v) (v1spia--3-)
+
 TABELLA (n) (n-s---fn1-)
     an artistic composition made by applying paints to a surface; 'a small painting by Picasso'; 'he bought the painting as an investment'; 'his pictures hang in the Louvre' (n#03079051)
     a strictly literal interpretation (as distinct from the intention); 'he followed instructions to the letter'; 'he obeyed the letter of the law' (n#05362432)
@@ -40,10 +49,12 @@ TABELLA (n) (n-s---fn1-)
     writing that provides information (especially information of an official nature) (n#04859637)
     the conventional characters of the alphabet used to represent speech; 'his grandmother taught him his letters' (n#05115901)
     a written account of ownership or obligation (n#09653388)
+
 TABELLANIO (n) (n-s---mn3-)
     informal terms for journalists (n#07553834)
     someone legally empowered to witness signatures and certify a document's validity and to take depositions (n#07435591)
     someone employed to make written copies of documents and manuscripts (n#07183865)
+
 TABELLARIUS (n) (n-s---mn2-)
     an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system: 'spare components for cars'; 'a component or constituent element of a system' (n#02479780)
     something determined in relation to something that includes it; 'he wanted to feel a part of something bigger than himself'; 'I read a portion of the manuscript'; 'the smaller component is hard to reach' (n#09945970)
@@ -66,11 +77,13 @@ TABELLARIUS (n) (n-s---mn2-)
     an abstract part of something: 'jealousy was a component of his character'; 'two constituents of a musical composition are melody and harmony'; 'the grammatical elements of a sentence'; 'a key factor in her success'; 'humor: an effective ingredient of a speech' (n#04515709)
     any of the numbers (or symbols) that form a product when multiplied together (n#09767402)
     food that is a component of a mixture in cooking (n#05842639)
+
 TABELLARIUS (a) (aps---mn1-)
     not absolute or complete; 'a relative stranger' (a#00007066)
     studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills); 'the college of arts and sciences' (n#04677276)
     referring or directing attention to; 'as to what we have discussed...'; 'in relation to your inquiry...'; 'income vis-a-vis expenditures' (a#01903556)
     having a bearing on or connection with the subject at issue; 'the scientist corresponds with colleagues in order to learn about matters relevant to her own research' (a#01905215)
+
 TABELLIO (n) (n-s---mn3-)
     a salesperson in a store (n#07543626)
     a United Nations agency to coordinate international health activities and to help governments improve health services (n#06163090)
@@ -78,6 +91,7 @@ TABELLIO (n) (n-s---mn3-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
     an employee who performs clerical work (e.g., keeps records or accounts) (n#07160596)
+
 TABEO (v) (v1spia--2-)
     have a personal or business relationship with someone; 'have a postdoc'; 'have an assistant'; 'have a lover' (v#01620370)
     lose its distinct outline or shape; 'Hundreds of actors were melting into the scene' (v#00274765)
@@ -252,6 +266,7 @@ TABEO (v) (v1spia--2-)
     free of obstruction by blowing air through: 'blow one's nose' (v#00024413)
     lose vigor, health, or flesh, as through grief; 'After her husband died, she just pined away' (v#00270369)
     visit for entertainment; 'take in the sights' (v#01698727)
+
 TABERNA (n) (n-s---fn1-)
     small establishment where handcrafts or manufacturing are done (n#03632186)
     temporary military housing (n#02842105)
@@ -259,12 +274,18 @@ TABERNA (n) (n-s---fn1-)
     small crude dwelling (n#02839632)
     a building with a bar that is licensed to sell alcoholic drinks (n#03474078)
     a hotel for travelers (n#02835429)
+
 TABERNACLARIUS (n) (n-s---mn2-)
+
 TABERNACULARIUS (n) (n-s---mn2-)
+
 TABERNACULUM (n) (n-s---nn2-)
     a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs); 'he pitched his tent near the creek' (n#03486655)
+
 TABERNARIA (n) (n-s---fn1-)
+
 TABERNARII (n) (n-p---mn2-)
+
 TABERNARIUS (n) (n-s---mn2-)
     the activities involved in selling commodities directly to consumers (n#00723570)
     someone who sells illegal drugs (n#07513476)
@@ -273,21 +294,29 @@ TABERNARIUS (n) (n-s---mn2-)
     someone who travels about selling his wares (n#07465360)
     a small carriage in which a baby or child is pushed around (n#02230875)
     a sandal attached to the foot by a thong over the toes (n#03191368)
+
 TABERNARIUS (a) (aps---mn1-)
+
 TABERNOLA (n) (n-s---fn1-)
+
 TABERNULA (n) (n-s---fn1-)
+
 TABES (n) (n-s---fn3i)
     the organic phenomenon of rotting (n#07789164)
     decaying caused by bacterial or fungal action (n#09734649)
     decay usually accompanied by an offensive odor (n#10440982)
+
 TABESCO (v) (v1spia--3-)
     become smaller or lose substance; 'Her savings dwindled down' (v#00182381)
     reduce from a solid to a liquid state, usually by heating; 'melt butter'; 'melt down gold' (v#00310395)
+
 TABIDOSUS (a) (aps---mn1-)
+
 TABIDULUS (a) (aps---mn1-)
     in an extreme degree; 'intense heat'; 'intense anxiety,'; 'intense desire'; 'intense emotion'; 'the skunk's intense acrid odor'; 'intense pain'; 'enemy fire was intense' (a#01447403)
     so strong as to be irresistible; 'an overpowering need for solitude'; 'the temptation to despair may become overwhelming'; 'an overwhelming majority' (a#01917639)
     very intense; 'politics is his consuming passion'; 'overwhelming joy' (a#01448767)
+
 TABIDUS (a) (aps---mn1-)
     showing the wearing effects of overwork or care or suffering; 'looking careworn as she bent over her mending'; 'her face was drawn and haggard from sleeplessness'; 'that raddled but still noble face'; 'shocked to see the worn look of his handsome young face'- Charles Dickens (a#02314539)
     soft and sticky (a#00055466)
@@ -327,32 +356,48 @@ TABIDUS (a) (aps---mn1-)
     damaged by decay; hence unsound and useless; 'rotten floor boards'; 'rotted beams'; 'a decayed foundation' (a#02165733)
     infested with lice; 'burned their lousy clothes' (a#00393207)
     sounding as if the nose were pinched; 'a whining nasal voice' (a#01162667)
+
 TABIFICABILIS (a) (aps---cn3i)
+
 TABIFICATIO (n) (n-s---fn3-)
+
 TABIFICO (v) (v1spia--1-)
+
 TABIFICUS (a) (aps---mn1-)
     not frozen; 'unfrozen ground' (a#01027213)
     becoming liquid (a#01027508)
+
 TABIFLUUS (a) (aps---mn1-)
+
 TABIOSUS (a) (aps---mn1-)
+
 TABITUDO (n) (n-s---fn3-)
     any weakening or degeneration (especially through lack of use) (n#05455221)
     a decrease in size of an organ caused by disease or disuse (n#10306568)
+
 TABLINUM (n) (n-s---nn2-)
     usually paved outdoor area adjoining a residence (n#03096419)
     contains historical records and documents (n#02206789)
+
 TABLISSO (v) (v1spia--1-)
+
 TABLISTA (n) (n-s---mn1-)
+
 TABOLA (n) (n-s---fn1-)
+
 TABULA (n) (n-s---fn1-)
     an artistic composition made by applying paints to a surface; 'a small painting by Picasso'; 'he bought the painting as an investment'; 'his pictures hang in the Louvre' (n#03079051)
     a legal document declaring a person's wishes regarding the disposal of their property when they die (n#04912311)
     a database containing an ordered array of items (names or topics) (n#04866394)
     an insulated panel containing switches and dials and meters for controlling electrical devices; 'he checked the instrument panel'; 'suddenly the board lit up like a Christmas tree' (n#02493245)
     a stout length of sawn timber; made in a wide variety of sizes and used for many purposes (n#10836071)
+
 TABULAMENTUM (n) (n-s---nn2-)
+
 TABULARIA (n) (n-p---nn3i)
+
 TABULARIS (a) (aps---cn3i)
+
 TABULARIUM (n) (n-s---nn2-)
     a publication containing a variety of works (n#04945654)
     a device (as a sliding plate) for regulating the flow of air into a furnace or other heating device (n#03226167)
@@ -367,17 +412,24 @@ TABULARIUM (n) (n-s---nn2-)
     request for a sum of money (as in church) (n#04889243)
     the timbre characteristic of a certain range and manner of production of the human voice (n#03993852)
     a place where things can be deposited for safekeeping (n#02556263)
+
 TABULARIUS (a) (aps---mn1-)
+
 TABULARIUS (n) (n-s---mn2-)
+
 TABULATIM (r) (rp--------)
+
 TABULATIO (n) (n-s---fn3-)
     a structure of boards (n#02303495)
+
 TABULATUM (n) (n-s---nn2-)
     thin structure composed of a single thickness of cells (n#00988305)
     a room or set of rooms comprising a single level of a multi-level building; 'what level is the office on?' (n#02700186)
     a relatively thin sheetlike expanse or region lying over or under another (n#06335649)
+
 TABULATUS (a) (aps---mn1-)
     provided with a floor (a#01159120)
+
 TABULINUM (n) (n-s---nn2-)
     a general tendency as of opinion: 'not openly liberal but that is the tendency of the book' (n#04698745)
     a line of text serving to indicate what the passage below it is about; 'the heading seemed to have little to do with the text' (n#04783153)
@@ -404,7 +456,9 @@ TABULINUM (n) (n-s---nn2-)
     spectators at a golf or tennis match (n#06103604)
     None (n#N0001475)
     a force that moves something along (n#07791222)
+
 TABULO (v) (v1spia--1-)
+
 TABUM (n) (n-s---nn2-)
     what a communication that is about something is about (n#04949838)
     the subject matter of a conversation or discussion; 'he didn't want to discuss that subject'; 'it was a very sensitive topic'; 'his letters were always on the theme of love' (n#04950638)
@@ -495,24 +549,37 @@ TABUM (n) (n-s---nn2-)
     an angry disturbance; 'he didn't want to make a fuss'; 'they had labor trouble'; 'a spot of bother' (n#05489772)
     something made by weaving or felting or knitting or crocheting natural or synthetic fibers (n#02656657)
     one of a series published periodically; 'she found an old issue of the magazine in her dentist's waitingroom' (n#04948541)
+
 TABUS (n) (n-s---mn2-)
+
 TACEDUM (n) (n-s---nn2-)
+
 TACENDA (n) (n-p---nn2-)
+
 TACENDA (n) (n-s---fn1-)
     something that should remain hidden from others (especially information that is not to be passed on); 'the combination to the safe was a secret'; 'he tried to keep his drinking a secret' (n#05003611)
+
 TACEO (v) (v1spia--2-)
     become quiet or quieter; 'The audience fell silent when the speaker entered' (v#01499743)
     refuse to talk or stop talking; fall silent; 'The children shut up when their father approached' (v#00704873)
+
 TACHOMETRUM (n) (n-s---nn2-)
     an instrument for indicating speed of rotation (n#03464203)
+
 TACIBUNDUS (a) (aps---mn1-)
+
 TACITE (r) (rp--------)
     in a tacit manner; by unexpressed agreement; 'they are tactily expected to work 10 hours a day' (r#00467148)
     without speaking; 'he sat mutely next to her' (r#00109581)
+
 TACITO (r) (rp--------)
+
 TACITULUS (a) (aps---mn1-)
+
 TACITUM (n) (n-s---nn2-)
+
 TACITURIO (v) (v1spia--3-)
+
 TACITURNITAS (n) (n-s---fn3-)
     nel linguaggio religioso, stato di beatitudine e di abbandono a Dio (n#W0021161)
     a refusal to speak when expected; 'his silence about my contribution was surprising' (n#03667153)
@@ -550,6 +617,7 @@ TACITURNITAS (n) (n-s---fn3-)
     refuse to talk or stop talking; fall silent; 'The children shut up when their father approached' (v#00704873)
     a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong (n#00765298)
     a preset plan of action in team sports; 'the coach drew up the plays for her team' (n#00364173)
+
 TACITURNUS (a) (aps---mn1-)
     not active physically or mentally; 'illness forced him to live an inactive life'; 'dreamy and inactive by nature' (a#00034359)
     habitually reserved and uncommunicative (a#02271412)
@@ -633,7 +701,9 @@ TACITURNUS (a) (aps---mn1-)
     not active or moving; 'a static village community and a completely undynamic type of agriculture'; 'static feudal societies' (a#00771654)
     walking on the tips of ones's toes so as to make no noise; 'moving with tiptoe steps' (a#01850228)
     not sparkling; 'a still wine'; 'still mineral water' (a#02167084)
+
 TACITURUS (a) (aps---mn1-)
+
 TACITUS (a) (aps---mn1-)
     not affirmed or mentioned or declared (a#00653721)
     implied though not directly expressed; inherent in the nature of something; 'an implicit agreement not to raise the subject'; 'there was implicit criticism in his voice'; 'anger was implicit in the argument'; 'the oak is implicit in the acorn' (a#00894125)
@@ -650,18 +720,25 @@ TACITUS (a) (aps---mn1-)
     marked by absence of sound; 'a silent house'; 'soundless footsteps on the grass'; 'the night was still' (a#01849954)
     hidden from general view or use; 'a privy place to rest and think'; 'a secluded romantic spot'; 'a secret garden' (a#01789953)
     not openly expressed; 'a sneaking suspicion' (a#02013058)
+
 TACTILIS (a) (aps---cn3i)
+
 TACTIM (r) (rp--------)
+
 TACTIO (n) (n-s---fn3-)
     the event of something coming in contact with the body; 'he longed for the touch of her hand'; 'the cooling touch of the night air' (n#05514913)
     the faculty of perceiving (via the skin) pressure or heat or pain (n#04420241)
     the sensation produced by pressure receptors in the skin; 'she likes the touch of silk on her skin'; 'the surface had a greasy feeling' (n#04420606)
     the act of touching physically; 'her fingers came in contact with the light switch' (n#00080122)
     the faculty of touch; 'only sight and touch enable us to locate objects in the space around us' (n#04373543)
+
 TACTOR (n) (n-s---mn3-)
+
 TACTUS (a) (aps---mn1-)
+
 TACTUS (n) (n-s---mn4-)
     a communicative interaction; 'the pilot made contact with the base'; 'he got in touch with his colleagues' (n#05432221)
+
 TAEDA (n) (n-s---fn1-)
     tall-stalked very woolly mullein with densely packed yellow flowers; ancient Greeks and Romans dipped the stalks in tallow for funeral torches (n#09187249)
     a light carried in the hand; consists of some flammable substance (n#03520488)
@@ -669,6 +746,7 @@ TAEDA (n) (n-s---fn1-)
     straight-grained durable and often resinous white to yellowish timber of any of numerous trees of the genus Pinus (n#07926500)
     a burner that produces a hot flame (n#02301715)
     a small portable battery-powered electric lamp (n#02695433)
+
 TAEDEO (v) (v1spia--2-)
     lose strength or effectiveness; become or appear boring, insipid, or tiresome (to); 'the course palled on her' (v#00271993)
     feed through the beak by regurgitating previously swallowed food; of some birds (v#00800951)
@@ -714,6 +792,7 @@ TAEDEO (v) (v1spia--2-)
     last longer than others: 'This material outwears all others' (v#01845936)
     cause to lose courage; 'dashed by the refusal' (v#01219733)
     wander about aimlessly; 'The gypsies roamed the woods' (v#01284430)
+
 TAEDEOR (v) (v1spid--3-)
     wander about aimlessly; 'The gypsies roamed the woods' (v#01284430)
     cause to lose courage; 'dashed by the refusal' (v#01219733)
@@ -761,7 +840,9 @@ TAEDEOR (v) (v1spid--3-)
     cover with a pall (v#00912018)
     feed through the beak by regurgitating previously swallowed food; of some birds (v#00800951)
     lose strength or effectiveness; become or appear boring, insipid, or tiresome (to); 'the course palled on her' (v#00271993)
+
 TAEDESCO (v) (v1spia--3-)
+
 TAEDET (v) (v1spia--3-)
     lose strength or effectiveness; become or appear boring, insipid, or tiresome (to); 'the course palled on her' (v#00271993)
     feed through the beak by regurgitating previously swallowed food; of some birds (v#00800951)
@@ -839,7 +920,9 @@ TAEDET (v) (v1spia--3-)
     move toward, travel toward something or somebody or approach something or somebody; 'He came singing down the road'; 'Come with me to the Casbah'; 'come down here!'; 'come out of the closet!'; 'come into the room' (v#01262658)
     cause to lose courage; 'dashed by the refusal' (v#01219733)
     wander about aimlessly; 'The gypsies roamed the woods' (v#01284430)
+
 TAEDIFER (a) (aps---mn1r)
+
 TAEDIO (v) (v1spia--1-)
     lose strength or effectiveness; become or appear boring, insipid, or tiresome (to); 'the course palled on her' (v#00271993)
     feed through the beak by regurgitating previously swallowed food; of some birds (v#00800951)
@@ -887,17 +970,26 @@ TAEDIO (v) (v1spia--1-)
     last longer than others: 'This material outwears all others' (v#01845936)
     cause to lose courage; 'dashed by the refusal' (v#01219733)
     wander about aimlessly; 'The gypsies roamed the woods' (v#01284430)
+
 TAEDIOSE (r) (rp--------)
+
 TAEDIOSUS (a) (aps---mn1-)
+
 TAEDITUDO (n) (n-s---fn3-)
+
 TAEDIUM (n) (n-s---nn2-)
     the feeling of being bored by something tedious (n#05605136)
+
 TAEDULUS (a) (aps---mn1-)
+
 TAENEA (n) (n-s---fn1-)
+
 TAENIA (n) (n-s---fn1-)
     something elongated that is worn around the body or one of the limbs (n#02245210)
     a strip or stripe of a contrasting color or material (n#02245671)
+
 TAENIENSIS (a) (aps---cn3i)
+
 TAENIOLA (n) (n-s---fn1-)
     a long thin piece of cloth or paper as used for binding or fastening; 'he used a piece of tape for a belt'; 'he wrapped a tape around the package' (n#03470437)
     a recording made on magnetic tape; 'the several recordings were combined on a master tape' (n#03470688)
@@ -971,7 +1063,9 @@ TAENIOLA (n) (n-s---fn1-)
     a parcel of land having fixed boundaries; 'he bought a lot on the lake' (n#06385742)
     (Old Testament) nephew of Abraham; God destroyed Sodom and Gomorrah but chose to spare Lot and his family who were told to flee without looking back at the destruction (n#07382352)
     a group of things of the same kind that belong together and are so used: 'a set of books'; 'a set of golf clubs' (n#05990251)
+
 TAENIOSUS (a) (aps---mn1-)
+
 TAETER (a) (aps---mn1r)
     (of behavior or especially language) characterized by obscenity or indecency; 'dirty words'; 'a dirty old man'; 'dirty books and movies'; 'boys telling dirty jokes'; 'has a dirty mouth' (a#00394778)
     lacking enlightenment or knowledge or culture; 'this benighted country'; 'benighted ages of barbarism and superstition'; 'the dark ages'; 'a dark age in the history of education' (a#00841275)
@@ -1138,6 +1232,7 @@ TAETER (a) (aps---mn1r)
     made dirty or foul; 'a building befouled with soot'; 'breathing air fouled and darkened with factory soot' (a#00391502)
     soiled with dirt or soot; 'with feet black from playing outdoors'; 'his shirt was black within an hour' (a#00392172)
     disgustingly dirty; filled or smeared with offensive matter; 'as filthy as a pigsty'; 'a foul pond'; 'a nasty pigsty of a room' (a#00392603)
+
 TAETRE (r) (rp--------)
     in a wicked and shameful manner; 'two policemen were foully murdered' (r#00338845)
     in an unfair and insulting manner; 'this internationally known writer was foully condemned by the Muslim fundamentalists' (r#00338949)
@@ -1146,7 +1241,9 @@ TAETRE (r) (rp--------)
     in a terribly evil manner; 'the child was heinously murdered' (r#00350181)
     in a grotesque manner; 'behind the house lay two nude figures grotesquely bald, with deliberate knife-slashes marking their bodies' (r#00346057)
     in a hideous manner; 'her face was hideously disfigured after the accident' (r#00351154)
+
 TAETRICITAS (n) (n-s---fn3-)
+
 TAETRICUS (a) (aps---mn1-)
     not indulgent; 'strict parents' (a#01699137)
     characterized by profanity or cursing; 'foul-mouthed and blasphemous'; 'blue language'; 'profane words' (a#00395320)
@@ -1274,10 +1371,15 @@ TAETRICUS (a) (aps---mn1-)
     concerned with work or important matters rather than play or trivialities; 'a serious student of history'; 'a serious attempt to learn to ski'; 'gave me a serious look'; 'a serious young man'; 'are you serious or joking?'; 'Don't be so serious!' (a#02043566)
     dignified and somber in manner or character; 'a grave God-fearing man'; 'a quiet sedate nature'; 'sober as a judge'; 'the judge was solemn as he pronounced sentence' (a#02044251)
     not carefully or expertly made; 'managed to make a crude splint'; 'a crude cabin of logs with bark still on them'; 'rough carpentry' (a#02124533)
+
 TAETRITUDO (n) (n-s---fn3-)
+
 TAETRO (v) (v1spia--1-)
+
 TAETRUM (n) (n-s---nn2-)
+
 TAETRUS (a) (aps---mn1-)
+
 TAGAX (a) (aps---an3-)
     having nimble fingers literally or figuratively; especially for stealing or picking pockets; 'a light-fingered burglar who can crack the combination of a bank vault'- Harry Hansen; 'the light-fingered thoughtfulness...of the most civilized playwright of the era'- Time (a#00064548)
     acknowledged as a supposition; 'given the engine's condition, it is a wonder that it started' (a#00029357)
@@ -1290,16 +1392,25 @@ TAGAX (a) (aps---an3-)
     (usually followed by `to') naturally disposed toward; 'he is apt to ignore matters he considers unimportant'; 'I am not minded to answer any questions' (a#01239541)
     quick or skillful or adept in action or thought; 'an exceptionally adroit pianist'; 'an adroit technician'; 'his adroit replies to hecklers won him many followers'; 'an adroit negotiator' (a#00063210)
     having possession delivered or transferred without compensation (a#01070520)
+
 TAGAX (n) (n-s---mn3-)
+
 TAGO (v) (v1spia--3-)
+
 TALABARRIO (n) (n-s---mn3-)
+
 TALABARRIUNCULUS (n) (n-s---mn2-)
+
 TALARE (n) (n-s---nn3-)
     accomplishment of an objective (n#00025788)
     the act of physically reaching or thrusting out (n#00218788)
+
 TALARIA (n) (n-p---nn3i)
+
 TALARIS (a) (aps---cn3i)
+
 TALARIUS (a) (aps---mn1-)
+
 TALEA (n) (n-s---fn1-)
     a pole or stake set up to mark something (as the start of a race track) (n#05416802)
     threat of a penalty: 'the policy so far is all stick and no carrot' (n#00751642)
@@ -1428,21 +1539,33 @@ TALEA (n) (n-s---fn1-)
     any maneuver made as part of progress toward a goal; 'the police took steps to reduce crime' (n#00113217)
     a rectangular area in a city surrounded by streets and usually containing several buildings; 'he lives in the next block' (n#06364354)
     a submerged (or partly submerged) ridge in a river or along a shore (n#06739750)
+
 TALENTARIUS (a) (aps---mn1-)
+
 TALENTUM (n) (n-s---nn2-)
     natural qualities or talents (n#04355268)
+
 TALEOLA (n) (n-s---fn1-)
+
 TALIATURA (n) (n-s---fn1-)
+
 TALIATUS (a) (aps---mn1-)
+
 TALIO (n) (n-s---fn3-)
     action taken in return for an injury or offense (n#00802092)
+
 TALIPEDO (v) (v1spia--1-)
+
 TALIS (a) (aps---cn3i)
+
 TALITER (r) (rp--------)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
+
 TALITRUM (n) (n-s---nn2-)
     a light touch or stroke (n#00080629)
+
 TALITUM (n) (n-s---nn2-)
+
 TALLA (n) (n-s---fn1-)
     an associate degree in nursing (n#05021679)
     an outer garment that has sleeves and covers the body from shoulder down; worn outdoors (n#02460986)
@@ -1457,24 +1580,38 @@ TALLA (n) (n-s---fn1-)
     edible bulb of an onion plant (n#08734702)
     the rind of a fruit (n#05774945)
     a single thickness of usually some homogeneous substance (n#02913016)
+
 TALPA (n) (n-s---fn1-)
     small velvety-furred burrowing mammal having small eyes and fossorial forefeet (n#01405407)
+
 TALPINUS (a) (aps---mn1-)
+
 TALPONA (n) (n-s---fn1-)
+
 TALUS (n) (n-s---mn2-)
     a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus (n#04322434)
+
 TALUTATIUM (n) (n-s---nn2-)
+
 TALUTIUM (n) (n-s---nn2-)
+
 TAM (r) (rp--------)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
     in the way indicated; 'hold the brush so'; 'set up the pieces thus'; (`thusly' is a nonstandard variant) (r#00118084)
+
 TAMA (n) (n-s---fn1-)
+
 TAMARICE (n) (n-s---fn1g)
+
 TAMARICIUM (n) (n-s---nn2-)
+
 TAMARICUM (n) (n-s---nn2-)
+
 TAMARISCUS (n) (n-s---fn2-)
+
 TAMARIX (n) (n-s---fn3-)
     any shrub or small tree of the genus Tamarix having small scalelike or needle-shaped leaves and feathery racemes of small white or pinkish flowers; of mostly coastal areas with saline soil (n#08689752)
+
 TAMDIU (r) (rp--------)
     a suitable moment; 'it is time to go' (n#10952869)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -1522,7 +1659,9 @@ TAMDIU (r) (rp--------)
     to a great degree or extent; 'she's much better now' (r#00057118)
     a great amount or extent; 'they did much for humanity' (n#09921720)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 TAME (r) (rp--------)
+
 TAMEN (r) (rp--------)
     together with this (r#00039271)
     used as an intensive especially to indicate something unexpected; 'even an idiot knows that'; 'declined even to consider the idea'; 'I don't have even a dollar!' (r#00016274)
@@ -1547,18 +1686,25 @@ TAMEN (r) (rp--------)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
     prevents vessel from moving (n#02187816)
     without being tardy; 'we made it to the party in time' (r#00163930)
+
 TAMENETSI (r) (rp--------)
     despite the fact that; 'even though she knew the answer, she did not respond' (r#00116177)
     (postpositive) however; 'it might be unpleasant, though' (r#00116307)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
+
 TAMETSI (r) (rp--------)
     despite the fact that; 'even though she knew the answer, she did not respond' (r#00116177)
     (postpositive) however; 'it might be unpleasant, though' (r#00116307)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
+
 TAMIACUS (a) (aps---mn1-)
+
 TAMIACUS (n) (n-s---mn2-)
+
 TAMINE (r) (rp--------)
+
 TAMINIA (n) (n-s---fn1-)
+
 TAMINIUS (a) (aps---mn1-)
     (of the elements) as if showing violent anger; 'angry clouds on the horizon'; 'furious winds'; 'the raging sea' (a#00299475)
     without civilizing influences; 'barbarian invaders'; 'barbaric practices'; 'a savage people'; 'fighting is crude and uncivilized especially if the weapons are efficient'-Margaret Meade; 'wild tribes' (a#00384214)
@@ -1571,7 +1717,9 @@ TAMINIUS (a) (aps---mn1-)
     (of colors or sounds) intensely vivid or loud; 'a violent clash of colors'; 'her dress was a violent red'; 'a violent noise'; 'wild colors'; 'wild shouts' (a#01451632)
     produced without being planted or without human labor; 'wild strawberries' (a#01761384)
     in a natural state; not tamed or domesticated or cultivated; 'wild geese'; 'edible wild plants' (a#02276745)
+
 TAMINO (v) (v1spia--1-)
+
 TAMISIUM (n) (n-s---nn2-)
     a strainer for separating lumps from powdered material or grading particles (n#03336320)
     something that keeps things out or hinders sight; 'they had just moved in and had not put up blinds yet' (n#02298497)
@@ -1582,8 +1730,11 @@ TAMISIUM (n) (n-s---nn2-)
     the surface of the large end of a cathode-ray tube on which an electronically created image is formed (n#03286767)
     a white or silvered surface where pictures can be projected for viewing (n#03287008)
     a door that is a screen to keep insects out of a building; 'he heard the screen slam as she left' (n#03287186)
+
 TAMMODO (r) (rp--------)
+
 TAMNUS (n) (n-s---fn2-)
+
 TAMQUAM (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1608,16 +1759,22 @@ TAMQUAM (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 TAMTUS (a) (aps---mn1-)
+
 TANDEM (r) (rp--------)
     the item at the end; 'last, I'll discuss family values' (r#00063279)
     as the end result of a succession or process; 'ultimately he had to give in'; 'at long last the winter was over' (r#00046493)
     after a long period of time or an especially long delay; 'at length they arrived' (r#00046728)
+
 TANDIU (r) (rp--------)
+
 TANGENS (n) (n-s---fn3-)
     a straight line that touches but does not intersect a curve (n#09993599)
     ratio of the opposite to the adjacent side (n#09928966)
+
 TANGIBILIS (a) (aps---cn3i)
+
 TANGO (v) (v1spia--3-)
     make reference to: 'His name was mentioned in connection with the invention' (v#00692561)
     have an emotional or cognitive impact upon; 'This struck me as odd' (v#01206630)
@@ -1627,18 +1784,27 @@ TANGO (v) (v1spia--3-)
     hit against; come into sudden contact with; 'The arrow hit the target'; 'The car hit a tree' (v#00841893)
     affect suddenly, usually adversely; 'We were hit by really bad weather' (v#00822999)
     to extend as far as, 'The sunlight reached the wall';'Can he reach?' (v#01832678)
+
 TANIACAE (n) (n-p---fn1-)
+
 TANOS (n) (n-s---mn2g)
+
 TANQUAM (r) (rp--------)
+
 TANTALUS (n) (n-s---fn2-)
+
 TANTI (r) (rp--------)
+
 TANTILLULUM (r) (rp--------)
+
 TANTILLULUS (a) (aps---mn1-)
+
 TANTILLUM (n) (n-s---nn2-)
     the act of pausing uncertainly; 'there was a hesitation in his speech' (n#00687997)
     how much there is of something that you can measure (n#00020056)
     how much of something is available; 'an adequate amount of food for four people' (n#03983517)
     an adequate or large amount; 'he had a quantity of ammunition' (n#03983740)
+
 TANTILLUS (a) (aps---mn1-)
     (quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with 'a) at least some; 'little rain fell in May'; 'gave it little thought'; 'little hope remained'; 'little time is left'; 'we still have little money'; 'a little hope remained'; 'a little time isleft' (a#01491598)
     contemptibly narrow in outlook; 'a little mind consumed with trivia'; 'petty little comments'; 'disgusted with the pettiness of small minds' (a#00282562)
@@ -1660,6 +1826,7 @@ TANTILLUS (a) (aps---mn1-)
     made to seem smaller or less (especially in worth); 'her comments made me feel small' (a#00839486)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
     used of persons or behavior; characterized by or indicative of lack of generosity; 'a small miserly man' (a#01065122)
+
 TANTISPER (r) (rp--------)
     a suitable moment; 'it is time to go' (n#10952869)
     a grammatical category of verbs used to express distinctions of time (n#04776611)
@@ -1681,7 +1848,9 @@ TANTISPER (r) (rp--------)
     including all components without exception; being one unit or constituting the full amount or extent or duration; complete; 'gave his whole attention'; 'a whole wardrobe for the tropics'; 'the whole hog'; 'a whole week'; 'the baby cried the whole trip home'; 'a whole loaf of bread' (a#00481167)
     the meteorological conditions: temperature and wind and clouds and precipitation; 'they were hoping for good weather'; 'every day we have weather conditions and yesterday was no exception' (n#07847974)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
+
 TANTO (r) (rp--------)
+
 TANTOPERE (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1715,7 +1884,9 @@ TANTOPERE (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 TANTULO (r) (rp--------)
+
 TANTULUM (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     not much; 'he talked little about his family' (r#00097004)
@@ -1732,6 +1903,7 @@ TANTULUM (r) (rp--------)
     not ever; at no time in the past or future; 'I have never been to China'; 'I shall never forget this day'; 'had never seen a circus'; 'never on Sunday'; 'I will never marry you!' (r#00019520)
     not at all; certainly not; not in any circumstances; 'never fear'; 'bringing up children is never easy'; 'that will never do'; 'what is morally wrong can never be politically right' (r#00019758)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 TANTULUM (n) (n-s---nn2-)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     how much there is of something that you can measure (n#00020056)
@@ -1740,6 +1912,7 @@ TANTULUM (n) (n-s---nn2-)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
     how much of something is available; 'an adequate amount of food for four people' (n#03983517)
     an adequate or large amount; 'he had a quantity of ammunition' (n#03983740)
+
 TANTULUS (r) (rp--------)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1754,6 +1927,7 @@ TANTULUS (r) (rp--------)
     a very young child (birth to 1 year) who has not yet begun to walk or talk; 'isn't she too young to have a baby?' (n#07094006)
     conforming to truth; 'I wouldn't have told you this if it weren't so'; 'a truthful statement' (a#02342823)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
+
 TANTULUS (a) (aps---mn1-)
     low or inferior in station or quality; 'a humble cottage'; 'a lowly parish priest'; 'a modest man of the people'; 'small beginnings' (a#02229453)
     have fine or very small constituent particles; 'a small misty rain' (a#02127826)
@@ -1780,13 +1954,17 @@ TANTULUS (a) (aps---mn1-)
     marked by system; in good order; 'everything is in order'; 'his books are always just so'; 'things must be exactly so' (a#02270603)
     made to seem smaller or less (especially in worth); 'her comments made me feel small' (a#00839486)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
+
 TANTUM (n) (n-s---nn2-)
+
 TANTUM (r) (rp--------)
     and nothing more; 'I was merely asking'; 'it is simply a matter of time'; 'just a scratch'; 'he was only a child'; 'hopes that last but a moment' (r#00003737)
     without any others being included or involved; 'was entirely to blame'; 'a school devoted entirely to the needs of problem children'; 'he works for Mr. Smith exclusively'; 'did it solely for money'; 'the burden of proof rests on the prosecution alone'; 'a privilege granted only to him' (r#00007655)
     by a small margin; 'they could barely hear the speaker'; 'we hardly knew them'; 'just missed being hit'; 'had scarcely rung the bell when the door flew open'; 'would have scarce arrived before she would have found some excuse to leave'- W.B.Yeats (r#00001874)
     almost not; 'he hardly ever goes fishing'; 'he was hardly more than sixteen years old'; 'they scarcely ever used the emergency generator' (r#00002191)
+
 TANTUMDEM (r) (rp--------)
+
 TANTUMDEM (a) (aps---an3-)
     free from error; especially conforming to fact or truth; 'the correct answer'; 'the correct version'; 'the right answer'; 'took the right road'; 'the right decision' (a#00595353)
     correct in opinion or judgment; 'time proved him right' (a#00597129)
@@ -1810,9 +1988,11 @@ TANTUMDEM (a) (aps---an3-)
     including all components without exception; being one unit or constituting the full amount or extent or duration; complete; 'gave his whole attention'; 'a whole wardrobe for the tropics'; 'the whole hog'; 'a whole week'; 'the baby cried the whole trip home'; 'a whole loaf of bread' (a#00481167)
     marked by suitability or rightness or appropriateness; 'proper medical treatment'; 'proper manners' (a#01806785)
     socially right or correct; 'it isn't right to leave the party without saying goodbye'; 'correct behavior' (a#01807436)
+
 TANTUMMODO (r) (rp--------)
     and nothing more; 'I was merely asking'; 'it is simply a matter of time'; 'just a scratch'; 'he was only a child'; 'hopes that last but a moment' (r#00003737)
     without any others being included or involved; 'was entirely to blame'; 'a school devoted entirely to the needs of problem children'; 'he works for Mr. Smith exclusively'; 'did it solely for money'; 'the burden of proof rests on the prosecution alone'; 'a privilege granted only to him' (r#00007655)
+
 TANTUNDEM (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1835,10 +2015,12 @@ TANTUNDEM (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 TANTUNDEM (n) (n-s---nn3-)
     how much there is of something that you can measure (n#00020056)
     how much of something is available; 'an adequate amount of food for four people' (n#03983517)
     an adequate or large amount; 'he had a quantity of ammunition' (n#03983740)
+
 TANTUS (a) (aps---mn1-)
     minor or subordinate; `by' is often used in combination; 'a side interest'; 'a by (or bye) effect'; 'only a by comment'; 'by-election'; 'bye-election'; 'a by-product'; 'by-play' (a#01786279)
     of extreme importance; vital to the resolution of a crisis; 'a crucial moment in his career'; 'a crucial election'; 'a crucial issue for women' (a#00618913)
@@ -1880,8 +2062,11 @@ TANTUS (a) (aps---mn1-)
     (informal terms) small and of little importance; 'a fiddling sum of money'; 'a footling gesture'; 'our worries are lilliputian compared with those of countries that are at war'; 'a little (or small) matter'; 'a dispute over niggling details'; 'limited to petty enterprises'; 'piffling efforts'; 'giving a police officer a free meal may be against the law, but it seems to be a picayune infraction' (a#01228148)
     marked by system; in good order; 'everything is in order'; 'his books are always just so'; 'things must be exactly so' (a#02270603)
     (informal) very good; 'a bully pulpit'; 'a cool sports car'; 'had a great time at the party'; 'you look simply smashing' (a#01076845)
+
 TAOS (n) (n-s---mn2g)
+
 TAPANTA (n) (n-s---nn--)
+
 TAPES (n) (n-s---mn3-)
     a piece of thick heavy fabric (usually with nap or pile) used to cover a floor (n#03260882)
     informal term for a toupee (n#03261284)
@@ -1908,12 +2093,15 @@ TAPES (n) (n-s---mn3-)
     a time interval during which there is a temporary cessation of something (n#10969750)
     something made by weaving or felting or knitting or crocheting natural or synthetic fibers (n#02656657)
     a system of springs or shock absorbers connecting the wheels and axles to the chassis of a wheeled vehicle (n#03450747)
+
 TAPETARIUS (n) (n-s---mn2-)
     someone who decorates (n#07206414)
     someone who designs clothing (n#07189410)
     a person who specializes in designing architectural interiors and their furnishings (n#07341678)
     someone who creates plans for buildings (n#07082393)
+
 TAPETE (n) (n-s---nn3i)
+
 TAPETUM (n) (n-s---nn2-)
     a system of springs or shock absorbers connecting the wheels and axles to the chassis of a wheeled vehicle (n#03450747)
     something made by weaving or felting or knitting or crocheting natural or synthetic fibers (n#02656657)
@@ -1937,9 +2125,13 @@ TAPETUM (n) (n-s---nn2-)
     a temporary debarment (from a privilege or position etc) (n#00136859)
     informal term for a toupee (n#03261284)
     a piece of thick heavy fabric (usually with nap or pile) used to cover a floor (n#03260882)
+
 TAPINOMA (n) (n-s---nn3-)
+
 TAPINOPHRONESIS (n) (n-s---fn3i)
+
 TAPINOSIS (n) (n-s---fn3-)
+
 TAPPETE (n) (n-s---nn3-)
     a piece of thick heavy fabric (usually with nap or pile) used to cover a floor (n#03260882)
     informal term for a toupee (n#03261284)
@@ -1963,11 +2155,16 @@ TAPPETE (n) (n-s---nn3-)
     a time interval during which there is a temporary cessation of something (n#10969750)
     something made by weaving or felting or knitting or crocheting natural or synthetic fibers (n#02656657)
     a system of springs or shock absorbers connecting the wheels and axles to the chassis of a wheeled vehicle (n#03450747)
+
 TARANDRUS (n) (n-s---mn2-)
     arctic deer with large antlers in both sexes; called reindeer in Eurasia and caribou in North America (n#01929910)
+
 TARDABILIS (a) (aps---cn3i)
+
 TARDATIO (n) (n-s---fn3-)
+
 TARDATUS (a) (aps---mn1-)
+
 TARDE (r) (rp--------)
     later than usual or than expected; 'the train arrived late'; 'we awoke late'; 'the children came late to school'; 'notice came so tardily that we almost missed the deadline'; 'I belatedly wished her a happy birthday' (r#00097269)
     of timepieces; 'the clock is almost an hour slow'; 'my watch is running behind' (r#00219291)
@@ -1978,7 +2175,9 @@ TARDE (r) (rp--------)
     without speed; 'he spoke slowly'; 'go easy here--the road is slippery'; 'glaciers move tardily'; (`slow' is sometimes used informally for `slowly' as in 'please go slow; I want to see the sights') (r#00157495)
     in music; 'Play this lento, please' (r#00383394)
     in the recent past; 'he was in Paris recently'; 'lately the rules have been enforced'; 'as late as yesterday she was fine'; 'feeling better of late'; 'the spelling was first affected, but latterly the meaning also' (r#00104346)
+
 TARDEO (v) (v1spia--2-)
+
 TARDESCO (v) (v1spia--3-)
     come into existence; 'What becomes has duration' (v#01789797)
     cause to proceed more slowly; 'The illness slowed him down' (v#00307731)
@@ -1987,15 +2186,25 @@ TARDESCO (v) (v1spia--3-)
     enhance the appearance of: 'Mourning becomes Electra'; 'This behavior doesn't suit you!' (v#01863319)
     undergo a change or development: 'The water turned into ice'; 'Her former friend became her worst enemy' (v#01791776)
     enter or assume a certain state or condition; 'He became annoyed when he heard the bad news'; 'It must be getting more serious'; 'her face went red with anger'; 'She went into ecstasy'; 'Get going!' (v#00101662)
+
 TARDICORS (a) (aps---an3-)
+
 TARDIGEMULUS (a) (aps---mn1-)
+
 TARDIGENUCLUS (a) (aps---mn1-)
+
 TARDIGENULUS (a) (aps---mn1-)
+
 TARDIGRADUS (a) (aps---mn1-)
+
 TARDILINGUIS (a) (aps---cn3i)
+
 TARDILOQUUS (a) (aps---mn1-)
+
 TARDINGEMULUS (a) (aps---mn1-)
+
 TARDIPES (n) (n-s---mn3-)
+
 TARDIPES (a) (aps---an3-)
     having little physical or spiritual strength; 'a weak radio signal'; 'a weak link' (a#02213198)
     lacking strength or vigor; 'damning with faint praise'; 'faint resistance'; 'feeble efforts'; 'a feeble voice' (a#02214050)
@@ -2007,6 +2216,7 @@ TARDIPES (a) (aps---an3-)
     (of horses) disabled in the feet or legs (a#00967627)
     fragmentary or halting from emotional strain; 'uttered a few broken words of sorrow' (a#00287029)
     lacking strength; 'a weak, nerveless fool, devoid of energy and promptitude'- Nathaniel Hawthorne (a#01756816)
+
 TARDITAS (n) (n-s---fn3-)
     the state of being active; 'his sphere of activity'; 'he is out of action' (n#10090167)
     trouble in carrying or managing caused by bulk or shape: 'the movers cursed the unwieldiness of the big piano' (n#03707071)
@@ -2057,9 +2267,13 @@ TARDITAS (n) (n-s---fn3-)
     an act by a government body or supranational organization; 'recent federal action undermined the segregationist position'; 'the United Nations must have the power to propose and organize action without being hobbled by irrelevant issues'; 'the Union action of emancipating Southern slaves' (n#00765635)
     (chemistry) the capacity of a substance to take part in a chemical reaction; 'catalytic activity' (n#10421664)
     unskillfulness resulting from a lack of training (n#04368468)
+
 TARDITIES (n) (n-s---fn5-)
+
 TARDITUDO (n) (n-s---fn3-)
+
 TARDIUSCULE (r) (rp--------)
+
 TARDIUSCULUS (a) (aps---mn1-)
     (music) at a slow tempo; 'the band played a slow waltz' (a#00931158)
     (used of timepieces) indicating a time earlier than the correct time; 'the clock is slow' (a#00932213)
@@ -2070,28 +2284,43 @@ TARDIUSCULUS (a) (aps---mn1-)
     (of business) not active or brisk; 'business is dull (or slow)'; 'a sluggish market' (a#00038214)
     without much intelligence; 'a dull job with lazy and unintelligent co-workers' (a#01283121)
     in a state of mental numbness especially as resulting from shock; 'he had a dazed expression on his face'; 'lay semiconscious, stunned (or stupefied) by the blow'; 'was stupid from fatigue' (a#00405649)
+
 TARDO (v) (v1spia--1-)
     hinder or prevent the progress or accomplishment of; 'His brother blocked him at every turn' (v#01743494)
     lose velocity; move more slowly; 'The car decelerated' (v#00307210)
     hold back, as of a danger or an enemy; check the expansion or influence of; 'Arrest the downward trend'; 'Check the growth of communism in SE Asia'; 'Contain the rebel movement' (v#00768078)
     be a hindrance or obstacle to; 'She is impeding the progress of our project' (v#01670590)
+
 TARDOR (n) (n-s---mn3-)
+
 TARDUS (a) (aps---mn1-)
     being or occurring at an advanced period of time or after a usual or expected time; 'late evening'; 'late 18th century'; 'a late movie'; 'took a late flight'; 'had a late breakfast' (a#00776933)
+
 TARICANUS (a) (aps---mn1-)
+
 TARICARUS (a) (aps---mn1-)
+
 TARICUS (a) (aps---mn1-)
+
 TARMES (n) (n-s---mn3-)
     a larva of a woodborer (n#01436962)
+
 TARPESSITA (n) (n-s---mn1-)
+
 TARPEZITA (n) (n-s---mn1-)
     the person in charge of the bank in a gambling game (n#07100408)
     someone who owns or is an executive in a bank (n#07100512)
+
 TARRUPIA (n) (n-s---fn1-)
+
 TARTARALIS (a) (aps---cn3i)
+
 TARUM (n) (n-s---nn2-)
+
 TASCONIUM (n) (n-s---nn2-)
+
 TASIS (n) (n-s---fn3i)
+
 TATA (n) (n-s---mn1-)
     a sharp explosive sound as from a gunshot or drawing a cork (n#05501662)
     aromatic herb of temperate Eurasia and North Africa having a bitter taste used in making the liqueur absinthe (n#08237169)
@@ -2110,10 +2339,15 @@ TATA (n) (n-s---mn1-)
     (of music or art) new and of general appeal (especially among young people) (a#00385819)
     music of general appeal to young people (n#05292336)
     a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead (n#10498490)
+
 TATULA (n) (n-s---mn1-)
+
 TAU (n) (n-s---nn--)
+
 TAURA (n) (n-s---fn1-)
+
 TAURARIUS (n) (n-s---mn2-)
+
 TAUREA (n) (n-s---fn1-)
     a legislator appointed by the party to enforce discipline (n#07678836)
     body covering of a living animal (n#01411738)
@@ -2122,23 +2356,33 @@ TAUREA (n) (n-s---fn1-)
     a quick blow with a whip (n#00087268)
     the flexible part of a whip (n#02908190)
     an instrument with a handle and a flexible lash that is used for whipping (n#03611698)
+
 TAURELEPHAS (n) (n-s---mn3i)
+
 TAUREUS (a) (aps---mn1-)
     determined by mathematical computation; 'the calculated velocity of a bullet'; 'a derived value' (a#00296924)
     formed or developed from something else; not original; 'the belief that classes and organizations are secondary and derived'- John Dewey (a#00663810)
     characterized by rising prices; 'a bull market' (a#02367823)
+
 TAUREUS (n) (n-s---mn2-)
     these words are used to express a low opinion of someone's intelligence (n#07231679)
     meat from an adult domestic bovine (n#05707187)
     any of various wild bovines especially of the genera Bos or closely related Bibos (n#01899320)
     domesticated bovine animals as a group regardless of sex or age: 'so many head of cattle'; 'wait till the cows come home'; 'seven thin and ill-favored kine'- Bible; 'a team of oxen' (n#01899570)
     an adult castrated bull of the genus_Bos; especially Bos taurus (n#01900112)
+
 TAURICORNIS (a) (aps---cn3i)
+
 TAURIFER (a) (aps---mn1r)
+
 TAURIFORMIS (a) (aps---cn3i)
+
 TAURIGENUS (a) (aps---mn1-)
+
 TAURINAE (n) (n-p---fn1-)
+
 TAURINICIUM (n) (n-s---nn2-)
+
 TAURINUS (a) (aps---mn1-)
     successful or assured of success; 'now I am a made man forever'- Christopher Marlowe (a#02220970)
     produced by a manufacturing process; 'bought some made goods at the local store; rope and nails' (a#00636055)
@@ -2146,22 +2390,36 @@ TAURINUS (a) (aps---mn1-)
     (of a bed) having the sheets and blankets set in order; 'a neatly made bed' (a#01409211)
     characterized by rising prices; 'a bull market' (a#02367823)
     formed or developed from something else; not original; 'the belief that classes and organizations are secondary and derived'- John Dewey (a#00663810)
+
 TAUROBOLIATUS (a) (aps---mn1-)
+
 TAUROBOLICUS (a) (aps---mn1-)
+
 TAUROBOLINUS (a) (aps---mn1-)
+
 TAUROBOLIOR (v) (v1spid--1-)
+
 TAUROBOLIUM (n) (n-s---nn2-)
+
 TAUROBOLUS (n) (n-s---mn2-)
+
 TAUROCENTA (n) (n-s---mn1-)
+
 TAUROMACHIA (n) (n-s---fn2-)
     the activity at a bullfight (n#00286858)
     a Spanish or Portuguese or Latin American spectacle; a matador baits and (usually) kills a bull in an arena before many spectators (n#02351230)
+
 TAUROPHTHALMON (n) (n-s---nn2-)
+
 TAURULUS (n) (n-s---mn2-)
+
 TAURUS (n) (n-s---mn2-)
     an investor with an optimistic market outlook (n#07129077)
+
 TAUTOLOGIA (n) (n-s---fn1-)
+
 TAXA (n) (n-s---fn1-)
+
 TAXARE (n) (n-s---nn3-)
     an amount of money expressed numerically; 'a figure of $17 was suggested' (n#09598019)
     None (n#N0001458)
@@ -2366,6 +2624,7 @@ TAXARE (n) (n-s---nn3-)
     a detailed critical inspection (n#00421016)
     change or be different within limits; 'Estimates for the losses in the earthquake range as high as $2 billion'; 'Interest rates run from 5 to 10 percent'; 'The instruments ranged from tuba to cymbals'; My students range from very bright to dull' (v#01865057)
     a general vicinity; 'He comes from a place near Chicago' (n#06364246)
+
 TAXATIO (n) (n-s---fn3-)
     the content of cognition; the main thing you are thinking about; 'it was not a good idea'; 'the thought never entered my mind' (n#04492484)
     a statement indicating the likely cost of some job; 'he got an estimate from the car repair shop' (n#05080369)
@@ -2384,17 +2643,28 @@ TAXATIO (n) (n-s---fn3-)
     an amount determined as payable; 'the assessment for repairs outraged the club's membership' (n#09653239)
     the market value set on assets (n#04009216)
     the act of bringing near or bringing together especially the cut edges of tissue (n#00094818)
+
 TAXATOR (n) (n-s---mn3-)
+
 TAXATUS (a) (aps---mn1-)
+
 TAXEA (n) (n-s---fn1-)
+
 TAXEOTA (n) (n-s---mn1-)
+
 TAXEOTICUS (a) (aps---mn1-)
+
 TAXEUS (a) (aps---mn1-)
+
 TAXEUS (n) (n-s---fn2-)
+
 TAXICUS (a) (aps---mn1-)
+
 TAXILLUS (n) (n-s---mn2-)
     small cubes with 1 to 6 spots on the faces; used to generate random numbers (n#02566690)
+
 TAXIM (r) (rp--------)
+
 TAXIRAEDA (n) (n-s---fn1-)
     a horse kept for hire (n#01882344)
     an old or over-worked horse (n#01882416)
@@ -2405,6 +2675,7 @@ TAXIRAEDA (n) (n-s---fn1-)
     a mediocre and disdained writer (n#07306853)
     a saddle horse used for transportation rather than sport etc. (n#01879572)
     a politician who belongs to a small clique that controls a political party for private rather than public ends (n#07385781)
+
 TAXIRAEDARIUS (n) (n-s---mn2-)
     the operator of a motor vehicle (n#07228242)
     a golfer who hits the golf ball with a driver (n#07228506)
@@ -2412,18 +2683,25 @@ TAXIRAEDARIUS (n) (n-s---mn2-)
     a car driven by a person whose job is to take passengers where they want to go in exchange for money (n#02361877)
     a golf club used for hitting long shots from the tee (n#02606119)
     (computer science) a program that determines how a computer will communicate with a peripheral device (n#04933667)
+
 TAXO (v) (v1spia--1-)
     estimate the value of something (v#00445269)
     place a value on; judge the worth of something (v#00459984)
     regard highly; think much of (v#00469237)
+
 TAXO (n) (n-s---mn3-)
+
 TAXONINUS (a) (aps---mn1-)
+
 TAXUS (n) (n-s---fn2-)
     a spear thrown as a weapon or in competitive field events (n#02873625)
     any of numerous evergreen trees or shrubs having red cup-shaped berries and flattened needlelike leaves (n#07978239)
     wood of a yew; especially the durable fine-grained light brown or red wood of the English yew valued for cabinetwork and archery bows (n#07978574)
+
 TEANUS (a) (aps---mn1-)
+
 TEBA (n) (n-s---fn1-)
+
 TECHINA (n) (n-s---fn1-)
     the act of deceiving (n#00485108)
     the use of tricks to deceive someone (usually to extract money from them) (n#00485559)
@@ -2453,6 +2731,7 @@ TECHINA (n) (n-s---fn1-)
     a cunning or deceitful action or device; 'he played a trick on me'; 'he pulled a fast one and got away with it' (n#00111383)
     a deceptive maneuver (especially to avoid capture) (n#00111760)
     an attempt to get you to do something foolish or imprudent; 'that offer was a dirty trick' (n#00483794)
+
 TECHNA (n) (n-s---fn1-)
     a period of work or duty (n#10984697)
     crafty artfulness (especially in deception) (n#03820832)
@@ -2463,6 +2742,7 @@ TECHNA (n) (n-s---fn1-)
     an attempt to get you to do something foolish or imprudent; 'that offer was a dirty trick' (n#00483794)
     a ludicrous or grotesque act done for fun and amusement (n#00331225)
     shrewdness as demonstrated by being skilled in deception (n#04353829)
+
 TECHNICA (n) (n-s---fn1-)
     skillfulness in the command of fundamentals deriving from practice and familiarity; 'practice greatly improves proficiency' (n#04364089)
     a practical method or art applied to some particular task (n#04380245)
@@ -2471,6 +2751,7 @@ TECHNICA (n) (n-s---fn1-)
     a natural effortlessness; 'a happy readiness of conversation'--Jane Austen (n#03705224)
     skillful performance without difficulty; 'his quick adeptness was a product of good design' (n#04363549)
     the quality of having great facility and competence (n#04014987)
+
 TECHNICUS (a) (aps---mn1-)
     characterizing or showing skill in or specialized knowledge of applied arts and sciences; 'a technical problem'; 'highly technical matters hardly suitable for the general public'; 'a technical report'; 'producing the A-bomb was a challenge to the technical people of this country'; 'technical training'; 'technical language' (a#01060035)
     based on specialized theory; 'a theoretical analysis' (a#01060451)
@@ -2482,17 +2763,24 @@ TECHNICUS (a) (aps---mn1-)
     of or relating to technique; 'technical innovation in recent novels'; 'technical details' (a#02610113)
     of or relating to proficiency in a practical skill; 'no amount of technical skill and craftsmanship can take the place of vital interest'- John Dewey (a#02610258)
     of or relating to a practical subject that is organized according to scientific principles; 'technical college'; 'technological development' (a#02610463)
+
 TECHNICUS (n) (n-s---mn2-)
+
 TECHNOCRATA (n) (n-s---fn1-)
     an advocate of technocracy (n#07633802)
+
 TECHNOCRATIA (n) (n-s---fn1-)
     a form of government in which scientists and technical experts are in control (n#06191492)
+
 TECHNOCRATICUS (a) (aps---mn1-)
+
 TECHNOGRAPHUS (n) (n-s---mn2-)
+
 TECHNOLOGIA (n) (n-s---fn1-)
     a room (as on a ship) in which the engine is located (n#02640186)
     the discipline dealing with the art or science of applying scientific knowledge to practical problems; 'he had trouble deciding which branch of engineering to study' (n#04660658)
     the practical application of science to commerce or industry (n#00607693)
+
 TECHNOLOGICUS (a) (aps---mn1-)
     characterizing or showing skill in or specialized knowledge of applied arts and sciences; 'a technical problem'; 'highly technical matters hardly suitable for the general public'; 'a technical report'; 'producing the A-bomb was a challenge to the technical people of this country'; 'technical training'; 'technical language' (a#01060035)
     conforming with the principles or methods used in science; 'a scientific approach' (a#02005997)
@@ -2502,20 +2790,29 @@ TECHNOLOGICUS (a) (aps---mn1-)
     of or relating to technique; 'technical innovation in recent novels'; 'technical details' (a#02610113)
     of or relating to proficiency in a practical skill; 'no amount of technical skill and craftsmanship can take the place of vital interest'- John Dewey (a#02610258)
     of or relating to a practical subject that is organized according to scientific principles; 'technical college'; 'technological development' (a#02610463)
+
 TECHNOPAEGNIUM (n) (n-s---nn2-)
+
 TECHNYPHION (n) (n-s---nn2g)
+
 TECOLITHOS (n) (n-s---mn2g)
+
 TECTARIUM (n) (n-s---nn2-)
+
 TECTE (r) (rp--------)
     with caution or prudence; 'she ventured cautiously downstairs' (r#00277636)
     in a covert manner; 'he did it covertly' (r#00075774)
     taking care or paying attention; 'they watched carefully' (r#00149700)
     (archaic) confidentially or in secret; 'told her friend privily that she was planning to be married' (r#00272454)
     in a conservative manner; 'we estimated the number of demonstrators conservatively at 200,000.' (r#00287056)
+
 TECTIO (n) (n-s---fn3-)
+
 TECTONICUS (a) (aps---mn1-)
+
 TECTOR (n) (n-s---mn3-)
     a worker skilled in applying plaster (n#07480356)
+
 TECTORIOLUM (n) (n-s---nn2-)
     an indefinitely short time; 'wait just a moment'; 'it only takes a minute'; 'in just a bit' (n#10953688)
     a unit of measurement of information (from Binary+digIT); the amount of information in a system having two equiprobable states; 'there are 8 bits in a byte' (n#09795462)
@@ -2539,8 +2836,10 @@ TECTORIOLUM (n) (n-s---nn2-)
     an instance of some kind; 'it was a nice piece of work'; 'he had a bit of good luck' (n#05449415)
     the occupation for which you are paid; 'he is looking for a job'; 'a lot of people are out of work' (n#00383807)
     used in dressing wounds (n#03138836)
+
 TECTORIUM (n) (n-s---nn2-)
     a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings (n#10759087)
+
 TECTORIUS (a) (aps---mn1-)
     employed in accomplishing something; 'the principle of surprise is the most used and misused of all the principles of war'- H.H.Arnold & I.C.Eaker (a#02375498)
     above or covering a wide area; 'the covering darkness'; 'shadow of the overhanging crag'; 'the dark overspreading clouds' (a#02437817)
@@ -2553,7 +2852,9 @@ TECTORIUS (a) (aps---mn1-)
     involved in or affected by or having a claim to or share in; 'a memorandum to those concerned'; 'an enterprise in which three men are concerned'; 'factors concerned in the rise and fall of epidemics'; 'the interested parties met to discuss the business' (a#01453075)
     involving a surface only; 'her beauty is only skin-deep'; 'superficial bruising'; 'a surface wound' (a#00658187)
     previously used or owned by another; 'bought a secondhand (or used) car' (a#01581439)
+
 TECTULUM (n) (n-s---nn2-)
+
 TECTUM (n) (n-s---nn2-)
     a structure that covers or forms the top of a building (n#03250224)
     top of motor vehicle (n#03250547)
@@ -2562,14 +2863,20 @@ TECTUM (n) (n-s---nn2-)
     the overhead inside lining of a room; 'he hated painting the ceiling' (n#02410004)
     a social unit living together; 'he moved his family to Virginia'; 'It was a good Christian household'; 'I waited until the whole house was asleep'; 'the teacher asked how many people made up his home' (n#06021037)
     an upper limit on what is allowed: 'they established a cap for prices' (n#04992880)
+
 TECTURA (n) (n-s---fn1-)
+
 TECTUS (a) (aps---mn1-)
     overlaid or spread or topped with or enclosed within something; sometimes used as a combining form; 'women with covered faces'; 'covered wagons'; 'a covered balcony'; 'snow-covered fields' (a#01633843)
     concealed or hidden on any grounds for any motive; 'a concealed weapon'; 'a concealed compartment in his briefcase' (a#02010891)
+
 TECUM (n) (n-s---nn2-)
     None (n#N0002452)
+
 TEDA (n) (n-s---fn1-)
+
 TEGES (n) (n-s---fn3-)
+
 TEGES (n) (n-p---fn2-)
     a program that gives a computer instructions that provide the user with tools to accomplish a task; 'he has tried several different word processing applications' (n#04931025)
     the act of bringing something to bear; using it for a particular purpose; 'he advocated the application of statistics to the problem'; 'a novel application of electronics to medical diagnosis (n#00607299)
@@ -2592,12 +2899,19 @@ TEGES (n) (n-p---fn2-)
     a natural object that covers or envelops; 'the fox was flushed from its cover' (n#06672286)
     liquid preparation having a soothing or antiseptic or medicinal action when applied to the skin; 'a lotion for dry skin' (n#02942927)
     a short prayer generally preceding the lesson in the Church of Rome or the Church of England (n#05373521)
+
 TEGESTE (n) (n-s---nn3i)
+
 TEGETARIUS (n) (n-s---mn2-)
+
 TEGETICULA (n) (n-s---fn1-)
+
 TEGICULUM (n) (n-s---nn2-)
+
 TEGILE (n) (n-s---nn3i)
+
 TEGILLUM (n) (n-s---nn2-)
+
 TEGIMEN (n) (n-s---nn3-)
     armor that protects the wearer's body (n#02307258)
     the act of concealing the existence of something by obstructing the view of it; 'the cover concealed their guns from enemy aircraft' (n#00680055)
@@ -2607,6 +2921,7 @@ TEGIMEN (n) (n-s---nn3-)
     hard outer covering or case of certain organisms such as arthropods and turtles (n#01418986)
     a covering that serves to conceal or shelter something; 'they crouched behind the screen'; 'under cover of darkness' (n#03286335)
     fire that makes it difficult for the enemy to fire on your own individuals or formations; 'artillery provided covering fire for the withdrawal' (n#00636447)
+
 TEGIMENTUM (n) (n-s---nn2-)
     the condition of being protected; 'they were huddled together for protection'; 'he enjoyed a sense of peace and protection in his new home' (n#10426867)
     armor that protects the wearer's body (n#02307258)
@@ -2617,6 +2932,7 @@ TEGIMENTUM (n) (n-s---nn2-)
     hard outer covering or case of certain organisms such as arthropods and turtles (n#01418986)
     a covering that serves to conceal or shelter something; 'they crouched behind the screen'; 'under cover of darkness' (n#03286335)
     fire that makes it difficult for the enemy to fire on your own individuals or formations; 'artillery provided covering fire for the withdrawal' (n#00636447)
+
 TEGMEN (n) (n-s---nn3-)
     a slender or elongated structure that supports a plant or fungus or a plant part or plant organ (n#09418962)
     body covering of a living animal (n#01411738)
@@ -2825,6 +3141,7 @@ TEGMEN (n) (n-s---nn3-)
     an enveloping structure or covering enclosing an animal or plant organ or part (n#04068007)
     a natural protective covering of the body; site of the sense of touch; 'your skin is the largest organ of your body' (n#04068217)
     constituting the full quantity or extent; complete; 'an entire town devastated by an earthquake'; 'gave full attention'; 'a total failure' (a#00481645)
+
 TEGMENTUM (n) (n-s---nn2-)
     a slender or elongated structure that supports a plant or fungus or a plant part or plant organ (n#09418962)
     body covering of a living animal (n#01411738)
@@ -2984,6 +3301,7 @@ TEGMENTUM (n) (n-s---nn2-)
     payment extorted by gangsters on threat of violence; 'every store in the neighborhood had to pay him protection' (n#00502121)
     an enveloping structure or covering enclosing an animal or plant organ or part (n#04068007)
     a natural protective covering of the body; site of the sense of touch; 'your skin is the largest organ of your body' (n#04068217)
+
 TEGO (v) (v1spia--3-)
     provide with a covering or cause to be covered; 'cover her face with a handkerchief'; 'cover the child with a blanket'; cover the grave with flowers' (v#00909621)
     go into hiding or conceal oneself; 'Where is your little brother hiding?' (v#01469456)
@@ -2993,14 +3311,20 @@ TEGO (v) (v1spia--3-)
     protect by insurance; 'The insurance won't cover this' (v#00603918)
     provide for; 'The grant doesn't cover my salary' (v#01825455)
     prevent from being seen or discovered; 'Muslim women hide their faces' (v#01467965)
+
 TEGULA (n) (n-s---fn1-)
     a block made from charcoal or coal dust and burned as fuel (n#02339708)
     a thin flat slab of fired clay used for roofing (n#10814033)
     a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces of buildings (n#03504435)
+
 TEGULARIUS (n) (n-s---mn2-)
+
 TEGULATUS (a) (aps---mn1-)
+
 TEGULICIUS (a) (aps---mn1-)
+
 TEGULUM (n) (n-s---nn2-)
+
 TEGUMEN (n) (n-s---nn3-)
     a slender or elongated structure that supports a plant or fungus or a plant part or plant organ (n#09418962)
     body covering of a living animal (n#01411738)
@@ -3160,7 +3484,9 @@ TEGUMEN (n) (n-s---nn3-)
     payment extorted by gangsters on threat of violence; 'every store in the neighborhood had to pay him protection' (n#00502121)
     an enveloping structure or covering enclosing an animal or plant organ or part (n#04068007)
     a natural protective covering of the body; site of the sense of touch; 'your skin is the largest organ of your body' (n#04068217)
+
 TEGUMENTA (n) (n-p---nn2-)
+
 TEGUMENTUM (n) (n-s---nn2-)
     a covering that serves to conceal or shelter something; 'they crouched behind the screen'; 'under cover of darkness' (n#03286335)
     something that keeps things out or hinders sight; 'they had just moved in and had not put up blinds yet' (n#02298497)
@@ -3169,6 +3495,7 @@ TEGUMENTUM (n) (n-s---nn2-)
     covering designed to be worn on a person's body (n#02456798)
     tough more-or-less rigid protective covering of an animal or plant (n#01418098)
     protection from harm; 'sanitation is the best defense against disease' (n#00527713)
+
 TELA (n) (n-s---fn1-)
     having material or physical form or substance; 'that which is created is of necessity corporeal and visible and tangible' - Benjamin Jowett (a#00594049)
     fastens together two ends of a belt or strap; often has loose prong (n#02345252)
@@ -3216,13 +3543,19 @@ TELA (n) (n-s---fn1-)
     a turning aside (of your course or attention or concern): 'a diversion from the main highway'; 'a digression into irrelevant details'; 'a deflection from his goal' (n#00224903)
     a shape distorted by twisting or folding (n#10004585)
     commodities offered for sale; 'good business depends on having good merchandise'; 'that store offers a variety of products' (n#02987655)
+
 TELAMO (n) (n-s---mn3-)
+
 TELAMON (n) (n-s---mn3-)
+
 TELAMONES (n) (n-s---mn3-)
+
 TELECOPIA (n) (n-s---fn1-)
     transmits the copy by wire or radio (n#02662058)
     an exact copy or reproduction (n#02662175)
+
 TELECOPIALIS (a) (aps---cn3-)
+
 TELECOPIATRUM (n) (n-s---nn2-)
     4-wheeled motor vehicle; usually propelled by an internal combustion engine; 'he needs a car to get to work' (n#02383458)
     a group that controls the activities of a political party; 'he was endorsed by the Democratic machine' (n#06137074)
@@ -3232,7 +3565,9 @@ TELECOPIATRUM (n) (n-s---nn2-)
     an efficient person; 'the boxer was a magnificent fighting machine' (n#07385642)
     transmits the copy by wire or radio (n#02662058)
     an exact copy or reproduction (n#02662175)
+
 TELECUSTODIA (n) (n-s---fn1-)
+
 TELEFERICA (n) (n-s---fn3-)
     the amount a salary is increased; 'he got a raise'; 'he got a wage hike' (n#03984405)
     an increase in cost; 'they asked for a 10% rise in rates' (n#03984543)
@@ -3264,39 +3599,50 @@ TELEFERICA (n) (n-s---fn3-)
     None (n#N0001931)
     the highest level or degree attainable: 'his landscapes were deemed the acme of beauty'; 'the artist's gifts are at their acme'; 'at the height of her career'; 'the peak of perfection'; 'summer was at its peak'; '...catapulted Einstein to the pinnacle of fame'; 'the summit of his ambition'; 'so many highest superlatives achieved by man'; 'at the top of his profession' (n#10045044)
     the act of raising something; 'he responded with a lift of his eyebrow'; 'fireman learn several different raises for getting ladders up' (n#00074216)
+
 TELEGRAPHEMA (n) (n-s---fn1-)
     made of metal and used to fasten things or make cages or fences etc (n#03625583)
     a metal conductor that carries electricity over a distance (n#03625791)
     a message transmitted by telegraph (n#04967816)
     the finishing line on a racetrack (n#06392183)
+
 TELEGRAPHIA (n) (n-s---fn1-)
     communicating at a distance by electric transmission over wire (n#04743789)
     the apparatus used to communicate at a distance over a wire (usually in Morse code) (n#03477807)
+
 TELEGRAPHICUS (a) (aps---mn1-)
     expressing much in few words; 'a concise explanation' (a#00512104)
     having the style of a telegram with many short words left out; 'telegraphic economy of words'; 'the strange telegraphic speech of some aphasics' (a#00513803)
     of or relating to or transmitted by telegraph; 'a telegraphic machine'; 'telegraphic news reports' (a#02688164)
+
 TELEGRAPHISTA (n) (n-s---fn1-)
     someone who transmits messages by telegraph (n#07633987)
+
 TELEGRAPHUM (n) (n-s---nn2-)
     communicating at a distance by electric transmission over wire (n#04743789)
     the apparatus used to communicate at a distance over a wire (usually in Morse code) (n#03477807)
+
 TELEHORASIS (n) (n-s---fn3-)
     broadcasting visual images of stationary or moving objects (n#04745188)
     the visible part of a television transmission; 'they could still receive the sound but the picture was gone' (n#04745386)
     a communication that transmits images of objects (stationary or moving) between distant points (n#03481385)
     a receiver that displays television images; 'the British call a tv set a telly' (n#03482557)
     the visual elements of television (n#03576706)
+
 TELEPATHIA (n) (n-s---fn1-)
     apparent communication from one mind to another without using sensory perceptions (n#05415214)
+
 TELEPHION (n) (n-s---nn2g)
+
 TELEPHONEMA (n) (n-s---fn1-)
     a conversation over the telephone (n#05342905)
     an instrument that converts sound into signals that can be transmitted over distances and then converts received signals back into sounds; 'I talked to him on the telephone' (n#03478277)
     transmitting speech at a distance (n#04742034)
     speech used for informal exchange of views (n#05337255)
+
 TELEPHONICUS (a) (aps---mn1-)
     of or relating to telephony; 'telephonic connection' (a#02859911)
+
 TELEPHONISTA (n) (n-s---fn1-)
     someone who owns or operates a business; 'who is the operator of this franchise?' (n#07444753)
     a speculator who trades aggressively on stock or commodity markets (n#07444889)
@@ -3306,41 +3652,55 @@ TELEPHONISTA (n) (n-s---fn1-)
     (informal) a shrewd or unscrupulous person who knows how to circumvent difficulties (n#07331860)
     an instrument that converts sound into signals that can be transmitted over distances and then converts received signals back into sounds; 'I talked to him on the telephone' (n#03478277)
     an agent that operates some apparatus or machine; 'the operator of the switchboard' (n#07444457)
+
 TELEPHONUM (n) (n-s---nn2-)
     a device for converting electric signals into sounds; it is held over or inserted into the ear; 'it was not the typing but the earphones that she disliked' (n#02619969)
     an instrument that converts sound into signals that can be transmitted over distances and then converts received signals back into sounds; 'I talked to him on the telephone' (n#03478277)
     transmitting speech at a distance (n#04742034)
     (linguistics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language (n#05321341)
+
 TELESCOPIUM (n) (n-s---nn2-)
     an area in which something acts or operates or has power or control: 'the range of a supersonic jet'; 'the ambit of municipal legislation'; 'within the compass of this article'; within the scope of an investigation'; 'outside the reach of the law'; 'in the political orbit of a world power' (n#03993027)
     the state of the environment in which a situation exists; 'you can't do that in a university setting' (n#10409788)
     an instrument that magnifies the image of distant objects (n#03480713)
     provides visual images of varying electrical quantities (n#03065395)
+
 TELESTINUS (a) (aps---mn1-)
+
 TELETA (n) (n-s---fn1-)
+
 TELETUS (n) (n-s---mn2-)
+
 TELEVISIFICUS (a) (aps---mn1-)
+
 TELEVISIO (n) (n-s---fn3-)
     broadcasting visual images of stationary or moving objects (n#04745188)
     the visible part of a television transmission; 'they could still receive the sound but the picture was gone' (n#04745386)
     a communication that transmits images of objects (stationary or moving) between distant points (n#03481385)
     a receiver that displays television images; 'the British call a tv set a telly' (n#03482557)
     the visual elements of television (n#03576706)
+
 TELEVISORIUM (n) (n-s---nn2-)
     broadcasting visual images of stationary or moving objects (n#04745188)
     the visible part of a television transmission; 'they could still receive the sound but the picture was gone' (n#04745386)
     a communication that transmits images of objects (stationary or moving) between distant points (n#03481385)
     a receiver that displays television images; 'the British call a tv set a telly' (n#03482557)
     the visual elements of television (n#03576706)
+
 TELICARDIOS (n) (n-s---fn2g)
+
 TELIGER (a) (aps---mn1r)
+
 TELINUM (n) (n-s---nn2-)
     any of various substances resembling cream that have a soothing effect when applied to the skin (n#02517559)
     annual herb or southern Europe and eastern Asia having off-white flowers and aromatic seeds used medicinally and in curry (n#08874840)
     aromatic seeds used as seasoning especially in curry (n#05851009)
     used for healing or soothing (n#03055972)
+
 TELIRRHIZOS (n) (n-s---fn2g)
+
 TELIS (n) (n-s---fn3i)
+
 TELLUS (n) (n-s---fn3-)
     the people of a nation or country or a community of persons bound by a common heritage; 'a nation of Catholics'; 'the whole country worshipped him' (n#06073126)
     the territory occupied by a nation; 'he returned to the land of his birth'; 'he visited several European countries' (n#06299747)
@@ -3354,15 +3714,20 @@ TELLUS (n) (n-s---fn3-)
     (archaic) once thought to be one of four elements composing the universe (n#10649081)
     a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography); 'it was a mountainous area'; 'Bible country' (n#06268839)
     a connection between an electrical device and the earth (which is a zero voltage) (n#02774628)
+
 TELLUSTER (a) (aps---mn3-)
+
 TELO (n) (n-s---mn3-)
     money collected under a tariff (n#09587324)
     a member of a police force; 'it was an accident, officer' (n#07485319)
     a person authorized to serve in a position of authority on a vessel; 'he is the officer in charge of the ship's engines' (n#07439700)
     any person in the armed services who holds a position of authority or command; 'an officer is responsible for the lives of his men' (n#07409838)
     someone who is appointed or elected to an office and who holds a position of trust; 'he is an officer of the court'; 'the club elected its officers for the coming year' (n#07439427)
+
 TELONARIUS (n) (n-s---mn2-)
+
 TELONEARIUS (n) (n-s---mn2-)
+
 TELONEUM (n) (n-s---nn2-)
     a piece of timber or metal fixed firmly in an upright position (n#03161694)
     a building where theatrical performances or motion-picture shows can be presented; 'the house was full' (n#03491295)
@@ -3388,14 +3753,18 @@ TELONEUM (n) (n-s---nn2-)
     the audience gathered together in a theatre or cinema; 'the house applauded'; 'he counted the house' (n#06104236)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
     the members of a religious community living together (n#06105815)
+
 TELONIALIS (a) (aps---cn3-)
+
 TELONIARIUS (n) (n-s---mn2-)
     a crater that has collected cosmic material hitting the earth (n#06731909)
     the electrode in a transistor through which a primary flow of carriers leaves the inter-electrode region (n#02470539)
     a person who collects things (e.g. stamps) as a hobby (n#07165763)
     a person who is employed to collect payments (as for rent or taxes) (n#07165543)
     money collected under a tariff (n#09587324)
+
 TELONICUS (a) (aps---mn1-)
+
 TELONIUM (n) (n-s---nn2-)
     the position where something or someone (as a guard or sentry) stands or is assigned to stand: 'a sentry station' (n#06354148)
     a piece of timber or metal fixed firmly in an upright position (n#03161694)
@@ -3415,6 +3784,7 @@ TELONIUM (n) (n-s---nn2-)
     money collected under a tariff (n#09587324)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
     aristocratic family line; 'the House of York' (n#05976484)
+
 TELUM (n) (n-s---nn2-)
     a long pointed rod used as a weapon (n#03378030)
     an implement with a shaft and barbed point used for catching fish (n#03378225)
@@ -3423,8 +3793,11 @@ TELUM (n) (n-s---nn2-)
     a means of persuading or arguing; 'he used all his conversational weapons' (n#05408794)
     a projectile that is fired from a gun (n#02350564)
     weaponry used in fighting or hunting; 'he was licensed to carry a weapon' (n#03601056)
+
 TEMERABILIS (a) (aps---cn3i)
+
 TEMERARIE (r) (rp--------)
+
 TEMERARIUS (a) (aps---mn1-)
     anything that happens by chance without an apparent cause (n#05443380)
     the actual state of things; 'that was not the case' (n#04481649)
@@ -3439,16 +3812,24 @@ TEMERARIUS (a) (aps---mn1-)
     None (n#N0002376)
     a special set of circumstances; 'in that event, the first possibility is excluded'; 'it may rain in which case the picnic will be canceled' (n#10047274)
     a single distinct event (n#05447746)
+
 TEMERATIO (n) (n-s---fn3-)
+
 TEMERATOR (n) (n-s---mn3-)
+
 TEMERATUS (a) (aps---mn1-)
+
 TEMERE (r) (rp--------)
     in a hasty and foolhardy manner; 'he fell headlong in love with his cousin' (r#00349083)
+
 TEMERITAS (n) (n-s---fn3-)
     the trait of giving little thought to danger (n#03674380)
     the trait of acting rashly and without prudence (n#03833126)
+
 TEMERITER (r) (rp--------)
+
 TEMERITUDO (n) (n-s---fn3-)
+
 TEMERO (v) (v1spia--1-)
     make dirty or spotty; also used metaphorically: 'The silver was tarnished by the long exposure to the air'; 'Her reputation was sullied after the affair with a married man' (v#01057983)
     place under suspicion or cast doubt upon; 'sully someone's reputation' (v#01058412)
@@ -3457,6 +3838,7 @@ TEMERO (v) (v1spia--1-)
     assault sexually; force to have sex (v#01750864)
     violate the sacred character of a place, such as a graveyard (v#01751013)
     fail to agree with; be in violation of; as of rules or patterns; 'He violated the agreement to stay away from his ex-wife'; 'You are breaking the law!' (v#01820618)
+
 TEMETUM (n) (n-s---nn2-)
     a liquor or brew containing alcohol as the active agent; 'alcohol (or drink) ruined him' (n#05910986)
     a single serving of a beverage; 'I asked for a hot drink'; 'likes a drink before dinner' (n#05911542)
@@ -3470,19 +3852,28 @@ TEMETUM (n) (n-s---nn2-)
     a liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process; 'waste liquors' (n#10721295)
     the liquid in which vegetables or meat have be cooked (n#05639490)
     made of fermented honey and water (n#05915535)
+
 TEMNIBILIS (a) (aps---cn3i)
+
 TEMNO (v) (v1spia--3-)
     look down on with disdain; 'He despises the people he has to work for'; 'The professor scorns the students who don't catch on immediately' (v#01211520)
     reject with contempt; 'She spurned his advances' (v#00541445)
+
 TEMO (n) (n-s---mn3-)
     a long (usually round) rod of wood or metal or plastic (n#03152394)
+
 TEMONARIUS (a) (aps---mn1-)
+
 TEMONARIUS (n) (n-s---mn2-)
+
 TEMPERACULUM (n) (n-s---nn2-)
+
 TEMPERAMENTUM (n) (n-s---nn2-)
     quality of being moderate and avoiding extremes (n#03988388)
     the trait of avoiding excesses (n#03825241)
+
 TEMPERANS (a) (aps---an3i)
+
 TEMPERANTER (r) (rp--------)
     without extravagance; 'these preferences are temperately stated' (r#00469596)
     with restraint; 'he used the privileges of his office temperately' (r#00469718)
@@ -3493,9 +3884,11 @@ TEMPERANTER (r) (rp--------)
     to a small degree or extent; 'his arguments were somewhat self-contradictory'; 'the children argued because one slice of cake was slightly larger than the other' (r#00035686)
     with good sense or in a reasonable or intelligent manner; 'he acted sensibly in the crisis'; 'speak more sanely about these affairs'; 'acted quite reasonably' (r#00212138)
     in a sparing manner; without overindulgence; 'he ate and drank abstemiously'; 'indulged temperately in cocktails' (r#00259984)
+
 TEMPERANTIA (n) (n-s---fn1-)
     quality of being moderate and avoiding extremes (n#03988388)
     the trait of avoiding excesses (n#03825241)
+
 TEMPERATE (r) (rp--------)
     without extravagance; 'these preferences are temperately stated' (r#00469596)
     with restraint; 'he used the privileges of his office temperately' (r#00469718)
@@ -3506,6 +3899,7 @@ TEMPERATE (r) (rp--------)
     to a small degree or extent; 'his arguments were somewhat self-contradictory'; 'the children argued because one slice of cake was slightly larger than the other' (r#00035686)
     with good sense or in a reasonable or intelligent manner; 'he acted sensibly in the crisis'; 'speak more sanely about these affairs'; 'acted quite reasonably' (r#00212138)
     in a sparing manner; without overindulgence; 'he ate and drank abstemiously'; 'indulged temperately in cocktails' (r#00259984)
+
 TEMPERATIO (n) (n-s---fn3-)
     the act of forming something; 'the constitution of a PTA group'; 'he still remembers the establishment of the hospital' (n#00154800)
     something that is created by arranging several things to form a unified whole; 'he envied the composition of their faculty' (n#02480311)
@@ -3583,12 +3977,15 @@ TEMPERATIO (n) (n-s---fn3-)
     a natural or acquired habit or characteristic tendency in a person or thing: 'a swelling with a disposition to rupture' (n#03866867)
     similarity by virtue of correspondence (n#03728635)
     harmonious arrangement or relation of parts or elements within a whole (as in a design): 'in all perfectly beautiful objects there is found the opposition of one part to another and a reciprocal balance'- John Ruskin (n#03962596)
+
 TEMPERATIVUS (a) (aps---mn1-)
+
 TEMPERATOR (n) (n-s---mn3-)
     a person who organizes (n#07448030)
     someone who enlists workers to join a union (n#07448137)
     a musician who adapts a composition for particular voices or instruments or for another style of performance (n#07084173)
     enables something to be used in a way different from that for which it was intended (n#02165316)
+
 TEMPERATURA (n) (n-s---fn1-)
     making or becoming a single unit; 'the union of opposing factions'; 'he looked forward to the unification of his family for the holidays' (n#00245212)
     the act of forming something; 'the constitution of a PTA group'; 'he still remembers the establishment of the hospital' (n#00154800)
@@ -3619,10 +4016,14 @@ TEMPERATURA (n) (n-s---fn1-)
     law determining the fundamental political principles of a government (n#04905119)
     the spatial property resulting from the arrangement of parts in relation to each other and to the whole; 'harmonious composition is essential in a serious work of art' (n#03962359)
     the act of bringing two things into contact (n#00094409)
+
 TEMPERATUS (a) (aps---mn1-)
     (of weather or climate) free from extremes; mild; or characteristic of such weather or climate; 'a temperate region'; 'the temperate zones'; 'temperate plants' (a#02287795)
+
 TEMPERATUS (n) (n-s---mn4-)
+
 TEMPERE (r) (rp--------)
+
 TEMPERI (r) (rp--------)
     a suitable moment; 'it is time to go' (n#10952869)
     a grammatical category of verbs used to express distinctions of time (n#04776611)
@@ -3637,18 +4038,23 @@ TEMPERI (r) (rp--------)
     some point or period in time; 'it should arrive any day now'; 'after that day she never trusted him again'; 'those were the days'; 'these days it is not unusual' (n#10851114)
     a major self-contained part of a symphony or sonata; 'the second movement is slow and melodic' (n#05283408)
     the meteorological conditions: temperature and wind and clouds and precipitation; 'they were hoping for good weather'; 'every day we have weather conditions and yesterday was no exception' (n#07847974)
+
 TEMPERIES (n) (n-s---fn5-)
     an event that combines things in a mixture; 'a gradual mixture of cultures' (n#05491211)
     the act of mixing; 'paste made by a mixture of flour and water' (n#00244416)
     due mingling, proper mixture, tempering, temperature, temper (n#L3127246)
+
 TEMPERIUS (r) (rp--------)
+
 TEMPERO (v) (v1spia--1-)
     combine into one; 'blend the nuts and raising together'; 'he blends in with the crowd'; 'We don't intermingle much' (v#01003383)
     mix together different elements; 'The colors blend well'; 'fuse the clutter of detail into a rich narrative'--A. Schlesinger (v#00274169)
     make more temperate, acceptable, or suitable by adding something else; moderate; 'she tempered her criticism' (v#00203187)
     restrain or temper (v#00139059)
     anneal or toughen by a process of gradually heating and cooling; 'temper glass' (v#00209167)
+
 TEMPEROR (v) (v1spid--1-)
+
 TEMPESTAS (n) (n-s---fn3-)
     a suitable moment; 'it is time to go' (n#10952869)
     a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightening (n#07803078)
@@ -3660,7 +4066,9 @@ TEMPESTAS (n) (n-s---fn3-)
     the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event (n#10861803)
     the meteorological conditions: temperature and wind and clouds and precipitation; 'they were hoping for good weather'; 'every day we have weather conditions and yesterday was no exception' (n#07847974)
     a period of the year marked by special events or activities in some field; 'he celebrated his 10th season with the ballet company' or 'she always looked forward to the avocado season' (n#10947841)
+
 TEMPESTILLUS (a) (aps---mn1-)
+
 TEMPESTIVE (r) (rp--------)
     at an opportune time; 'your letter arrived apropos' (r#00269117)
     in accordance with the season; 'it was seasonably cold' (r#00269257)
@@ -3677,25 +4085,38 @@ TEMPESTIVE (r) (rp--------)
     in the right manner; 'please do your job properly!' 'can't you carry me decent?' (r#00192828)
     an interjection expressing agreement (r#00146482)
     (Southern regional intensive) very; 'the baby is mighty cute'; 'he's mighty tired'; 'it is powerful humid'; 'that boy is powerful big now'; 'they have a right nice place' (r#00031391)
+
 TEMPESTIVITAS (n) (n-s---fn3-)
+
 TEMPESTIVO (r) (rp--------)
+
 TEMPESTIVUS (a) (aps---mn1-)
     suitable or at a time that is suitable or advantageous especially for a particular purpose; 'an opportune place to make camp'; 'an opportune arrival' (a#01602210)
     most suitable or right for a particular purpose; 'a good time to plant tomatoes'; 'the right time to act'; 'the time is ripe for great sociological changes' (a#01602469)
     fully developed or matured and ready to be eaten or used; 'ripe peaches'; 'full-bodies mature wines' (a#01431319)
+
 TEMPESTUOSUS (a) (aps---mn1-)
     (especially of weather) affected or characterized by storms or commotion; 'a stormy day'; 'wide and stormy seas' (a#00299112)
+
 TEMPESTUS (n) (n-s---fn3-)
+
 TEMPESTUS (a) (aps---mn1-)
+
 TEMPLARIS (a) (aps---cn3i)
+
 TEMPLATIM (r) (rp--------)
+
 TEMPLUM (n) (n-s---nn2-)
     an edifice for the worship of a deity (n#03483734)
     a sacred place of pilgrimage (n#06330112)
+
 TEMPORALIS (a) (aps---cn3i)
     not permanent; not lasting; 'politics is an impermanent factor of life'- James Thurber; 'impermanent palm cottages'; 'a temperary arrangement'; 'temporary housing' (a#01691661)
+
 TEMPORALITAS (n) (n-s---fn3-)
+
 TEMPORALITER (r) (rp--------)
+
 TEMPORANEUS (a) (aps---mn1-)
     in accord with accepted standards of usage or procedure; 'what's the right word for this?'; 'the right way to open oysters' (a#01807603)
     being or located on or directed toward the side of the body to the east when facing north; 'my right hand'; 'right center field'; 'a right-hand turn'; on the right when facing downstream; 'the right bank of the river' (a#01959343)
@@ -3765,10 +4186,14 @@ TEMPORANEUS (a) (aps---mn1-)
     (of events) planned or scheduled; 'the picnic is on, rain or shine'; 'we have nothing on for Friday night' (a#01591794)
     taking place; 'the parade is still happening' (a#01591967)
     socially right or correct; 'it isn't right to leave the party without saying goodbye'; 'correct behavior' (a#01807436)
+
 TEMPORARIE (r) (rp--------)
+
 TEMPORARIUS (a) (aps---mn1-)
     not permanent; not lasting; 'politics is an impermanent factor of life'- James Thurber; 'impermanent palm cottages'; 'a temperary arrangement'; 'temporary housing' (a#01691661)
+
 TEMPORATIM (r) (rp--------)
+
 TEMPORE (r) (rp--------)
     at an opportune time; 'your letter arrived apropos' (r#00269117)
     before the usual time or the time expected; 'she graduated early'; 'the house was completed ahead of time' (r#00097084)
@@ -3784,6 +4209,7 @@ TEMPORE (r) (rp--------)
     within an indefinite time or at an unspecified future time; 'he will understand eventually'; 'he longed for the flowers that were yet to show themselves'; 'sooner or later you will have to face the facts'; 'in time they came to accept the harsh reality' (r#00046129)
     after a long period of time or an especially long delay; 'at length they arrived' (r#00046728)
     without being tardy; 'we made it to the party in time' (r#00163930)
+
 TEMPORI (r) (rp--------)
     at an opportune time; 'your letter arrived apropos' (r#00269117)
     in accordance with the season; 'it was seasonably cold' (r#00269257)
@@ -3802,6 +4228,7 @@ TEMPORI (r) (rp--------)
     (Southern regional intensive) very; 'the baby is mighty cute'; 'he's mighty tired'; 'it is powerful humid'; 'that boy is powerful big now'; 'they have a right nice place' (r#00031391)
     in accordance with moral or social standards; 'that serves him right'; 'do right by him' (r#00201825)
     comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc; 'She had never sung better'; 'a deed better left undone'; 'better suited to the job' (r#00057550)
+
 TEMPORIVUS (a) (aps---mn1-)
     at or near the beginning of a period of time or course of events or before the usual or expected time; 'early morning'; 'an early warning'; 'early diagnosis'; 'an early death'; 'took early retirement'; 'an early spring'; 'early varieties of peas and tomatoes mature before most standard varieties' (a#00773513)
     having existed from the beginning; in an earliest or original stage or state; 'aboriginal forests'; 'primal eras before the appearance of life on earth'; 'the forest primeval'; 'primordial matter'; 'primordial forms of life' (a#00774150)
@@ -3840,37 +4267,49 @@ TEMPORIVUS (a) (aps---mn1-)
     further or added; 'called for additional troops'; 'need extra help'; 'an extra pair of shoes'; 'I have no other shoes'; 'there are other possibilities' (a#00048834)
     (used of living things especially persons) in an early period of life or development or growth; 'young people' (a#01587804)
     very young; 'at an early age' (a#01588864)
+
 TEMPTABUNDUS (a) (aps---mn1-)
     hard to endure; 'fell upon trying times' (a#00714270)
     not to your liking; 'a most disagreeable journey'; 'a disagreeable old man'; 'in a disagreeable mood' (a#00092592)
     extremely irritating to the nerves; 'nerve-racking noise'; 'the stressful days before a war'; 'a trying day at the office' (a#00093628)
     not easy; requiring great physical or mental effort to accomplish or comprehend or endure; 'a difficult task'; 'nesting places on the cliffs are difficult of access'; 'difficult times'; 'a difficult child'; 'found himself in a difficult situation'; 'why is it so hard for you to keep a secret?' (a#00710342)
+
 TEMPTAMEN (n) (n-s---nn3-)
     earnest and conscientious activity intended to do or accomplish something: 'made an effort to cover all the reading material'; 'wished him luck in his endeavor'; 'she gave it a good try' (n#00503611)
     the act of undergoing testing; 'he survived the great test of battle'; 'candidates must compete in a trial of skill' (n#00508046)
     trying something to find out about it; 'a sample for ten days free trial'; 'a trial of progesterone failed to relieve the pain' (n#04469208)
     an analytic or interpretive literary composition (n#04830849)
+
 TEMPTAMENTUM (n) (n-s---nn2-)
     earnest and conscientious activity intended to do or accomplish something: 'made an effort to cover all the reading material'; 'wished him luck in his endeavor'; 'she gave it a good try' (n#00503611)
     the act of undergoing testing; 'he survived the great test of battle'; 'candidates must compete in a trial of skill' (n#00508046)
     trying something to find out about it; 'a sample for ten days free trial'; 'a trial of progesterone failed to relieve the pain' (n#04469208)
     an analytic or interpretive literary composition (n#04830849)
+
 TEMPTATIO (n) (n-s---fn3-)
     trying something to find out about it; 'a sample for ten days free trial'; 'a trial of progesterone failed to relieve the pain' (n#04469208)
     the act of undergoing testing; 'he survived the great test of battle'; 'candidates must compete in a trial of skill' (n#00508046)
     the desire to have or do something that you know you should avoid; 'he felt the temptation and his will power weakened' (n#05564760)
+
 TEMPTATOR (n) (n-s---mn3-)
     a confident assertive person who acts as instigator (n#07068013)
     a person who tempts others; 'Satan is the great tempter of mankind' (n#07635765)
     someone who attacks (n#07090487)
+
 TEMPTATRIX (n) (n-s---fn3-)
+
 TEMPTATUS (a) (aps---mn1-)
+
 TEMPTENTABUNDUS (a) (aps---mn1-)
+
 TEMPTO (v) (v1spia--1-)
     test or examine for the presence of disease or infection; 'screen the blood for the HIV virus' (v#01726778)
     test the limits of; 'You are trying my patience!' (v#01226967)
+
 TEMPTOR (n) (n-s---mn3-)
+
 TEMPULUM (n) (n-s---nn2-)
+
 TEMPUS (n) (n-s---nn3-)
     a suitable moment; 'it is time to go' (n#10952869)
     a period of time considered as a resource under your control and sufficient to accomplish something; 'take time to smell the roses'; 'I didn't have time to finish'; 'it took more than half my time' (n#10969191)
@@ -3884,15 +4323,23 @@ TEMPUS (n) (n-s---nn3-)
     the meteorological conditions: temperature and wind and clouds and precipitation; 'they were hoping for good weather'; 'every day we have weather conditions and yesterday was no exception' (n#07847974)
     a recurrent time marked by major holidays; 'it was the Christmas season' (n#10947554)
     a period of the year marked by special events or activities in some field; 'he celebrated his 10th season with the ballet company' or 'she always looked forward to the avocado season' (n#10947841)
+
 TEMPUSCULUM (n) (n-s---nn2-)
+
 TEMTOR (n) (n-s---mn3-)
+
 TEMULENTER (r) (rp--------)
+
 TEMULENTIA (n) (n-s---fn1-)
     a temporary state resulting from excessive consumption of alcohol (n#10097920)
+
 TEMULENTUS (a) (aps---mn1-)
     given to or marked by the consumption of alcohol; 'a bibulous fellow'; 'a bibulous evening'; 'his boozy drinking companions'; 'thick boozy singing'; 'a drunken binge'; 'two drunken gentleman holding each other up'; 'sottish behavior' (a#00760549)
+
 TENACES (n) (n-p---mn3i)
+
 TENACIA (n) (n-s---fn1-)
+
 TENACITAS (n) (n-s---fn3-)
     a favorable judgment; 'a small token in admiration of your works' (n#00790504)
     persistent determination (n#03811466)
@@ -3951,6 +4398,7 @@ TENACITAS (n) (n-s---fn3-)
     the part of an object designed to be held in order to use or move it (n#02792702)
     an indicator points to the north (n#02479302)
     used for drawing circles (n#02479442)
+
 TENACITER (r) (rp--------)
     in a confident and unselfconscious manner; 'he acts very securely in fron of the camera' (r#00372292)
     indulging excessively; 'he drank heavily' (r#00172662)
@@ -3970,18 +4418,22 @@ TENACITER (r) (rp--------)
     in a tight or constricted manner' 'a tightly packed pub' (r#00294308)
     in an invulnerable manner; 'the agreed line was to involve at several points the withdrawal of French troops from positions which they had quite securely held' (r#00371653)
     in a manner free from fear or risk; 'the outcome of expansion in the sixties and seventies will be an academic hierarchy securely supported by scholastic selection' (r#00371867)
+
 TENACULUM (n) (n-s---nn2-)
     the means whereby something is accomplished; 'my greed was the instrument of my destruction' or 'science has given us new tools to fight disease' (n#00112599)
     a device that requires skill for proper use (n#02859502)
     a document that states some contractual relationship or grants some right (n#04864856)
     a person used by another to gain an end (n#07341253)
+
 TENAX (a) (aps---an3-)
     tenaciously unwilling or marked by tenacious unwillingness to yield (a#02216003)
     (biology) retained; not shed; 'persistent leaves remain attached past maturity'; 'the persistent gills of fishes' (a#01694088)
+
 TENDICULA (n) (n-s---fn1-)
     a trap for birds or small mammals; often has a noose (n#03360120)
     something (often something deceptively attractive) that catches you unawares; 'the exam was full of trap questions'; 'it was all a snare and delusion' (n#04495302)
     a device in which something (usually an animal) can be caught and penned (n#03533110)
+
 TENDO (v) (v1spia--3-)
     spread out or open from a folded state; 'open the map' (v#01087519)
     distribute over a surface in a layer; 'bread cheese on a piece of bread' (v#01110468)
@@ -3990,8 +4442,11 @@ TENDO (v) (v1spia--3-)
     extend out and forward, as of a limb; 'He held out his hand'; 'point a finger'; 'extend a hand' (v#00019475)
     become distributed or widespread; 'the infection spread'; 'Optimism spread among the population' (v#00945851)
     stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; 'Service runs all the way to Cranbury'; 'His knowledge doesn't go very far'; 'My memory extends back to my fourth year of life'; 'The facts extend beyond a consideration of her personal assets' (v#01832891)
+
 TENDOR (n) (n-s---mn3-)
+
 TENEBELLAE (n) (n-p---fn1-)
+
 TENEBRA (n) (n-s---fn1-)
     the intersection of two streets; 'standing on the corner watching all the girls go by' (n#02501820)
     (architecture) solid exterior angle of a building; especially one formed by a cornerstone (n#02501991)
@@ -4049,6 +4504,7 @@ TENEBRA (n) (n-s---fn1-)
     the point where two lines meet or intersect; 'the corners of a rectangle' (n#06299227)
     a place off to the side of an area; 'he tripled to the rightfield corner'; 'he glanced out of the corner of his eye' (n#06299371)
     a remote area; 'in many corners of the world they still practice slavery' (n#06299540)
+
 TENEBRAE (n) (n-p---fn1-)
     absence of moral or spiritual values; 'the powers of darkness' (n#10442294)
     an unilluminated area; 'he moved off into the darkness' (n#06367601)
@@ -4077,7 +4533,9 @@ TENEBRAE (n) (n-p---fn1-)
     an atmosphere of depression and melancholy; 'gloom pervaded the office' (n#10418027)
     the time after sunset and before sunrise while it is dark outside (n#10885886)
     a manner that is serious and solemn (n#03664048)
+
 TENEBRARIUS (a) (aps---mn1-)
+
 TENEBRASCO (v) (v1spia--3-)
     develop and reach maturity; undergo maturation; 'He matured fast'; 'The child grew fast' (v#00170705)
     pass into a condition gradually, become;'The weather turned nasty'; 'She grew angry' (v#00083639)
@@ -4093,7 +4551,9 @@ TENEBRASCO (v) (v1spia--3-)
     cause to grow or develop: 'He grows vegetables in his backyard' (v#00167804)
     come into existence or develop: 'A new religious movement originated in that country' 'a love that sprang up from friendship,' 'the idea for the book grew out of a short story' (v#01790203)
     enter or assume a certain state or condition; 'He became annoyed when he heard the bad news'; 'It must be getting more serious'; 'her face went red with anger'; 'She went into ecstasy'; 'Get going!' (v#00101662)
+
 TENEBRATIO (n) (n-s---fn3-)
+
 TENEBRESCO (v) (v1spia--3-)
     enter or assume a certain state or condition; 'He became annoyed when he heard the bad news'; 'It must be getting more serious'; 'her face went red with anger'; 'She went into ecstasy'; 'Get going!' (v#00101662)
     come into existence or develop: 'A new religious movement originated in that country' 'a love that sprang up from friendship,' 'the idea for the book grew out of a short story' (v#01790203)
@@ -4109,8 +4569,11 @@ TENEBRESCO (v) (v1spia--3-)
     become attached by or as if by the process of growth; 'The tree trunks had grown together' (v#00170955)
     pass into a condition gradually, become;'The weather turned nasty'; 'She grew angry' (v#00083639)
     come into existence; 'What becomes has duration' (v#01789797)
+
 TENEBRICO (v) (v1spia--1-)
+
 TENEBRICOSITAS (n) (n-s---fn3-)
+
 TENEBRICOSUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     make or become black; 'The smoke blackened the ceiling'; 'The ceiling blackened' (v#00192201)
@@ -4383,6 +4846,7 @@ TENEBRICOSUS (a) (aps---mn1-)
     constituting the full quantity or extent; complete; 'an entire town devastated by an earthquake'; 'gave full attention'; 'a total failure' (a#00481645)
     make less lively or vigorous; 'Middle age dulled her appetite for travel' (v#00271540)
     become dull or lusterless in appearance; lose shine or brightness, as of a varnished surface (v#00271839)
+
 TENEBRICUS (a) (aps---mn1-)
     characterized by profanity or cursing; 'foul-mouthed and blasphemous'; 'blue language'; 'profane words' (a#00395320)
     not enlightened; ignorant; 'the devices by which unenlightened men preserved the unjust social order' (a#00841060)
@@ -4487,14 +4951,21 @@ TENEBRICUS (a) (aps---mn1-)
     sad beyond comforting; incapable of being consoled; 'inconsolable when her son died' (a#01181371)
     thickly covered with ingrained dirt or soot; 'a miner's begrimed face'; 'dingy linen'; 'grimy hands'; 'grubby little fingers'; 'a grungy kitchen' (a#00391672)
     soiled with dirt or soot; 'with feet black from playing outdoors'; 'his shirt was black within an hour' (a#00392172)
+
 TENEBRIO (n) (n-s---fn3-)
+
 TENEBRO (v) (v1spia--1-)
     become dark or darker; 'The sky darkened' (v#00216063)
     make dark or darker; 'darken a room' (v#00215332)
+
 TENEBROSE (r) (rp--------)
+
 TENEBROSITAS (n) (n-s---fn3-)
+
 TENEBROSUM (n) (n-s---nn2-)
+
 TENEBROSUS (n) (n-s---mn2-)
+
 TENEBROSUS (a) (aps---mn1-)
     characterized by profanity or cursing; 'foul-mouthed and blasphemous'; 'blue language'; 'profane words' (a#00395320)
     not enlightened; ignorant; 'the devices by which unenlightened men preserved the unjust social order' (a#00841060)
@@ -4599,6 +5070,7 @@ TENEBROSUS (a) (aps---mn1-)
     sad beyond comforting; incapable of being consoled; 'inconsolable when her son died' (a#01181371)
     thickly covered with ingrained dirt or soot; 'a miner's begrimed face'; 'dingy linen'; 'grimy hands'; 'grubby little fingers'; 'a grungy kitchen' (a#00391672)
     soiled with dirt or soot; 'with feet black from playing outdoors'; 'his shirt was black within an hour' (a#00392172)
+
 TENELLULUS (a) (aps---mn1-)
     tolerant or lenient; 'indulgent parents risk spoiling their children'; 'procedures are lax and discipline is weak'; 'too soft on the children' (a#01698642)
     having little impact; 'an easy pat on the shoulder'; 'gentle rain'; 'a gentle breeze'; 'a soft (or light) tapping at the window' (a#01142598)
@@ -4679,6 +5151,7 @@ TENELLULUS (a) (aps---mn1-)
     given to or marked by sentiment or sentimentality (a#02329399)
     used chiefly as a direction or description in music; 'the piano passages in the composition' (a#01398621)
     (informal) roused to anger; 'stayed huffy a good while'- Mark Twain; 'she gets mad when you wake her up so early'; 'mad at his friend'; 'sore over a remark' (a#00118531)
+
 TENELLUS (a) (aps---mn1-)
     susceptible to criticism or persuasion or temptation; 'vulnerable to bribery'; 'an argument vulnerable to refutation' (a#02251716)
     characterized by strong enthusiasm; 'ardent revolutionaries'; 'warm support' (a#00842889)
@@ -4725,6 +5198,7 @@ TENELLUS (a) (aps---mn1-)
     showing a care; 'a caring mother' (a#02329300)
     given to or marked by sentiment or sentimentality (a#02329399)
     (informal) roused to anger; 'stayed huffy a good while'- Mark Twain; 'she gets mad when you wake her up so early'; 'mad at his friend'; 'sore over a remark' (a#00118531)
+
 TENEMENTUM (n) (n-s---nn2-)
     the land on which real estate is located; 'he built the house on land leased from the city' (n#09533607)
     the people of a nation or country or a community of persons bound by a common heritage; 'a nation of Catholics'; 'the whole country worshipped him' (n#06073126)
@@ -4740,6 +5214,7 @@ TENEMENTUM (n) (n-s---nn2-)
     extensive landed property (especially in the country) retained by the owner for his own use; 'the family owned a large estate on Long Island' (n#09530909)
     working the land as an occupation or way of life; 'farming is a strenuous life'; 'there's no work on the land any more' (n#00287951)
     a domain in which something is dominant; 'the untroubled kingdom of reason'; 'a land of make-believe'; 'the rise of the realm of cotton in the south' (n#10411125)
+
 TENEO (v) (v1spia--2-)
     keep in one's possession (v#01560310)
     hold on to (v#01560555)
@@ -4770,11 +5245,13 @@ TENEO (v) (v1spia--2-)
     celebrate, as of holidays or rites; 'Keep the commandments'; 'celebrate Christmas'; 'Observe Yom Kippur' (v#01757957)
     conform one's action or practice to; of appointments, promises, conditions, etc. (v#01758181)
     keep in perfect or unaltered condition; 'We preserve these archeological findings' (v#01558731)
+
 TENER (a) (aps---mn1r)
     not fully developed or mature; 'unripe fruit'; 'fried green tomatoes' (a#01431944)
     exquisitely fine and subtle and pleasing; susceptible to injury; 'a delicate violin passage'; 'delicate china'; 'a delicate flavor'; 'the delicate wing of a butterfly' (a#00671354)
     physically weak; 'an invalid's frail body' (a#01966361)
     easily broken or damaged or destroyed; 'a kite too delicate to fly safely'; 'fragile porcelain plates'; 'fragile old bones'; 'a frail craft' (a#00674840)
+
 TENERASCO (v) (v1spia--3-)
     develop and reach maturity; undergo maturation; 'He matured fast'; 'The child grew fast' (v#00170705)
     pass into a condition gradually, become;'The weather turned nasty'; 'She grew angry' (v#00083639)
@@ -4790,6 +5267,7 @@ TENERASCO (v) (v1spia--3-)
     make tender or more tender; 'tenderize meat' (v#00358964)
     offer or present for acceptance (v#01570585)
     make a tender of; in legal settlements (v#01570483)
+
 TENERE (r) (rp--------)
     deprive of freedom; take into confinement (v#01700118)
     reach a destination, either real or abstract; 'We hit Detroit by noon'; 'The water reached the doorstep'; 'We barely made the plane'; 'I have to hit the MAC machine before the weekend starts' (v#01379952)
@@ -5358,11 +5836,16 @@ TENERE (r) (rp--------)
     provide entertainment for (v#01698431)
     fasten with a buckle or buckles (v#01066003)
     fasten with or as if with a brooch (v#01066254)
+
 TENERESCO (v) (v1spia--3-)
+
 TENERI (n) (n-p---mn2-)
+
 TENERITAS (n) (n-s---fn3-)
     the property of giving little resistance to pressure (n#03863106)
+
 TENERITER (r) (rp--------)
+
 TENERITUDO (n) (n-s---fn3-)
     the time of life between childhood and maturity (n#10871133)
     a relaxed comfortable feeling (n#05587782)
@@ -5394,10 +5877,15 @@ TENERITUDO (n) (n-s---fn3-)
     relatively small dimension through an object as opposed to its length or width: 'the tenuity of a hair'; 'the thinness of a rope' (n#03981336)
     a rarified quality: 'the tenuity of the upper atmosphere' (n#03866109)
     the state of being covered with unclean things (n#10400980)
+
 TENEROSITAS (n) (n-s---fn3-)
+
 TENERULUS (a) (aps---mn1-)
+
 TENESMOS (n) (n-s---mn2g)
+
 TENESMUS (n) (n-s---mn2-)
+
 TENETURA (n) (n-s---fn1-)
     a duty that is incumbent upon you (n#00733157)
     a construct whereby objects or individuals can be distinguished; 'self-confidence is not an endearing property' (n#04503850)
@@ -5413,18 +5901,24 @@ TENETURA (n) (n-s---fn1-)
     any movable articles or objects used on the set of a play or movie; 'before every scene he ran down his checklist of props' (n#03178845)
     the power of retaining liquid: 'moisture retentivity of soil' (n#03866455)
     the term during which some position is held (n#10984112)
+
 TENILUDIUM (n) (n-s---nn2-)
     a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court (n#00307617)
+
 TENILUDIUS (n) (n-s---mn2-)
     a person who participates in or is skilled at some game (n#07480903)
     a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court (n#00307617)
     someone who plays a musical instrument (as a profession) (n#07424573)
     an athlete who plays tennis (n#07636800)
     a theatrical performer (n#07061094)
+
 TENISIA (n) (n-s---fn1-)
     a game played with rackets by two or four players who hit a ball back and forth over a net that divides the court (n#00307617)
+
 TENNO (v) (v1spia--3-)
+
 TENON (n) (n-s---mn3i)
+
 TENOR (n) (n-s---mn3-)
     a linear string of words expressing some idea; 'the letter consisted of three short lines' (n#05261047)
     a general tendency as of opinion: 'not openly liberal but that is the tendency of the book' (n#04698745)
@@ -5528,6 +6022,7 @@ TENOR (n) (n-s---mn3-)
     a state of extreme difficulty: 'he presided over the economy during the period of the greatest stress and danger'- R.J.Samuelson (n#10340571)
     an effortful attempt to attain a goal (n#00505681)
     a course over which races are run (n#03199185)
+
 TENORISTA (n) (n-s---fn1-)
     a lineage or race of people (n#03852666)
     injury to a muscle (often caused by overuse); results in swelling and pain (n#10265132)
@@ -5544,16 +6039,24 @@ TENORISTA (n) (n-s---fn1-)
     an intense or violent exertion (n#00411516)
     an effortful attempt to attain a goal (n#00505681)
     a succession of notes forming a distinctive sequence; 'she was humming an air from Beethoven' (n#05270417)
+
 TENSA (n) (n-s---fn1-)
     a light four-wheeled horse-drawn ceremonial carriage (n#02424178)
+
 TENSIBILIS (a) (aps---cn3i)
+
 TENSIO (n) (n-s---fn3-)
+
 TENSURA (n) (n-s---fn1-)
+
 TENSUS (a) (aps---mn1-)
+
 TENTA (n) (n-p---nn2-)
+
 TENTABUNDUS (a) (aps---mn1-)
     each and all of a series of entities or intervals as specified; 'every third seat'; 'every two hours' (a#02160530)
     (used of count nouns) each and all of the members of a group considered singly and without exception; 'every person is mortal'; 'every party is welcome'; 'had every hope of success'; 'every chance of winning' (a#02160157)
+
 TENTAMEN (n) (n-s---nn3-)
     the trait of being highly motivated; 'his drive and energy exhausted his co-workers' (n#03790494)
     a justification for something existing or happening; 'he had no cause to complain'; 'they had good reason to rejoice' (n#05051824)
@@ -5603,6 +6106,7 @@ TENTAMEN (n) (n-s---nn3-)
     condensation of moisture on a cold surface; 'the cold glasses were streaked with sweat' (n#07790404)
     a physiological state corresponding to a strong need or desire (n#10110247)
     any entity that causes events to happen (n#00003731)
+
 TENTAMENTUM (n) (n-s---nn2-)
     the act of testing something; 'in the experimental trials the amount of carbon was measured separately'; 'he called each flip of the coin a new trial' (n#00507777)
     the act of undergoing testing; 'he survived the great test of battle'; 'candidates must compete in a trial of skill' (n#00508046)
@@ -5644,6 +6148,7 @@ TENTAMENTUM (n) (n-s---nn2-)
     an unbroken series of events: 'a succession of failures'; 'had a streak of bad luck'; 'Nicklaus had a run of birdies' (n#06248399)
     the act of running; traveling on foot at a fast pace; 'he broke into a run'; 'his daily run keeps him fit' (n#00190535)
     a football play in which a player runs with the ball; 'the defensive line braced to stop the run'; 'the coach put great emphasis on running' (n#00365145)
+
 TENTATIO (n) (n-s---fn3-)
     the act of testing something; 'in the experimental trials the amount of carbon was measured separately'; 'he called each flip of the coin a new trial' (n#00507777)
     the act of undergoing testing; 'he survived the great test of battle'; 'candidates must compete in a trial of skill' (n#00508046)
@@ -5672,8 +6177,11 @@ TENTATIO (n) (n-s---fn3-)
     an unbroken series of events: 'a succession of failures'; 'had a streak of bad luck'; 'Nicklaus had a run of birdies' (n#06248399)
     the act of running; traveling on foot at a fast pace; 'he broke into a run'; 'his daily run keeps him fit' (n#00190535)
     a football play in which a player runs with the ball; 'the defensive line braced to stop the run'; 'the coach put great emphasis on running' (n#00365145)
+
 TENTATOR (n) (n-s---mn3-)
+
 TENTATRIX (n) (n-s---fn3-)
+
 TENTIGO (n) (n-s---fn3-)
     a balance between and interplay of opposing elements or tendencies (especially in art or literature); 'there is a tension created between narrative time and movie time'; 'there is a tension between these approaches to understanding history' (n#10087944)
     a state of extreme difficulty: 'he presided over the economy during the period of the greatest stress and danger'- R.J.Samuelson (n#10340571)

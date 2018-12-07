@@ -1,14 +1,20 @@
 Latin WordNet 2.0
 Lemmas - Z
 
+
 ZABERNA (n) (n-s---fn1-)
+
 ZABOLICUS (a) (aps---mn1-)
+
 ZABULUS (n) (n-s---mn2-)
     one of the evil spirits of traditional Jewish and Christian belief (n#06893775)
     a cruel wicked and inhuman person (n#07418621)
     a word used in exclamations of confusion; 'what the devil' or 'the deuce with it' or 'the dickens you say' (n#05331986)
+
 ZACON (n) (n-s---mn3-)
+
 ZACONUS (n) (n-s---mn2-)
+
 ZAETA (n) (n-s---fn1-)
     education imparted in a series of lessons or class meetings; 'he took a course in basket weaving'; 'flirting is not unknown in college classes' (n#00568196)
     a connected series of events or actions or developments; 'the government took a firm course' or 'historians can only point out those lines for which evidence is available' (n#06249735)
@@ -80,7 +86,9 @@ ZAETA (n) (n-s---fn1-)
     how a result is obtained or an end is achieved; 'a means of communcation'; 'an example is the best agency of instruction'; 'the true way to success' (n#00111872)
     direction or advice as to a decision or course of action (n#04987402)
     a general category of things; used in the expression 'in the way of': 'they didn't have much in the way of clothing' (n#04496973)
+
 ZAEUS (n) (n-s---mn2-)
+
 ZAGON (n) (n-s---nn2-)
     the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians (n#10005664)
     a mark that is long relative to its width; 'He drew a line on the chart'; 'The substance produced characteristic lines on the spectroscope' (n#05092420)
@@ -123,6 +131,7 @@ ZAGON (n) (n-s---nn2-)
     railroad track and roadbed (n#02927421)
     a commercial organization serving as a common carrier (n#02927599)
     a particular kind of product; 'a nice line of shoes' (n#02927812)
+
 ZAGONUS (n) (n-s---mn2-)
     the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians (n#10005664)
     a mark that is long relative to its width; 'He drew a line on the chart'; 'The substance produced characteristic lines on the spectroscope' (n#05092420)
@@ -165,6 +174,7 @@ ZAGONUS (n) (n-s---mn2-)
     railroad track and roadbed (n#02927421)
     a commercial organization serving as a common carrier (n#02927599)
     a particular kind of product; 'a nice line of shoes' (n#02927812)
+
 ZAMIA (n) (n-s---fn1-)
     a symptom of reduced quality or strength (n#10441344)
     a football play that involves one player throwing the ball to a teammate; 'the coach sent in a passing play on third and long' (n#00366105)
@@ -248,10 +258,15 @@ ZAMIA (n) (n-s---fn1-)
     move out of; as of a room, a country, a bus, etc. (v#01376117)
     release something from a container (v#00984577)
     make available or free for sale or publication (v#01699581)
+
 ZANCA (n) (n-s---fn1-)
+
 ZANCHA (n) (n-s---fn1-)
+
 ZANGA (n) (n-s---fn1-)
+
 ZANTHENES (n) (n-s---mn3i)
+
 ZAPLUTUS (a) (aps---mn1-)
     characterized by reverberation; 'a resonant voice'; 'hear the rolling thunder' (a#01939548)
     propelling something on wheels (n#00077891)
@@ -275,7 +290,9 @@ ZAPLUTUS (a) (aps---mn1-)
     uttered with a trill; 'she used rolling r's as in Spanish' (a#01806546)
     the most common medium of exchange; functions as legal tender; 'we tried to collect the money he owed us' (n#09639711)
     the official currency issued by a government or national bank; 'he changed his money into francs' (n#09639977)
+
 ZATHENE (n) (n-s---fn1g)
+
 ZEA (n) (n-s---fn1-)
     hard red wheat grown especially in Russia and Germany; in United States as stock feed (n#08449649)
     dry seedlike fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn (n#08462710)
@@ -289,11 +306,16 @@ ZEA (n) (n-s---fn1-)
     annual or biennial grass having erect flower spikes and light brown grains (n#08448511)
     1/60 dram; equals an avoirdupois grain or 64.799 milligrams (n#09878319)
     the direction or texture of fibers found in wood or leather or stone or in a woven fabric: 'saw the board across the grain' (n#03871821)
+
 ZEBRA (n) (n-s---fn1-)
     any of several fleet black-and-white striped African equines (n#01888564)
+
 ZELANTER (r) (rp--------)
+
 ZELATOR (n) (n-s---mn3-)
+
 ZELIVIRA (n) (n-s---fn1-)
+
 ZELO (v) (v1spia--1-)
     a fundamental feeling that is hard to define but that people desire to experience; 'he was tingling with pleasure' (n#05568771)
     a feeling of extreme pleasure or satisfaction; 'his delight to see her was obvious to all' (n#05569060)
@@ -339,13 +361,20 @@ ZELO (v) (v1spia--1-)
     have life, be alive; 'Our great leader is no more' (v#01782836)
     move toward, travel toward something or somebody or approach something or somebody; 'He came singing down the road'; 'Come with me to the Casbah'; 'come down here!'; 'come out of the closet!'; 'come into the room' (v#01262658)
     be identical to; be someone or something, as in 'The president of the company is John Smith'; 'This is my house' (v#01784339)
+
 ZELOR (v) (v1spid--1-)
+
 ZELOTES (n) (n-s---mn1g)
+
 ZELOTICUS (a) (aps---mn1-)
+
 ZELOTIPUS (a) (aps---mn1-)
+
 ZELOTYPA (n) (n-s---fn1-)
+
 ZELOTYPIA (n) (n-s---fn1-)
     a feeling of jealous envy (especially of a rival) (n#05612865)
+
 ZELOTYPUS (a) (aps---mn1-)
     having or showing distrust; 'a man of distrustful nature'; 'my experience...in other fields of law has made me distrustful of rules of thumb generally'- B.N.Cardozo; 'vigilant and distrustful superintendence'- Thomas Jefferson (a#02344540)
     suspicious or unduly suspicious or fearful of being displaced by a rival; 'a jealous lover' (a#02345311)
@@ -353,13 +382,17 @@ ZELOTYPUS (a) (aps---mn1-)
     having or expressing desire for something; 'desirous of high office'; 'desirous of finding a quick solution to the problem' (a#00844381)
     showing extreme cupidity; painfully desirous of another's advantages; 'he was never covetous before he met her'; 'jealous of his success and covetous of his possessions'; 'envious of their art collection' (a#00845237)
     that feels envy of another's possessions (a#02023897)
+
 ZELOTYPUS (n) (n-s---mn2-)
+
 ZELUS (n) (n-s---mn2-)
     a feeling of strong eagerness (usually in favor of a person or cause); 'they were imbued with a revolutionary ardor'; 'he felt a kind of religious zeal' (n#05616909)
     feelings of great warmth and intensity; 'he spoke with great ardor' (n#05561864)
     excessive fervor to do something or accomplish some end; 'he had an absolute zeal for litigation' (n#05562060)
     a feeling of jealous envy (especially of a rival) (n#05612865)
+
 ZEMA (n) (n-s---nn3-)
+
 ZENODOCHIUM (n) (n-s---nn2-)
     a medical institution where sick or injured people are given medical or surgical care (n#06002864)
     any of various native American dwellings (n#02938373)
@@ -379,8 +412,11 @@ ZENODOCHIUM (n) (n-s---nn2-)
     inexpensive supervised lodging (especially for youths on bicycling trips) (n#02835270)
     a hotel for travelers (n#02835429)
     where you live; 'deliver the package to my home'; 'he doesn't have a home to go to'; 'your place or mine?' (n#06309747)
+
 ZEPHYRIUS (a) (aps---mn1-)
+
 ZEROS (n) (n-s---mn2g)
+
 ZEROTICUS (a) (aps---mn1-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     indicating the absence of any or all units under consideration; 'a zero score' (a#02098747)
@@ -388,6 +424,7 @@ ZEROTICUS (a) (aps---mn1-)
     having no measurable or otherwise determinable value; 'the goal is zero population growth' (a#02159337)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
     indicating an initial point or origin (a#02104717)
+
 ZERUM (n) (n-s---nn2-)
     a mathematical element that when added to another number yields the same number (n#09894639)
     a message written in a secret code (n#04951064)
@@ -397,6 +434,7 @@ ZERUM (n) (n-s---nn2-)
     a secret method of writing (n#04791545)
     nothing (as used by a sheriff after an unsuccessful effort to serve a writ: 'nihil habet') (n#09893668)
     a person of no influence (n#07157403)
+
 ZETA (n) (n-s---nn3-)
     education imparted in a series of lessons or class meetings; 'he took a course in basket weaving'; 'flirting is not unknown in college classes' (n#00568196)
     a connected series of events or actions or developments; 'the government took a firm course' or 'historians can only point out those lines for which evidence is available' (n#06249735)
@@ -468,6 +506,7 @@ ZETA (n) (n-s---nn3-)
     how a result is obtained or an end is achieved; 'a means of communcation'; 'an example is the best agency of instruction'; 'the true way to success' (n#00111872)
     direction or advice as to a decision or course of action (n#04987402)
     a general category of things; used in the expression 'in the way of': 'they didn't have much in the way of clothing' (n#04496973)
+
 ZETARIUS (n) (n-s---mn2-)
     an adult male person who has a manly character (virile and courageous competent); 'the army will make a man of you' (n#07392266)
     the generic use of the word to refer to any human being; 'it was every man for himself' (n#07392506)
@@ -483,41 +522,67 @@ ZETARIUS (n) (n-s---mn2-)
     any living or extinct member of the family Hominidae (n#01967203)
     an adult male person (as opposed to a woman); 'there were two women and six men on the bus' (n#07391044)
     (informal) a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman; 'she takes good care of her man' (n#07392045)
+
 ZETARIUS (a) (aps---mn1-)
+
 ZETEMA (n) (n-s---nn3-)
+
 ZETEMATIUM (n) (n-s---nn2-)
+
 ZEUGITAE (n) (n-p---mn1-)
+
 ZEUGITES (n) (n-s---mn1-)
+
 ZEUGMA (n) (n-s---nn3-)
+
 ZEUNITOR (n) (n-s---mn3-)
+
 ZEUS (n) (n-s---mn2-)
+
 ZEZIPARUM (n) (n-s---nn2-)
+
 ZIMMARRA (n) (n-s---fn1-)
     a garment size for a small person (n#03976234)
     an ankle-length black garment worn by priests or choristers (n#02401378)
     the slender part of the back (n#04306328)
     a strip of land projecting into a body of water (n#06746227)
     a sleeveless garment like cloak but shorter (n#02381581)
+
 ZIMPIBERI (n) (n-s---nn--)
+
 ZINGIBER (n) (n-s---nn3-)
     perennial plants having thick branching aromatic rhizomes and leafy reedlike stems (n#08658993)
     pungent rhizome of the common ginger plant; used fresh as a seasoning especially in Oriental cookery (n#05847903)
     liveliness and energy; 'this tonic is guaranteed to give you more pep' (n#03655600)
     dried ground gingerroot (n#05848126)
+
 ZINGIBERI (n) (n-s---nn--)
+
 ZINPIBERI (n) (n-s---nn--)
+
 ZINZALA (n) (n-s---fn1-)
+
 ZINZIBER (n) (n-s---nn3-)
+
 ZINZIBULO (v) (v1spia--1-)
+
 ZINZILO (v) (v1spia--1-)
+
 ZINZILULO (v) (v1spia--1-)
+
 ZINZIO (v) (v1spia--1-)
+
 ZINZITO (v) (v1spia--1-)
+
 ZINZITULO (v) (v1spia--1-)
+
 ZIRBUS (n) (n-s---mn2-)
+
 ZIZANIA (n) (n-s---fn1-)
     weedy annual grass often occurs in grainfields and other cultivated land; seeds sometimes considered poisonous (n#08431930)
+
 ZIZANIA (n) (n-p---nn2-)
+
 ZIZANIUM (n) (n-s---nn2-)
     weedy annual grass often occurs in grainfields and other cultivated land; seeds sometimes considered poisonous (n#08431930)
     a wild and uninhabited area (n#06391772)
@@ -531,6 +596,7 @@ ZIZANIUM (n) (n-s---nn2-)
     the act of swindling by some fraudulent scheme: 'that book is a fraud' (n#00498592)
     weedy annual native to Europe but widely distributed as a weed especially in wheat (n#08418023)
     common edible European bivalve mollusk having a rounded shell with radiating ribs (n#01472400)
+
 ZIZIPHUM (n) (n-s---nn2-)
     fruit-flavored jellied candy (n#05656622)
     a living organism lacking the power of locomotion (n#00008864)
@@ -539,8 +605,11 @@ ZIZIPHUM (n) (n-s---nn2-)
     dark red plum-like fruit of Old World buckthorn trees (n#05801559)
     buildings for carrying on industrial labor; 'they built a large plant to manufacture automobiles' (n#03138429)
     an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience (n#07480098)
+
 ZIZIPHUS (n) (n-s---fn2-)
+
 ZIZUFA (n) (n-p---nn2-)
+
 ZIZYFUM (n) (n-s---nn2-)
     fruit-flavored jellied candy (n#05656622)
     a living organism lacking the power of locomotion (n#00008864)
@@ -549,10 +618,15 @@ ZIZYFUM (n) (n-s---nn2-)
     dark red plum-like fruit of Old World buckthorn trees (n#05801559)
     buildings for carrying on industrial labor; 'they built a large plant to manufacture automobiles' (n#03138429)
     an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience (n#07480098)
+
 ZIZYPHUM (n) (n-s---nn2-)
+
 ZIZYPHUS (n) (n-s---fn2-)
+
 ZMARAGDINUS (a) (aps---mn1-)
+
 ZMARAGDITES (a) (aps---an3-)
+
 ZMARAGDUS (n) (n-s---mn2-)
     small pellets of ice that fall during a hailstorm (n#10703492)
     any of various leafy plants or their leaves and stems eaten as vegetables (n#05748390)
@@ -571,8 +645,11 @@ ZMARAGDUS (n) (n-s---mn2-)
     material consisting of the aggregate of minerals like those making up the Earth's crust (n#10534851)
     a piece of open land for recreational use in an urban area; 'they went for a walk in the park' (n#06347803)
     a piece of stone hewn in a definite shape for a special purpose; 'he wanted a special stone to mark the site' (n#03419235)
+
 ZMARAGDUS (n) (n-s---fn2-)
+
 ZMARIS (n) (n-s---fn3-)
+
 ZMEGMA (n) (n-s---nn3-)
     the process of heating to change something from a solid to a liquid; 'they welcomed the spring thaw' (n#09741527)
     the part of milk containing the butterfat (n#05878572)
@@ -597,30 +674,45 @@ ZMEGMA (n) (n-s---nn3-)
     any of various small butterflies of the family Lycaenidae having copper colored wings (n#01785087)
     preparatory school work done outside school (especially at home) (n#00469045)
     a reddish brown the color of polished copper (n#03887578)
+
 ZMILAMPIS (n) (n-s---mn3i)
+
 ZMINTHA (n) (n-s---fn1-)
+
 ZMYRNA (n) (n-s---fn1-)
     aromatic resin used in perfume and incense (n#10689595)
     aromatic resin burned as incense and used in perfume (n#08992578)
     fresh ferny leaves and green seeds used as garnish in salads and cold vegetables; dried seeds used in confectionery and liqueurs (n#05854198)
     European herb with soft ferny leaves and white flowers (n#09237878)
+
 ZMYRNIUM (n) (n-s---nn2-)
+
 ZMYRUS (n) (n-s---mn2-)
+
 ZODIACUS (n) (n-s---mn2-)
     a belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astrological purposes (n#06392984)
     (astrology) a circular diagram representing the 12 zodiacal constellations and showing their signs (n#03641944)
+
 ZODIACUS (a) (aps---mn1-)
+
 ZODIUM (n) (n-s---nn2-)
+
 ZOMOTEGANITE (n) (n-s---fn1g)
+
 ZONA (n) (n-s---fn1-)
     any of the regions of the surface of the Earth loosely divided according to latitude or longitude (n#06297080)
     a circumscribed geographical region characterized by some distinctive features (n#06395720)
     an area or region distinguished from adjacent parts by a distinctive feature or characteristic (n#06276601)
     a band to tie or buckle around the body (usually at the waist) (n#02280226)
+
 ZONALIS (a) (aps---cn3i)
+
 ZONARIUS (a) (aps---mn1-)
+
 ZONARIUS (n) (n-s---mn2-)
+
 ZONATIM (r) (rp--------)
+
 ZONULA (n) (n-s---fn1-)
     a path or strip (as cut by one course of mowing) (n#06710381)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
@@ -631,27 +723,41 @@ ZONULA (n) (n-s---fn1-)
     a band of material around the waist that strengthens a skirt or trousers (n#02755542)
     a woman's close-fitting foundation garment (n#02504878)
     an elongated region where a specific condition is found; 'a belt of high pressure' (n#06276818)
+
 ZOOLOGIA (n) (n-s---fn1-)
     the branch of biology that studies animals (n#04634808)
+
 ZOOLOGICUS (a) (aps---mn1-)
     of or relating to animals or animal groups; 'zoological garden' (a#02672833)
     concerning the study of animals and their classification and properties; 'zoological research' (a#02672953)
+
 ZOOPHORUS (n) (n-s---mn2-)
+
 ZOOPHTHALMON (n) (n-s---nn2-)
+
 ZOOPHTHALMOS (n) (n-s---fn2g)
+
 ZOPHORUS (n) (n-s---mn2-)
+
 ZOPISSA (n) (n-s---fn1-)
+
 ZOPYRON (n) (n-s---nn2g)
+
 ZOPYRONTION (n) (n-s---nn2g)
+
 ZORANISCAEOS (n) (n-s---fn2g)
+
 ZORANISCEOS (n) (n-s---mn2g)
+
 ZOSTER (n) (n-s---mn3-)
+
 ZOTHECA (n) (n-s---fn1-)
     an area within a building enclosed by walls and floor and ceiling; 'the rooms were very small but they had a nice view' (n#03250788)
     space for movement; 'room to pass'; 'make way for': 'hardly enough elbow room to turn around' (n#09922737)
     the people who are present in a room; 'the whole room was cheering' (n#05983036)
     an enlisted man of the lowest rank; 'our prisoner was just a private and knew nothing of value' (n#07501217)
     opportunity for; 'room for improvement' (n#10391618)
+
 ZOTHECULA (n) (n-s---fn1-)
     a small unit serving as the nucleus of a larger political movement (n#06189358)
     a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge; 'the plane went into a stall and I couldn't control it' (n#05454490)
@@ -674,10 +780,15 @@ ZOTHECULA (n) (n-s---fn1-)
     a small private room for study or prayer (n#02455005)
     a small room (or recess) or cabinet used for storage (n#02534044)
     the basic structural and functional unit of all organisms; cells may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals (n#00003095)
+
 ZUGON (n) (n-s---nn2g)
+
 ZUMA (n) (n-s---nn3-)
+
 ZURA (n) (n-s---fn1-)
+
 ZYGAENA (n) (n-s---fn1-)
+
 ZYGIA (n) (n-s---fn1-)
     a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown (n#02704985)
     None (n#N0001889)
@@ -686,8 +797,13 @@ ZYGIA (n) (n-s---fn1-)
     the syllable naming the the seventh (subtonic) note of any musical scale in solmization (n#05140084)
     someone who plays the flute (n#07269529)
     None (n#N0002449)
+
 ZYGIS (n) (n-s---fn3-)
+
 ZYGOSTASIUM (n) (n-s---nn2-)
+
 ZYGOSTATA (n) (n-s---mn1-)
+
 ZYGOSTATES (n) (n-s---mn1-)
+
 ZYTHUM (n) (n-s---nn2-)

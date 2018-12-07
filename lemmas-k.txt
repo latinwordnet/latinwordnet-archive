@@ -1,6 +1,7 @@
 Latin WordNet 2.0
 Lemmas - K
 
+
 KADAMITAS (n) (n-s---fn3-)
     a symptom of reduced quality or strength (n#10441344)
     a football play that involves one player throwing the ball to a teammate; 'the coach sent in a passing play on third and long' (n#00366105)
@@ -82,6 +83,7 @@ KADAMITAS (n) (n-s---fn3-)
     cost of bribing someone: 'they say that every politician has a price' (n#09577053)
     an event resulting in great loss and misfortune; 'the whole city was affected by the irremediable calamity'; 'the earthquake was a disaster' (n#05452645)
     a person with a record of failing (n#07382053)
+
 KALATOR (n) (n-s---mn3-)
     a person working in the service of another (n#07566572)
     a personal maid or female attendant (n#07309108)
@@ -93,7 +95,9 @@ KALATOR (n) (n-s---mn3-)
     in a subordinate position; 'theology should be the handmaiden of ethics'; 'the state cannot be a servant of the church' (n#10052725)
     a fee charged for work done (n#09591998)
     one who attends or waits on another (n#07090729)
+
 KALATORIUS (a) (aps---mn1-)
+
 KALENDARIUM (n) (n-s---nn2-)
     importance or value; 'a person of considerable account'; 'he predicted that although it is of small account now it will rapidly increase in importance' (n#04026081)
     a statement that explains; 'he launched into a detailed explanation'; 'he demanded that I give an account for my failure' (n#05050688)
@@ -117,6 +121,7 @@ KALENDARIUM (n) (n-s---nn2-)
     a major division of a long written composition; 'the book of Isaiah' (n#04820634)
     a written version of a play or other dramatic composition; used in preparing for a performance (n#05258732)
     a short account of the news; 'the report of his speech'; 'the story was on the 11 o'clock news'; 'the account of his speech that was given on the evening news made the governor furious' (n#05009327)
+
 KALO (v) (v1spia--1-)
     multiply (a number) by itself a specified number of times: 8 is 2 raised to the power 3 (v#00433445)
     insist on having one's opinions and rights recognized; 'Women should assert themselves more!' (v#01616630)
@@ -260,6 +265,7 @@ KALO (v) (v1spia--1-)
     annoy continually or chronically; 'He is known to harry his staff when he is overworked' (v#01221988)
     affirm or declare (v#00687592)
     advance evidence for (v#00686832)
+
 KALUMNIA (n) (n-s---fn1-)
     an identifying appellation signifying status or function: e.g. Mr. or General; 'the professor didn't like his friends to use his formal title' (n#04781609)
     a judgment by a higher court that the judgment of a lower court was correct and should stand (n#00767693)
@@ -328,6 +334,7 @@ KALUMNIA (n) (n-s---fn1-)
     a demand for a show of hands in a card game; 'after two raises there was a call' (n#05375610)
     a demand by a broker that a customer deposit enough to bring his margin up to the minimum requirement (n#05375760)
     activities that impart knowledge; 'he received no formal education' (n#00567704)
+
 KALUMNIATOR (n) (n-s---mn3-)
     the learned profession that is mastered by graduate study in a law school and that is responsible for the judicial system; 'he studied law at Yale' (n#00403152)
     the collection of rules imposed by authority; 'civilization presupposes respect for the law' (n#06243906)
@@ -343,10 +350,13 @@ KALUMNIATOR (n) (n-s---mn3-)
     a disputant who quibbles (n#07516979)
     a person (especially a lawyer or politician) who uses unscrupulous or unethical methods (n#07574014)
     the branch of philosophy concerned with the law (n#04680638)
+
 KALUMNIATRIX (n) (n-s---fn3-)
     someone who imputes guilt or blame (n#07059368)
     asserts a right or title (n#07158963)
+
 KALUMNIOR (v) (v1spid--1-)
+
 KAPITULARIUM (n) (n-s---nn2-)
     vertical space available to allow easy passage under something (n#09923216)
     knowledge and intellectual ability; 'he reads to improve his mind'; 'he has a keen intellect' (n#04351370)
@@ -449,6 +459,7 @@ KAPITULARIUM (n) (n-s---nn2-)
     a V-shaped mark at one end of an arrow pointer; 'the point of the arrow was due north' (n#05110203)
     a usually brief attempt; 'he took a crack at it'; 'I gave it a whirl' (n#00504966)
     the upper branches and leaves of a tree (n#09417961)
+
 KAPUT (n) (n-s---nn3-)
     one of the outstanding players in a tournament (n#07561913)
     vertical space available to allow easy passage under something (n#09923216)
@@ -701,6 +712,7 @@ KAPUT (n) (n-s---nn3-)
     a usually brief attempt; 'he took a crack at it'; 'I gave it a whirl' (n#00504966)
     (British) common sense; 'she has great social nous' (n#04348813)
     the award given to the champion (n#05028973)
+
 KARUS (a) (aps---mn1-)
     being on the left side; 'the near or nigh horse is the one on the left'; 'the animal's left side is its near or nigh side' (a#01960505)
     used of clothing; 'my good clothes'; 'her Sunday-go-to-meeting clothes' (a#00225945)
@@ -758,6 +770,7 @@ KARUS (a) (aps---mn1-)
     characterized by firm belief in the validity of your opinions; 'both sides were deeply in earnest, even passionate'; 'an entirely sincere and cruel tyrant'; 'a solemn vow' (a#02043991)
     tending to promote physical well-being; beneficial to health; 'beneficial effects of a balanced diet'; 'a good night's sleep'; 'the salutary influence of pure air' (a#01119178)
     (comparative of `close') indicating the one of two that is the shorter distance away; 'take the near street and ten turn right' (a#00417791)
+
 KATAFRACTARIUS (a) (aps---mn1-)
     provided or fitted out with what is necessary or useful or appropriate; 'a well equipped playground'; 'a ship equipped with every mechanical aid to navigation' (a#01042227)
     producing exhaustion; 'an exhausting march'; 'the visit was especially wearing' (a#00798083)
@@ -773,10 +786,13 @@ KATAFRACTARIUS (a) (aps---mn1-)
     used of animals; provided with protective covering (a#00148254)
     (of animals) armored with bone (a#00148405)
     (zoology) having the body covered or partially covered with thin horny plates, as some fish and reptiles (a#00148494)
+
 KATAFRACTARIUS (n) (n-s---mn2-)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
+
 KOENOSIS (n) (n-s---fn3g)
+
 KOPPA (n) (n-s---nn--)
     a strictly literal interpretation (as distinct from the intention); 'he followed instructions to the letter'; 'he obeyed the letter of the law' (n#05362432)
     an award earned by participation in a school sport; 'he won letters in three sports' (n#05029514)

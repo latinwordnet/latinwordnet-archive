@@ -1,17 +1,23 @@
 Latin WordNet 2.0
 Lemmas - U
 
+
 UBA (n) (n-s---fn1-)
+
 UBER (a) (aps---an3-)
     present in great quantity; 'an abundant supply of water' (a#00014012)
     capable of reproducing (a#00950068)
     productive or conducive to producing in abundance; 'be fruitful and multiply' (a#01027790)
+
 UBER (n) (n-s---nn3-)
     either of two soft fleshy milk-secreting glandular organs on the chest of a woman (n#04302960)
     the property of a more than adequate quantity or supply; 'an age of abundance' (n#03986878)
     mammary gland of bovids (cows and sheep and goats) (n#01871391)
+
 UBERATUS (a) (aps---mn1-)
+
 UBERITAS (n) (n-s---fn3-)
+
 UBERIUS (r) (rp--------)
     referring to a quantity; 'the amount was paid in full' (r#00500896)
     in a wasteful manner; 'the United States, up to the 1920s, used fuel lavishly, mainly because it was so cheap' (r#00329812)
@@ -26,23 +32,31 @@ UBERIUS (r) (rp--------)
     inside an enclosed space (r#00184600)
     used to form the comparative of some adjectives and adverbs; 'more interesting'; 'more beautiful'; 'more quickly' (r#00096343)
     comparative of much; to a greater degree or extent; 'he works more now'; 'they eat more than they should' (r#00096714)
+
 UBERO (v) (v1spia--1-)
+
 UBERRIME (r) (rp--------)
+
 UBERTAS (n) (n-s---fn3-)
     the property of a more than adequate quantity or supply; 'an age of abundance' (n#03986878)
     a full supply; 'there was plenty of food for everyone' (n#03987266)
     the state of being fertile; capable of producing offspring (n#10120373)
     the intellectual fruitfulness of a creative imagination (n#04356143)
+
 UBERTE (r) (rp--------)
     in a rich and lavish manner; 'lavishly decorated' (r#00183789)
     in an abundant manner; 'they were abundantly supplied with food'; 'he thanked her profusely' (r#00210879)
     in a wasteful manner; 'the United States, up to the 1920s, used fuel lavishly, mainly because it was so cheap' (r#00329812)
+
 UBERTIM (r) (rp--------)
     in a rich and lavish manner; 'lavishly decorated' (r#00183789)
     in an abundant manner; 'they were abundantly supplied with food'; 'he thanked her profusely' (r#00210879)
     in a wasteful manner; 'the United States, up to the 1920s, used fuel lavishly, mainly because it was so cheap' (r#00329812)
+
 UBERTO (v) (v1spia--1-)
+
 UBERTUS (a) (aps---mn1-)
+
 UBI (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     as soon as; 'once we are home, we can rest' (r#00177383)
@@ -52,22 +66,30 @@ UBI (r) (rp--------)
     out of, or by means of which; 'tools wherewith to scrape the windshield of my car' (r#00491109)
     so as to pass a given point; 'every hour a train goes past' (r#00412129)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
+
 UBICUMQUE (r) (rp--------)
     in any place whatever (r#00490532)
     to any degree or extent; 'it isn't any better' (r#00023227)
     in or at or to some place; 'she must be somewhere'; (`someplace' is used informally for `somewhere') (r#00024625)
+
 UBILIBET (r) (rp--------)
+
 UBINAM (r) (rp--------)
+
 UBIQUAQUE (r) (rp--------)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
     over the entire area; 'the wallpaper was covered all over with flowers'; 'felt tired all over' (r#00194853)
+
 UBIQUE (r) (rp--------)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
+
 UBIQUOMQUE (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
     in or at or to some place; 'she must be somewhere'; (`someplace' is used informally for `somewhere') (r#00024625)
+
 UBIUBI (r) (rp--------)
     in any place whatever (r#00490532)
+
 UBIVIS (r) (rp--------)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
     over the entire area; 'the wallpaper was covered all over with flowers'; 'felt tired all over' (r#00194853)
@@ -75,9 +97,13 @@ UBIVIS (r) (rp--------)
     not in any degree or manner; not at all; 'he is no better today' (r#00023305)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
+
 UDO (n) (n-s---mn3-)
+
 UDO (v) (v1spia--1-)
+
 UDOR (n) (n-s---mn3-)
+
 UDUS (a) (aps---mn1-)
     naughtily or annoyingly playful; 'teasing and worrying with impish laughter' (a#02046986)
     of textiles; 'a close weave'; 'smooth percale with a very tight weave' (a#02127164)
@@ -150,12 +176,17 @@ UDUS (a) (aps---mn1-)
     broken into sharp pieces; 'shattered glass'; 'your eyeglasses are smashed'; 'the police came in through the splintered door' (a#00285119)
     (of walls) covered with a coat of plaster (a#01636926)
     (British informal) trivial; 'potty little details' (a#01228996)
+
 UFENTINUS (a) (aps---mn1-)
+
 UITREA (n) (n-s---fn1-)
     the quantity a glass will hold (n#09914390)
     a glass container for holding liquids while drinking (n#02755829)
+
 ULCERARIA (n) (n-s---fn1-)
+
 ULCERATIO (n) (n-s---fn3-)
+
 ULCERO (v) (v1spia--1-)
     create by artistic means; 'create a poem; 'Schoenberg created twelve-tone music'; 'Picasso created Cubism'; 'Auden made verses' (v#01126333)
     gather and light the materials for: 'make a fire' (v#01199575)
@@ -208,6 +239,7 @@ ULCERO (v) (v1spia--1-)
     be or be capable of being changed or made into; 'He makes a great host'; 'He will make a fine father' (v#01824716)
     make, formulate, or derive in the mind; 'I draw a line here'; 'draw a conclusion'; 'draw parallels'; 'make an estimate'; 'What do you make of his remarks?' (v#00495544)
     change from one form into another; 'make water into wine'; 'make lead into gold'; 'make clay into bricks' (v#00390255)
+
 ULCEROSUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     having the normally expected amount; 'gives full measure'; 'gives good measure'; 'a good mile from here' (a#00108860)
@@ -220,19 +252,28 @@ ULCEROSUS (a) (aps---mn1-)
     having an ulcer or canker (a#01126041)
     constituting the full quantity or extent; complete; 'an entire town devastated by an earthquake'; 'gave full attention'; 'a total failure' (a#00481645)
     containing as much or as many as is possible or normal; 'a full glass'; 'a sky full of stars'; 'a full life'; 'the auditorium was full to overflowing' (a#01030147)
+
 ULCISCO (v) (v1spia--3-)
+
 ULCISCOR (v) (v1spid--3-)
     take revenge; 'avenge for a wrong'; 'take vengeance or revenge for a wrong' (v#00784203)
+
 ULCUS (n) (n-s---nn3-)
     an open skin infection (n#10195710)
     an inflammatory and often suppurating lesion on the skin or an internal mucous surface resulting in necrosis of tissue (n#10212984)
+
 ULCUSCULUM (n) (n-s---nn2-)
+
 ULEX (n) (n-s---mn3-)
+
 ULIARUS (n) (n-s---fn2-)
+
 ULIGINOSA (n) (n-p---nn2-)
+
 ULIGINOSUM (n) (n-s---nn2-)
     a situation fraught with difficulties and imponderables; 'he was trapped in a medical swamp' (n#10043245)
     low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog (n#06786994)
+
 ULIGINOSUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     having the normally expected amount; 'gives full measure'; 'gives good measure'; 'a good mile from here' (a#00108860)
@@ -248,6 +289,7 @@ ULIGINOSUS (a) (aps---mn1-)
     constituting the full quantity or extent; complete; 'an entire town devastated by an earthquake'; 'gave full attention'; 'a total failure' (a#00481645)
     dirty and messy; covered with mud or muck; 'muddy boots'; 'a mucky stable' (a#00393381)
     containing as much or as many as is possible or normal; 'a full glass'; 'a sky full of stars'; 'a full life'; 'the auditorium was full to overflowing' (a#01030147)
+
 ULIGO (n) (n-s---fn3-)
     the territory occupied by a nation; 'he returned to the land of his birth'; 'he visited several European countries' (n#06299747)
     free of artificiality; sincere and genuine; 'an unaffected grace' (a#00076652)
@@ -288,9 +330,12 @@ ULIGO (n) (n-s---fn3-)
     a colored mineral used as a pigment (n#10517969)
     (art) the surface (as a wall or canvas) prepared to take the paint for a painting (n#02774494)
     a connection between an electrical device and the earth (which is a zero voltage) (n#02774628)
+
 ULLAGERIS (a) (aps---cn3i)
+
 ULLATENUS (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 ULLUS (a) (aps---mn1-)
     used informally as an intensifier; 'that is one fine dog' (a#01617992)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
@@ -320,20 +365,33 @@ ULLUS (a) (aps---mn1-)
     isolated from others; 'could be alone in a crowded room'; 'was alone with her thoughts'; 'I want to be alone' (a#02142808)
     particular but unspecified; 'early one evening' (a#01049108)
     lacking companions or companionship; 'he was alone when we met him'; 'she is alone much of the time'; 'the lone skier on the mountain'; 'a lonely fisherman stood on a tuft of gravel'; 'a lonely soul'; 'a solitary traveler' (a#02144538)
+
 ULMANUS (a) (aps---mn1-)
+
 ULMARIUM (n) (n-s---nn2-)
+
 ULMETUM (n) (n-s---nn2-)
+
 ULMEUS (a) (aps---mn1-)
+
 ULMITRIBA (n) (n-s---mn1-)
+
 ULMUS (n) (n-s---fn2-)
     any of various trees of the genus Ulmus: important timber or shade trees (n#08708110)
+
 ULNA (n) (n-s---fn1-)
     the part of the superior limb between the elbow and the wrist (n#04310956)
+
 ULOPHONON (n) (n-s---nn2g)
+
 ULOPHYTON (n) (n-s---nn2g)
+
 ULPICUM (n) (n-s---nn2-)
+
 ULPIUS (a) (aps---mn1-)
+
 ULTER (a) (aps---mn1r)
+
 ULTERIOR (a) (aps---cn3-)
     being or located on or directed toward the side of the body to the east when facing north; 'my right hand'; 'right center field'; 'a right-hand turn'; on the right when facing downstream; 'the right bank of the river' (a#01959343)
     being the animal or vehicle on the right or being on the right side of an animal or vehicle; 'the horse on the right is the far horse'; 'the right side is the far side of the horse' (a#01959702)
@@ -444,8 +502,11 @@ ULTERIOR (a) (aps---cn3-)
     highest and most significant; 'his highest achievement' (a#01523301)
     having the leading position or higher score in a contest; 'he is ahead by a pawn'; 'the leading team in the pennant race' (a#02371403)
     remaining after all deductions; 'net profit' (a#01525937)
+
 ULTERIORA (n) (n-s---nn3-)
+
 ULTERIORES (n) (n-s---mn3-)
+
 ULTERIUS (r) (rp--------)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
     anew; 'she tried again'; 'they rehearsed the scene again' (r#00039142)
@@ -464,8 +525,11 @@ ULTERIUS (r) (rp--------)
     a sign indicating the operation of addition (n#05101248)
     used to form the comparative of some adjectives and adverbs; 'more interesting'; 'more beautiful'; 'more quickly' (r#00096343)
     comparative of much; to a greater degree or extent; 'he works more now'; 'they eat more than they should' (r#00096714)
+
 ULTERIUS (n) (n-s---nn3-)
+
 ULTIMA (n) (n-p---nn2-)
+
 ULTIMATE (r) (rp--------)
     completely and without qualification; used informally as intensifiers; 'an absolutely magnificent painting'; 'a perfectly idiotic idea'; 'you're perfectly right'; 'utterly miserable'; 'you can be dead sure of my innocence'; 'was dead tired'; 'dead right' (r#00008052)
     the item at the end; 'last, I'll discuss family values' (r#00063279)
@@ -487,6 +551,7 @@ ULTIMATE (r) (rp--------)
     to an extreme degree; 'the house was super clean for Mother's visit' (r#00503218)
     in a lengthy or prolix manner; 'the argument went on lengthily'; 'she talked at length about the problem' (r#00062996)
     more recently than any other time; 'I saw him last in London' (r#00063169)
+
 ULTIMATIM (r) (rp--------)
     completely and without qualification; used informally as intensifiers; 'an absolutely magnificent painting'; 'a perfectly idiotic idea'; 'you're perfectly right'; 'utterly miserable'; 'you can be dead sure of my innocence'; 'was dead tired'; 'dead right' (r#00008052)
     the item at the end; 'last, I'll discuss family values' (r#00063279)
@@ -508,6 +573,7 @@ ULTIMATIM (r) (rp--------)
     to an extreme degree; 'the house was super clean for Mother's visit' (r#00503218)
     in a lengthy or prolix manner; 'the argument went on lengthily'; 'she talked at length about the problem' (r#00062996)
     more recently than any other time; 'I saw him last in London' (r#00063169)
+
 ULTIME (r) (rp--------)
     completely and without qualification; used informally as intensifiers; 'an absolutely magnificent painting'; 'a perfectly idiotic idea'; 'you're perfectly right'; 'utterly miserable'; 'you can be dead sure of my innocence'; 'was dead tired'; 'dead right' (r#00008052)
     the item at the end; 'last, I'll discuss family values' (r#00063279)
@@ -529,9 +595,13 @@ ULTIME (r) (rp--------)
     to an extreme degree; 'the house was super clean for Mother's visit' (r#00503218)
     in a lengthy or prolix manner; 'the argument went on lengthily'; 'she talked at length about the problem' (r#00062996)
     more recently than any other time; 'I saw him last in London' (r#00063169)
+
 ULTIMI (n) (n-p---mn2-)
+
 ULTIMO (v) (v1spia--1-)
+
 ULTIMO (r) (rp--------)
+
 ULTIMUM (r) (rp--------)
     completely and without qualification; used informally as intensifiers; 'an absolutely magnificent painting'; 'a perfectly idiotic idea'; 'you're perfectly right'; 'utterly miserable'; 'you can be dead sure of my innocence'; 'was dead tired'; 'dead right' (r#00008052)
     the item at the end; 'last, I'll discuss family values' (r#00063279)
@@ -553,7 +623,9 @@ ULTIMUM (r) (rp--------)
     to an extreme degree; 'the house was super clean for Mother's visit' (r#00503218)
     in a lengthy or prolix manner; 'the argument went on lengthily'; 'she talked at length about the problem' (r#00062996)
     more recently than any other time; 'I saw him last in London' (r#00063169)
+
 ULTIMUM (n) (n-s---nn2-)
+
 ULTIMUS (a) (aps---mn1-)
     coming next after the first in position in space or time or degree or magnitude (a#02104904)
     remaining after all deductions; 'net profit' (a#01525937)
@@ -635,31 +707,45 @@ ULTIMUS (a) (aps---mn1-)
     far apart in nature; 'considerations entirely removed (or remote) from politics' (a#00419892)
     far apart in relevance or relationship; 'a distant cousin'; 'a distant likeness' (a#00419428)
     an indefinitely short time; 'wait just a moment'; 'it only takes a minute'; 'in just a bit' (n#10953688)
+
 ULTIO (n) (n-s---fn3-)
     action taken in return for an injury or offense (n#00802092)
     the act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the next life; 'Vengeance is mine; I will repay, saith the Lord'--Romans 12:19; 'For vengeance I would do nothing. This nation is too great to look for mere revenge'--James Garfield; 'he swore vengeance on the man who betrayed him'; 'the swiftness of divine retribution' (n#00802243)
+
 ULTIO (v) (v1spia--3-)
+
 ULTOR (n) (n-s---mn3-)
     someone who takes vengeance (n#07093078)
+
 ULTOR (a) (aps---an3-)
+
 ULTORIUS (a) (aps---mn1-)
+
 ULTORSUM (r) (rp--------)
+
 ULTRA (r) (rp--------)
     to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense); 'further complicated by uncertainty about the future'; 'let's not discuss it further'; 'nothing could be further from the truth'; 'they are further along in their research than we expected'; 'the application of the law was extended farther'; 'he is going no farther in his studies' (r#00029054)
     to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense); 'farther north'; 'moved farther away'; 'farther down the corridor'; 'the practice may go back still farther to the Druids'; 'went only three miles further'; 'further in the future' (r#00028708)
+
 ULTRAMARINUS (a) (aps---mn1-)
     being or passing over or across the sea; 'some overseas trade in grain arose' (a#01327049)
+
 ULTRAMARINUS (n) (n-s---mn2-)
     a human being; 'there was too much for one person to do' (n#00004123)
     a person's body (usually including their clothing); 'a weapon was hidden on his person' (n#04056183)
     a grammatical category of pronouns and verb forms; 'stop talking about yourself in the third person' (n#04774665)
+
 ULTRAMONTANUS (a) (aps---mn1-)
+
 ULTRAMONTANUS (n) (n-s---mn2-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a United Nations agency to coordinate international health activities and to help governments improve health services (n#06163090)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
+
 ULTRAMUNDANUS (a) (aps---mn1-)
+
 ULTRATUS (a) (aps---mn1-)
+
 ULTRIX (a) (aps---an3-)
     of or relating to or having the nature of retribution; 'retributive justice demands an eye for an eye' (a#01877135)
     unwilling or unable to forgive or show mercy; 'a surly unforgiving old woman' (a#00990422)
@@ -668,7 +754,9 @@ ULTRIX (a) (aps---an3-)
     showing malicious ill will and a desire to hurt; motivated by spite; 'a despiteful fiend'; 'a truly spiteful child'; 'a vindictive man will look for occasions for resentment' (a#00222851)
     given or inflicted in requital according to merits or deserts; 'retributive justice' (a#01316429)
     concerning each of two or more persons or things; especially given or done in return; 'reciprocal aid'; 'reciprocal trade'; 'reciprocal respect'; 'reciprocal privileges at other clubs' (a#01876713)
+
 ULTRIX (n) (n-s---fn3i)
+
 ULTRO (r) (rp--------)
     used to indicate that a statement explains or supports a previous statement; 'Anyhow, he is dead now'; 'I think they're asleep; anyhow, they're quiet'; 'I don't know what happened to it; anyway, it's gone'; 'anyway, there is another factor to consider'; 'I don't know how it started; in any case, there was a brief scuffle'; 'in any event, the government faced a serious protest'; 'but at any rate he got a knighthood for it' (r#00025661)
     in addition; 'agreed to provide essentials but nothing beyond' (r#00044043)
@@ -687,7 +775,9 @@ ULTRO (r) (rp--------)
     equally; 'parents and teachers alike demanded reforms' (r#00067179)
     in a wanton manner; 'the animals were killed wantonly for sport' (r#00488654)
     in like or similar manner; 'He was similarly affected'; 'some people have littlepower to do good, and have likewise little strength to resist evil'- Samuel Johnson (r#00133999)
+
 ULTRONEITAS (n) (n-s---fn3-)
+
 ULTRONEUS (a) (aps---mn1-)
     evidencing the possession of inside information (a#01253976)
     alert and fully informed; 'politically aware'; 'a knowing collector of rare books'; 'the most...technically aware of the novelists under thirty'- W.S.Graham; 'surprisingly knowledgeable about what was going on' (a#01254100)
@@ -724,8 +814,11 @@ ULTRONEUS (a) (aps---mn1-)
     exercising caution or showing care or attention; 'they were careful when crossing the busy street'; 'be careful to keep her shoes clean'; 'did very careful research'; 'careful art restorers'; 'careful of the rights of others'; 'careful about one's behavior' (a#00303585)
     highly educated; having extensive information or understanding; 'an enlightened public'; 'knowing instructors'; 'a knowledgeable critic'; 'a knowledgeable audience' (a#00790754)
     determined by measurement; 'the measured distance was less than a mile' (a#01438985)
+
 ULTRORSUM (r) (rp--------)
+
 ULTROTRIBUTA (n) (n-p---nn2-)
+
 ULTUMUS (a) (aps---mn1-)
     being or located on or directed toward the side of the body to the east when facing north; 'my right hand'; 'right center field'; 'a right-hand turn'; on the right when facing downstream; 'the right bank of the river' (a#01959343)
     being the animal or vehicle on the right or being on the right side of an animal or vehicle; 'the horse on the right is the far horse'; 'the right side is the far side of the horse' (a#01959702)
@@ -810,23 +903,36 @@ ULTUMUS (a) (aps---mn1-)
     remaining after all deductions; 'net profit' (a#01525937)
     having the leading position or higher score in a contest; 'he is ahead by a pawn'; 'the leading team in the pennant race' (a#02371403)
     greatest in importance or degree or significance or achievement; 'our greatest statesmen'; 'the country's leading poet'; 'a preeminent archeologist' (a#02228228)
+
 ULTUS (a) (aps---mn1-)
+
 ULUBRAE (n) (n-p---fn1-)
+
 ULUBRANUS (a) (aps---mn1-)
+
 ULUBRENSES (n) (n-p---mn3i)
+
 ULUCUS (n) (n-s---mn2-)
+
 ULULA (n) (n-s---fn1-)
     reddish-brown European owl having a round head with black eyes (n#01144835)
+
 ULULABILIS (a) (aps---cn3i)
+
 ULULAMEN (n) (n-s---nn3-)
+
 ULULATIO (n) (n-s---fn3-)
+
 ULULATUS (n) (n-s---mn4-)
     loud cries made while weeping (n#00558177)
     a long loud emotional utterance; 'he gave a howl of pain'; 'howls of laughter'; 'their howling had no effect' (n#05332522)
     sharp piercing cry (n#05330158)
+
 ULULATUS (a) (aps---mn1-)
+
 ULULO (v) (v1spia--1-)
     emit long loud cries; 'wail in self-pity', 'howl with sorrow' (v#00709311)
+
 ULVA (n) (n-s---fn1-)
     a plant that lives in or on water (n#07856668)
     animal food for browsing or grazing (n#05835162)
@@ -834,13 +940,20 @@ ULVA (n) (n-s---fn1-)
     the dried leaves of the hemp plant; smoked or chewed for euphoric effect (n#02376183)
     a strong-smelling plant from whose dried leaves a number of euphoriant and hallucinogenic drugs are prepared (n#08699755)
     grasslike or rushlike plant growing in wet places having solid stems, narrow grasslike leaves and spikelets of inconspicuous flowers (n#08455969)
+
 ULVOSUS (a) (aps---mn1-)
+
 UMBELLA (n) (n-s---fn1-)
     a handheld collapsible source of shade (n#03088570)
+
 UMBER (a) (aps---mn1r)
+
 UMBER (n) (n-s---mn2r)
+
 UMBILICARIS (a) (aps---cn3i)
+
 UMBILICATUS (a) (aps---mn1-)
+
 UMBILICUS (n) (n-s---mn2-)
     scar where the umbilical cord was attached (n#04304665)
     a place where some particular activity is concentrated; 'they received messages from several centers' (n#06280000)
@@ -848,14 +961,18 @@ UMBILICUS (n) (n-s---mn2-)
     a point equidistant from the ends of a line or the extremities of a figure (n#06285699)
     an area that is approximately central within some larger region; 'it is in the center of town'; 'they ran forward into the heart of the struggle'; 'they were in the eye of the storm' (n#06286659)
     a building dedicated to a particular activity; 'they were raising money to build a new center for research' (n#02412359)
+
 UMBO (n) (n-s---mn3-)
     circular rounded protuberance (as on a vault or shield or belt) (n#03433357)
+
 UMBRA (n) (n-s---fn1-)
     a mental representation of some haunting experience; 'he looked like he had seen a ghost'; 'it aroused specters from his past' (n#04533237)
     an unilluminated area; 'he moved off into the darkness' (n#06367601)
     a clue that something has been present; 'there wasn't a trace of evidence for the claim' (n#04984599)
     a suggestion of some quality; 'there was a touch of sarcasm in his tone'; 'he detected a ghost of a smile on her face' (n#05357270)
+
 UMBRABILIS (a) (aps---cn3i)
+
 UMBRACLUM (n) (n-s---nn2-)
     a covering that is intend to protect from damage or injury; 'they had no protection from the fallout'; 'wax provided protection for the floors' (n#03180568)
     a suggestion of some quality; 'there was a touch of sarcasm in his tone'; 'he detected a ghost of a smile on her face' (n#05357270)
@@ -914,14 +1031,18 @@ UMBRACLUM (n) (n-s---nn2-)
     kindly endorsement and guidance; 'the tournament was held under the auspices of the city council' (n#00787413)
     a structure that provides privacy and protection from danger (n#03315837)
     a covering that provides protection from the weather (n#03316185)
+
 UMBRACULUM (n) (n-s---nn2-)
     the condition of being protected; 'they were huddled together for protection'; 'he enjoyed a sense of peace and protection in his new home' (n#10426867)
     a structure that provides privacy and protection from danger (n#03315837)
     a handheld collapsible source of shade (n#03088570)
+
 UMBRALITER (r) (rp--------)
     in a figurative sense; 'figuratively speaking,...' (r#00334419)
     in a metaphorical manner; 'she expressed herself metaphorically' (r#00131020)
+
 UMBRATICE (r) (rp--------)
+
 UMBRATICOLA (n) (n-s---mn1-)
     a human being; 'there was too much for one person to do' (n#00004123)
     a mental representation of some haunting experience; 'he looked like he had seen a ghost'; 'it aroused specters from his past' (n#04533237)
@@ -934,6 +1055,7 @@ UMBRATICOLA (n) (n-s---mn1-)
     a grammatical category of pronouns and verb forms; 'stop talking about yourself in the third person' (n#04774665)
     someone who wastes time (n#07199951)
     a quality of a given color that differs slightly from a primary color; 'after several trials he mixed the shade of pink that she wanted' (n#03876333)
+
 UMBRATICUS (a) (aps---mn1-)
     not expressed; 'secret (or private) thoughts' (a#00904859)
     being or characteristic of a single thing or person; 'individual drops of rain'; 'please mark the individual pages'; 'they went their individual ways' (a#00460992)
@@ -993,10 +1115,15 @@ UMBRATICUS (a) (aps---mn1-)
     outer or outlying; 'the out islands' (a#00902383)
     excluded from use or mention; 'forbidden fruit'; 'in our house dancing and playing cards were out'; 'a taboo subject' (a#01697122)
     relating to or existing in the mind or thoughts; 'a concern with inward reflections' (a#00903961)
+
 UMBRATILIS (a) (aps---cn3i)
+
 UMBRATILITER (r) (rp--------)
+
 UMBRATIM (r) (rp--------)
+
 UMBRATIO (n) (n-s---fn3-)
+
 UMBRATUS (a) (aps---mn1-)
     subject to question; 'questionable motives'; 'a questionable reputation'; 'a fire of questionable origin' (a#01846136)
     of questionable taste or morality; 'a louche nightclub'; 'a louche painting' (a#01913194)
@@ -1018,11 +1145,14 @@ UMBRATUS (a) (aps---mn1-)
     angered at something unjust or wrong; 'an indignant denial'; 'incensed at the judges' unfairness'; 'a look of outraged disbelief'; 'umbrageous at the loss of their territory' (a#00118752)
     of an impermanent nature; 'the symphony is no fly-by-night venture' (a#01692847)
     lacking clarity or distinctness; 'a dim figure in the distance'; 'only a faint recollection'; 'shadowy figures in the gloom'; 'saw a vague outline of a building through the fog'; 'a few wispy memories of childhood' (a#00744972)
+
 UMBRELLA (n) (n-s---fn1-)
     a lightweight handheld collapsible shelter (n#03558885)
     having the function of uniting a group of similar things; 'the Democratic Party is an umbrella for many liberal groups'; 'under the umbrella of capitalism' (n#00245729)
     a formation of military planes maintained over ground operations or targets; 'an air umbrella over England' (n#00532025)
+
 UMBRESCO (v) (v1spia--3-)
+
 UMBRIFER (a) (aps---mn1r)
     lacking respectability in character or behavior or appearance (a#01912391)
     of an impermanent nature; 'the symphony is no fly-by-night venture' (a#01692847)
@@ -1041,10 +1171,13 @@ UMBRIFER (a) (aps---mn1r)
     of questionable taste or morality; 'a louche nightclub'; 'a louche painting' (a#01913194)
     subject to question; 'questionable motives'; 'a questionable reputation'; 'a fire of questionable origin' (a#01846136)
     lacking clarity or distinctness; 'a dim figure in the distance'; 'only a faint recollection'; 'shadowy figures in the gloom'; 'saw a vague outline of a building through the fog'; 'a few wispy memories of childhood' (a#00744972)
+
 UMBRO (v) (v1spia--1-)
     represent the effect of shade or shadow on (v#01163110)
     cast a shadow over (v#01891665)
+
 UMBROSA (n) (n-p---nn2-)
+
 UMBROSUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     (informal) having consumed enough food or drink; 'a full stomach' (a#02189742)
@@ -1099,20 +1232,30 @@ UMBROSUS (a) (aps---mn1-)
     angered at something unjust or wrong; 'an indignant denial'; 'incensed at the judges' unfairness'; 'a look of outraged disbelief'; 'umbrageous at the loss of their territory' (a#00118752)
     constituting the full quantity or extent; complete; 'an entire town devastated by an earthquake'; 'gave full attention'; 'a total failure' (a#00481645)
     containing as much or as many as is possible or normal; 'a full glass'; 'a sky full of stars'; 'a full life'; 'the auditorium was full to overflowing' (a#01030147)
+
 UMBROSUS (n) (n-s---mn2-)
+
 UMECTATIO (n) (n-s---fn3-)
+
 UMECTO (v) (v1spia--1-)
     moisten with fine drops; 'drizzle the meat with melted butter' (v#00942761)
     make moist; 'The dew moistened the meadows' (v#00148644)
+
 UMECTUS (a) (aps---mn1-)
     covered or soaked with a liquid such as water; 'a wet bathing suit'; 'wet sidewalks'; 'wet paint'; 'wet weather' (a#02425348)
     slightly wet; 'clothes damp with perspiration'; 'a moist breeze'; 'eyes moist with tears' (a#02426601)
+
 UMEFACIO (v) (v1spia--3i)
+
 UMENS (a) (aps---an3i)
+
 UMEO (v) (v1spia--2-)
     be moist, be damp, be wet (v#L4863592)
+
 UMERALE (n) (n-s---nn3i)
+
 UMERULUS (n) (n-s---mn2-)
+
 UMERUS (n) (n-s---mn2-)
     the part of a garment that is attached at armhole and covers the arm (n#03350385)
     the part of a shoe or boot above the sole (n#03562528)
@@ -1131,6 +1274,7 @@ UMERUS (n) (n-s---mn2-)
     a swimming stroke that resembles the crawl except the swimmer lies on his or her back (n#00374747)
     weaponry used in fighting or hunting; 'he was licensed to carry a weapon' (n#03601056)
     None (n#N0001993)
+
 UMESCO (v) (v1spia--3-)
     enter or assume a certain state or condition; 'He became annoyed when he heard the bad news'; 'It must be getting more serious'; 'her face went red with anger'; 'She went into ecstasy'; 'Get going!' (v#00101662)
     come into existence or develop: 'A new religious movement originated in that country' 'a love that sprang up from friendship,' 'the idea for the book grew out of a short story' (v#01790203)
@@ -1148,33 +1292,44 @@ UMESCO (v) (v1spia--3-)
     become attached by or as if by the process of growth; 'The tree trunks had grown together' (v#00170955)
     pass into a condition gradually, become;'The weather turned nasty'; 'She grew angry' (v#00083639)
     cause to become wet; 'Wet your face' (v#00146425)
+
 UMIDE (r) (rp--------)
+
 UMIDITAS (n) (n-s---fn3-)
     covered or soaked with a liquid such as water; 'a wet bathing suit'; 'wet sidewalks'; 'wet paint'; 'wet weather' (a#02425348)
     slightly wet; 'clothes damp with perspiration'; 'a moist breeze'; 'eyes moist with tears' (a#02426601)
     wetness caused by water; 'drops of wet gleamed on the window' (n#10424695)
     wetness in the atmosphere (n#10424817)
     a slight wetness (n#10425007)
+
 UMIDULUS (a) (aps---mn1-)
     covered or soaked with a liquid such as water; 'a wet bathing suit'; 'wet sidewalks'; 'wet paint'; 'wet weather' (a#02425348)
     slightly wet; 'clothes damp with perspiration'; 'a moist breeze'; 'eyes moist with tears' (a#02426601)
+
 UMIDUM (n) (n-s---nn2-)
     a situation fraught with difficulties and imponderables; 'he was trapped in a medical swamp' (n#10043245)
     low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog (n#06786994)
+
 UMIDUS (a) (aps---mn1-)
     covered or soaked with a liquid such as water; 'a wet bathing suit'; 'wet sidewalks'; 'wet paint'; 'wet weather' (a#02425348)
     wet through and through; thoroughly wet; 'stood at the door drenched (or soaked) by the rain'; 'a shirt saturated with perspiration'; 'his shoes were sopping (or soaking)'; 'the speaker's sodden collar'; 'soppy clothes' (a#02426759)
     soaked with moisture; 'a soggy lawn'; 'the flood left waterlogged fields' (a#02428439)
     still wet or moist (a#02429048)
     slang for `drunk' (a#00760259)
+
 UMIFER (a) (aps---mn1r)
     slightly wet; 'clothes damp with perspiration'; 'a moist breeze'; 'eyes moist with tears' (a#02426601)
     covered or soaked with a liquid such as water; 'a wet bathing suit'; 'wet sidewalks'; 'wet paint'; 'wet weather' (a#02425348)
+
 UMIFICO (v) (v1spia--1-)
+
 UMIFICUS (a) (aps---mn1-)
+
 UMOR (n) (n-s---mn3-)
     a substance in the fluid state of matter having no fixed shape but a fixed volume (n#10720281)
+
 UMOROSUS (a) (aps---mn1-)
+
 UMQUAM (r) (rp--------)
     at any time; 'did you ever smoke?'; 'the best con man of all time' (r#00142539)
     (intensifier for adjectives) very; 'she was ever so friendly' (r#00208967)
@@ -1183,19 +1338,28 @@ UMQUAM (r) (rp--------)
     forever; throughout all time; 'we will always be friends'; 'I shall treasure it always'; 'I will always love you' (r#00018595)
     at any time or in any event; 'you can always resign if you don't like it'; 'you could always take a day off' (r#00018743)
     seemingly without interruption; often and repeatedly; 'always looking for faults'; 'it is always raining'; 'he is forever cracking jokes'; 'they are forever arguing' (r#00018886)
+
 UNA (r) (rp--------)
     at the same instant; 'they spoke simultaneously' (r#00117044)
+
 UNAETVICESIMANI (n) (n-p---mn2-)
+
 UNAETVICESIMUS (a) (aps---mn1-)
+
 UNANIMANS (a) (aps---an3i)
+
 UNANIMIS (a) (aps---cn3i)
+
 UNANIMITAS (n) (n-s---fn3-)
     the determination of grammatical inflection on the basis of word relations (n#09936000)
     agreement of opinions (n#05367418)
     a harmonious state; congruity of parts with one another and with the whole (n#10064507)
+
 UNANIMITER (r) (rp--------)
     of one mind; without dissent; 'the Senate unanimously approved the bill'; 'we voted unanimusly' (r#00103197)
+
 UNANIMUS (a) (aps---mn1-)
+
 UNANIMUS (n) (n-p---mn3-)
     agreement of opinions (n#05367418)
     the statement (oral or written) of an exchange of promises; 'they had an agreement that they would not interfere in each other's business'; 'there was an understanding between management and the workers' (n#05072418)
@@ -1205,14 +1369,21 @@ UNANIMUS (n) (n-p---mn3-)
     harmony of people's opinions or actions or characters; 'the two parties were in accord' (n#10065762)
     the determination of grammatical inflection on the basis of word relations (n#09936000)
     a combination of three or more notes that blend harmoniously when sounded together (n#05140872)
+
 UNARIUS (a) (aps---mn1-)
+
 UNASYLLABUS (a) (aps---mn1-)
+
 UNCATIO (n) (n-s---fn3-)
+
 UNCATUS (a) (aps---mn1-)
+
 UNCIA (n) (n-s---fn1-)
     16 drams (n#09876843)
     a unit of length (in United States and Britain) equal to one twelfth of a foot (n#09814077)
+
 UNCIALIS (a) (aps---cn3i)
+
 UNCIARIUS (a) (aps---mn1-)
     coming next after the eleventh and just before the thirteenth in position (a#02106333)
     relating to only part of a whole; 'part owner' (a#00484256)
@@ -1220,6 +1391,7 @@ UNCIARIUS (a) (aps---mn1-)
     feeling or showing worry or solicitude; 'concerned parents of youthful offenders'; 'was concerned about the future'; 'we feel concerned about accomplishing the task at hand'; 'greatly concerned not to disappoint a small child' (a#00509150)
     involved in or affected by or having a claim to or share in; 'a memorandum to those concerned'; 'an enterprise in which three men are concerned'; 'factors concerned in the rise and fall of epidemics'; 'the interested parties met to discuss the business' (a#01453075)
     culpably involved; 'all those concerned in the bribery case have been identified'; 'named three officials implicated in the plot'; 'an innocent person implicated by circumstances in a crime' (a#01453397)
+
 UNCIATIM (r) (rp--------)
     not much; 'he talked little about his family' (r#00097004)
     by a short distance; 'they moved it by inches' (r#00152082)
@@ -1227,8 +1399,10 @@ UNCIATIM (r) (rp--------)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     a little bit at a time; 'the research structure has developed piecemeal' (r#00416466)
     in a gradual manner; 'the snake moved gradually toward its victim' (r#00105046)
+
 UNCINATRUM (n) (n-s---nn2-)
     a machine that inserts stales into sheets of paper in order to fasten them together (n#03402655)
+
 UNCINATUS (a) (aps---mn1-)
     sharp biting or acrid especially in taste or smell; 'tasting the pungent wood sorrel'; 'pungent curry'; 'a pungent smell of burning sulfur' (a#01830655)
     (grammar) of a clause; unable to stand alone syntactically as a complete sentence; 'a subordinate (or dependent) clause functions as a noun or adjective or adverb within a sentence' (a#00694512)
@@ -1247,16 +1421,21 @@ UNCINATUS (a) (aps---mn1-)
     capable of wounding; 'a barbed compliment'; 'a biting aphorism'; 'pungent satire' (a#02000859)
     bristling with perplexities; 'the thorny question of states' rights' (a#00714015)
     contingent on something else (a#00523065)
+
 UNCINO (v) (v1spia--1-)
+
 UNCINULUS (n) (n-s---mn2-)
     a popular programming language that is relatively easy to learn (Beginner's All-purpose Symbolic Instruction Code); no longer in general use (n#05167165)
     (usually plural) a necessary commodity for which demand is constant (n#02258875)
     a short length of U-shaped wire used to fasten papers together (n#03402441)
     a short U-shaped wire nail for securing cables (n#03402556)
     material suitable for manufacture or use or finishing (n#10457644)
+
 UNCINUS (a) (aps---mn1-)
+
 UNCINUS (n) (n-s---mn2-)
     a curved or bent implement for suspending or pulling something (n#02827734)
+
 UNCIOLA (n) (n-s---fn1-)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
     position 12 in a countable series of things (n#09976798)
@@ -1265,11 +1444,15 @@ UNCIOLA (n) (n-s---fn1-)
     large feline of upland central Asia having long thick whitish fur (n#01637472)
     the slender part of the back (n#04306328)
     a unit of apothecary weight equal to 480 grains or one twelfth of a pound (n#09878948)
+
 UNCIPES (a) (aps---an3-)
+
 UNCO (v) (v1spia--1-)
+
 UNCTIO (n) (n-s---fn3-)
     used for healing or soothing (n#03055972)
     anointing as part of a religious ceremony or healing ritual (n#00673464)
+
 UNCTITO (v) (v1spia--1-)
     administer a sacred oil or ointment to in a religious ceremony of blessing (v#00058325)
     apply lubricants to' 'lubricate my car engine' (v#00335085)
@@ -1285,21 +1468,30 @@ UNCTITO (v) (v1spia--1-)
     straighten by unrolling; 'roll out the big map' (v#01020458)
     cause to die; put to death; 'This man has killed several people when he tried to rob a bank' (v#00903723)
     put into writing; write in complete form; 'write out a contract' (v#01198823)
+
 UNCTIUSCULUS (a) (aps---mn1-)
     unpleasantly and excessively suave or ingratiating in manner or speech; 'buttery praise'; 'gave him a fulsome introduction'; 'an oily sycophantic press agent'; 'oleaginous hypocrisy'; 'smarmy self-importance'; 'the unctuous Uriah Heep' (a#02096184)
     smeared or soiled with grease or oil; 'greasy coveralls'; 'get rid of rubbish and oily rags' (a#00393055)
     coated or covered with oil; 'oily puddles in the streets' (a#01639460)
     containing an unusual amount of grease or oil; 'greasy hamburgers'; 'oily fried potatoes'; 'oleaginous seeds' (a#00939905)
+
 UNCTOR (n) (n-s---mn3-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a United Nations agency to coordinate international health activities and to help governments improve health services (n#06163090)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
+
 UNCTORIUM (n) (n-s---nn2-)
+
 UNCTORIUS (a) (aps---mn1-)
+
 UNCTRINUM (n) (n-s---nn2-)
+
 UNCTRIX (n) (n-s---fn3-)
+
 UNCTULUM (n) (n-s---nn2-)
+
 UNCTULUS (a) (aps---mn1-)
+
 UNCTUM (n) (n-s---nn2-)
     either of two aromatic herbs of the mint family (n#05853608)
     the quantity that a dish will hold; 'they served me a dish of rice' (n#09914065)
@@ -1313,9 +1505,12 @@ UNCTUM (n) (n-s---nn2-)
     a very attractive or seductive looking woman (n#07586543)
     dwarf aromatic shrub of Mediterranean regions (n#09155825)
     an aromatic or spicy dish served at the end of dinner or as an hors d'oeuvre (n#05648798)
+
 UNCTURA (n) (n-s---fn1-)
     the act of applying oil or an oily liquid (n#00457666)
+
 UNCTUS (n) (n-s---mn4-)
+
 UNCTUS (a) (aps---mn1-)
     used of syllables (a#02208726)
     having a coating; covered with an outer layer or film; often used in combination; 'coated paper has a smooth polished coating especially suitable for halftone printing'; 'sugar-coated pills' (a#01638828)
@@ -1359,68 +1554,112 @@ UNCTUS (a) (aps---mn1-)
     more than usual; 'great expectations'; 'great worry' (a#01160734)
     smeared or soiled with grease or oil; 'greasy coveralls'; 'get rid of rubbish and oily rags' (a#00393055)
     having desirable or positive qualities especially those suitable for a thing specified; 'good news from the hospital'; 'a good report card'; 'when she was good she was very very good'; 'a good knife is one good for cutting'; 'this stump will make a good picnic table'; 'a good check'; 'a good joke'; 'a good exterior paint'; 'a good secretary'; 'a good dress for the office' (a#01076114)
+
 UNCUS (a) (aps---mn1-)
     not straight; having or marked by a curve or smoothly rounded bend; 'the curved tusks of a walrus'; 'his curved lips suggested a smile but his eyes were hard' (a#02203645)
+
 UNCUS (n) (n-s---mn2-)
     a device that is curved or bent to suspend or hold or pull something (n#02827974)
     a curved or bent implement for suspending or pulling something (n#02827734)
+
 UNDA (n) (n-s---fn1-)
     (physics) a progressive disturbance propagated without displacement of the medium itself (n#05473259)
     one of a series of ridges that moves across the surface of a liquid (especially across a large body of water) (n#05477241)
+
 UNDABUNDUS (a) (aps---mn1-)
+
 UNDANTER (r) (rp--------)
+
 UNDATIM (r) (rp--------)
+
 UNDATIO (n) (n-s---fn3-)
+
 UNDATUS (a) (aps---mn1-)
+
 UNDE (r) (rp--------)
     from what place or origin or source; 'whence did he come?'; 'whence comes this splendid feast?'; 'sketches the lawless society whence the ballads sprang'-DeLancey Ferguson (r#00041981)
+
 UNDECENNIS (a) (aps---cn3i)
+
 UNDECENTESIMUS (a) (aps---mn1-)
+
 UNDECIES (r) (rp--------)
+
 UNDECIM (a) (aps---an3-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     being one more than ten (a#02099905)
+
 UNDECIMANI (n) (n-p---mn2-)
+
 UNDECIMPRIMUS (n) (n-s---mn2-)
+
 UNDECIMUS (a) (aps---mn1-)
     coming next after the tenth and just before the twelfth in position (a#02106204)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
+
 UNDECIMVIRI (n) (n-p---mn2-)
+
 UNDECIREMIS (n) (n-s---fn3i)
+
 UNDECUMANI (n) (n-p---mn2-)
+
 UNDECUMQUE (r) (rp--------)
     from any point, source, side (r#L6061724)
     in every respect (r#L1740195)
+
 UNDECUNDE (r) (rp--------)
+
 UNDECUNQUE (r) (rp--------)
+
 UNDELIBET (r) (rp--------)
+
 UNDENARIUS (a) (aps---mn1-)
+
 UNDENI (a) (app---mn1-)
     expressing sorrow often for something past; 'an elegiac lament for youthful ideals' (a#01312229)
     resembling or characteristic of or appropriate to an elegy; 'an elegiac poem on a friend's death' (a#02561362)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     (used of count nouns) every one considered individually; 'each person is mortal'; 'each party is welcome' (a#02159998)
     being one more than ten (a#02099905)
+
 UNDENONAGESIMUS (a) (aps---mn1-)
+
 UNDENONAGINTA (a) (aps----n1-)
+
 UNDEOCTOGINTA (a) (aps---an3-)
+
 UNDEQUADRAGESIMUS (a) (aps---mn1-)
+
 UNDEQUADRAGIENS (r) (rp--------)
+
 UNDEQUADRAGIES (r) (rp--------)
+
 UNDEQUADRAGINTA (a) (aps---an3-)
+
 UNDEQUAQUE (r) (rp--------)
+
 UNDEQUINQUAGESIMUS (a) (aps---mn1-)
+
 UNDEQUINQUAGINTA (a) (aps---an3-)
+
 UNDESEXAGESIMUS (a) (aps---mn1-)
+
 UNDESEXAGINTA (a) (aps----n1-)
+
 UNDETRICENI (a) (app---mn1-)
+
 UNDETRICESIMUS (a) (aps---mn1-)
+
 UNDETRIGESIMUS (a) (aps---mn1-)
+
 UNDETRIOENSIMUS (a) (aps---mn1-)
     coming next after the twenty-eighth in position (a#02108385)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
+
 UNDEVICENI (a) (app---mn1-)
+
 UNDEVICESIMANI (n) (n-p---mn2-)
+
 UNDEVICESIMANUS (n) (n-s---mn2-)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
     a large military unit; 'the French Foreign Legion' (n#06141923)
@@ -1428,18 +1667,25 @@ UNDEVICESIMANUS (n) (n-s---mn2-)
     a vast multitude (n#06082453)
     archaic terms for army (n#06083098)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
+
 UNDEVICESIMUS (a) (aps---mn1-)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
     coming next after the eighteenth in position (a#02107140)
+
 UNDEVIGESIMUS (a) (aps---mn1-)
+
 UNDEVIGINTI (a) (aps----n1-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     being one more than eighteen (a#02100677)
     the cardinal number that is the sum of eighteen and one (n#09899636)
+
 UNDIFLUUS (a) (aps---mn1-)
+
 UNDIFRAGUS (a) (aps---mn1-)
+
 UNDIQUE (r) (rp--------)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
+
 UNDIQUESECUS (r) (rp--------)
     with everything considered (and neglecting details); 'altogether, I'm sorry it happened'; 'all in all, it's not so bad' (r#00147887)
     over the entire area; 'the wallpaper was covered all over with flowers'; 'felt tired all over' (r#00194853)
@@ -1448,12 +1694,17 @@ UNDIQUESECUS (r) (rp--------)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
     without any others being included or involved; 'was entirely to blame'; 'a school devoted entirely to the needs of problem children'; 'he works for Mr. Smith exclusively'; 'did it solely for money'; 'the burden of proof rests on the prosecution alone'; 'a privilege granted only to him' (r#00007655)
+
 UNDISONUS (a) (aps---mn1-)
     characterized by reverberation; 'a resonant voice'; 'hear the rolling thunder' (a#01939548)
+
 UNDIVAGUS (a) (aps---mn1-)
+
 UNDO (v) (v1spia--1-)
     move in a wavy pattern, as of curtains (v#01297757)
+
 UNDOSE (r) (rp--------)
+
 UNDOSUS (a) (aps---mn1-)
     (especially of weather) affected or characterized by storms or commotion; 'a stormy day'; 'wide and stormy seas' (a#00299112)
     containing as much or as many as is possible or normal; 'a full glass'; 'a sky full of stars'; 'a full life'; 'the auditorium was full to overflowing' (a#01030147)
@@ -1472,17 +1723,24 @@ UNDOSUS (a) (aps---mn1-)
     characterized by great swelling waves or surges; 'billowy storm clouds'; 'the restless billowing sea'; 'surging waves' (a#00299678)
     having the normally expected amount; 'gives full measure'; 'gives good measure'; 'a good mile from here' (a#00108860)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
+
 UNDULA (n) (n-s---fn1-)
+
 UNDULATIO (n) (n-s---fn3-)
     (Scotland) a game played on ice; curling stones (heavy stones with handles) are slid toward a target (n#00294570)
+
 UNDULATUS (a) (aps---mn1-)
+
 UNEDO (n) (n-s---mn3-)
+
 UNESCO (v) (v1spia--3-)
+
 UNETVICESIMANI (n) (n-p---mn2-)
     a large military unit; 'the French Foreign Legion' (n#06141923)
     archaic terms for army (n#06083098)
     a vast multitude (n#06082453)
     association of ex-servicemen; 'the American Legion' (n#06142045)
+
 UNETVICESIMANUS (n) (n-s---mn2-)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
     a large military unit; 'the French Foreign Legion' (n#06141923)
@@ -1491,10 +1749,13 @@ UNETVICESIMANUS (n) (n-s---mn2-)
     archaic terms for army (n#06083098)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
     a large indefinite number; 'a battalion of ants'; 'a multitude of TV antennas' (n#09920569)
+
 UNETVICESIMUS (a) (aps---mn1-)
     coming next after the twentieth in position (a#02107483)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
+
 UNETVICESIMUS (n) (n-s---mn2-)
+
 UNGELLA (n) (n-s---fn1-)
     a device that is curved or bent to suspend or hold or pull something (n#02827974)
     a bird's foot that has claws (n#01662699)
@@ -1503,7 +1764,9 @@ UNGELLA (n) (n-s---fn1-)
     a sharp hooked claw esp. on a bird of prey (n#01664273)
     a structure like a pincer on the limb of a crustacean or other arthropods (n#01664386)
     the slender part of the back (n#04306328)
+
 UNGELLULA (n) (n-s---fn1-)
+
 UNGO (v) (v1spia--3-)
     apply lubricants to' 'lubricate my car engine' (v#00335085)
     cover (a surface) by smearing (a substance) over it; 'smear the paint onto the wall' (v#00840079)
@@ -1511,18 +1774,27 @@ UNGO (v) (v1spia--3-)
     apply a lubricant to; 'lubricate my car'; 'grease the wheels' (v#01018687)
     administer a sacred oil or ointment to in a religious ceremony of blessing (v#00058325)
     spread or daub over (v#00853524)
+
 UNGUEDO (n) (n-s---fn3-)
     used for healing or soothing (n#03055972)
+
 UNGUELLA (n) (n-s---fn1-)
+
 UNGUELLULA (n) (n-s---fn1-)
+
 UNGUEN (n) (n-s---nn3-)
     a thick fatty oil (especially one used to lubricate machinery) (n#10682322)
     a kind of body tissue containing stored fat that serves as a source of energy; adipose tissue also cushions and insulates vital organs; 'fatty tissue protected them from the severe cold' (n#04089143)
+
 UNGUENTARIA (n) (n-s---fn1-)
+
 UNGUENTARIUM (n) (n-s---nn2-)
+
 UNGUENTARIUS (n) (n-s---mn2-)
     a person who makes (and sells) perfumes (n#07468800)
+
 UNGUENTARIUS (a) (aps---mn1-)
+
 UNGUENTATUS (a) (aps---mn1-)
     pleasing to the ear; 'the dulcet tones of the cello' (a#01441364)
     smeared with oil or grease to reduce friction (a#02130642)
@@ -1547,37 +1819,53 @@ UNGUENTATUS (a) (aps---mn1-)
     morally offensive; 'odoriferous legislation' (a#01568837)
     with sweetening added (a#02226998)
     having a sweet nature befitting an angel or cherub; 'an angelic smile'; 'a cherubic face'; 'looking so seraphic when he slept'; 'a sweet disposition' (a#01399812)
+
 UNGUENTO (v) (v1spia--1-)
+
 UNGUENTUM (n) (n-s---nn2-)
     used for healing or soothing (n#03055972)
+
 UNGUICULUS (n) (n-s---mn2-)
     any of the terminal members of the hand (sometimes excepting the thumb); 'her fingers were long and thin' (n#04312497)
     the length of breadth of a finger used as a linear measure (n#09817148)
+
 UNGUIFER (a) (aps---mn1r)
+
 UNGUILLA (n) (n-s---fn1-)
+
 UNGUINOSUS (a) (aps---mn1-)
+
 UNGUIS (n) (n-s---mn3i)
     a device that is curved or bent to suspend or hold or pull something (n#02827974)
     sharp curved horny process on the toe of a bird or some mammals or reptiles (n#01664008)
     horny plate covering and protecting part of the dorsal surface of the digits (n#04324786)
     a sharp hooked claw esp. on a bird of prey (n#01664273)
+
 UNGULA (n) (n-s---fn1-)
     a sharp hooked claw esp. on a bird of prey (n#01664273)
     the horny end of the foot in hoofed animals (n#01662053)
+
 UNGULATRUS (n) (n-s---mn2-)
+
 UNGULATUS (a) (aps---mn1-)
+
 UNGULUS (n) (n-s---mn2-)
+
 UNGUO (v) (v1spia--3-)
     administer a sacred oil or ointment to in a religious ceremony of blessing (v#00058325)
     move over something with pressure; 'rub my back'; 'rub oil into her skin' (v#00852114)
     put a dressing on, as of salads (v#00933829)
+
 UNGUSTUS (n) (n-s---mn2-)
+
 UNIANIMIS (a) (aps---cn3i)
+
 UNIANIMITER (r) (rp--------)
     in a harmonious manner; 'the problem of absorbing immigrants harmoniously into British society is as important to the immigrants as to the British' (r#00348069)
     with gusto and without reservation; 'the boy threw himself heartily into his work' (r#00205826)
     in a hearty manner; '`Yes,' the children chorused heartily'; 'We welcomed her warmly' (r#00216245)
     of one mind; without dissent; 'the Senate unanimously approved the bill'; 'we voted unanimusly' (r#00103197)
+
 UNIANIMUS (a) (aps---mn1-)
     appropriate for achieving a particular end; implies a lack of concern for fairness (a#00883926)
     of good substantial quality; 'solid comfort'; 'a solid base hit' (a#01077859)
@@ -1626,17 +1914,24 @@ UNIANIMUS (a) (aps---mn1-)
     not divided among or brought to bear on more than one object or objective; 'judging a contest with a single eye'; 'a single devotion to duty'; 'undivided affection'; 'gained their exclusive attention' (a#00504533)
     uninterrupted in space; having no gaps or breaks; 'a solid line across the page'; 'solid sheets of water' (a#00287425)
     meant or adapted for an occasion or use; 'a tractor suitable (or fit) for heavy duty'; 'not an appropriate (or fit) time for flippancy' (a#00968565)
+
 UNICALAMUS (a) (aps---mn1-)
+
 UNICAULIS (a) (aps---cn3i)
+
 UNICE (r) (rp--------)
     to a distinctly greater extent or degree than is common; 'he was particularly fussy about spelling'; 'a particularly gruesome attack'; 'under peculiarly tragic circumstances'; 'an especially (or specially) cautious approach to the danger' (r#00081536)
     in a special manner; 'a specially arranged dinner' (r#00499119)
+
 UNICELLULARIS (a) (aps---cn3-)
     having or consisting of a single cell (a#02617584)
+
 UNICEPS (a) (aps---an3-)
+
 UNICITAS (n) (n-s---fn3-)
     the quality of being one of a kind; 'that singularity distinguished him from all his companions' (n#03740993)
     strangeness by virtue of being remarkable or unusual (n#03764373)
+
 UNICOLOR (a) (aps---an3-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     not differentiated (a#00709986)
@@ -1653,15 +1948,24 @@ UNICOLOR (a) (aps---an3-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 UNICOLORUS (a) (aps---mn1-)
+
 UNICORNICUS (a) (aps---mn1-)
+
 UNICORNIS (n) (n-s---mn3i)
+
 UNICORNIS (a) (aps---cn3i)
+
 UNICORNUUS (n) (n-s---mn2-)
     an imaginary creature represented as a white horse with a long horn growing from its forehead (n#07656059)
+
 UNICORPOREUS (a) (aps---mn1-)
+
 UNICUBA (n) (n-s---fn1-)
+
 UNICULTOR (n) (n-s---mn3-)
+
 UNICUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     separated according to race, sex, class, or religion; 'separate but equal'; 'girls and boys in separate classes' (a#01273705)
@@ -1771,10 +2075,12 @@ UNICUS (a) (aps---mn1-)
     beyond or deviating from the usual or expected; 'a curious hybrid accent'; 'her speech has a funny twang'; 'they have some funny ideas about war'; 'had an odd name'; 'the peculiar aromatic odor of cloves'; 'something definitely queer about this town'; 'what a rum fellow'; 'singular behavior' (a#00919283)
     generously responsive; 'good-hearted but inept efforts to help'; 'take a kindly interest'; 'a kindly gentleman'; 'an openhearted gift to charity' (a#00221441)
     conducive to comfort; beneficial; 'the genial sunshine'; 'a kind climate'; 'hot summer pavements are anything but kind to the feet' (a#00223736)
+
 UNIFICO (v) (v1spia--1-)
     join or combine; 'We merged our resources' (v#00166362)
     act in concert or unite in a common purpose or belief (v#01682716)
     become one; 'Germany unified officially in 1990'; 'Will the two Koreas unify?' (v#00257011)
+
 UNIFICUS (a) (aps---mn1-)
     combining into a single unit (a#01278728)
     tending to combine and coordinate diverse elements into a whole (a#01278275)
@@ -1783,13 +2089,20 @@ UNIFICUS (a) (aps---mn1-)
     tending to consolidate (a#00326405)
     tending to move toward a center; 'centripetal force' (a#00324439)
     of a nerve fiber or impulse originating outside and passing toward the central nervous system; 'sensory neurons' (a#00325147)
+
 UNIFINIS (a) (aps---cn3i)
+
 UNIFORMIS (a) (aps---cn3i)
+
 UNIFORMITAS (n) (n-s---fn3-)
+
 UNIFORMITER (r) (rp--------)
     in a uniform manner; 'a uniformly bright surface' (r#00246524)
+
 UNIGENA (a) (aps---cn1-)
+
 UNIGENITUS (n) (n-s---mn2-)
+
 UNIGENITUS (a) (aps---mn1-)
     being or characteristic of a single thing or person; 'individual drops of rain'; 'please mark the individual pages'; 'they went their individual ways' (a#00460992)
     far beyond what is usual in magnitude or degree; 'a night of exceeding darkness'; 'an exceptional memory'; 'olympian efforts to save the city from bankruptcy'; 'the young Mozart's prodigious talents' (a#01616760)
@@ -1826,9 +2139,13 @@ UNIGENITUS (a) (aps---mn1-)
     enjoyed or performed alone; 'a lonely existence'; 'his lonely room'; 'took a solitary walk'; 'enjoyed her solitary dinner'; 'solitary pursuits such as reading' (a#02143677)
     lacking companions or companionship; 'he was alone when we met him'; 'she is alone much of the time'; 'the lone skier on the mountain'; 'a lonely fisherman stood on a tuft of gravel'; 'a lonely soul'; 'a solitary traveler' (a#02144538)
     of plants and animals; not growing or living in groups or colonies; 'solitary bees' (a#02146089)
+
 UNIIUGUS (a) (aps---mn1-)
+
 UNIMAMMA (n) (n-s---fn1-)
+
 UNIMAMMAE (n) (n-p---fn1-)
+
 UNIMANUS (a) (aps---mn1-)
     individual and distinct; 'pegged down each separate branch to the earth'; 'a gift for every single child' (a#00462268)
     involved two individuals; 'single combat' (a#00462440)
@@ -1838,24 +2155,41 @@ UNIMANUS (a) (aps---mn1-)
     (botany; of flowers) having usually only one row or whorl of petals; 'single chrysanthemums resemble daisies and may have more than one row of petals' (a#02117618)
     not divided among or brought to bear on more than one object or objective; 'judging a contest with a single eye'; 'a single devotion to duty'; 'undivided affection'; 'gained their exclusive attention' (a#00504533)
     characteristic of or meant for a single person or thing; 'an individual serving'; 'separate rooms'; 'single occupancy'; 'a single bed' (a#02070218)
+
 UNIMEMBRIS (a) (aps---cn3i)
+
 UNIMODUS (a) (aps---mn1-)
+
 UNINOMIUS (a) (aps---mn1-)
+
 UNIO (v) (v1spia--4-)
     be or become joined or united or linked; 'The two streets connect to become a highway'; 'Our paths joined' (v#01789163)
+
 UNIO (n) (n-s---fn3-)
+
 UNIOCULUS (a) (aps---mn1-)
+
 UNIOLA (n) (n-s---fn1-)
+
 UNIPES (a) (aps---an3-)
+
 UNIPETIUS (a) (aps---mn1-)
+
 UNISCO (v) (v1spia--3-)
+
 UNISONUS (a) (aps---mn1-)
+
 UNISSIME (r) (rp--------)
+
 UNISTIRPIS (a) (aps---cn3i)
+
 UNISYLLABUS (a) (aps---mn1-)
+
 UNITAS (n) (n-s---fn3-)
     the quality of being united into one (n#03727089)
+
 UNITE (r) (rp--------)
+
 UNITER (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -1867,15 +2201,24 @@ UNITER (r) (rp--------)
     in they same way; also; 'I was offended and so was he'; 'worked hard and so did she' (r#00143419)
     in the way indicated; 'hold the brush so'; 'set up the pieces thus'; (`thusly' is a nonstandard variant) (r#00118084)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 UNITIO (n) (n-s---fn3-)
+
 UNITUS (r) (rp--------)
+
 UNITUS (a) (aps---mn1-)
+
 UNIUNCULUS (n) (n-s---mn2-)
+
 UNIUSMODI (r) (rp--------)
+
 UNIVERSALIS (a) (aps---cn3i)
+
 UNIVERSALITAS (n) (n-s---fn3-)
+
 UNIVERSALITER (r) (rp--------)
     everywhere; 'people universally agree on this' (r#00191966)
+
 UNIVERSALUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     having or indicating good health in body or mind; free from infirmity or disease; 'a rosy healthy baby'; 'staying fit and healthy' (a#01121949)
@@ -1919,7 +2262,9 @@ UNIVERSALUS (a) (aps---mn1-)
     containing as much or as many as is possible or normal; 'a full glass'; 'a sky full of stars'; 'a full life'; 'the auditorium was full to overflowing' (a#01030147)
     constituting the undiminished entirety; lacking nothing essential especially not damaged; 'a local motion keepeth bodies integral'- Bacon; 'was able to keep the collection entire during his lifetime'; 'fought to keep the union intact' (a#00482100)
     (of time) constituting the full extent or duration; 'all the livelong day' (a#00482407)
+
 UNIVERSATIM (r) (rp--------)
+
 UNIVERSE (r) (rp--------)
     in a wide fashion; 'he smiled broadly' (r#00218207)
     usually; as a rule; 'by and large it doesn't rain much here' (r#00151708)
@@ -1931,7 +2276,9 @@ UNIVERSE (r) (rp--------)
     in a loose manner; 'a union of loosely federated states' (r#00508098)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
     without regard to specific details or exceptions; 'he interprets the law broadly' (r#00217995)
+
 UNIVERSI (n) (n-p---mn2-)
+
 UNIVERSIM (r) (rp--------)
     in a wide fashion; 'he smiled broadly' (r#00218207)
     usually; as a rule; 'by and large it doesn't rain much here' (r#00151708)
@@ -1942,28 +2289,36 @@ UNIVERSIM (r) (rp--------)
     in a relaxed manner; not rigid; 'his hands lay loosely' (r#00175481)
     in a loose manner; 'a union of loosely federated states' (r#00508098)
     without regard to specific details or exceptions; 'he interprets the law broadly' (r#00217995)
+
 UNIVERSITARIUS (a) (aps---mn1-)
     characteristic of scholars or scholarship; 'scholarly pursuits'; 'a scholarly treatise'; 'a scholarly attitude' (a#02004952)
     marked by a narrow focus on or display of learning especially its trivial aspects (a#02005227)
     concerned with theories rather than their practical applications; 'theoretical physics' (a#00821007)
     hypothetical or theoretical and not expected to produce an immediate or practical result; 'an academic discussion'; 'an academic question' (a#00821380)
     associated with academia or an academy; 'the academic curriculum'; 'academic gowns' (a#02469676)
+
 UNIVERSITAS (n) (n-s---fn3-)
     a group of people living in a particular local area; 'the team is drawn from all parts of the community' (n#06104982)
     everything that exists anywhere; 'they study the evolution of the universe'; 'the biggest tree in existence' (n#06691078)
+
 UNIVERSUM (n) (n-s---nn2-)
+
 UNIVERSUS (a) (aps---mn1-)
     quantifier; used with either mass or count nouns to indicate the whole number or amount of or every one of a class; 'we sat up all night'; 'ate all the food'; 'all men are mortal'; 'all parties are welcome' (a#02159481)
+
 UNIVIRA (n) (n-s---fn1-)
     (informal) a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man; 'he was faithful to his woman' (n#07685959)
     women as a class; 'it's an insult to American womanhood'; 'woman is the glory of creation' (n#06258152)
     a human female who does housework; 'the char will clean the carpet' (n#07151308)
     an adult female person (as opposed to a man); 'the woman kept house while the man hunted' (n#07684780)
+
 UNIVIRATUS (n) (n-s---mn4-)
     belonging to some prior time; 'erstwhile friend'; 'our former glory'; 'the once capital of the state'; 'her quondam lover' (a#01666003)
     of or relating to the state of marriage; 'marital status'; 'marital fidelity'; 'married bliss' (a#02643078)
     joined in matrimony; 'a married man'; 'a married couple' (a#01420342)
+
 UNIVIRIA (n) (n-s---fn1-)
+
 UNIVIRIUS (a) (aps---mn1-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     of the same kind or quality; 'two animals of one species' (a#01986519)
@@ -1977,9 +2332,13 @@ UNIVIRIUS (a) (aps---mn1-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 UNIVIRUS (a) (aps---mn1-)
+
 UNIVOCATIO (n) (n-s---fn3-)
+
 UNIVOCE (r) (rp--------)
+
 UNIVOCUS (a) (aps---mn1-)
     clearly defined or formulated; 'the plain and unequivocal language of the laws'- R.B.Taney (a#00893737)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
@@ -2000,7 +2359,9 @@ UNIVOCUS (a) (aps---mn1-)
     clear to the mind; 'a clear and present danger'; 'a clear explanation'; 'a clear case of murder'; 'a clear indication that she was angry'; 'gave us a clear idea of human nature (a#00398231)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
     clearly evident to the mind; 'his opposition to slavery was unmistakable' (a#00399543)
+
 UNO (v) (v1spia--1-)
+
 UNOCULUS (a) (aps---mn1-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     of the same kind or quality; 'two animals of one species' (a#01986519)
@@ -2014,9 +2375,13 @@ UNOCULUS (a) (aps---mn1-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 UNOCULUS (n) (n-s---mn2-)
+
 UNOMAMMIA (n) (n-s---fn1-)
+
 UNOSE (r) (rp--------)
+
 UNOVIRUS (a) (aps---mn1-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     of the same kind or quality; 'two animals of one species' (a#01986519)
@@ -2030,6 +2395,7 @@ UNOVIRUS (a) (aps---mn1-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 UNQUAM (r) (rp--------)
     a suitable moment; 'it is time to go' (n#10952869)
     an arched brick or stone ceiling or roof (n#03568778)
@@ -2038,6 +2404,7 @@ UNQUAM (r) (rp--------)
      (n#W0003171)
     a curved bony structure supporting or enclosing organs (especially arches of the feet) (n#04320709)
     qualsiasi superficie superiore curva; formazioni stalattitiche pendono dalla volta della caverna; volta celeste (n#W0021071)
+
 UNUS (a) (aps---mn1-)
     not separated into parts or shares; constituting an undivided unit; 'an undivided interest in the property'; 'a full share' (a#00482536)
     separated according to race, sex, class, or religion; 'separate but equal'; 'girls and boys in separate classes' (a#01273705)
@@ -2144,6 +2511,7 @@ UNUS (a) (aps---mn1-)
     (botany; of flowers) having usually only one row or whorl of petals; 'single chrysanthemums resemble daisies and may have more than one row of petals' (a#02117618)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
     model of excellence or perfection of a kind; one having no equal (n#07416028)
+
 UNUSQUISQUE (a) (aps---an3-)
     (used as intensive) every; 'every last one of you' (a#02160420)
     an assemblage of parts that is regarded as a single entity; 'how big is that part compared to the whole?'; 'the repairman simply replaced the unit' (n#03614902)
@@ -2154,6 +2522,7 @@ UNUSQUISQUE (a) (aps---an3-)
     each and all of a series of entities or intervals as specified; 'every third seat'; 'every two hours' (a#02160530)
     including all components without exception; being one unit or constituting the full amount or extent or duration; complete; 'gave his whole attention'; 'a whole wardrobe for the tropics'; 'the whole hog'; 'a whole week'; 'the baby cried the whole trip home'; 'a whole loaf of bread' (a#00481167)
     to or from every one of two or more (considered individually); 'they received $10 each' (r#00236039)
+
 UPILIO (n) (n-s---mn3-)
     a ball of cork or rubber with a crown of feathers; used to play badminton (n#03332861)
     the flesh of a bird or fowl (wild or domestic) used as food (n#05689815)
@@ -2167,52 +2536,81 @@ UPILIO (n) (n-s---mn3-)
     a category of things distinguished by some common characteristic or quality; 'sculpture is a form of art'; 'what kinds of desserts are there?' (n#04496504)
     informal terms for a (young) woman (n#07200169)
     a clergyman who watches over a group of people (n#07569918)
+
 UPUPA (n) (n-s---fn1-)
     a heavy wooden-handled iron tool with a curved head that is pointed on both ends; 'they used picks and sledges to break the rocks' (n#03116564)
+
 URAEUM (n) (n-s---nn2-)
+
 URAEUS (a) (aps---mn1-)
+
 URANIA (n) (n-s---fn1-)
+
 URANICUS (a) (a-s---mn1-)
     relating to or inhabiting a divine heaven; 'celestial beings'; 'heavenly hosts' (a#02538008)
     of or belonging to heaven or god (a#01129479)
     of heaven or the spirit; 'celestial peace'; 'ethereal melodies'; 'the supernal happiness of a quiet death' (a#01129832)
+
 URANIE (n) (n-s---fn1g)
+
 URANOS (n) (n-s---mn2g)
+
 URANOSCOPOS (n) (n-s---mn2g)
+
 URANOSCOPUS (n) (n-s---mn2-)
+
 URANUS (n) (n-s---mn2-)
+
 URBANATIM (r) (rp--------)
+
 URBANE (r) (rp--------)
     in an urbane manner; '`I had tea occasionally with the Duke,' said Mr. Eggers urbanely' (r#00485402)
     in a polite manner; 'the policeman answered politely, `Now look here, lady...'' (r#00214779)
+
 URBANICIANUS (a) (aps---mn1-)
+
 URBANITAS (n) (n-s---fn3-)
     a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter (n#05075890)
     mental ability; 'he's got plenty of brains but no common sense' (n#04352031)
+
 URBANUS (n) (n-s---mn2-)
+
 URBANUS (a) (aps---mn1-)
     characterized by courtesy and gracious good manners; 'if a man be gracious and courteous to strangers it shows he is a citizen of the world'-Francis Bacon (a#00603752)
+
 URBICAPUS (n) (n-s---mn2-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a United Nations agency to coordinate international health activities and to help governments improve health services (n#06163090)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
+
 URBICARIUS (a) (aps---mn1-)
+
 URBICREMUS (a) (aps---mn1-)
+
 URBICULA (n) (n-s---fn1-)
+
 URBICUS (a) (aps---mn1-)
+
 URBICUS (n) (n-s---mn2-)
     an urban area with a fixed boundary that is smaller than a city; 'they drive through town on their way to work' (n#06382213)
     a large and densely populated urban area; may include several independent administrative districts; 'Ancient Troy was a great city' (n#06287351)
     an incorporated administrative district established by state charter; 'the city raised the tax rate' (n#06296380)
     people living in a large densely populated municipality; 'the city voted for Republicans in 1994' (n#06106897)
+
 URBIGENA (a) (aps---cn1-)
+
 URBO (v) (v1spia--1-)
+
 URBS (n) (n-s---fn3i)
     a large and densely populated urban area; may include several independent administrative districts; 'Ancient Troy was a great city' (n#06287351)
     people living in a large densely populated municipality; 'the city voted for Republicans in 1994' (n#06106897)
+
 URBUM (n) (n-s---nn2-)
+
 URCEATIM (r) (rp--------)
+
 URCEOLARIS (a) (aps---cn3i)
+
 URCEOLUS (n) (n-s---mn2-)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
     a large bottle with a narrow mouth (n#02880403)
@@ -2229,13 +2627,18 @@ URCEOLUS (n) (n-s---mn2-)
     very young; 'a little child'; 'small children' (a#01589390)
     the quantity contained in a jug (n#09915071)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
+
 URCEUM (n) (n-s---nn2-)
+
 URCEUS (n) (n-s---mn2-)
     a large bottle with a narrow mouth (n#02880403)
     the quantity contained in a jug (n#09915071)
     an open vessel with a handle and a spout for pouring (n#03132702)
+
 URCIOLA (n) (n-s---fn1-)
+
 URCO (v) (v1spia--1-)
+
 UREDO (n) (n-s---fn3-)
     an injury cause by exposure to fire or chemicals or radiation (n#10260110)
     pain that feels hot as if it were on fire (n#10281055)
@@ -2298,21 +2701,29 @@ UREDO (n) (n-s---fn3-)
     any eruption of the skin (n#10278373)
     the act of burning something; 'the burning of leaves was prohibited by a town ordinance' (n#00243251)
     a sudden very loud noise (n#05492247)
+
 URETER (n) (n-s---mn2r)
     a continuous tube formed by a row of elongated cells lacking intervening end walls (n#09384404)
     a bodily passage or tube conveying a secretion or other substance (n#04077287)
     either of a pair of thick-walled tubes that carry urine from the kidney to the urinary bladder (n#04270330)
     an enclosed conduit for a fluid (n#02613638)
+
 URETHRA (n) (n-s---fn1-)
+
 URETICUS (a) (aps---mn1-)
+
 URGENS (a) (aps---an3i)
+
 URGENTER (r) (rp--------)
+
 URGEO (v) (v1spia--2-)
     force or impel in an indicated direction; 'I urged him to finish his studies' (v#00519742)
     make publicity for; try to sell (v#00661487)
     press down; 'Depress the space key' (v#01084628)
     exert a force with a heavy weight; 'The snow bore down on the roof' (v#01099643)
+
 URGUENTIA (n) (n-s---fn1-)
+
 URGUEO (v) (v1spia--2-)
     attack by storm; attack suddenly (v#00764381)
     lay siege to (v#00765369)
@@ -2733,8 +3144,11 @@ URGUEO (v) (v1spia--2-)
     leave immediately; used usually in the imperative form; 'Scram!' (v#01372201)
     to make a rush at or sudden attack upon, as in battle: 'he saw Jess charging at him with a pitchfork.' (v#00760988)
     reach by calculation; 'What do you get when you add up these numbers?' (v#00432256)
+
 URICA (n) (n-s---fn1-)
+
 URIGO (n) (n-s---fn3-)
+
 URINA (n) (n-s---fn1-)
     the part of the earth's surface covered with water; 'they invaded our territorial waters' (n#06666185)
     a river and all of its tributaries (n#06792364)
@@ -2755,19 +3169,24 @@ URINA (n) (n-s---fn1-)
     salty fluid secreted by sweat glands; 'sweat poured off his brow' (n#04200725)
     pour water on; 'Water the lawn' (v#00156574)
     secrete or form water, as tears or saliva: 'My mouth watered at the prospect of a good dinner'; 'His eyes watered' (v#00048541)
+
 URINAL (n) (n-s---nn3i)
+
 URINALIS (a) (aps---cn3i)
+
 URINATIO (n) (n-s---fn3-)
     a steep nose-down descent by an aircraft (n#00210749)
     an athletic competition that involves diving into water (n#05554206)
     a cheap disreputable nightclub or dance hall (n#02827190)
     a headlong plunge into water (n#00280586)
+
 URINATOR (n) (n-s---mn3-)
     large somewhat primitive fish-eating diving bird of the northern hemisphere having webbed feet placed far back; related to the grebes (n#01560743)
     someone who dives (into water) (n#07219520)
     someone who works underwater (n#07219602)
     a worthless lazy fellow (n#07380785)
     a person with confused ideas; incapable of serious thought (n#07577369)
+
 URINO (v) (v1spia--1-)
     pull lightly but sharply with a plucking motion, as of guitar strings; 'he plucked the strings of his mandolin' (v#00996507)
     dash violently or with great speed or impetuosity; 'She plunged at it eagerly' (v#01251892)
@@ -2786,6 +3205,7 @@ URINO (v) (v1spia--1-)
     fall abruptly; 'It plunged to the bottom of the well' (v#01346059)
     pour water on; 'Water the lawn' (v#00156574)
     secrete or form water, as tears or saliva: 'My mouth watered at the prospect of a good dinner'; 'His eyes watered' (v#00048541)
+
 URINOR (v) (v1spid--1-)
     secrete or form water, as tears or saliva: 'My mouth watered at the prospect of a good dinner'; 'His eyes watered' (v#00048541)
     pour water on; 'Water the lawn' (v#00156574)
@@ -2804,43 +3224,65 @@ URINOR (v) (v1spid--1-)
     begin with vigor; 'He launched into a long diatribe'; 'She plunged into a dangerous adventure' (v#00241598)
     dash violently or with great speed or impetuosity; 'She plunged at it eagerly' (v#01251892)
     pull lightly but sharply with a plucking motion, as of guitar strings; 'he plucked the strings of his mandolin' (v#00996507)
+
 URINUS (a) (aps---mn1-)
+
 URION (n) (n-s---nn2g)
+
 URIUM (n) (n-s---nn2-)
+
 URNA (n) (n-s---fn1-)
     a large vase that usually has a pedestal or feet (n#03563683)
     an object used as a container (especially for liquids) (n#03574512)
     metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid (n#03163679)
     voting urn (n#L4429941)
     cinerary urn (n#L8180314)
+
 URNALIA (n) (n-p---nn3i)
+
 URNALIS (a) (aps---cn3i)
+
 URNARIUM (n) (n-s---nn2-)
+
 URNATOR (n) (n-s---mn3-)
+
 URNATURA (n) (n-s---fn1-)
+
 URNIGER (a) (aps---mn1r)
+
 URNULA (n) (n-s---fn1-)
     a large vase that usually has a pedestal or feet (n#03563683)
     a large vessel for making coffee or tea (n#03563781)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
+
 URO (v) (v1spia--3-)
     destroy by fire; 'They burned the house and his diaries' (v#00263886)
     use up (energy); 'burn off calories through vigorous exercise' (v#00820086)
     shine intensely, as if with heat; 'The coals were glowing in the dark'; 'The candles were burning' (v#01891783)
     burn with heat, fire, or radiation: 'The iron burnt a hole in my dress' (v#00134645)
     burn or sear (tissue) using a hot iron or electric current or a caustic agent; 'The surgeon cauterized the wart' (v#00260683)
+
 UROPYGIUM (n) (n-s---nn2-)
+
 URPEX (n) (n-s---mn3-)
+
 URRUNCUM (n) (n-s---nn2-)
+
 URSA (n) (n-s---fn1-)
     an investor with a pessimistic market outlook (n#07105643)
     massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws (n#01640332)
+
 URSAR (n) (n-s---nn3i)
+
 URSARIUS (n) (n-s---mn2-)
+
 URSINA (n) (n-s---fn1-)
+
 URSINUS (a) (aps---mn1-)
+
 URSUS (n) (n-s---mn2-)
     massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws (n#01640332)
+
 URTICA (n) (n-s---fn1-)
     play in ragtime, as of a musical piece (v#01181602)
     intrude or enter uninvited: 'Don't bother the professor while she is grading term papers' (v#01378733)
@@ -2892,9 +3334,12 @@ URTICA (n) (n-s---fn1-)
     prick with a needle; in sewing or embroidering (v#00908508)
     a verbalization that encourages you to attempt something (n#05412919)
     newspaper with half-size pages (n#04739023)
+
 URTICARIA (n) (n-s---fn1-)
     an itchy skin eruption characterized by weals with pale interiors and well-defined red margins; usually the result of an allergic response to insect bites or food or drugs (n#10278645)
+
 URUCA (n) (n-s---fn1-)
+
 URUS (n) (n-s---mn2-)
     a wild and uninhabited area (n#06391772)
     large recently extinct long-horned European wild ox; considered one of the ancestors of domestic cattle (n#01902076)
@@ -2902,8 +3347,11 @@ URUS (n) (n-s---mn2-)
     European bison having a smaller and higher head than the North American bison (n#01907656)
     any of various wild bovines especially of the genera Bos or closely related Bibos (n#01899320)
     an adult castrated bull of the genus_Bos; especially Bos taurus (n#01900112)
+
 URVO (v) (v1spia--1-)
+
 URVUM (n) (n-s---nn2-)
+
 USARIUS (a) (aps---mn1-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
@@ -2924,23 +3372,33 @@ USARIUS (a) (aps---mn1-)
     very unusual; different in character or quality from the normal or expected; 'a strange, other dimension...where his powers seemed to fail'- Lance Morrow (a#00920300)
     previously used or owned by another; 'bought a secondhand (or used) car' (a#01581439)
     further or added; 'called for additional troops'; 'need extra help'; 'an extra pair of shoes'; 'I have no other shoes'; 'there are other possibilities' (a#00048834)
+
 USIA (n) (n-s---fn1-)
+
 USIACUS (a) (aps---mn1-)
+
 USIO (n) (n-s---fn3-)
+
 USITATE (r) (rp--------)
+
 USITATIM (r) (rp--------)
+
 USITATIO (n) (n-s---fn3-)
+
 USITATUS (a) (aps---mn1-)
     not exceptional in any way especially in quality or ability or size or degree; 'ordinary everyday objects'; 'ordinary decency'; 'an ordinary day'; 'an ordinary wine' (a#01613712)
     occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure; 'grew the usual vegetables'; 'the usual summer heat'; 'came at the usual time'; 'the child's usual bedtime' (a#00456499)
+
 USITOR (v) (v1spid--1-)
     avail oneself to; 'apply a principle'; 'practice a religion'; 'use care when going down the stairs' (v#01746847)
     put into service; make work; make use of of employ for a particular purpose: 'use your head!' 'I can't make use of this tool'; 'Apply a magnetic field here'; 'This thinking was applied to many projects'; 'How do you utilize this tool?'; 'I apply this rule to get good results' (v#00788109)
     take or consume (regularly); 'She uses drugs rarely' (v#00792261)
+
 USPIAM (r) (rp--------)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to any degree or extent; 'it isn't any better' (r#00023227)
     in or at or to some place; 'she must be somewhere'; (`someplace' is used informally for `somewhere') (r#00024625)
+
 USQUAM (r) (rp--------)
     the melody carried by a particular voice or instrument in polyphonic music; 'he tried to sing the tenor part' (n#05272001)
     a person involved in legal proceedings; 'the party of the first part' (n#07459501)
@@ -2949,20 +3407,29 @@ USQUAM (r) (rp--------)
     qualcosa meno del tutto dal punto di vista della quantità, della funzione, della estensione nello spazio o nel tempo (n#W0021066)
     in part; in some degree; not wholly; 'I felt partly to blame'; 'He was partially paralyzed' (r#00006753)
     one of two or more contesting groups (in games or war or politics); 'the Confederate side was prepared to attack' (n#06218181)
+
 USQUE (r) (rp--------)
     seemingly without interruption; often and repeatedly; 'always looking for faults'; 'it is always raining'; 'he is forever cracking jokes'; 'they are forever arguing' (r#00018886)
     at every point; 'The function is continuously differentiable' (r#00188042)
     at all times; all the time and on every occasion; 'I will always be there to help you'; 'always arrives on time'; 'there is always some pollution in the air'; 'ever hoping to strike it rich'; 'ever busy' (r#00018325)
+
 USQUEQUAQUE (r) (rp--------)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
+
 USQUEQUO (r) (rp--------)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
+
 USTA (n) (n-s---fn1-)
+
 USTICIUM (n) (n-s---nn2-)
+
 USTICIUS (a) (aps---mn1-)
+
 USTILAGO (n) (n-s---fn3-)
+
 USTILATIO (n) (n-s---fn3-)
+
 USTILO (v) (v1spia--1-)
     make or become black; 'The smoke blackened the ceiling'; 'The ceiling blackened' (v#00192201)
     use up (energy); 'burn off calories through vigorous exercise' (v#00820086)
@@ -2995,29 +3462,45 @@ USTILO (v) (v1spia--1-)
     decorate with frosting; 'frost a cake' (v#01042351)
     take in coal, as of a ship (v#01101662)
     cause to wither or parch from exposure to heat; 'The sun parched the earth' (v#00148928)
+
 USTIO (n) (n-s---fn3-)
     pain that feels hot as if it were on fire (n#10281055)
     the act of burning something; 'the burning of leaves was prohibited by a town ordinance' (n#00243251)
+
 USTOR (n) (n-s---mn3-)
     an apparatus for burning fuel (or refuse) (n#02355821)
     a time when coldness (or some other quality associated with death) is intense; 'the dead of winter' (n#10851379)
     people who are no longer living; 'they buried the dead' (n#05960134)
+
 USTRICULA (n) (n-s---fn1-)
+
 USTRINA (n) (n-s---fn1-)
     a process in which a substance reacts with oxygen to give heat and light (n#09686366)
+
 USTRINUM (n) (n-s---nn2-)
+
 USTUIO (v) (v1spia--4-)
+
 USTULATICIUS (a) (aps---mn1-)
+
 USTULATIO (n) (n-s---fn3-)
+
 USTULATUS (a) (aps---mn1-)
+
 USTULO (v) (v1spia--1-)
     make very hot; 'searing heat' (v#00263340)
     burn superficially or lightly; 'I singed my eyebrows' (v#00263752)
+
 USTURA (n) (n-s---fn1-)
+
 USTUS (a) (aps---mn1-)
+
 USUALIS (a) (aps---cn3i)
+
 USUALITER (r) (rp--------)
+
 USUARIUS (n) (n-s---mn2-)
+
 USUARIUS (a) (aps---mn1-)
     capable of being treated by surgical operation; 'an operable cancer' (a#01121541)
     designed for or adapted to a function or use; 'functional education selects knowledge that is concrete and usable rather than abstract and theoretical'; 'functional architecture' (a#01763584)
@@ -3043,6 +3526,7 @@ USUARIUS (a) (aps---mn1-)
     produced by a manufacturing process; 'bought some made goods at the local store; rope and nails' (a#00636055)
     not busy; not otherwise committed; 'he was not available for comment'; 'he was available and willing to accompany her' (a#01009242)
     relating to or based on function especially as opposed to structure; 'the problem now is not a constitutional one; it is a functional one'; 'delegates elected on a functional rather than a geographical basis' (a#02741248)
+
 USUCAPIO (n) (n-s---fn3-)
     a pattern of behavior acquired through frequent repetition; 'she had a habit twirling the ends of her hair'; 'long use had hardened him to it' (n#00265920)
     the act of using; 'the steps were worn from years of use' (n#00605730)
@@ -3077,17 +3561,26 @@ USUCAPIO (n) (n-s---fn3-)
     something acquired; 'a recent acquisition by the museum' (n#09536731)
     None (n#N0002203)
     accepted practice (n#00265102)
+
 USUCAPIO (v) (v1spia--3i)
     take on a certain form, attribute, or aspect; 'His voice took on a sad tone'; 'The story took a new turn'; 'he adopted an air of superiority'; 'She assumed strange manners'; 'The gods assume human or animal form in these fables' (v#00366302)
     come into the possession of something concrete or abstract; 'She got a lot of paintings from her uncle'; 'They acquired a new pet'; 'Get your results the next day'; 'Get permission to take a few days off from work' (v#01513874)
     come to have, of physical features and attributes; 'He grew a beard'; The patient developed abdominal pains'; I got funny spots all over my body' (v#00063646)
+
 USUCAPTIO (n) (n-s---fn3-)
+
 USUCAPTUS (a) (aps---mn1-)
+
 USUFACIO (v) (v1spia--3i)
+
 USUFRUCTUARIA (n) (n-s---fn1-)
+
 USUFRUCTUARIE (r) (rp--------)
+
 USUFRUCTUARIUS (n) (n-s---mn2-)
+
 USUFRUCTUARIUS (a) (aps---mn1-)
+
 USURA (n) (n-s---fn1-)
     the act of using; 'the steps were worn from years of use' (n#00605730)
     the power of attracting or holding one's interest (because it is unusual or exciting etc.); 'they said nothing of great interest'; 'primary colors can add interest to a room' (n#04042993)
@@ -3096,28 +3589,43 @@ USURA (n) (n-s---fn1-)
     the pleasure felt when having a good time (n#05569487)
     a right or legal share of something; a financial involvement with something; 'they have interests all over the world'; 'a stake in the company's future' (n#09562992)
     the exercise of a right to benefits; 'we were given the use of his boat'; 'deprived of the enjoyment of civil rights' (n#04041567)
+
 USURARIUS (a) (aps---mn1-)
     being under the power or sovereignty of another or others; 'subject peoples'; 'a dependent prince' (a#02218700)
     not exempt from tax; 'the gift will be subject to taxation' (a#02285831)
+
 USURECEPTIO (n) (n-s---fn3-)
+
 USURECIPIO (v) (v1spia--3i)
+
 USURPABILIS (a) (aps---cn3i)
+
 USURPATIO (n) (n-s---fn3-)
     the act of using; 'the steps were worn from years of use' (n#00605730)
     accepted practice (n#00265102)
+
 USURPATIVE (r) (rp--------)
+
 USURPATIVUS (a) (aps---mn1-)
+
 USURPATOR (n) (n-s---mn3-)
+
 USURPATORIE (r) (rp--------)
+
 USURPATORIUS (a) (aps---mn1-)
+
 USURPATRIX (n) (n-s---fn3-)
+
 USURPATUS (a) (aps---mn1-)
+
 USURPO (v) (v1spia--1-)
     use up, consume fully; ' The legislature expended its time on school questions.' (v#00787825)
     put into service; make work; make use of of employ for a particular purpose: 'use your head!' 'I can't make use of this tool'; 'Apply a magnetic field here'; 'This thinking was applied to many projects'; 'How do you utilize this tool?'; 'I apply this rule to get good results' (v#00788109)
     seek or achieve an end by using; 'She uses her influential friends to get jobs' (v#01774846)
     avail oneself to; 'apply a principle'; 'practice a religion'; 'use care when going down the stairs' (v#01746847)
+
 USURULA (n) (n-s---fn1-)
+
 USUS (n) (n-s---mn4-)
     a pattern of behavior acquired through frequent repetition; 'she had a habit twirling the ends of her hair'; 'long use had hardened him to it' (n#00265920)
     the act of using; 'the steps were worn from years of use' (n#00605730)
@@ -3126,10 +3634,14 @@ USUS (n) (n-s---mn4-)
     the accumulation of knowledge or skill that results from direct participation in events or activities; 'a man of experience'; 'experience is the best teacher' (n#04441868)
     the content of direct observation or participation in an event; 'he had a religious experience'; 'he recallled the experience vividly' (n#04589992)
     accepted practice (n#00265102)
+
 USUS (a) (aps---mn1-)
+
 USUSFRUCTUS (n) (n-s---mn4-)
     uso e il godimento di beni appartenenti ad un altro (n#N0002204)
+
 USUVENIO (v) (v1spia--4-)
+
 UT (r) (rp--------)
     an impression (especially one that is artificial or contrived); 'he just did it for effect' (n#04544710)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -3177,9 +3689,12 @@ UT (r) (rp--------)
     a forceful consequence; 'the book had an important impact on my thinking' (n#07768053)
     the last section of a communication; 'in conclusion I want to say...' (n#04822648)
     the trait of being resolute; firmness of purpose; 'his resoluteness carried him through the battle'; 'it was his unshakeable resolution to finish the work' (n#03809479)
+
 UTCUMQUE (r) (rp--------)
     in whatever way or manner; 'Victory, however it was brought about, was sweet'; 'however he did it, it was very clever' (r#00027504)
+
 UTCUMQUOMQUE (r) (rp--------)
+
 UTCUNQUE (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
@@ -3192,10 +3707,15 @@ UTCUNQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     used to express refusal or denial or disagreement etc or especially to emphasize a negative statement; 'no, you are wrong' (r#00023074)
     not in any degree or manner; not at all; 'he is no better today' (r#00023305)
+
 UTEI (r) (rp--------)
+
 UTENDUS (a) (aps---mn1-)
+
 UTENS (a) (aps---an3i)
+
 UTENS (n) (n-s---mn3i)
+
 UTENSILIA (n) (n-p---nn3i)
     the financial gain (earned or unearned) accruing over a given period of time (n#09538207)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
@@ -3212,8 +3732,11 @@ UTENSILIA (n) (n-p---nn3i)
     the state or fact of existing: 'a point of view gradually coming into being'; 'laws in existence for centuries' (n#10054265)
     the condition of living or the state of being alive; 'while there's life there's hope'; 'life depends on many chemical and physical processes' (n#10059583)
     the course of existence of an individual; the actions and events that occur in living; 'he hoped for a new life in Australia'; 'he wanted to live his own life without interference from others' (n#10059340)
+
 UTENSILIS (a) (aps---cn3i)
+
 UTENSILITAS (n) (n-s---fn3-)
+
 UTER (n) (n-s---mn2r)
     a parabolic reflector for microwave or radio frequency radiation that is used as a directional antenna (n#02577346)
     a piece of dishware normally used for holding or serving food; 'we gave them a set of dishes for a wedding present' (n#02576928)
@@ -3279,6 +3802,7 @@ UTER (n) (n-s---mn2r)
     the quantity of game taken in a particular period (usually by one person); 'his bag included two deer' (n#09905156)
     mammary gland of bovids (cows and sheep and goats) (n#01871391)
     body covering of a living animal (n#01411738)
+
 UTER (a) (aps---mn1r)
     used informally as an intensifier; 'that is one fine dog' (a#01617992)
     converted to solid form (as concrete) (a#01103702)
@@ -3304,7 +3828,9 @@ UTER (a) (aps---mn1r)
     further or added; 'called for additional troops'; 'need extra help'; 'an extra pair of shoes'; 'I have no other shoes'; 'there are other possibilities' (a#00048834)
     particular but unspecified; 'early one evening' (a#01049108)
     being below the horizon; 'the moon is set' (a#02374015)
+
 UTERCULUS (n) (n-s---mn2-)
+
 UTERCUMQUE (a) (aps---an3-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     of the same kind or quality; 'two animals of one species' (a#01986519)
@@ -3317,13 +3843,17 @@ UTERCUMQUE (a) (aps---an3-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 UTERINUS (a) (aps---mn1-)
+
 UTERLIBET (r) (rp--------)
     whichever, whichsoever (of two) (a#L265507)
+
 UTERQUE (n) (n-s---mn2-)
     the cardinal number that is the sum of one and one or a numeral representing this number (n#09895309)
     being one more than one; 'he received two messages' (a#02099012)
     to or from every one of two or more (considered individually); 'they received $10 each' (r#00236039)
+
 UTERQUE (r) (rp--------)
     used informally as an intensifier; 'that is one fine dog' (a#01617992)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
@@ -3347,6 +3877,7 @@ UTERQUE (r) (rp--------)
     further or added; 'called for additional troops'; 'need extra help'; 'an extra pair of shoes'; 'I have no other shoes'; 'there are other possibilities' (a#00048834)
     wise or advantageous and hence advisable; 'it would be well to start early' (a#00070239)
     particular but unspecified; 'early one evening' (a#01049108)
+
 UTERUM (n) (n-s---nn2-)
     a protruding abdomen (n#04304039)
     a hollow muscular organ in the pelvic cavity of females; contains the developing fetus (n#04275292)
@@ -3354,19 +3885,27 @@ UTERUM (n) (n-s---nn2-)
     an appetite for food; 'exercise gave him a good stomach for dinner' (n#05565323)
     an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion (n#04194181)
     the underpart of the body of certain vertebrates such as snakes or fish (n#01665080)
+
 UTERUS (n) (n-s---mn2-)
     a hollow muscular organ in the pelvic cavity of females; contains the developing fetus (n#04275292)
     the region of the body of a vertebrate between the thorax and the pelvis (n#04304826)
+
 UTERVIS (a) (aps---mn1-)
     being one more than one; 'he received two messages' (a#02099012)
+
 UTIBILIS (a) (aps---cn3i)
+
 UTILE (r) (rp--------)
+
 UTILIS (a) (aps---cn3i)
+
 UTILITAS (n) (n-s---fn3-)
     the quality of having a superior or more favorable position; 'he experience gave him the advantage over me' (n#04016440)
     the quality of being of practical use (n#04011108)
+
 UTILITER (r) (rp--------)
     in a useful manner; 'extra money could be usefully spent on this project' (r#00485544)
+
 UTILLIMUS (a) (aps---mn1-)
     of great significance or value; 'important people'; 'the important questions of the day' (a#01223408)
     concerned with actual use or practice; 'he is a very practical person'; 'the idea had no practical application'; 'a practical knowledge of Japanese'; 'woodworking is a practical art' (a#01762874)
@@ -3384,6 +3923,7 @@ UTILLIMUS (a) (aps---mn1-)
     having utility often to the exclusion of values; 'plain utilitarian kitchenware' (a#02377449)
     capable of being put to a profitable or practical use (a#02377587)
     having great material or monetary value especially for use or exchange; 'another human being equally valuable in the sight of God'; 'a valuable diamond' (a#02381427)
+
 UTINAM (r) (rp--------)
     never except when; 'call me only if your cold gets worse' (r#00501390)
     except that; 'It was the same story; only this time she came out better' (r#00027399)
@@ -3392,6 +3932,7 @@ UTINAM (r) (rp--------)
     as recently as; 'I spoke to him only an hour ago' (r#00010017)
     in the final outcome; 'These news will only make you more upset' (r#00009920)
     without any others being included or involved; 'was entirely to blame'; 'a school devoted entirely to the needs of problem children'; 'he works for Mr. Smith exclusively'; 'did it solely for money'; 'the burden of proof rests on the prosecution alone'; 'a privilege granted only to him' (r#00007655)
+
 UTIQUE (r) (rp--------)
     used to indicate that a statement explains or supports a previous statement; 'Anyhow, he is dead now'; 'I think they're asleep; anyhow, they're quiet'; 'I don't know what happened to it; anyway, it's gone'; 'anyway, there is another factor to consider'; 'I don't know how it started; in any case, there was a brief scuffle'; 'in any event, the government faced a serious protest'; 'but at any rate he got a knighthood for it' (r#00025661)
     if nothing else; 'at least he survived'; 'they felt--at any rate Jim felt--relieved though still wary'; 'the influence of economists--or at any rate of economics--is far-reaching'; (`leastwise' is informal; `leastways' is colloquial) (r#00101411)
@@ -3407,6 +3948,7 @@ UTIQUE (r) (rp--------)
     as supposed or expected; 'sure enough, he asked her for money again' (r#00146374)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
     not less than; 'at least two hours studying the manual'; 'a tumor at least as big as an orange' (r#00101095)
+
 UTIQUE (n) (n-s---nn3-)
     an unknown and unpredictable phenomenon that causes an event to result one way rather than another; 'bad luck caused his downfall'; 'it was a chance meeting' (n#07769986)
     nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence (n#04762523)
@@ -3430,20 +3972,26 @@ UTIQUE (n) (n-s---nn3-)
     a special set of circumstances; 'in that event, the first possibility is excluded'; 'it may rain in which case the picnic will be canceled' (n#10047274)
     a category of things distinguished by some common characteristic or quality; 'sculpture is a form of art'; 'what kinds of desserts are there?' (n#04496504)
     above and beyond all other consideration; 'above all, you must be independent' (r#00146802)
+
 UTLAGARIA (n) (n-s---fn1-)
     a state of lawlessness and disorder (usually resulting from a failure of government) (n#10067245)
     illegality as a consequence of unlawful acts (n#03774474)
+
 UTLAGATIO (n) (n-s---fn3-)
     a state of lawlessness and disorder (usually resulting from a failure of government) (n#10067245)
     illegality as a consequence of unlawful acts (n#03774474)
+
 UTLAGATUS (n) (n-s---mn4-)
     a purulent infection at the end of a finger or toe in the area surrounding the nail (n#10194574)
     a long staff with one end being hook shaped (n#02522012)
     a circular segment of a curve: 'a bend in the road'; 'a crook in the path' (n#09992072)
     someone who has committed (or been legally convicted of) a crime (n#07193161)
+
 UTLAGO (v) (v1spia--1-)
     declare illegal (v#01690845)
+
 UTO (v) (v1spia--3-)
+
 UTOR (v) (v1spid--3-)
     put a habit on (v#00034981)
     the exercise of a profession; 'the practice of the law'; 'I took over his practice when he retired' (n#00415881)
@@ -3571,6 +4119,7 @@ UTOR (v) (v1spid--3-)
     seek or achieve an end by using; 'She uses her influential friends to get jobs' (v#01774846)
     put into service; make work; make use of of employ for a particular purpose: 'use your head!' 'I can't make use of this tool'; 'Apply a magnetic field here'; 'This thinking was applied to many projects'; 'How do you utilize this tool?'; 'I apply this rule to get good results' (v#00788109)
     use up, consume fully; ' The legislature expended its time on school questions.' (v#00787825)
+
 UTPOTE (r) (rp--------)
     relating to or concerning nature; 'natural science'; 'our natural environment' (a#02751502)
     None (n#N0001889)
@@ -3587,9 +4136,11 @@ UTPOTE (r) (rp--------)
     None (n#N0002449)
     in accordance with or determined by nature or natural laws; 'a natural death'; 'natural phenomena'; 'a natural gift for sport' (a#01513557)
     involving or derived from living organisms; free from chemical treatments or additives; 'organic gardening is more natural'; 'nonsynthetic fertilizer' (a#01620071)
+
 UTPUTA (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     as follows (r#00184935)
+
 UTQUOMQUE (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
@@ -3602,14 +4153,22 @@ UTQUOMQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     used to express refusal or denial or disagreement etc or especially to emphasize a negative statement; 'no, you are wrong' (r#00023074)
     not in any degree or manner; not at all; 'he is no better today' (r#00023305)
+
 UTRALIBET (r) (rp--------)
     after a negative statement used as an intensive meaning something like `likewise' or `also'; 'he isn't stupid, but he isn't exactly a genius either'; 'I don't know either'; 'if you don't order dessert I won't either' (r#00023830)
+
 UTRAQUE (r) (rp--------)
+
 UTRARIUS (n) (n-s---mn2-)
+
 UTRASQUE (r) (rp--------)
+
 UTRIBI (r) (rp--------)
+
 UTRICIDA (n) (n-s---mn1-)
+
 UTRICLARIUS (n) (n-s---mn2-)
+
 UTRICULARIUS (n) (n-s---mn2-)
     a living organism characterized by voluntary movement (n#00008019)
     type genus of the Piperaceae: large genus of chiefly climbing tropical shrubs (n#09436445)
@@ -3618,16 +4177,19 @@ UTRICULARIUS (n) (n-s---mn2-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     someone who plays the bagpipe (n#07478081)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
+
 UTRICULUS (n) (n-s---mn2-)
     bag made from an animal skin (usually a goatskin) and used to hold and dispense wine (n#03624246)
     the quantity contained in a bottle (n#09912761)
     glass or plastic vessel; cylindrical with a narrow neck; no handle (n#02318679)
     an animal skin made smooth and flexible by removing the hair and tanning (n#10580693)
     a hollow muscular organ in the pelvic cavity of females; contains the developing fetus (n#04275292)
+
 UTRICULUS (r) (rp--------)
     to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense); 'further complicated by uncertainty about the future'; 'let's not discuss it further'; 'nothing could be further from the truth'; 'they are further along in their research than we expected'; 'the application of the law was extended farther'; 'he is going no farther in his studies' (r#00029054)
     farther along in space or time or degree; 'through the valley and beyond'; 'to the eighth grade but not beyond'; 'will be influential in the l990s and beyond' (r#00044140)
     to or at a greater distance in time or space (`farther' is used more frequently than `further' in this physical sense); 'farther north'; 'moved farther away'; 'farther down the corridor'; 'the practice may go back still farther to the Druids'; 'went only three miles further'; 'further in the future' (r#00028708)
+
 UTRIMQUE (r) (rp--------)
     a person involved in legal proceedings; 'the party of the first part' (n#07459501)
     an actor's portrayal of someone in a play; 'she played the part of Desdemona' (n#04552661)
@@ -3650,9 +4212,12 @@ UTRIMQUE (r) (rp--------)
     any one of a number of individual efforts in a common endeavor: 'I am proud of my contribution to the team's success'; 'they all did their share of the work' (n#00504440)
     the cardinal compass point that is at 90 degrees (n#09964070)
     nearest in space or position; immediately adjoining without intervening space; 'had adjacent rooms'; 'in the next room'; 'the person sitting next to me'; 'our rooms were side by side' (a#00416294)
+
 UTRIMQUESECUS (r) (rp--------)
+
 UTRINDE (r) (rp--------)
     after a negative statement used as an intensive meaning something like `likewise' or `also'; 'he isn't stupid, but he isn't exactly a genius either'; 'I don't know either'; 'if you don't order dessert I won't either' (r#00023830)
+
 UTRINQUE (r) (rp--------)
     with a forward motion; 'we drove along admiring the view'; 'the horse trotted along at a steady pace'; 'the circus traveled on to the next city'; 'move along'; 'march on' (r#00065825)
     in accompaniment or as a companion; 'his little sister came along to the movies'; 'I brought my camera along'; 'working along with his father' (r#00066034)
@@ -3661,25 +4226,42 @@ UTRINQUE (r) (rp--------)
     in line with a length or direction (often followed by `by' or `beside'); 'pass the word along'; 'ran along beside me'; 'cottages along by the river' (r#00066621)
     indicates continuity or persistence or concentration; 'his spirit lives on'; 'shall I read on?' (r#00066803)
     in a state required for something to function or be effective; 'turn the lights on'; 'get a load on' is slang for 'drink enough to become intoxicated' (r#00066929)
+
 UTRINQUESECUS (r) (rp--------)
+
 UTRINSECUS (r) (rp--------)
+
 UTRIS (n) (n-s---mn3i)
+
 UTRO (r) (rp--------)
+
 UTROBI (r) (rp--------)
+
 UTROBIDEM (r) (rp--------)
+
 UTROBIQUE (r) (rp--------)
     after a negative statement used as an intensive meaning something like `likewise' or `also'; 'he isn't stupid, but he isn't exactly a genius either'; 'I don't know either'; 'if you don't order dessert I won't either' (r#00023830)
+
 UTROLIBET (r) (rp--------)
+
 UTROQUE (r) (rp--------)
     to or from every one of two or more (considered individually); 'they received $10 each' (r#00236039)
+
 UTROQUEVERSUM (r) (rp--------)
+
 UTRUBI (r) (rp--------)
+
 UTRUBIDEM (r) (rp--------)
+
 UTRUBIQUE (r) (rp--------)
+
 UTRUM (r) (rp--------)
+
 UTRUMLIBET (r) (rp--------)
     after a negative statement used as an intensive meaning something like `likewise' or `also'; 'he isn't stupid, but he isn't exactly a genius either'; 'I don't know either'; 'if you don't order dessert I won't either' (r#00023830)
+
 UTRUMNAM (r) (rp--------)
+
 UTUT (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     up to the present time; 'I have yet to see the results'; 'details are yet to be worked out' (r#00026875)
@@ -3695,6 +4277,7 @@ UTUT (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     within an indefinite time or at an unspecified future time; 'he will understand eventually'; 'he longed for the flowers that were yet to show themselves'; 'sooner or later you will have to face the facts'; 'in time they came to accept the harsh reality' (r#00046129)
     with reference to action or condition; without change, interruption, or cessation; 'it's still warm outside'; 'will you still love me when we're old and grey?' (r#00030373)
+
 UVA (n) (n-s---fn1-)
     a pulpy and usually edible small fruit having any of various structures: e.g. strawberry or raspberry or blueberry (n#09425657)
     weak-stemmed plant that derives support from climbing, twining, or creeping along a surface (n#09393003)
@@ -3705,7 +4288,9 @@ UVA (n) (n-s---fn1-)
     any of numerous small edible pulpy fruits either simple (grape; blueberry) or aggregate (blackberry; raspberry) (n#05778932)
     any of various juicy purple- or green-skinned fruit of the genus Vitis; grow in clusters (n#05794443)
     None (n#N0002212)
+
 UVENS (a) (aps---an3i)
+
 UVESCO (v) (v1spia--3-)
     cause to become wet; 'Wet your face' (v#00146425)
     propose a toast to; 'Let us toast the birthday girl!' 'Let's drink to the New Year' (v#00799278)
@@ -3719,7 +4304,9 @@ UVESCO (v) (v1spia--3-)
     consume alcohol; 'We were up drinking all night' (v#00796419)
     take in liquids (v#00795711)
     enter or assume a certain state or condition; 'He became annoyed when he heard the bad news'; 'It must be getting more serious'; 'her face went red with anger'; 'She went into ecstasy'; 'Get going!' (v#00101662)
+
 UVIDITAS (n) (n-s---fn3-)
+
 UVIDULUS (a) (aps---mn1-)
     naughtily or annoyingly playful; 'teasing and worrying with impish laughter' (a#02046986)
     of textiles; 'a close weave'; 'smooth percale with a very tight weave' (a#02127164)
@@ -3788,6 +4375,7 @@ UVIDULUS (a) (aps---mn1-)
     broken into sharp pieces; 'shattered glass'; 'your eyeglasses are smashed'; 'the police came in through the splintered door' (a#00285119)
     (of walls) covered with a coat of plaster (a#01636926)
     (British informal) trivial; 'potty little details' (a#01228996)
+
 UVIDUS (a) (aps---mn1-)
     naughtily or annoyingly playful; 'teasing and worrying with impish laughter' (a#02046986)
     of textiles; 'a close weave'; 'smooth percale with a very tight weave' (a#02127164)
@@ -3875,16 +4463,22 @@ UVIDUS (a) (aps---mn1-)
     having an abundant supply of money or possessions of value; 'an affluent banker'; 'a speculator flush with cash'; 'not merely rich but loaded'; 'moneyed aristocrats'; 'wealthy corporations' (a#01950708)
     giving off a strong unpleasant smell (a#01003771)
     pulled or drawn tight; 'taut sails'; 'a tight drumhead'; 'a tight rope' (a#02288572)
+
 UVIFER (a) (aps---mn1r)
+
 UVOR (n) (n-s---mn3-)
     a slight wetness (n#10425007)
     None (n#N0000138)
     wetness caused by water; 'drops of wet gleamed on the window' (n#10424695)
+
 UXOR (n) (n-s---fn3-)
     a married woman; a man's partner in marriage (n#07681186)
+
 UXORATUS (a) (aps---mn1-)
+
 UXORCULA (n) (n-s---fn1-)
     a married woman; a man's partner in marriage (n#07681186)
+
 UXORCULO (v) (v1spia--1-)
     perform music on (a musical instrument); 'He plays the flute'; 'Can you play on this old recorder?' (v#01181779)
     put (a card or piece) into play during a game: 'He is playing his cards close to his chest' (v#00781207)
@@ -3922,8 +4516,10 @@ UXORCULO (v) (v1spia--1-)
     behave carelessly or indifferently; 'Play about with a young girl's affection' (v#01659720)
     as of melodies; 'Play it again, Sam'; 'She played the third movement very beautifully' (v#01180692)
     play (music) on an instrument; 'The band played all night long' (v#01181073)
+
 UXORIUM (n) (n-s---nn2-)
     charge against a citizen's person or property or activity for the support of government (n#09580808)
+
 UXORIUS (a) (aps---mn1-)
     joined in matrimony; 'a married man'; 'a married couple' (a#01420342)
     absurd or silly because unlikely; 'fond hopes of becoming President'; 'fond fancies' (a#02448058)
@@ -3931,6 +4527,7 @@ UXORIUS (a) (aps---mn1-)
     (followed by `of' or `to') having a strong preference or liking for; 'fond of chocolate'; 'partial to horror movies' (a#01239795)
     extravagantly or foolishly loving and indulgent; 'adoring grandparents'; 'deceiving her preoccupied and doting husband with a young captain'; 'hopelessly spoiled by a fond mother' (a#01404093)
     having or displaying warmth or affection; 'affectionate children'; 'caring parents'; 'a fond embrace'; 'fond of his nephew'; 'a tender glance'; 'a warm embrace' (a#01404342)
+
 UXORIUS (n) (n-s---mn2-)
     the most powerful chess piece (n#03195684)
     one of four cards in a deck bearing a picture of a queen (n#03195765)

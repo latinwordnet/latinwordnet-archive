@@ -1,12 +1,14 @@
 Latin WordNet 2.0
 Lemmas - Q
 
+
 QUAAD (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     for an extended time or at a distant time; 'a promotion long overdue'; 'something long hoped for'; 'his name has long been forgotten'; 'talked all night long'; 'how long will you be gone?'; 'arrived long before he was expected'; 'it is long after your bedtime' (r#00162139)
     for an extended distance (r#00162432)
+
 QUACUMQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     up to the present time; 'I have yet to see the results'; 'details are yet to be worked out' (r#00026875)
@@ -27,6 +29,7 @@ QUACUMQUE (r) (rp--------)
     with reference to action or condition; without change, interruption, or cessation; 'it's still warm outside'; 'will you still love me when we're old and grey?' (r#00030373)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     in part; in some degree; not wholly; 'I felt partly to blame'; 'He was partially paralyzed' (r#00006753)
+
 QUACUNQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     up to the present time; 'I have yet to see the results'; 'details are yet to be worked out' (r#00026875)
@@ -46,7 +49,9 @@ QUACUNQUE (r) (rp--------)
     with reference to action or condition; without change, interruption, or cessation; 'it's still warm outside'; 'will you still love me when we're old and grey?' (r#00030373)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     in part; in some degree; not wholly; 'I felt partly to blame'; 'He was partially paralyzed' (r#00006753)
+
 QUADAM (r) (rp--------)
+
 QUADAMTENUS (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -77,6 +82,7 @@ QUADAMTENUS (r) (rp--------)
     in the final outcome; 'These news will only make you more upset' (r#00009920)
     as recently as; 'I spoke to him only an hour ago' (r#00010017)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 QUADANTENUS (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -100,6 +106,7 @@ QUADANTENUS (r) (rp--------)
     in the final outcome; 'These news will only make you more upset' (r#00009920)
     as recently as; 'I spoke to him only an hour ago' (r#00010017)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 QUADRA (n) (n-s---fn1-)
     a piece of furniture having a smooth flat top supported by one or more vertical legs; 'it was a sturdy table' (n#03461269)
     a piece of furniture with tableware for a meal laid out on it; 'I reserved a table at my favorite restaurant' (n#03461955)
@@ -114,20 +121,27 @@ QUADRA (n) (n-s---fn1-)
     any object having a shape similar to a plane geometric figure with four equal sides and four right angles; 'a chessboard has 64 squares' (n#03393616)
     a company of people assembled at a table for a meal or game; 'he entertained the whole table with his witty remarks' (n#06259597)
     flat tableland with steep edges; 'the tribe was relatively safe on the mesa but they had to descend into the valley for water' (n#06726716)
+
 QUADRAGENARIUS (a) (aps---mn1-)
     being ten more than thirty (a#02101858)
+
 QUADRAGENARIUS (n) (n-s---mn2-)
+
 QUADRAGENI (a) (app---mn1-)
     forty each (a#L9370351)
+
 QUADRAGENSIMA (n) (n-s---fn1-)
     position 40 in a countable series of things (n#09977792)
     charge against a citizen's person or property or activity for the support of government (n#09580808)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
+
 QUADRAGENSIMUS (a) (aps---mn1-)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
     the ordinal number of forty in counting order (a#02108607)
+
 QUADRAGENSUMUS (a) (aps---mn1-)
+
 QUADRAGENUS (n) (n-s---mn2-)
     a suitable moment; 'it is time to go' (n#10952869)
     an arched brick or stone ceiling or roof (n#03568778)
@@ -142,22 +156,34 @@ QUADRAGENUS (n) (n-s---mn2-)
     (used of count nouns) each and all of the members of a group considered singly and without exception; 'every person is mortal'; 'every party is welcome'; 'had every hope of success'; 'every chance of winning' (a#02160157)
     a curved bony structure supporting or enclosing organs (especially arches of the feet) (n#04320709)
     to or from every one of two or more (considered individually); 'they received $10 each' (r#00236039)
+
 QUADRAGENUS (a) (aps---mn1-)
+
 QUADRAGESIMA (n) (n-s---fn1-)
     a period of 40 weekdays from Ash Wednesday to Holy Saturday (n#10950231)
+
 QUADRAGESIMALIS (a) (aps---cn3i)
+
 QUADRAGESIMUS (n) (n-s---mn2-)
     position 40 in a countable series of things (n#09977792)
+
 QUADRAGESIMUS (a) (aps---mn1-)
+
 QUADRAGESSIS (n) (n-s---mn3i)
+
 QUADRAGIENS (a) (aps---an3-)
     being ten more than thirty (a#02101858)
+
 QUADRAGIENS (r) (rp--------)
+
 QUADRAGINTA (a) (aps---an3-)
     being ten more than thirty (a#02101858)
+
 QUADRANGULARIS (a) (aps---cn3i)
+
 QUADRANGULATUS (a) (aps---mn1-)
     of or relating to or shaped like a quadrangle (a#02628181)
+
 QUADRANGULUM (n) (n-s---nn2-)
     language used in a figurative or nonliteral sense (n#05317127)
     an amount of money expressed numerically; 'a figure of $17 was suggested' (n#09598019)
@@ -183,23 +209,36 @@ QUADRANGULUM (n) (n-s---nn2-)
     the impression produced by a person; 'he cut a fine figure'; 'a heroic figure' (n#03684305)
     a predetermined set of movements in dancing or skating; 'she made the best score on compulsory figures' (n#00363615)
     a level of existence or development; 'he lived on a worldly plane' (n#10046013)
+
 QUADRANGULUS (a) (aps---mn1-)
     of or relating to or shaped like a quadrangle (a#02628181)
     being one more than three (a#02099207)
+
 QUADRANS (n) (n-s---mn3i)
+
 QUADRANTAL (n) (n-s---nn3i)
+
 QUADRANTALIS (a) (aps---cn3i)
+
 QUADRANTARIUS (a) (aps---mn1-)
     relating to only part of a whole; 'part owner' (a#00484256)
     consisting of one of four equivalent parts; 'a quarter pound of butter' (a#00484356)
     coming next after the third and just before the fifth in position or time or degree or magnitude; 'the quaternary period of geologic time extends from the end of the tertiary period to the present' (a#02105183)
+
 QUADRASSIS (n) (n-s---mn3i)
+
 QUADRATARIUS (a) (aps---mn1-)
+
 QUADRATARIUS (n) (n-s---mn2-)
+
 QUADRATE (r) (rp--------)
+
 QUADRATIM (r) (rp--------)
+
 QUADRATIO (n) (n-s---fn3-)
+
 QUADRATOR (n) (n-s---mn3-)
+
 QUADRATUM (n) (n-s---nn2-)
     (informal) a formal and conservative person with old-fashioned views (n#07603790)
     the product of two equal terms; 'nine is the second power of three'; 'gravity is inversely proportional to the square of the distance' (n#09886313)
@@ -210,30 +249,45 @@ QUADRATUM (n) (n-s---nn2-)
     a tool consisting of two straight arms at right angles; used to construct or test right angles; 'the carpenter who built this room must have lost his square' (n#03393352)
     any object having a shape similar to a plane geometric figure with four equal sides and four right angles; 'a chessboard has 64 squares' (n#03393616)
     a cubelike object (n#10029062)
+
 QUADRATURA (n) (n-s---fn1-)
+
 QUADRATUS (n) (n-s---mn2-)
     any object having a shape similar to a plane geometric figure with four equal sides and four right angles; 'a chessboard has 64 squares' (n#03393616)
+
 QUADRATUS (a) (aps---mn1-)
     having four equal sides and four right angles or forming a right angle; 'a square peg in a round hole'; 'a square corner' (a#01967903)
     having four sides and four angles (a#01968167)
     having been made square (a#01968397)
+
 QUADRIANGULUM (n) (n-s---nn2-)
+
 QUADRIANGULUS (a) (aps---mn1-)
     of or relating to or shaped like a quadrangle (a#02628181)
+
 QUADRIBACCIUM (n) (n-s---nn2-)
+
 QUADRIBACIUM (n) (n-s---nn2-)
+
 QUADRICEPS (a) (aps---an3-)
+
 QUADRICHORDUM (n) (n-s---nn2-)
     a play or film whose action and dialogue is interspersed with singing and dancing (n#05265364)
     a document that states some contractual relationship or grants some right (n#04864856)
     the means whereby something is accomplished; 'my greed was the instrument of my destruction' or 'science has given us new tools to fight disease' (n#00112599)
     a device that requires skill for proper use (n#02859502)
     a person used by another to gain an end (n#07341253)
+
 QUADRICOLOR (a) (aps---an3-)
+
 QUADRICUBITALIS (a) (aps---cn3i)
+
 QUADRICUBITUS (a) (aps---mn1-)
+
 QUADRIDENS (a) (aps---an3i)
+
 QUADRIDUANUS (a) (aps---mn1-)
+
 QUADRIDUUM (n) (n-s---nn2-)
     the end or completion of something; 'death put a period to his endeavors'; 'a change soon put a period to my tranquility' (n#10868422)
     a time of life characterized as a distinct phase; 'Picasso's blue period'; 'it was the happy period of my life' (n#10869183)
@@ -256,16 +310,24 @@ QUADRIDUUM (n) (n-s---nn2-)
     the time during which someone's life continues; 'the monarch's last days'; 'in his final years' (n#10866312)
     an empty area (usually bounded in some way between things); 'the architect left space in front of the building'; 'they stopped at an open space in the jungle'; 'the space between his teeth' (n#10024194)
     an indefinite length of time; 'a time period of 30 years'; 'hastened the period of his recovery' (n#10843624)
+
 QUADRIENNIS (a) (aps---cn3i)
+
 QUADRIENNIUM (n) (n-s---nn2-)
     period of four years (n#L6869122)
+
 QUADRIERIS (n) (n-s---mn3i)
+
 QUADRIFARIAM (r) (rp--------)
     the cardinal number that is the sum of three and one (n#09896114)
     being one more than three (a#02099207)
+
 QUADRIFARIE (r) (rp--------)
+
 QUADRIFARITER (r) (rp--------)
+
 QUADRIFARIUS (a) (aps---mn1-)
+
 QUADRIFIDUS (a) (aps---mn1-)
     having a long rip or tear; 'a split lip' (a#01264819)
     having been divided; having the unity destroyed; 'Congress...gave the impression of...a confusing sum of disconnected local forces'-Samuel Lubell; 'a league of disunited nations'- E.B.White; 'a fragmented coalition'; 'a split group' (a#02361589)
@@ -273,15 +335,25 @@ QUADRIFIDUS (a) (aps---mn1-)
     broken or burst apart longitudinally; 'after the thunderstorm we found a tree with a split trunk'; 'they tore big juicy chunks from the heart of the split watermelon' (a#00285322)
     (especially of wood) cut or ripped longitudinally with the grain; 'we bought split logs for the fireplace' (a#00625000)
     being divided or separated; 'split between love and hate' (a#02363179)
+
 QUADRIFINALIS (a) (aps---cn3i)
+
 QUADRIFINIUM (n) (n-s---nn2-)
+
 QUADRIFINIUS (a) (aps---mn1-)
+
 QUADRIFLUUS (a) (aps---mn1-)
+
 QUADRIFLUVIUM (n) (n-s---nn2-)
+
 QUADRIFORIS (a) (aps---cn3i)
+
 QUADRIFORMIS (a) (aps---cn3i)
+
 QUADRIFORMITAS (n) (n-s---fn3-)
+
 QUADRIFRONS (a) (aps---an3i)
+
 QUADRIGA (n) (n-s---fn1-)
     a padded gymnastic apparatus on legs (n#02832547)
     troops trained to fight on horseback: '500 horse led the attack' (n#06210014)
@@ -306,6 +378,7 @@ QUADRIGA (n) (n-s---fn1-)
     the beginning of an offensive; 'the attack began at dawn' (n#00625655)
      (n#W0003110)
     a framework for holding wood that is being sawed (n#03278250)
+
 QUADRIGAE (n) (n-p---fn1-)
     two or more draft animals that work together to pull a vehicle (n#05982639)
     a long necktie that is tied in a slipknot with one end hanging in front of the other (n#02718293)
@@ -316,8 +389,11 @@ QUADRIGAE (n) (n-p---fn1-)
     the cardinal number that is the sum of three and one (n#09896114)
     a cooperative unit (n#06093198)
     a carriage pulled by four horses with one driver (n#02459686)
+
 QUADRIGALIS (a) (aps---cn3i)
+
 QUADRIGAMUS (a) (aps---mn1-)
+
 QUADRIGARIUS (n) (n-s---mn2-)
     a frenetic disorganized (and often comic) disturbance suggestive of a circus or carnival; 'it was so funny it was a circus'; 'the whole occasion had a carnival atmosphere' (n#00360851)
     a genus of haws comprising the harriers (n#01131741)
@@ -335,15 +411,22 @@ QUADRIGARIUS (n) (n-s---mn2-)
     (ancient Rome) an open-air stadium for chariot races and gladiatorial games (n#02444587)
     a golf club used for hitting long shots from the tee (n#02606119)
     a fast car that competes in races (n#03199039)
+
 QUADRIGARIUS (a) (aps---mn1-)
+
 QUADRIGATUS (n) (n-s---mn2-)
+
 QUADRIGATUS (a) (aps---mn1-)
     (combining form) producing or yielding; 'an interest-bearing note'; 'fruit-bearing trees' (a#01794644)
     (of a structural member) withstanding a weight or strain (a#00214529)
     marked with the impression of a seal (a#02008395)
+
 QUADRIGEMINUS (a) (aps---mn1-)
+
 QUADRIGONA (n) (n-s---fn1-)
+
 QUADRIGONUS (a) (aps---mn1-)
+
 QUADRIGULA (n) (n-s---fn1-)
     two or more draft animals that work together to pull a vehicle (n#05982639)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
@@ -360,60 +443,93 @@ QUADRIGULA (n) (n-s---fn1-)
     a chessman in the shape of a horse's head; can move two squares horizontally and one vertically (or vice versa) (n#02894296)
     the cardinal compass point that is at 180 degrees (n#09965063)
     a framework for holding wood that is being sawed (n#03278250)
+
 QUADRIGULAE (n) (n-p---fn1-)
     two or more draft animals that work together to pull a vehicle (n#05982639)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
     a cooperative unit (n#06093198)
+
 QUADRIGULARIUS (a) (aps---mn1-)
+
 QUADRIIUGI (n) (n-p---mn2-)
+
 QUADRIIUGIS (a) (aps---cn3i)
+
 QUADRIIUGUS (a) (aps---mn1-)
     beside one another in a row or rank; 'they came down the street two abreast' (a#00697204)
     being one more than three (a#02099207)
+
 QUADRIIUGUS (n) (n-s---mn2-)
     two or more draft animals that work together to pull a vehicle (n#05982639)
     the cardinal number that is the sum of three and one (n#09896114)
     a cooperative unit (n#06093198)
     being one more than three (a#02099207)
+
 QUADRILATERALUS (a) (aps---mn1-)
     having many parts or sides (a#00235215)
     having four sides (a#00235547)
+
 QUADRILATERUS (a) (aps---mn1-)
+
 QUADRILIBRIS (a) (aps---cn3i)
+
 QUADRIMANIS (a) (aps---cn3i)
+
 QUADRIMANUS (a) (aps---mn1-)
+
 QUADRIMATUS (n) (n-s---mn4-)
+
 QUADRIMEMBRIS (a) (aps---cn3i)
+
 QUADRIMENSTRUUS (a) (aps---mn1-)
+
 QUADRIMESTRIS (a) (aps---cn3i)
+
 QUADRIMODUS (a) (aps---mn1-)
+
 QUADRIMULUS (a) (aps---mn1-)
+
 QUADRIMUS (a) (aps---mn1-)
     the cardinal number that is the sum of three and one (n#09896114)
     being one more than three (a#02099207)
+
 QUADRINGENARIUS (a) (aps---mn1-)
     of four hundred each (a#L8731664)
+
 QUADRINGENI (a) (app---mn1-)
+
 QUADRINGENTENARIUS (a) (aps---mn1-)
+
 QUADRINGENTENI (a) (app---mn1-)
+
 QUADRINGENTESIMUS (a) (aps---mn1-)
     being one more than three (a#02099207)
     the ordinal number of one hundred in counting order (a#02109257)
+
 QUADRINGENTI (a) (aps---an3-)
     the cardinal number that is the sum of three and one (n#09896114)
     being one more than three (a#02099207)
+
 QUADRINGENTIENS (r) (rp--------)
+
 QUADRINGENTIES (r) (rp--------)
     being ten more than ninety (a#02102426)
     ten 10s (n#09901877)
     the cardinal number that is the sum of three and one (n#09896114)
     being one more than three (a#02099207)
+
 QUADRINGENTUS (a) (aps---mn1-)
+
 QUADRINI (a) (app---mn1-)
+
 QUADRINOCTIUM (n) (n-s---nn2-)
+
 QUADRIPARTIO (v) (v1spia--4-)
+
 QUADRIPARTITIO (n) (n-s---fn3-)
+
 QUADRIPARTITO (r) (rp--------)
+
 QUADRIPARTITUS (a) (aps---mn1-)
     separated into parts or pieces; 'opinions are divided' (a#02359350)
     distributed in portions (often equal) on the basis of a plan or purpose (a#00506486)
@@ -424,10 +540,14 @@ QUADRIPARTITUS (a) (aps---mn1-)
     being one more than three (a#02099207)
     having a median strip or island between lanes of traffic moving in opposite directions; 'a divided highway' (a#02118583)
     having or involving or consisting of more than one part or entity or individual; 'multiple birth'; 'multiple ownership'; 'made multiple copies of the speech'; 'his multiple achievements in public life'; 'her multiple personalities'; 'a pineapple is a multiple fruit' (a#02112966)
+
 QUADRIPEDATIM (r) (rp--------)
+
 QUADRIPERTIOR (v) (v1spid--4-)
+
 QUADRIPERTITUS (a) (aps---mn1-)
     having four units or components; 'quadruple rhythm has four beats per measure' (a#02116464)
+
 QUADRIPLEX (a) (aps----n1-)
     four times as great or many; 'a fourfold increase in the dosage' (a#02116333)
     having four units or components; 'quadruple rhythm has four beats per measure' (a#02116464)
@@ -436,15 +556,25 @@ QUADRIPLEX (a) (aps----n1-)
     having or involving or consisting of more than one part or entity or individual; 'multiple birth'; 'multiple ownership'; 'made multiple copies of the speech'; 'his multiple achievements in public life'; 'her multiple personalities'; 'a pineapple is a multiple fruit' (a#02112966)
     greatly increased as by multiplication (a#00838173)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
+
 QUADRIPOTENS (a) (aps---an3i)
+
 QUADRIREMIS (n) (n-s---fn3i)
+
 QUADRIREMIS (a) (aps---cn3i)
+
 QUADRISEMUS (a) (aps---mn1-)
+
 QUADRISEXTIUM (n) (n-s---nn2-)
+
 QUADRISOMUM (n) (n-s---nn2-)
+
 QUADRISOMUS (a) (aps---mn1-)
+
 QUADRISULCUS (a) (aps---mn1-)
+
 QUADRISYLLABUS (a) (aps---mn1-)
+
 QUADRIVIUM (n) (n-s---nn2-)
     the passage that is being read; 'he lost his place on the page' (n#04824876)
     None (n#N0001458)
@@ -483,22 +613,33 @@ QUADRIVIUM (n) (n-s---nn2-)
     a set that is closed, associative, has an identity element and every element has an inverse (n#04606861)
     a general vicinity; 'He comes from a place near Chicago' (n#06364246)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
+
 QUADRIVIUS (a) (aps---mn1-)
+
 QUADRO (v) (v1spia--1-)
     make square; 'Square the circle'; 'square the wood with a file' (v#00097920)
+
 QUADRULA (n) (n-s---fn1-)
+
 QUADRUM (n) (n-s---nn2-)
     the product of two equal terms; 'nine is the second power of three'; 'gravity is inversely proportional to the square of the distance' (n#09886313)
+
 QUADRUPEDANS (a) (aps---an3i)
     that are running rapidly; 'surrounded by galloping horses' (a#02880785)
+
 QUADRUPEDANS (n) (n-s---mn3i)
+
 QUADRUPEDATIM (r) (rp--------)
+
 QUADRUPEDIUS (a) (aps---mn1-)
+
 QUADRUPEDO (n) (n-s---fn3-)
     a slow creeping mode of locomotion (on hands and knees or dragging the body); 'a crawl was all that the injured man could manage'; 'the traffic moved at a creep' (n#00191288)
     the act of grazing (n#00539647)
     on hands and knees; 'he got down on all fours to play with his grandson' (r#00165583)
+
 QUADRUPEDUS (a) (aps---mn1-)
+
 QUADRUPERTITUS (a) (aps---mn1-)
     separated into parts or pieces; 'opinions are divided' (a#02359350)
     distributed in portions (often equal) on the basis of a plan or purpose (a#00506486)
@@ -509,10 +650,14 @@ QUADRUPERTITUS (a) (aps---mn1-)
     being one more than three (a#02099207)
     having a median strip or island between lanes of traffic moving in opposite directions; 'a divided highway' (a#02118583)
     having or involving or consisting of more than one part or entity or individual; 'multiple birth'; 'multiple ownership'; 'made multiple copies of the speech'; 'his multiple achievements in public life'; 'her multiple personalities'; 'a pineapple is a multiple fruit' (a#02112966)
+
 QUADRUPES (n) (n-s---mn3-)
+
 QUADRUPES (a) (aps---an3-)
     having four feet (a#00237744)
+
 QUADRUPLARIS (a) (aps---cn3i)
+
 QUADRUPLATOR (n) (n-s---mn3-)
     the musical interval between one note and another four notes away from it (n#05132198)
     something determined in relation to something that includes it; 'he wanted to feel a part of something bigger than himself'; 'I read a portion of the manuscript'; 'the smaller component is hard to reach' (n#09945970)
@@ -539,19 +684,27 @@ QUADRUPLATOR (n) (n-s---mn3-)
     a person who says one thing and does another (n#07223944)
     the actions and activities assigned to or required or expected of a person or group: 'the function of a teacher'; 'the government must do its part' or 'play its role' or 'do its duty' (n#00462318)
     any one of a number of individual efforts in a common endeavor: 'I am proud of my contribution to the team's success'; 'they all did their share of the work' (n#00504440)
+
 QUADRUPLEX (a) (aps---an3-)
     having four units or components; 'quadruple rhythm has four beats per measure' (a#02116464)
+
 QUADRUPLEX (n) (n-s---nn3-)
+
 QUADRUPLICATIO (n) (n-s---fn3-)
+
 QUADRUPLICATO (r) (rp--------)
+
 QUADRUPLICO (v) (v1spia--1-)
     increase fourfold; 'His stock earning quadrupled' (v#00168758)
     combine or increase by multiplication; 'He managed to multiply his profits' (v#00168890)
     have offspring or young (v#00038872)
     combine by multiplication; 'multiply 10 by 15' (v#00433261)
     have young; used of animals; derogatory when used for people (v#00039524)
+
 QUADRUPLO (v) (v1spia--1-)
+
 QUADRUPLOR (v) (v1spid--1-)
+
 QUADRUPLUM (n) (n-s---nn2-)
     a quantity of money; 'he borrowed a large sum'; 'the amount he had in cash was insufficient' (n#09597673)
     a quantity that is four times as great as another (n#04510745)
@@ -563,13 +716,18 @@ QUADRUPLUM (n) (n-s---nn2-)
     how much there is of something that you can measure (n#00020056)
     a great amount or extent; 'they did much for humanity' (n#09921720)
     how much of something is available; 'an adequate amount of food for four people' (n#03983517)
+
 QUADRUPLUS (a) (aps---mn1-)
     four times as great or many; 'a fourfold increase in the dosage' (a#02116333)
     having four units or components; 'quadruple rhythm has four beats per measure' (a#02116464)
     having or involving or consisting of more than one part or entity or individual; 'multiple birth'; 'multiple ownership'; 'made multiple copies of the speech'; 'his multiple achievements in public life'; 'her multiple personalities'; 'a pineapple is a multiple fruit' (a#02112966)
+
 QUADRUPULATOR (n) (n-s---mn3-)
+
 QUADRUPULUS (a) (aps---mn1-)
+
 QUADRURBS (n) (n-s---fn3i)
+
 QUADRUS (a) (aps---mn1-)
     extended senses; direct in means or manner or behavior or language or action; 'a direct question'; 'a direct response'; 'a direct approach' (a#00727672)
     unimaginative and conformist; 'conventional bourgeois lives'; 'conventional attitudes' (a#00574540)
@@ -601,8 +759,11 @@ QUADRUS (a) (aps---mn1-)
     no longer coiled (a#02207047)
     honest and morally upright; 'I just want a straight answer to the question'; 'straight dealing' (a#02207357)
     without concealment or deception; honest; 'their business was open and aboveboard'; 'straightforward in all his business affairs' (a#02207615)
+
 QUADRUSSIS (n) (n-s---mn3i)
+
 QUADRUUS (a) (aps---mn1-)
+
 QUADRUVIUM (n) (n-s---nn2-)
     the passage that is being read; 'he lost his place on the page' (n#04824876)
     None (n#N0001458)
@@ -632,14 +793,17 @@ QUADRUVIUM (n) (n-s---nn2-)
     the shape or manner in which things come together and a connection is made (n#10024799)
     a general vicinity; 'He comes from a place near Chicago' (n#06364246)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
+
 QUAERITO (v) (v1spia--1-)
     try to locate or discover, or try to establish the existence of; 'The police are searching for clues'; 'They are searching for the missing man in the entire county' (v#00898737)
+
 QUAERO (v) (v1spia--3-)
     consider obligatory; request and expect; 'We require our secretary to be on time'; 'Aren't we asking too much of these children?' 'I expect my students to arrive in time for their lessons' (v#00513425)
     require as useful, just, or proper; 'It takes nerve to do what she did'; 'success usually requires hard work'; 'This job asks a lot of patience and skill'; 'This position demands a lot of personal sacrifice'; 'This dinner demands a spectacular dessert' (v#01792695)
     inquire about; 'I asked about their special today'; 'He had to ask directions several times' (v#00532796)
     make a request or demand for something to somebody; 'She asked him for a loan' (v#00510727)
     try to locate or discover, or try to establish the existence of; 'The police are searching for clues'; 'They are searching for the missing man in the entire county' (v#00898737)
+
 QUAESITIO (n) (n-s---fn3-)
     the work of inquiring into something thoroughly and systematically (n#00416938)
     a flexible slender surgical instrument used to explore wounds or body cavities (n#03175050)
@@ -647,6 +811,7 @@ QUAESITIO (n) (n-s---fn3-)
     an inquiry into unfamiliar or questionable activities; 'there was a congressional probe into the scandal' (n#04470360)
     a severe interrogation (n#05377284)
     an investigation conducted using a probe instrument (n#00419578)
+
 QUAESITOR (n) (n-s---mn3-)
     an investigator engaged or employed in obtaining information not easily available to the public (n#07214003)
     a flat canopy (especially one over a four-poster bed) (n#03489409)
@@ -663,15 +828,20 @@ QUAESITOR (n) (n-s---mn3-)
     a lawyer who conducts criminal prosecutions on behalf of the state (n#07507504)
     a member of a police force; 'it was an accident, officer' (n#07485319)
     a police officer who investigates crimes (n#07213831)
+
 QUAESITUM (n) (n-s---nn2-)
     an instance of questioning; 'there was a question about my training'; 'we made inquiries of all those who were present' (n#05376578)
     a sentence of inquiry that asks for a reply; 'he asked a direct question'; 'he had trouble phrasing his interrogations' (n#05378080)
+
 QUAESITUS (a) (aps---mn1-)
     speaking or behaving in an artificial way to make an impression (a#00075417)
+
 QUAESITUS (n) (n-s---mn4-)
+
 QUAESO (v) (v1spia--3-)
     call upon in supplication; entreat; 'I beg you to stop!' (v#00515892)
     inquire about; 'I asked about their special today'; 'He had to ask directions several times' (v#00532796)
+
 QUAESTICULUS (n) (n-s---mn2-)
     the amount of increase in signal power or voltage or current expressed as the ratio of output to input (n#03984926)
     a quantity that is added; 'there was an addition to property taxes this year'; 'they recorded the cattle's gain in weight over a period of weeks' (n#09904938)
@@ -681,15 +851,21 @@ QUAESTICULUS (n) (n-s---mn2-)
     the deliberate act of wasting time instead of working (n#00690954)
     the slender part of the back (n#04306328)
     the amount by which the revenue of a business exceeds its cost of operating (n#09537885)
+
 QUAESTIO (n) (n-s---fn3-)
     the work of inquiring into something thoroughly and systematically (n#00416938)
     a search for knowledge; 'their pottery deserves more research than it has received' (n#04467719)
     an inquiry into unfamiliar or questionable activities; 'there was a congressional probe into the scandal' (n#04470360)
     a systematic investigation of a matter of public interest (n#00418126)
+
 QUAESTIONALITER (r) (rp--------)
+
 QUAESTIONARIUS (n) (n-s---mn2-)
+
 QUAESTIONATUS (a) (aps---mn1-)
+
 QUAESTIONO (v) (v1spia--1-)
+
 QUAESTIUNCULA (n) (n-s---fn1-)
     an instance of questioning; 'there was a question about my training'; 'we made inquiries of all those who were present' (n#05376578)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
@@ -701,6 +877,7 @@ QUAESTIUNCULA (n) (n-s---fn1-)
     an informal reference to a marriage proposal; 'he was ready to pop the question' (n#05355353)
     the subject matter at issue; 'the question of disease merits serious discussion'; 'under the head of minor Roman poets' (n#05080521)
     a formal proposal for action made to a deliberative assembly for discussion and vote; 'he made a motion to adjourn'; 'she called for the question' (n#05356736)
+
 QUAESTOR (n) (n-s---mn3-)
     a person who cares for persons or property (n#06945104)
     the territory occupied by a nation; 'he returned to the land of his birth'; 'he visited several European countries' (n#06299747)
@@ -717,14 +894,19 @@ QUAESTOR (n) (n-s---mn3-)
     the group of people comprising the government of a sovereign state; 'the state has lowered its income tax' (n#06079469)
     an officer charged with receiving and disbursing funds (n#07650559)
     the federal department that sets and maintains foreign policies; 'the Department of State was created in 1789' (n#06060831)
+
 QUAESTORICIUS (a) (aps---mn1-)
+
 QUAESTORITIUS (a) (aps---mn1-)
+
 QUAESTORIUM (n) (n-s---nn2-)
     the official house or establishment of an important person (as a sovereign or president); 'he refused to live in the governor's residence' (n#03231947)
     a person's legal place of residence (n#06309630)
     the act of dwelling in a place (n#00682217)
     a large and imposing house (n#02964865)
+
 QUAESTORIUS (n) (n-s---mn2-)
+
 QUAESTORIUS (a) (aps---mn1-)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
     of the same kind or quality; 'two animals of one species' (a#01986519)
@@ -736,10 +918,14 @@ QUAESTORIUS (a) (aps---mn1-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 QUAESTUARIUS (a) (aps---mn1-)
+
 QUAESTUOSE (r) (rp--------)
+
 QUAESTUOSUS (a) (aps---mn1-)
     yielding material gain or profit; 'profitable speculation on the stock market' (a#01799641)
+
 QUAESTURA (n) (n-s---fn1-)
     wealth reckoned in terms of money: 'all his money is in real estate' (n#09534064)
     (of a government or government official) holding an office means being in power; 'being in office already gives a candidate a great advantage'; 'during his first year in power' (n#10048361)
@@ -753,11 +939,14 @@ QUAESTURA (n) (n-s---fn1-)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
     the most common medium of exchange; functions as legal tender; 'we tried to collect the money he owed us' (n#09639711)
     people in general considered as a whole; 'he is a hero in the eyes of the public' (n#06079949)
+
 QUAESTUS (n) (n-s---mn4-)
     the advantageous quality of being beneficial (n#04017901)
     the amount by which the revenue of a business exceeds its cost of operating (n#09537885)
     the excess of revenues over outlays in a given period of time (n#09540718)
+
 QUALIBESCIT (r) (rp--------)
+
 QUALIBET (r) (rp--------)
     used to indicate that a statement explains or supports a previous statement; 'Anyhow, he is dead now'; 'I think they're asleep; anyhow, they're quiet'; 'I don't know what happened to it; anyway, it's gone'; 'anyway, there is another factor to consider'; 'I don't know how it started; in any case, there was a brief scuffle'; 'in any event, the government faced a serious protest'; 'but at any rate he got a knighthood for it' (r#00025661)
     if nothing else; 'at least he survived'; 'they felt--at any rate Jim felt--relieved though still wary'; 'the influence of economists--or at any rate of economics--is far-reaching'; (`leastwise' is informal; `leastways' is colloquial) (r#00101411)
@@ -770,6 +959,7 @@ QUALIBET (r) (rp--------)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
+
 QUALIFICO (v) (v1spia--1-)
     throw or cast away; 'Put away your worries' (v#01520955)
     prove capable or fit; meet requirements (v#01828040)
@@ -802,13 +992,19 @@ QUALIFICO (v) (v1spia--1-)
     determine the essential quality of (v#01780912)
     make fit or prepared; 'Your education qualifies you for this job' (v#00207831)
     train by instruction and practice; esp. to teach self-control; 'Parents must discipline their children' (v#01740849)
+
 QUALIS (a) (aps---cn3i)
+
 QUALISLIBET (a) (aps---an3-)
+
 QUALISLIBET (r) (rp--------)
+
 QUALITAS (n) (n-s---fn3-)
     a characteristic property that defines the apparent individual nature of something; 'each town has a quality all its own'; 'the radical character of our demands' (n#04504076)
     verb inflections that express how the action or state is conceived by the speaker (n#09939326)
+
 QUALITATIVUS (a) (aps---mn1-)
+
 QUALITER (r) (rp--------)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
     characteristic or habitual practice (n#00266480)
@@ -831,6 +1027,7 @@ QUALITER (r) (rp--------)
     the condition of things generally; 'that's the way it is' or 'I felt the same way' (n#10044353)
     how a result is obtained or an end is achieved; 'a means of communcation'; 'an example is the best agency of instruction'; 'the true way to success' (n#00111872)
     accepted practice (n#00265102)
+
 QUALITERCUMQUE (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
@@ -838,6 +1035,7 @@ QUALITERCUMQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     used to express refusal or denial or disagreement etc or especially to emphasize a negative statement; 'no, you are wrong' (r#00023074)
     not in any degree or manner; not at all; 'he is no better today' (r#00023305)
+
 QUALITERCUNQUE (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
@@ -845,6 +1043,7 @@ QUALITERCUNQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     used to express refusal or denial or disagreement etc or especially to emphasize a negative statement; 'no, you are wrong' (r#00023074)
     not in any degree or manner; not at all; 'he is no better today' (r#00023305)
+
 QUALUBET (r) (rp--------)
     used to indicate that a statement explains or supports a previous statement; 'Anyhow, he is dead now'; 'I think they're asleep; anyhow, they're quiet'; 'I don't know what happened to it; anyway, it's gone'; 'anyway, there is another factor to consider'; 'I don't know how it started; in any case, there was a brief scuffle'; 'in any event, the government faced a serious protest'; 'but at any rate he got a knighthood for it' (r#00025661)
     if nothing else; 'at least he survived'; 'they felt--at any rate Jim felt--relieved though still wary'; 'the influence of economists--or at any rate of economics--is far-reaching'; (`leastwise' is informal; `leastways' is colloquial) (r#00101411)
@@ -855,6 +1054,7 @@ QUALUBET (r) (rp--------)
     so as to pass a given point; 'every hour a train goes past' (r#00412129)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
+
 QUALUM (n) (n-s---nn2-)
     a score in basketball made by throwing the ball through the hoop (n#00125430)
     the quantity contained in a basket (n#09912572)
@@ -863,6 +1063,7 @@ QUALUM (n) (n-s---nn2-)
     something made of interlaced slender branches (especially willow branches) (n#03615753)
     a basket made of wickerwork (n#03615902)
     slender flexible branches or twigs (especially of willow or some canes); used for wickerwork (n#10832229)
+
 QUALUS (n) (n-s---mn2-)
     a score in basketball made by throwing the ball through the hoop (n#00125430)
     the quantity contained in a basket (n#09912572)
@@ -871,8 +1072,10 @@ QUALUS (n) (n-s---mn2-)
     something made of interlaced slender branches (especially willow branches) (n#03615753)
     a basket made of wickerwork (n#03615902)
     slender flexible branches or twigs (especially of willow or some canes); used for wickerwork (n#10832229)
+
 QUAM (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUAMDE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -887,12 +1090,17 @@ QUAMDE (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     very; 'he was much annoyed' (r#00031812)
+
 QUAMDIU (r) (rp--------)
     to the degree or extent; 'insofar as it can be ascertained, the horse lung is comparable to that of man' (r#00096157)
     up to the time that (r#L1545907)
+
 QUAMDIUCUMQUE (r) (rp--------)
+
 QUAMDIUTINUS (a) (aps---mn1-)
+
 QUAMDUDUM (r) (rp--------)
+
 QUAMLIBET (r) (rp--------)
     position in a social hierarchy; 'the British are more aware of social status than Americans are' (n#10049681)
     relative status; 'his salary was determined by his rank and seniority' (n#10352475)
@@ -904,11 +1112,15 @@ QUAMLIBET (r) (rp--------)
     a measure for arcs and angles; 'there are 360 degrees in a circle' (n#09781488)
     a position on a scale of intensity or amount or quality: 'a moderate degree of intelligence'; 'a high level of care is required'; 'it is all a matter of degree' (n#03973686)
     the seriousness of something (e.g., a burn or crime); 'murder in the second degree'; 'a second degree burn' (n#03974149)
+
 QUAMOBREM (r) (rp--------)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)
     the cause or intention underlying an action or situation esp in the phrase 'the whys and wherefores' (n#06660412)
+
 QUAMPLURIMI (a) (app---mn1-)
+
 QUAMPLURIMUM (n) (n-s---nn2-)
+
 QUAMPRIMUM (r) (rp--------)
     only a moment ago; 'he has just arrived'; 'the sun just now came out' (r#00032246)
     existing in possibility; 'a potential problem'; 'possible uses of nuclear poser' (a#00045137)
@@ -917,10 +1129,12 @@ QUAMPRIMUM (r) (rp--------)
     very recently; 'they are newly married'; 'newly raised objections'; 'a newly arranged hairdo'; 'grass new washed by the rain'; 'a freshly cleaned floor'; 'we are fresh out of tomatoes' (r#00110092)
     by a small margin; 'they could barely hear the speaker'; 'we hardly knew them'; 'just missed being hit'; 'had scarcely rung the bell when the door flew open'; 'would have scarce arrived before she would have found some excuse to leave'- W.B.Yeats (r#00001874)
     almost not; 'he hardly ever goes fishing'; 'he was hardly more than sixteen years old'; 'they scarcely ever used the emergency generator' (r#00002191)
+
 QUAMQUAM (r) (rp--------)
     despite the fact that; 'even though she knew the answer, she did not respond' (r#00116177)
     (postpositive) however; 'it might be unpleasant, though' (r#00116307)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
+
 QUAMTOCIUS (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     with everything considered (and neglecting details); 'altogether, I'm sorry it happened'; 'all in all, it's not so bad' (r#00147887)
@@ -929,6 +1143,7 @@ QUAMTOCIUS (r) (rp--------)
     so as to be complete; with everything necessary; 'he had filled out the form completely'; 'the apartment was completely furnished' (r#00153689)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
     without any others being included or involved; 'was entirely to blame'; 'a school devoted entirely to the needs of problem children'; 'he works for Mr. Smith exclusively'; 'did it solely for money'; 'the burden of proof rests on the prosecution alone'; 'a privilege granted only to him' (r#00007655)
+
 QUAMTOTIUS (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     with everything considered (and neglecting details); 'altogether, I'm sorry it happened'; 'all in all, it's not so bad' (r#00147887)
@@ -937,27 +1152,37 @@ QUAMTOTIUS (r) (rp--------)
     so as to be complete; with everything necessary; 'he had filled out the form completely'; 'the apartment was completely furnished' (r#00153689)
     to a complete degree or to the full or entire extent; 'he was wholly convinced'; 'entirely satisfied with the meal'; 'it was completely different from what we expected'; 'was completely at fault'; 'a totally new situation'; 'the directions were all wrong'; 'It was not altogether her fault'; 'an altogether new approach'; (`whole' is often used informally for `wholly' as in 'a whole new idea') (r#00007075)
     without any others being included or involved; 'was entirely to blame'; 'a school devoted entirely to the needs of problem children'; 'he works for Mr. Smith exclusively'; 'did it solely for money'; 'the burden of proof rests on the prosecution alone'; 'a privilege granted only to him' (r#00007655)
+
 QUAMTUS (a) (aps---mn1-)
+
 QUAMVIS (r) (rp--------)
+
 QUANAM (r) (rp--------)
     so as to pass a given point; 'every hour a train goes past' (r#00412129)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     (informal) to a great degree or by a great distance; very much; 'way over budget'; 'way off base'; 'right smart' is regional (US S and Midland) as in 'the other side of the hill is right smart steeper than the side we are on' (r#00098754)
+
 QUANDE (r) (rp--------)
+
 QUANDIU (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUANDIUCUMQUE (r) (rp--------)
     for an extended time or at a distant time; 'a promotion long overdue'; 'something long hoped for'; 'his name has long been forgotten'; 'talked all night long'; 'how long will you be gone?'; 'arrived long before he was expected'; 'it is long after your bedtime' (r#00162139)
     for an extended distance (r#00162432)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUANDIUS (r) (rp--------)
     for an extended time or at a distant time; 'a promotion long overdue'; 'something long hoped for'; 'his name has long been forgotten'; 'talked all night long'; 'how long will you be gone?'; 'arrived long before he was expected'; 'it is long after your bedtime' (r#00162139)
     for an extended distance (r#00162432)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUANDO (r) (rp--------)
     as soon as; 'once we are home, we can rest' (r#00177383)
+
 QUANDOCUMQUE (r) (rp--------)
     whenever, at whatever time (r#L9232551)
+
 QUANDOCUNQUE (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     in the near future; 'the doctor will soon be here'; 'the book will appear shortly'; 'she will arrive presently'; 'we should have news before long' (r#00032928)
@@ -965,9 +1190,13 @@ QUANDOCUNQUE (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
     (of quantities) imprecise but fairly close to correct; 'lasted approximately an hour'; 'in just about a minute'; 'he's about 30 years old'; 'I've had about all I can stand'; 'we meet about once a month'; 'some forty people came'; 'weighs around a hundred pounds'; 'roughly $3,000'; 'holds 3 gallons, more or less'; '20 or so people were at the party' (r#00006065)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUANDOD (r) (rp--------)
+
 QUANDOLIBET (r) (rp--------)
+
 QUANDONE (r) (rp--------)
+
 QUANDOQUE (r) (rp--------)
     at any time; 'did you ever smoke?'; 'the best con man of all time' (r#00142539)
     (intensifier for adjectives) very; 'she was ever so friendly' (r#00208967)
@@ -977,11 +1206,16 @@ QUANDOQUE (r) (rp--------)
     at any time or in any event; 'you can always resign if you don't like it'; 'you could always take a day off' (r#00018743)
     seemingly without interruption; often and repeatedly; 'always looking for faults'; 'it is always raining'; 'he is forever cracking jokes'; 'they are forever arguing' (r#00018886)
     (of quantities) imprecise but fairly close to correct; 'lasted approximately an hour'; 'in just about a minute'; 'he's about 30 years old'; 'I've had about all I can stand'; 'we meet about once a month'; 'some forty people came'; 'weighs around a hundred pounds'; 'roughly $3,000'; 'holds 3 gallons, more or less'; '20 or so people were at the party' (r#00006065)
+
 QUANDOQUIDEM (r) (rp--------)
+
 QUANQUAMQUAM (r) (rp--------)
+
 QUANTILLUS (a) (aps---mn1-)
     how little? (a#L9183143)
+
 QUANTISPER (r) (rp--------)
+
 QUANTITAS (n) (n-s---fn3-)
     the whole (n#03440994)
     the common people generally; 'separate the warriors from the mass'; 'power to the people' (n#06080290)
@@ -992,6 +1226,7 @@ QUANTITAS (n) (n-s---fn3-)
     a large magnitude; 'he blanched when he saw the size of the bill'; 'the only city of any size in that area' (n#03977593)
     how much there is of something that you can measure (n#00020056)
     how much of something is available; 'an adequate amount of food for four people' (n#03983517)
+
 QUANTITATIVUS (a) (aps---mn1-)
     (usu. used in combination) having value of a specified kind; 'triple-valued' (a#01846007)
     (of verse) having a metric system based on relative duration of syllables; 'in typical Greek and Latin verse of the classical period the rhymic system is based on some arrangement of long and short elements' (a#02180362)
@@ -1003,7 +1238,9 @@ QUANTITATIVUS (a) (aps---mn1-)
     measured or expressed in numbers; 'numerical value'; 'the numerical superiority of the enemy' (a#01845620)
     capable of being quantified (a#01845779)
     (of numbers) written with three figures; '100 through 999 are three-figure numbers' (a#01845865)
+
 QUANTITUDO (n) (n-s---fn3-)
+
 QUANTO (r) (rp--------)
     with caution or prudence; 'she ventured cautiously downstairs' (r#00277636)
     (degree adverb used before a noun phrase) for all practical purposes but not completely; 'much the same thing happened every time' (r#00021724)
@@ -1014,14 +1251,17 @@ QUANTO (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     very; 'he was much annoyed' (r#00031812)
+
 QUANTOCIUS (r) (rp--------)
     more quickly (r#00083642)
     from a position of superiority or authority; 'father knows best'; 'I know better.' (r#00506481)
     more readily or willingly; 'clean it well, preferably with warm water'; 'I'd rather be in Philadelphia'; 'I'd sooner die than give up' (r#00112904)
     comparatives of `soon' or `early'; 'Come a little sooner, if you can'; 'came earlier than I expected' (r#00254270)
     comparative of `well'; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc; 'She had never sung better'; 'a deed better left undone'; 'better suited to the job' (r#00057550)
+
 QUANTOPERE (r) (rp--------)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
+
 QUANTULUM (r) (rp--------)
     a quantity of money; 'he borrowed a large sum'; 'the amount he had in cash was insufficient' (n#09597673)
     a statute in draft before it becomes law; 'they held a public hearing on the bill' (n#04907306)
@@ -1089,6 +1329,7 @@ QUANTULUM (r) (rp--------)
     a set containing all and only the members of two or more given sets; 'let C be the union of the sets A and B' (n#05991434)
     how much of something is available; 'an adequate amount of food for four people' (n#03983517)
     an adequate or large amount; 'he had a quantity of ammunition' (n#03983740)
+
 QUANTULUMCUMQUE (r) (rp--------)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1103,7 +1344,9 @@ QUANTULUMCUMQUE (r) (rp--------)
     a very young child (birth to 1 year) who has not yet begun to walk or talk; 'isn't she too young to have a baby?' (n#07094006)
     conforming to truth; 'I wouldn't have told you this if it weren't so'; 'a truthful statement' (a#02342823)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
+
 QUANTULUMCUNQUE (r) (rp--------)
+
 QUANTULUS (a) (aps---mn1-)
     small in quantity; 'slender wages'; 'a slim chance of winning'; 'a small surplus' (a#01339034)
     small or little relative to something else (a#01339176)
@@ -1186,6 +1429,7 @@ QUANTULUS (a) (aps---mn1-)
     made to seem smaller or less (especially in worth); 'her comments made me feel small' (a#00839486)
     very small; 'a minuscule kitchen'; 'a minuscule amount of rain fell' (a#01338784)
     (used especially of persons) of inferior size (a#01338920)
+
 QUANTULUSCUMQUE (r) (rp--------)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1200,6 +1444,7 @@ QUANTULUSCUMQUE (r) (rp--------)
     a very young child (birth to 1 year) who has not yet begun to walk or talk; 'isn't she too young to have a baby?' (n#07094006)
     conforming to truth; 'I wouldn't have told you this if it weren't so'; 'a truthful statement' (a#02342823)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
+
 QUANTULUSCUMQUE (a) (aps---an3-)
     (quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with 'a) at least some; 'little rain fell in May'; 'gave it little thought'; 'little hope remained'; 'little time is left'; 'we still have little money'; 'a little hope remained'; 'a little time isleft' (a#01491598)
     contemptibly narrow in outlook; 'a little mind consumed with trivia'; 'petty little comments'; 'disgusted with the pettiness of small minds' (a#00282562)
@@ -1220,12 +1465,16 @@ QUANTULUSCUMQUE (a) (aps---an3-)
     made to seem smaller or less (especially in worth); 'her comments made me feel small' (a#00839486)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
     used of persons or behavior; characterized by or indicative of lack of generosity; 'a small miserly man' (a#01065122)
+
 QUANTUM (n) (n-s---nn2-)
+
 QUANTUM (r) (rp--------)
+
 QUANTUMCUMQUE (n) (n-s---nn3-)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
     a great amount or extent; 'they did much for humanity' (n#09921720)
     a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and realgar (n#10479441)
+
 QUANTUMCUMQUE (r) (rp--------)
     at any time; 'did you ever smoke?'; 'the best con man of all time' (r#00142539)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -1241,6 +1490,7 @@ QUANTUMCUMQUE (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     very; 'he was much annoyed' (r#00031812)
+
 QUANTUMLIBET (r) (rp--------)
     (degree adverb used before a noun phrase) for all practical purposes but not completely; 'much the same thing happened every time' (r#00021724)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
@@ -1249,6 +1499,7 @@ QUANTUMLIBET (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     very; 'he was much annoyed' (r#00031812)
+
 QUANTUMVIS (r) (rp--------)
     despite the fact that; 'even though she knew the answer, she did not respond' (r#00116177)
     together with this (r#00039271)
@@ -1274,6 +1525,7 @@ QUANTUMVIS (r) (rp--------)
     to a great degree or extent; 'she's much better now' (r#00057118)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUANTUMVIS (n) (n-s---nn2-)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     (intensifier) to a very great extent or degree; 'the idea is so obvious'; 'never been so happy'; 'I love you so'; 'my head aches so!' (r#00142746)
@@ -1284,6 +1536,7 @@ QUANTUMVIS (n) (n-s---nn2-)
     the syllable naming the the seventh (subtonic) note of any musical scale in solmization (n#05140084)
     None (n#N0001629)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
+
 QUANTUS (a) (aps---mn1-)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     the property possessed by something or someone of outstanding importance (n#04026591)
@@ -1295,6 +1548,7 @@ QUANTUS (a) (aps---mn1-)
     the physical magnitude of something (how big it is); 'a wolf is about the size of a large dog' (n#03977358)
     a large magnitude; 'he blanched when he saw the size of the bill'; 'the only city of any size in that area' (n#03977593)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
+
 QUANTUSCUMQUE (a) (aps---mn1-)
     (used of persons) standing above others in character or attainment or reputation; 'our distinguished professor'; 'an eminent scholar'; 'a great statesman' (a#01225735)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
@@ -1307,6 +1561,7 @@ QUANTUSCUMQUE (a) (aps---mn1-)
     relatively large in size or number or extent; larger than others of its kind; 'a great juicy steak'; 'a great multitude'; 'the great auk'; 'a great old oak'; 'a great ocean liner'; 'a great delay' (a#01332909)
     (used in combination) 'the economy-size package'; 'average-sized houses' (a#02119562)
     (informal) very good; 'a bully pulpit'; 'a cool sports car'; 'had a great time at the party'; 'you look simply smashing' (a#01076845)
+
 QUANTUSLIBET (a) (aps---mn1-)
     (used of persons) standing above others in character or attainment or reputation; 'our distinguished professor'; 'an eminent scholar'; 'a great statesman' (a#01225735)
     uppercase; 'capital A'; 'great A'; 'many medieval manuscripts are in majuscule script' (a#01407261)
@@ -1319,6 +1574,7 @@ QUANTUSLIBET (a) (aps---mn1-)
     conforming to truth; 'I wouldn't have told you this if it weren't so'; 'a truthful statement' (a#02342823)
     marked by system; in good order; 'everything is in order'; 'his books are always just so'; 'things must be exactly so' (a#02270603)
     (informal) very good; 'a bully pulpit'; 'a cool sports car'; 'had a great time at the party'; 'you look simply smashing' (a#01076845)
+
 QUANTUSVIS (a) (aps---mn1-)
     (used of persons) standing above others in character or attainment or reputation; 'our distinguished professor'; 'an eminent scholar'; 'a great statesman' (a#01225735)
     uppercase; 'capital A'; 'great A'; 'many medieval manuscripts are in majuscule script' (a#01407261)
@@ -1330,6 +1586,7 @@ QUANTUSVIS (a) (aps---mn1-)
     relatively large in size or number or extent; larger than others of its kind; 'a great juicy steak'; 'a great multitude'; 'the great auk'; 'a great old oak'; 'a great ocean liner'; 'a great delay' (a#01332909)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
     (informal) very good; 'a bully pulpit'; 'a cool sports car'; 'had a great time at the party'; 'you look simply smashing' (a#01076845)
+
 QUANTUSVIS (r) (rp--------)
     despite the fact that; 'even though she knew the answer, she did not respond' (r#00116177)
     together with this (r#00039271)
@@ -1355,6 +1612,7 @@ QUANTUSVIS (r) (rp--------)
     to a great degree or extent; 'she's much better now' (r#00057118)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUANTUVIS (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -1362,6 +1620,7 @@ QUANTUVIS (r) (rp--------)
     to whatever degree or extent; 'The results, however general, are important'; 'they have begun, however reluctantly, to acknowledge the legitimacy of some of the opposition's concerns' (r#00027658)
     by contrast; on the other hand; 'the first part was easy; the second, however, took hours' (r#00027877)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
+
 QUAPROPTER (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     of a kind specified or understood; 'it's difficult to please such people'; 'on such a night as this'; 'animals such as lions and tigers' (a#01048574)
@@ -1369,16 +1628,23 @@ QUAPROPTER (r) (rp--------)
     used of a single unit or thing; not two or more; '`ane' is Scottish' (a#02098880)
     the syllable naming the sixth (submediant) note of a major or minor scale in solmization (n#05139941)
     the cause or intention underlying an action or situation esp in the phrase 'the whys and wherefores' (n#06660412)
+
 QUAQUA (r) (rp--------)
+
 QUAQUAVERSUM (r) (rp--------)
+
 QUAQUAVERSUS (r) (rp--------)
+
 QUAQUE (r) (rp--------)
+
 QUARE (r) (rp--------)
     of a kind specified or understood; 'it's difficult to please such people'; 'on such a night as this'; 'animals such as lions and tigers' (a#01048574)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)
     the cause or intention underlying an action or situation esp in the phrase 'the whys and wherefores' (n#06660412)
     used of a single unit or thing; not two or more; '`ane' is Scottish' (a#02098880)
+
 QUARTA (n) (n-s---fn1-)
+
 QUARTADECIMAMUS (n) (n-s---mn2-)
     any natural satellite of a planet; 'Jupiter has sixteen moons' (n#06765228)
     the natural satellite of the Earth; 'the average distance to the moon is 384,400 kilometers'; 'men first stepped on the moon in 1969' (n#06765463)
@@ -1412,7 +1678,9 @@ QUARTADECIMAMUS (n) (n-s---mn2-)
     a small object used in playing certain board games; 'he taught me to set up the men on the chess board'; 'he sacrificed a piece to get a strategic advantage' (n#02962635)
     a vast multitude (n#06082453)
     archaic terms for army (n#06083098)
+
 QUARTADECIMANI (n) (n-p---mn2-)
+
 QUARTADECIMANUS (n) (n-s---mn2-)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
     a large military unit; 'the French Foreign Legion' (n#06141923)
@@ -1420,23 +1688,30 @@ QUARTADECIMANUS (n) (n-s---mn2-)
     a vast multitude (n#06082453)
     archaic terms for army (n#06083098)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
+
 QUARTADECUMANI (n) (n-p---mn2-)
     a large military unit; 'the French Foreign Legion' (n#06141923)
     association of ex-servicemen; 'the American Legion' (n#06142045)
     position 14 in a countable series of things (n#09976995)
     a vast multitude (n#06082453)
     archaic terms for army (n#06083098)
+
 QUARTADECUMANUS (n) (n-s---mn2-)
     a soldier of the fourteenth legion (n#L5931531)
+
 QUARTANA (n) (n-s---fn1-)
+
 QUARTANARIUS (a) (aps---mn1-)
+
 QUARTANI (n) (n-p---mn2-)
+
 QUARTANUS (a) (aps---mn1-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     denoting a quantity consisting of 1,000 items or units (a#02102663)
     (used of count nouns) each and all of the members of a group considered singly and without exception; 'every person is mortal'; 'every party is welcome'; 'had every hope of success'; 'every chance of winning' (a#02160157)
     each and all of a series of entities or intervals as specified; 'every third seat'; 'every two hours' (a#02160530)
     coming next after the third and just before the fifth in position or time or degree or magnitude; 'the quaternary period of geologic time extends from the end of the tertiary period to the present' (a#02105183)
+
 QUARTANUS (n) (n-s---mn2-)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
     a large military unit; 'the French Foreign Legion' (n#06141923)
@@ -1445,6 +1720,7 @@ QUARTANUS (n) (n-s---mn2-)
     archaic terms for army (n#06083098)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
     the force of workers available (n#06095159)
+
 QUARTARIUS (n) (n-s---mn2-)
     the musical interval between one note and another four notes away from it (n#05132198)
     a statute in draft before it becomes law; 'they held a public hearing on the bill' (n#04907306)
@@ -1478,25 +1754,38 @@ QUARTARIUS (n) (n-s---mn2-)
     any one of a number of individual efforts in a common endeavor: 'I am proud of my contribution to the team's success'; 'they all did their share of the work' (n#00504440)
     any maneuver made as part of progress toward a goal; 'the police took steps to reduce crime' (n#00113217)
     a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters (n#09791926)
+
 QUARTATO (r) (rp--------)
+
 QUARTICEPS (a) (aps---an3-)
+
 QUARTO (r) (rp--------)
     in the fourth place; 'fourthly, you must pay the rent on the first of the month' (r#00339408)
+
 QUARTOCERIUS (a) (aps---mn1-)
+
 QUARTODECIMANUS (a) (aps---mn1-)
+
 QUARTUM (r) (rp--------)
     for the fourth time (r#L8852050)
+
 QUARTUM (n) (n-s---nn2-)
+
 QUARTUS (a) (aps---mn1-)
+
 QUARTUS (n) (n-s---fn3-)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
     consisting of or especially arranged in sets of four; 'quaternate leaves'; 'a quaternary compound' (a#02116625)
     coming next after the third and just before the fifth in position or time or degree or magnitude; 'the quaternary period of geologic time extends from the end of the tertiary period to the present' (a#02105183)
+
 QUARTUSDECIMUS (a) (aps---mn1-)
     coming next after the thirteenth in position (a#02106572)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
+
 QUARZEUS (a) (aps---mn1-)
+
 QUARZICUS (a) (aps---mn1-)
+
 QUASI (r) (rp--------)
     reveal; 'a telling sign' (v#00645935)
     in order that; 'he stooped down so he could pick up his hat' (r#00115682)
@@ -1521,25 +1810,35 @@ QUASI (r) (rp--------)
     express an idea, etc. in words; 'He said that he wanted to marry her'; 'tell me what is bothering you'; 'state your opinion' (v#00682542)
     let something be known; 'Tell them that you will be late' (v#00644776)
     narrate or give a detailed account of; 'Tell what happened'; 'The father told a story to his child' (v#00645379)
+
 QUASILARIA (n) (n-s---fn1-)
+
 QUASILARIUS (n) (n-s---mn2-)
+
 QUASILLARIA (n) (n-s---fn1-)
+
 QUASILLARIUS (n) (n-s---mn2-)
+
 QUASILLUM (n) (n-s---nn2-)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
     a score in basketball made by throwing the ball through the hoop (n#00125430)
     the quantity contained in a basket (n#09912572)
     a container that is usually woven and has handles (n#02259850)
     horizontal hoop with a net through which players try to throw the basketball (n#02260127)
+
 QUASILLUS (n) (n-s---mn2-)
     a small amount or duration; 'he accepted the little they gave him' (n#09911106)
     a score in basketball made by throwing the ball through the hoop (n#00125430)
     the quantity contained in a basket (n#09912572)
     a container that is usually woven and has handles (n#02259850)
     horizontal hoop with a net through which players try to throw the basketball (n#02260127)
+
 QUASSABILIS (a) (aps---cn3i)
+
 QUASSABULUM (n) (n-s---nn2-)
+
 QUASSABUNDUS (a) (aps---mn1-)
+
 QUASSATIO (n) (n-s---fn3-)
     the act of causing something to move up and down (or back and forth) with quick movements (n#00222701)
     an almost pleasurable sensation of fright; 'a frisson of surprise shot through him' (n#05591021)
@@ -1551,9 +1850,13 @@ QUASSATIO (n) (n-s---fn3-)
     the act of vibrating (n#00221734)
     a shaky motion; 'the shaking of his fingers as he lit his pipe' (n#10088916)
     (physics) a regular variation in value about a mean (n#05472915)
+
 QUASSATIPENNAE (n) (n-p---fn1-)
+
 QUASSATURA (n) (n-s---fn1-)
+
 QUASSATUS (a) (aps---mn1-)
+
 QUASSO (v) (v1spia--1-)
     lock up in jail (v#01699803)
     destroy enemy mines with one's own mines: 'We countermined the banks of the river' (v#00764230)
@@ -1793,6 +2096,7 @@ QUASSO (v) (v1spia--1-)
     smother or suppress; 'Stifle your curiosity' (v#00271124)
     force out or release suddenly and often violently something pent up; 'break into tears'; 'erupt in anger' (v#01219416)
     reduce the amplitude (of oscillations or waves) (v#00271421)
+
 QUASSUS (a) (aps---mn1-)
     harmed or injured or spoiled; 'I wont't buy damaged goods'; 'the storm left a wake of badly damaged buildings' (a#00642842)
     damaged by blows or hard usage; 'a battered old car'; 'the beaten-up old Ford' (a#00643420)
@@ -1813,6 +2117,7 @@ QUASSUS (a) (aps---mn1-)
     usually used of physical or mental injury to persons; 'injured soldiers'; 'injured feelings' (a#01262811)
     beaten repeatedly with heavy blows; 'a battered child'; 'the battered woman syndrome' (a#00017083)
     subject to change or variation especially in behavior; 'her unsteady walk'; 'his hand was unsteady as he poured the wine'; 'an unsteady voice' (a#02192636)
+
 QUASSUS (n) (n-s---mn4-)
     a reflex response to the passage of electric current through the body (n#00538490)
     the act of causing something to move up and down (or back and forth) with quick movements (n#00222701)
@@ -1827,8 +2132,11 @@ QUASSUS (n) (n-s---mn4-)
     the act of vibrating (n#00221734)
     a shaky motion; 'the shaking of his fingers as he lit his pipe' (n#10088916)
     (physics) a regular variation in value about a mean (n#05472915)
+
 QUATEFACIO (v) (v1spia--3i)
+
 QUATENOS (r) (rp--------)
+
 QUATENUS (r) (rp--------)
     particularly a section of medium length (n#04824319)
     quality of being moderate and avoiding extremes (n#03988388)
@@ -1852,9 +2160,11 @@ QUATENUS (r) (rp--------)
     the point or degree to which something extends; 'the extent of the damage'; 'the full extent of the law'; 'a mistake would have to that extent let the whole world know' (n#10045533)
     any maneuver made as part of progress toward a goal; 'the police took steps to reduce crime' (n#00113217)
     a very small circular shape; 'a row of points'; 'draw lines between the dots' (n#10025218)
+
 QUATER (n) (n-s---mn2r)
     the cardinal number that is the sum of three and one (n#09896114)
     being one more than three (a#02099207)
+
 QUATER (r) (rp--------)
     throughout a period of time; 'stay over the weekend' (r#00222870)
     at or to a point across intervening space etc; 'come over and see us some time'; 'over there' (r#00222962)
@@ -1865,7 +2175,9 @@ QUATER (r) (rp--------)
     by a factor of four; 'the price of gasoline has increased fourfold over the past two years' (r#00339137)
     anew; 'she tried again'; 'they rehearsed the scene again' (r#00039142)
     in such a manner as to be understood and accepted; 'she cannot get her ideas across' (r#00268271)
+
 QUATERGEMINUS (a) (aps---mn1-)
+
 QUATERNARIUS (a) (aps---mn1-)
     consisting of or especially arranged in sets of four; 'quaternate leaves'; 'a quaternary compound' (a#02116625)
     being one more than three (a#02099207)
@@ -1873,8 +2185,11 @@ QUATERNARIUS (a) (aps---mn1-)
     (used of count nouns) every one considered individually; 'each person is mortal'; 'each party is welcome' (a#02159998)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
     coming next after the third and just before the fifth in position or time or degree or magnitude; 'the quaternary period of geologic time extends from the end of the tertiary period to the present' (a#02105183)
+
 QUATERNATIO (n) (n-s---fn3-)
+
 QUATERNI (a) (app---mn1-)
+
 QUATERNIO (n) (n-s---mn3-)
     the number is used in calling a particular phone; 'he has an unlisted number' (n#04842744)
     one of a series published periodically; 'she found an old issue of the magazine in her dentist's waitingroom' (n#04948541)
@@ -1901,8 +2216,11 @@ QUATERNIO (n) (n-s---mn3-)
     an item of merchandise offered for sale; 'she preferred the black nylon number'; 'this sweater is an all-wool number' (n#03047646)
     a group of persons associated by some common tie or occupation and regarded as an entity; 'the whole body filed out of the auditorium' (n#05972379)
     the external structure of a vehicle; 'the body of the car was badly rusted' (n#02307096)
+
 QUATERNITAS (n) (n-s---fn3-)
+
 QUATERNUS (a) (aps---mn1-)
+
 QUATINUS (r) (rp--------)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -1921,12 +2239,15 @@ QUATINUS (r) (rp--------)
     in they same way; also; 'I was offended and so was he'; 'worked hard and so did she' (r#00143419)
     in the way indicated; 'hold the brush so'; 'set up the pieces thus'; (`thusly' is a nonstandard variant) (r#00118084)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 QUATIO (v) (v1spia--3i)
     bring to a specified condition by or as if by shaking; 'He was shaken from his dreams' (v#00392502)
     shake or vibrate rapidly (v#01291209)
     move back and forth; 'She shook her cousin's hands'; 'Don't shake the bottle'; 'My hands were shaking' (v#01289996)
     as of senses or emotions; 'These stories shook the community' (v#01202395)
+
 QUATRIDUANUS (a) (aps---mn1-)
+
 QUATRIDUUM (n) (n-s---nn2-)
     the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; 'the women were sickly and subject to excessive menstruation'; 'a woman does not take the gout unless her menses be stopped'--Hippocrates; 'the semen begins to appear in males and to be emitted at the same time of life that the catamenia begin to flow in females'--Aristotle (n#09715092)
     the end or completion of something; 'death put a period to his endeavors'; 'a change soon put a period to my tranquility' (n#10868422)
@@ -1939,21 +2260,31 @@ QUATRIDUUM (n) (n-s---nn2-)
     an indefinite length of time; 'a time period of 30 years'; 'hastened the period of his recovery' (n#10843624)
     a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations; 'in England they call a period a stop' (n#05126526)
     a stage in the history of a culture having a definable place in space and time; 'a novel from the Victorian period' (n#10988653)
+
 QUATRINI (a) (app---mn1-)
+
 QUATRIO (n) (n-s---mn3-)
+
 QUATRISEXTIUM (n) (n-s---nn2-)
+
 QUATTUOR (a) (aps---an3-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     the cardinal number that is the sum of three and one (n#09896114)
     being one more than three (a#02099207)
+
 QUATTUORANGULATILIS (a) (aps---cn3i)
+
 QUATTUORDECIENS (r) (rp--------)
+
 QUATTUORDECIES (r) (rp--------)
+
 QUATTUORDECIM (a) (aps---an3-)
     being one more than thirteen (a#02100207)
     the cardinal number that is the sum of thirteen and one (n#09899031)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
+
 QUATTUORPRIMI (n) (n-p---mn2-)
+
 QUATTUORVIR (n) (n-s---mn2r)
     the external structure of a vehicle; 'the body of the car was badly rusted' (n#02307096)
     a group of persons associated by some common tie or occupation and regarded as an entity; 'the whole body filed out of the auditorium' (n#05972379)
@@ -1977,7 +2308,9 @@ QUATTUORVIR (n) (n-s---mn2r)
     the central message of a communication; 'the body of the message was short' (n#04820470)
     food or meals in general; 'she sets a fine table'; 'room and board' (n#05621336)
     a person who is in charge; 'the head of the whole operation' (n#07311393)
+
 QUATTUORVIRALIS (a) (aps---cn3i)
+
 QUATTUORVIRATUS (n) (n-s---mn4-)
     (of a government or government official) holding an office means being in power; 'being in office already gives a candidate a great advantage'; 'during his first year in power' (n#10048361)
     professional or clerical workers in an office; 'the whole office was late the morning of the blizzard' (n#06184408)
@@ -1986,6 +2319,7 @@ QUATTUORVIRATUS (n) (n-s---mn4-)
     the actions and activities assigned to or required or expected of a person or group: 'the function of a teacher'; 'the government must do its part' or 'play its role' or 'do its duty' (n#00462318)
     an administrative unit of government; 'the Central Intelligence Agency'; 'the Census Bureau'; 'Office of Management and Budget'; 'Tennessee Valley Authority' (n#06182017)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
+
 QUATTUORVIRI (n) (n-p---mn2-)
     a group of representatives or delegates (n#06213619)
     a special group delegated to consider some matter (n#06172564)
@@ -2002,7 +2336,9 @@ QUATTUORVIRI (n) (n-p---mn2-)
     the act of granting authority to undertake certain functions (n#00739358)
     a task that has been assigned to a person or group; 'a confidential mission to London'; 'his charge was deliver a message' (n#00471060)
     an official document issued by a government and conferring on the recipient the rank of an officer in the armed forces (n#04864373)
+
 QUAVIS (r) (rp--------)
+
 QUE (r) (rp--------)
     at that time; 'I was young then'; 'prices were lower back then'; 'science as it was then taught' (r#00115115)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -2031,11 +2367,16 @@ QUE (r) (rp--------)
     with great or especially intimate knowledge; 'we knew them well (r#00013875)
     (used for emphasis or as an intensifier) 'a book well worth reading'; 'was well aware of the difficulties ahead'; 'suspected only too well what might be going on' (r#00014002)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 QUEENTIA (n) (n-s---fn1-)
+
 QUEM (r) (rp--------)
+
 QUEMADMODUM (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUEMADMODUMCUMQUE (r) (rp--------)
+
 QUEO (v) (v1spia----)
     possession of the qualities (especially mental qualities) required to do something or get something done; 'danger heightened his powers of discrimination' (n#04349777)
     the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment (n#04047716)
@@ -2090,19 +2431,25 @@ QUEO (v) (v1spia----)
     the activity or result of distributing or disposing persons or things properly or methodically; 'in this new organization the container is much smaller' (n#00650412)
     None (n#N0001616)
     None (n#N0002437)
+
 QUERCERUS (a) (aps---mn1-)
+
 QUERCETUM (n) (n-s---nn2-)
     the hard durable wood of any oak; used especially for furniture and flooring (n#08573299)
     land that is covered with trees and shrubs (n#06784761)
     the trees and other plants in a large densely wooded area (n#06241974)
     a deciduous tree of the genus Quercus; has acorns and lobed leaves; 'great oaks grow from little acorns' (n#08572627)
+
 QUERCEUS (a) (aps---mn1-)
     the hard durable wood of any oak; used especially for furniture and flooring (n#08573299)
     a deciduous tree of the genus Quercus; has acorns and lobed leaves; 'great oaks grow from little acorns' (n#08572627)
+
 QUERCINUS (a) (aps---mn1-)
+
 QUERCUS (n) (n-s---mn4-)
     the hard durable wood of any oak; used especially for furniture and flooring (n#08573299)
     a deciduous tree of the genus Quercus; has acorns and lobed leaves; 'great oaks grow from little acorns' (n#08572627)
+
 QUERELA (n) (n-s---fn1-)
     a belief or sentiment shared by most people; the voice of the people; 'he asked for a poll of public opinion' (n#04567146)
     the price charged for some article or service; 'the admission charge' (n#09578976)
@@ -2184,15 +2531,21 @@ QUERELA (n) (n-s---fn1-)
     a personal belief that is not founded on proof or certainty; 'my opinion differs from yours'; 'what are your thoughts on Haiti?' (n#04564824)
     a number that expresses the accomplishment of a team or an individual in a game or contest; 'the score was 7 to 0' (n#09768132)
     a significant change; 'the difference in her is amazing'; 'his support made a real difference' (n#09984867)
+
 QUERELANS (a) (aps---an3i)
+
 QUERELLA (n) (n-s---fn1-)
     an expression of grievance or resentment (n#05385957)
     (formerly) a loud cry (or repeated cries) of pain or rage or sorrow (n#05386125)
     a cry of sorrow and grief; 'their pitiful laments could be heard throughout the ward' (n#05387878)
     a song or hymn of mourning composed or performed as a memorial to a dead person (n#05286621)
+
 QUERELLOR (v) (v1spid--1-)
+
 QUERELOR (v) (v1spid--1-)
+
 QUERELOSUS (a) (aps---mn1-)
+
 QUERIBUNDUS (a) (aps---mn1-)
     vocally expressing grief or sorrow or resembling such expression; 'lamenting sinners'; 'wailing mourners'; 'the wailing wind'; 'wailful bagpipes'; 'tangle her desires with wailful sonnets'- Shakespeare (a#01312788)
     expressing sorrow (a#01313142)
@@ -2203,11 +2556,15 @@ QUERIBUNDUS (a) (aps---mn1-)
     wishing discontentedly (a#00480302)
     filled with or evoking sadness; 'the child's doleful expression'; 'stared with mournful eyes'; 'mournful news' (a#01309360)
     experiencing or marked by or expressing sorrow especially that associated with irreparable loss; 'sorrowful widows'; 'a sorrowful tale of death and despair'; 'sorrowful news'; 'even in laughter the heart is sorrowful'- Proverbs 14:13 (a#01310938)
+
 QUERIMONIA (n) (n-s---fn1-)
     an expression of grievance or resentment (n#05385957)
     (formerly) a loud cry (or repeated cries) of pain or rage or sorrow (n#05386125)
+
 QUERIMONIOSUS (a) (aps---mn1-)
+
 QUERIMONIUM (n) (n-s---nn2-)
+
 QUERITOR (v) (v1spid--1-)
     utter a characteristic sound; 'The cat was crying' (v#00666828)
     change from one form into another; 'make water into wine'; 'make lead into gold'; 'make clay into bricks' (v#00390255)
@@ -2278,9 +2635,11 @@ QUERITOR (v) (v1spid--1-)
     perform or carry out; 'make a decision'; 'make a move'; 'make advances'; 'make a phone call' (v#01199881)
     gather and light the materials for: 'make a fire' (v#01199575)
     create by artistic means; 'create a poem; 'Schoenberg created twelve-tone music'; 'Picasso created Cubism'; 'Auden made verses' (v#01126333)
+
 QUERNEUS (a) (aps---mn1-)
     made of or containing or resembling wood; 'woody plants'; 'perennial herbs with woody stems'; 'a woody taste' (a#02451825)
     consisting of or made of wood of the oak tree; 'a solid oak table'; 'the old oaken bucket' (a#02452987)
+
 QUERNUS (a) (aps---mn1-)
     consisting of or made of wood of the oak tree; 'a solid oak table'; 'the old oaken bucket' (a#02452987)
     made or consisting of (entirely or in part) or employing wood; 'a wooden box'; 'an ancient cart with wooden wheels'; 'wood houses'; 'a wood fire' (a#02453259)
@@ -2288,10 +2647,14 @@ QUERNUS (a) (aps---mn1-)
     produced by a manufacturing process; 'bought some made goods at the local store; rope and nails' (a#00636055)
     concerning or dwelling or situated in a wood; 'a wood nymph'; 'woods animals' (a#02866068)
     (of a bed) having the sheets and blankets set in order; 'a neatly made bed' (a#01409211)
+
 QUEROR (v) (v1spid--3-)
     express complaints, discontent, displeasure, or unhappiness; 'My mother complains all day'; 'She has a lot to kick about' (v#00614225)
+
 QUERQUEDULA (n) (n-s---fn1-)
+
 QUERQUERA (n) (n-s---fn1-)
+
 QUERQUERUS (a) (aps---mn1-)
     made agreeably cold (especially by ice); 'a glass of chilled lemonade'; 'iced tea'; 'an ice-cold coke' (a#01201117)
     of persons and animals; feeling no warmth; 'got chilled at the football game'; 'shivering in her thin coat' (a#01201291)
@@ -2300,10 +2663,14 @@ QUERQUERUS (a) (aps---mn1-)
     used of physical coldness; having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration; 'a cold climate'; 'a cold room'; 'dinner has gotten cold'; 'cold fingers'; 'if you are cold, turn up the heat'; 'a cold beer' (a#01199751)
     inclined to shake as from weakness or defect; 'a rickety table'; 'a wobbly chair with shaky legs'; 'the ladder felt a little wobbly'; 'the bridge still stands though one of the arches is wonky' (a#02182526)
     subject to change or variation especially in behavior; 'her unsteady walk'; 'his hand was unsteady as he poured the wine'; 'an unsteady voice' (a#02192636)
+
 QUERQUETULANUS (a) (aps---mn1-)
     consisting of or made of wood of the oak tree; 'a solid oak table'; 'the old oaken bucket' (a#02452987)
+
 QUERQUETUM (n) (n-s---nn2-)
+
 QUERULOSUS (a) (aps---mn1-)
+
 QUERULUS (a) (aps---mn1-)
     a somatic sensation of acute discomfort; 'as the intensity increased the sensation changed from tickle to pain' (n#04422285)
     something that causes great unhappiness; 'her death was a great grief to John' (n#04492345)
@@ -2323,7 +2690,9 @@ QUERULUS (a) (aps---mn1-)
     remorse for your past conduct (n#05602852)
     fail to satisfy (v#01239331)
     emotional distress; a fundamental feeling that people try to avoid; 'the pain of loneliness' (n#05571456)
+
 QUESTIO (n) (n-s---fn3-)
+
 QUESTIO (a) (aps---mn1-)
     the price charged for some article or service; 'the admission charge' (n#09578976)
     a quantity of explosive to be set off at one time; 'this cartridge has a powder charge of 50 grains' (n#02423572)
@@ -2347,12 +2716,17 @@ QUESTIO (a) (aps---mn1-)
     (criminal law) a pleading describing some wrong or offense; 'he was arrested on a charge of larceny' (n#04925620)
     (civil law) the first pleading of the plaintiff setting out the facts on which the claim for relief is based (n#04925822)
     request for payment of a debt; 'they submitted their charges at the end of each month' (n#05374570)
+
 QUESTUOSUS (a) (aps---mn1-)
+
 QUESTUS (n) (n-s---mn4-)
     an expression of grievance or resentment (n#05385957)
     (formerly) a loud cry (or repeated cries) of pain or rage or sorrow (n#05386125)
+
 QUESTUS (a) (aps---mn1-)
+
 QUI (n) (n-s---mn2-)
+
 QUI (r) (rp--------)
     as a result of which (r#00489766)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -2373,12 +2747,17 @@ QUI (r) (rp--------)
     by or through which; 'the means whereby we achieved our goal' (r#00489669)
     in some unspecified way or manner; or by some unspecified means; 'they managed somehow'; 'he expected somehow to discover a woman who would love him'; 'he tried to make is someway acceptable' (r#00025165)
     for some unspecified reason; 'It doesn't seem fair somehow'; 'he had me dead to rights but somehow I got away with it'; 'for some reason they didn't seem to match' (r#00025444)
+
 QUIA (r) (rp--------)
+
 QUIANAM (r) (rp--------)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)
+
 QUIANE (r) (rp--------)
+
 QUICUMQUE (a) (aps---an3-)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
+
 QUID (r) (rp--------)
     at the time or occasion immediately following; 'next the doctor examined his back' (r#00052441)
     None (n#N0001889)
@@ -2396,6 +2775,7 @@ QUID (r) (rp--------)
     None (n#N0002449)
     not ever; at no time in the past or future; 'I have never been to China'; 'I shall never forget this day'; 'had never seen a circus'; 'never on Sunday'; 'I will never marry you!' (r#00019520)
     by a small margin; 'they could barely hear the speaker'; 'we hardly knew them'; 'just missed being hit'; 'had scarcely rung the bell when the door flew open'; 'would have scarce arrived before she would have found some excuse to leave'- W.B.Yeats (r#00001874)
+
 QUIDAM (a) (aps----n1-)
     certain to occur; destined or inevitable; 'he was certain to fail'; 'his fate is certain'; 'In this life nothing is certain but death and taxes'- Benjamin Franklin; 'he faced certain death'; 'sudden but sure regret'; 'he is sure to win' (a#00331522)
     (usually followed by `to') governed by fate; 'bound to happen'; 'an old house destined to be demolished'; 'he is destined to be famous' (a#00331909)
@@ -2478,8 +2858,10 @@ QUIDAM (a) (aps----n1-)
     covered with a waterproof coating; 'a sealed driveway' (a#01637115)
     conducive to comfort; beneficial; 'the genial sunshine'; 'a kind climate'; 'hot summer pavements are anything but kind to the feet' (a#00223736)
     a special situation; 'this thing has got to end'; 'it is a remarkable thing' (n#10047614)
+
 QUIDDAM (n) (n-s---mn1-)
     anything having existence (living or nonliving) (n#00001740)
+
 QUIDDITAS (n) (n-s---fn3-)
     an artifact; 'how does this thing work?' (n#03495643)
     an entity that is not named specifically; 'I couldn't tell what the thing was' (n#03495843)
@@ -2496,10 +2878,14 @@ QUIDDITAS (n) (n-s---fn3-)
     an event: 'a funny thing happened on the way to the...' (n#05437110)
     an action; 'how could you do such a thing?' (n#00020709)
     a special situation; 'this thing has got to end'; 'it is a remarkable thing' (n#10047614)
+
 QUIDEM (r) (rp--------)
     definitely or positively; 'the results are surely encouraging'; 'she certainly is a hard worker'; 'it's going to be a good day for sure'; 'they are coming, for certain'; 'they thought he had been killed sure enough'; 'he'll win sure as shooting'; (`sure' is used informally for `surely' as in 'they sure smell good'; 'sure he'll come') (r#00140819)
+
 QUIDNAM (r) (rp--------)
+
 QUIDNI (r) (rp--------)
+
 QUIDQUID (r) (rp--------)
     (degree adverb used before a noun phrase) for all practical purposes but not completely; 'much the same thing happened every time' (r#00021724)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
@@ -2513,32 +2899,52 @@ QUIDQUID (r) (rp--------)
     to a very great degree or extent; 'we enjoyed ourselves very much'; 'she was very much interested'; 'this would help a great deal' (r#00057204)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
     very; 'he was much annoyed' (r#00031812)
+
 QUIDQUIDCADIAE (n) (n-p---fn1-)
+
 QUIDUM (r) (rp--------)
+
 QUIENS (a) (aps---an3i)
+
 QUIES (a) (aps---an3-)
+
 QUIESCENTIA (n) (n-s---fn1-)
+
 QUIESCITUS (a) (aps---mn1-)
+
 QUIESCO (v) (v1spia--3-)
     be at rest (v#00009549)
     be asleep (v#00009805)
+
 QUIETALIS (n) (n-s---mn3i)
+
 QUIETATIO (n) (n-s---fn3-)
+
 QUIETATOR (n) (n-s---mn3-)
+
 QUIETE (r) (rp--------)
     with self-possession (especially in times of stress); 'he spoke calmly to the rioting students' (r#00182910)
     in a peaceful manner; 'the hen settled herself on the nest most peacefully' (r#00106764)
+
 QUIETI (n) (n-p---mn2-)
+
 QUIETIO (n) (n-s---fn3-)
+
 QUIETO (v) (v1spia--1-)
+
 QUIETOR (v) (v1spid--1-)
+
 QUIETORIUM (n) (n-s---nn2-)
+
 QUIETUDO (n) (n-s---fn3-)
+
 QUIETUM (n) (n-s---nn2-)
+
 QUIETUS (a) (aps---mn1-)
     not disturbed by strife or turmoil or war; 'a peaceful nation'; 'peaceful times'; 'a far from peaceful Christmas'; 'peaceful sleep' (a#01678209)
     characterized by absence of emotional agitation; 'calm acceptance of the inevitable'; 'remained serene in the midst of turbulence'; 'a serene expression on her face'; 'she became more tranquil'; 'tranquil life in the country' (a#01678759)
     (of weather) free from storm or wind; 'calm seas' (a#00298353)
+
 QUILIBET (a) (aps----n1-)
     ranking above all others; 'was first in her class'; 'the foremost figure among marine artists'; 'the top graduate' (a#00225759)
     used informally as an intensifier; 'that is one fine dog' (a#01617992)
@@ -2568,6 +2974,7 @@ QUILIBET (a) (aps----n1-)
     particular but unspecified; 'early one evening' (a#01049108)
     being the gear producing the lowest drive speed; 'use first gear on steep hills' (a#00203938)
     indicating the beginning unit in a series (a#02104805)
+
 QUILIBET (n) (n-s---mn2-)
     a physical (tangible and visible) entity; 'it was full of rackets, balls and other objects' (n#00009457)
     at or near the beginning of a period of time or course of events or before the usual or expected time; 'early morning'; 'an early warning'; 'early diagnosis'; 'an early death'; 'took early retirement'; 'an early spring'; 'early varieties of peas and tomatoes mature before most standard varieties' (a#00773513)
@@ -2594,7 +3001,9 @@ QUILIBET (n) (n-s---mn2-)
     anything having existence (living or nonliving) (n#00001740)
     indicating the beginning unit in a series (a#02104805)
     a special situation; 'this thing has got to end'; 'it is a remarkable thing' (n#10047614)
+
 QUILON (n) (n-s---nn2-)
+
 QUIN (r) (rp--------)
     (used as an interjection to express surprise or skepticism or irony etc.) 'Wants to marry the butler? Indeed!' (r#00036883)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -2650,8 +3059,10 @@ QUIN (r) (rp--------)
     in reality or actuality; 'in fact, it was a wonder anyone survived'; 'painters who are in fact anything but unsophisticated'; 'as a matter of fact, he is several inches taller than his father' (r#00145000)
     used to form the comparative of some adjectives and adverbs; 'more interesting'; 'more beautiful'; 'more quickly' (r#00096343)
     comparative of much; to a greater degree or extent; 'he works more now'; 'they eat more than they should' (r#00096714)
+
 QUINAM (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUINARIA (n) (n-s---fn1-)
     the maximum production possible (n#00587431)
     a statute in draft before it becomes law; 'they held a public hearing on the bill' (n#04907306)
@@ -2682,29 +3093,49 @@ QUINARIA (n) (n-s---fn1-)
     a specified function; 'he was employed in the capacity of director'; 'he should be retained in his present capacity at a higher salary' (n#00462651)
     any maneuver made as part of progress toward a goal; 'the police took steps to reduce crime' (n#00113217)
     the susceptibility of something to a particular treatment; 'the capability of a metal to be fused' (n#10421480)
+
 QUINARIUS (a) (aps---mn1-)
+
 QUINARIUS (n) (n-s---mn2-)
+
 QUINCENTI (a) (app---mn1-)
+
 QUINCTILIS (a) (aps---cn3i)
+
 QUINCTUS (a) (aps---mn1-)
+
 QUINCUNCIALIS (a) (aps---cn3i)
+
 QUINCUNX (n) (n-s---mn3i)
+
 QUINCUPEDAL (n) (n-s---nn3i)
+
 QUINCUPLEX (a) (aps---an3-)
+
 QUINCUPLICITER (r) (rp--------)
+
 QUINCUPLICO (v) (v1spia--1-)
+
 QUINCUPLUS (a) (aps---mn1-)
+
 QUINDECENNALIS (a) (aps---cn3i)
+
 QUINDECIENS (r) (rp--------)
+
 QUINDECIES (r) (rp--------)
+
 QUINDECIM (a) (aps----n1-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     the cardinal number that is the sum of fourteen and one (n#09899152)
     being one more than fourteen (a#02100301)
+
 QUINDECIMPRIMI (n) (n-p---mn2-)
+
 QUINDECIMPRIMUS (n) (n-s---mn2-)
     the cardinal number that is the sum of fourteen and one (n#09899152)
+
 QUINDECIMUS (a) (aps---mn1-)
+
 QUINDECIMVIR (n) (n-s---mn2r)
     food or meals in general; 'she sets a fine table'; 'room and board' (n#05621336)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
@@ -2733,31 +3164,49 @@ QUINDECIMVIR (n) (n-s---mn2r)
     the state of being in good working order and ready for operation; 'put the ships into comission'; 'the motor was out of commission' (n#10091540)
     the male organ of copulation (`member' is a euphemism) (n#04279799)
     an official document issued by a government and conferring on the recipient the rank of an officer in the armed forces (n#04864373)
+
 QUINDECIMVIRALIS (a) (aps---cn3i)
+
 QUINDECIMVIRATUS (n) (n-s---mn4-)
+
 QUINDECIMVIRI (a) (aps---an3-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     the cardinal number that is the sum of fourteen and one (n#09899152)
     being one more than fourteen (a#02100301)
+
 QUINDECIMVIRI (n) (n-p---mn2-)
+
 QUINDENARIUS (a) (aps---mn1-)
+
 QUINDENI (a) (app---mn1-)
+
 QUINGENARIUS (a) (aps---mn1-)
     being one more than four (a#02099292)
     being ten more than ninety (a#02102426)
     (used of count nouns) every one considered individually; 'each person is mortal'; 'each party is welcome' (a#02159998)
+
 QUINGENI (a) (app---mn1-)
+
 QUINGENTARIUS (a) (aps---mn1-)
+
 QUINGENTENARIUS (a) (aps---mn1-)
+
 QUINGENTENI (a) (app---mn1-)
+
 QUINGENTESIMUS (a) (aps---mn1-)
     being one more than four (a#02099292)
     the ordinal number of one hundred in counting order (a#02109257)
+
 QUINGENTI (a) (app---mn1-)
+
 QUINGENTIENS (r) (rp--------)
+
 QUINGENTIES (r) (rp--------)
+
 QUINI (a) (app---mn1-)
+
 QUINIDENI (a) (app---mn1-)
+
 QUINIMMO (r) (rp--------)
     (used as an interjection to express surprise or skepticism or irony etc.) 'Wants to marry the butler? Indeed!' (r#00036883)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -2790,8 +3239,11 @@ QUINIMMO (r) (rp--------)
     in reality or actuality; 'in fact, it was a wonder anyone survived'; 'painters who are in fact anything but unsophisticated'; 'as a matter of fact, he is several inches taller than his father' (r#00145000)
     used to form the comparative of some adjectives and adverbs; 'more interesting'; 'more beautiful'; 'more quickly' (r#00096343)
     comparative of much; to a greater degree or extent; 'he works more now'; 'they eat more than they should' (r#00096714)
+
 QUINIO (n) (n-s---mn3-)
+
 QUINIVICENI (a) (app---mn1-)
+
 QUINQUAGENARIUS (a) (aps---mn1-)
     someone who is appointed or elected to an office and who holds a position of trust; 'he is an officer of the court'; 'the club elected its officers for the coming year' (n#07439427)
     any person in the armed services who holds a position of authority or command; 'an officer is responsible for the lives of his men' (n#07409838)
@@ -2806,24 +3258,36 @@ QUINQUAGENARIUS (a) (aps---mn1-)
     an officer who is licensed to command a merchant ship (n#07398874)
     the force of workers available (n#06095159)
     a member of a police force; 'it was an accident, officer' (n#07485319)
+
 QUINQUAGENARIUS (n) (n-s---mn2-)
+
 QUINQUAGENI (a) (app---mn1-)
     fifty each (a#L6277644)
+
 QUINQUAGENSIENS (r) (rp--------)
+
 QUINQUAGENSIMUS (a) (aps---mn1-)
+
 QUINQUAGESIES (r) (rp--------)
+
 QUINQUAGESIMA (n) (n-s---fn1-)
+
 QUINQUAGESIMUS (a) (aps---mn1-)
     position 50 in a countable series of things (n#09977890)
+
 QUINQUAGESSIS (n) (n-s---mn3i)
+
 QUINQUAGIENS (r) (rp--------)
     being ten more than forty (a#02101957)
     the cardinal number that is the product of ten and five (n#09901273)
+
 QUINQUAGIES (r) (rp--------)
+
 QUINQUAGINTA (a) (aps---an3-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     being ten more than forty (a#02101957)
     the cardinal number that is the product of ten and five (n#09901273)
+
 QUINQUAGINTA (n) (n-s---fn1-)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     a metric unit of capacity equal to the volume of 1 kilogram of pure water at 4 degrees centigrade and 760 mm of mercury (or approximately 1.76 pints) (n#09794447)
@@ -2831,9 +3295,13 @@ QUINQUAGINTA (n) (n-s---fn1-)
     being ten more than forty (a#02101957)
     a cgs unit of illumination equal to the brightness of a perfectly diffusing surface that emits or reflects one lumen per square centimeter (n#09805933)
     None (n#N0001086)
+
 QUINQUANGULUM (n) (n-s---nn2-)
+
 QUINQUANGULUS (a) (aps---mn1-)
+
 QUINQUATRIA (n) (n-s---fn1-)
+
 QUINQUATRUS (n) (n-s---mn2-)
     the quality of being honorable and having a good name; 'a man of honor' (n#03814900)
     a tangible symbol signifying approval or distinction; 'an award for bravery' (n#05020360)
@@ -2855,28 +3323,48 @@ QUINQUATRUS (n) (n-s---mn2-)
     a day assigned to a particular purpose or observance; 'Mother's Day' (n#10878282)
     the time after sunrise and before sunset while it is light outside; 'the dawn turned night into day'; 'it is easier to make the repairs in the daytime' (n#10883946)
     position five in a countable series of things; 'he was fifth out of several hundred runners' (n#09976022)
+
 QUINQUE (a) (aps---an3-)
     being one more than four (a#02099292)
     being or denoting a numerical quantity but not order; 'cardinal numbers' (a#02097792)
     the cardinal number that is the sum of four and one (n#09896331)
+
 QUINQUEFARIAM (r) (rp--------)
+
 QUINQUEFASCALIS (n) (n-s---mn3i)
+
 QUINQUEFOLIUM (n) (n-s---nn2-)
+
 QUINQUEFOLIUS (a) (aps---mn1-)
+
 QUINQUEGENUS (a) (aps---mn1-)
+
 QUINQUEIUGUS (a) (aps---mn1-)
+
 QUINQUELIBRALIS (a) (aps---cn3i)
+
 QUINQUELIBRIS (a) (aps---cn3i)
+
 QUINQUEMESTRIS (a) (aps---cn3i)
+
 QUINQUENARIUS (a) (aps---mn1-)
+
 QUINQUENNALIA (n) (n-p---nn3i)
+
 QUINQUENNALICIUS (a) (aps---mn1-)
+
 QUINQUENNALIS (n) (n-s---mn3i)
+
 QUINQUENNALIS (a) (aps---cn3i)
+
 QUINQUENNALITAS (n) (n-s---fn3-)
+
 QUINQUENNATUS (n) (n-s---mn4-)
+
 QUINQUENNIA (n) (n-p---nn2-)
+
 QUINQUENNIS (a) (aps---cn3i)
+
 QUINQUENNIUM (n) (n-s---nn2-)
     the end or completion of something; 'death put a period to his endeavors'; 'a change soon put a period to my tranquility' (n#10868422)
     a time of life characterized as a distinct phase; 'Picasso's blue period'; 'it was the happy period of my life' (n#10869183)
@@ -2902,36 +3390,57 @@ QUINQUENNIUM (n) (n-s---nn2-)
     a prolonged period of time; 'we've known each other for ages'; 'I haven't been there for years and years' (n#10951137)
     an empty area (usually bounded in some way between things); 'the architect left space in front of the building'; 'they stopped at an open space in the jungle'; 'the space between his teeth' (n#10024194)
     an indefinite length of time; 'a time period of 30 years'; 'hastened the period of his recovery' (n#10843624)
+
 QUINQUEPARS (a) (aps---an3-)
+
 QUINQUEPARTITO (r) (rp--------)
+
 QUINQUEPARTITUS (a) (aps---mn1-)
     being one more than four (a#02099292)
     having or involving or consisting of more than one part or entity or individual; 'multiple birth'; 'multiple ownership'; 'made multiple copies of the speech'; 'his multiple achievements in public life'; 'her multiple personalities'; 'a pineapple is a multiple fruit' (a#02112966)
     having five units or components (a#02116793)
+
 QUINQUEPEDAL (n) (n-s---nn3i)
+
 QUINQUEPEDALIS (a) (aps---cn3i)
+
 QUINQUEPERTITO (r) (rp--------)
+
 QUINQUEPERTITUS (a) (aps---mn1-)
     being one more than four (a#02099292)
     having or involving or consisting of more than one part or entity or individual; 'multiple birth'; 'multiple ownership'; 'made multiple copies of the speech'; 'his multiple achievements in public life'; 'her multiple personalities'; 'a pineapple is a multiple fruit' (a#02112966)
     having five units or components (a#02116793)
+
 QUINQUEPLEX (a) (aps---an3-)
+
 QUINQUEPLUM (n) (n-s---nn2-)
+
 QUINQUEPRIMI (n) (n-p---mn2-)
     the five principal men in a city (n#L2996479)
+
 QUINQUEREMIS (n) (n-s---fn3i)
     (classical antiquity) a crescent-shaped seagoing vessel propelled by oars (n#02735121)
     a galley with five banks of oars, quinquereme (n#L3510648)
+
 QUINQUEREMIS (a) (aps---cn3i)
+
 QUINQUERES (n) (n-s---fn3i)
+
 QUINQUERTIO (n) (n-s---mn3-)
+
 QUINQUERTIUM (n) (n-s---nn2-)
+
 QUINQUESSIS (n) (n-s---mn3i)
+
 QUINQUEVERTEX (a) (aps---an3-)
+
 QUINQUEVIR (n) (n-s---mn2r)
     a member of five-person board or commission for any official function (n#L3839858)
+
 QUINQUEVIRALICIUS (a) (aps---mn1-)
+
 QUINQUEVIRALIS (a) (aps---cn3i)
+
 QUINQUEVIRATUS (n) (n-s---mn4-)
     an official document issued by a government and conferring on the recipient the rank of an officer in the armed forces (n#04864373)
     a task that has been assigned to a person or group; 'a confidential mission to London'; 'his charge was deliver a message' (n#00471060)
@@ -2953,17 +3462,26 @@ QUINQUEVIRATUS (n) (n-s---mn4-)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
     a special group delegated to consider some matter (n#06172564)
     a group of representatives or delegates (n#06213619)
+
 QUINQUEVIRI (n) (n-p---mn2-)
+
 QUINQUIENS (r) (rp--------)
     five times (r#L9512563)
+
 QUINQUIES (r) (rp--------)
+
 QUINQUIES (n) (n-s---fn5-)
     being one more than four (a#02099292)
     the cardinal number that is the sum of four and one (n#09896331)
+
 QUINQUIESDECIES (r) (rp--------)
+
 QUINQUIFIDUS (a) (aps---mn1-)
+
 QUINQUIPARS (a) (aps---an3-)
+
 QUINQUIPLEX (a) (aps---an3-)
+
 QUINQUIPLICO (v) (v1spia--1-)
     create by artistic means; 'create a poem; 'Schoenberg created twelve-tone music'; 'Picasso created Cubism'; 'Auden made verses' (v#01126333)
     gather and light the materials for: 'make a fire' (v#01199575)
@@ -3017,21 +3535,27 @@ QUINQUIPLICO (v) (v1spia--1-)
     make, formulate, or derive in the mind; 'I draw a line here'; 'draw a conclusion'; 'draw parallels'; 'make an estimate'; 'What do you make of his remarks?' (v#00495544)
     change from one form into another; 'make water into wine'; 'make lead into gold'; 'make clay into bricks' (v#00390255)
     combine by multiplication; 'multiply 10 by 15' (v#00433261)
+
 QUINQUIPLUM (n) (n-s---nn2-)
+
 QUINQUO (v) (v1spia--1-)
+
 QUINTADECIMANI (n) (n-p---mn2-)
     a large military unit; 'the French Foreign Legion' (n#06141923)
     association of ex-servicemen; 'the American Legion' (n#06142045)
     position 15 in a countable series of things (n#09977095)
     a vast multitude (n#06082453)
     archaic terms for army (n#06083098)
+
 QUINTADECIMANUS (n) (n-s---mn2-)
     a large military unit; 'the French Foreign Legion' (n#06141923)
     association of ex-servicemen; 'the American Legion' (n#06142045)
     position 15 in a countable series of things (n#09977095)
     a vast multitude (n#06082453)
     archaic terms for army (n#06083098)
+
 QUINTADECUMANI (n) (n-p---mn2-)
+
 QUINTADECUMANUS (n) (n-s---mn2-)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
     a large military unit; 'the French Foreign Legion' (n#06141923)
@@ -3041,6 +3565,7 @@ QUINTADECUMANUS (n) (n-s---mn2-)
     archaic terms for army (n#06083098)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
     a large indefinite number; 'a battalion of ants'; 'a multitude of TV antennas' (n#09920569)
+
 QUINTANA (n) (n-s---fn1-)
     a state of extreme confusion and disorder (n#10068579)
     a state of commotion and loud confused noise (n#10070121)
@@ -3063,7 +3588,9 @@ QUINTANA (n) (n-s---fn1-)
     the commercial exchange (buying and selling on domestic or international markets) of goods and services; 'Venice was an important center of trade with the East'; 'they are accused of conspiring to constrain trade' (n#00707408)
     disorder resulting from a failure to behave predictably; 'the army retreated in confusion' (n#10067954)
     a confusion of voices and other sounds (n#10068349)
+
 QUINTANI (n) (n-p---mn2-)
+
 QUINTANUS (n) (n-s---mn2-)
     the musical interval between one note and another five notes away from it (n#05132324)
     a wingless sterile ant or termite having a large head and powerful jaws adapted for defending the colony (n#01711727)
@@ -3077,6 +3604,7 @@ QUINTANUS (n) (n-s---mn2-)
     an enlisted man or woman who serves in an army; 'the soldiers stood at attention' (n#07591125)
     a large indefinite number; 'a battalion of ants'; 'a multitude of TV antennas' (n#09920569)
     position five in a countable series of things; 'he was fifth out of several hundred runners' (n#09976022)
+
 QUINTANUS (a) (aps---mn1-)
     decreasing in amount or degree; 'falling temperature' (a#02416602)
     coming down freely under the influence of gravity; 'the eerie whistle of dropping bombs'; 'falling rain' (a#02366437)
@@ -3086,6 +3614,7 @@ QUINTANUS (a) (aps---mn1-)
     becoming lower or less in degree or value; 'a falling market'; 'falling incomes' (a#02368060)
     coming after the climax especially of a dramatic or narrative plot; 'the falling action' (a#02368818)
     coming next after the fourth and just before the sixth in position (a#02105452)
+
 QUINTARIUS (a) (aps---mn1-)
     being joined in close association; 'affiliated clubs'; 'all art schools whether independent or attached to universities' (a#01902656)
     associated with or accompanying; 'Christmas and associated festivities' (a#01902856)
@@ -3095,16 +3624,25 @@ QUINTARIUS (a) (aps---mn1-)
     joined or linked together (a#00533007)
     wired together to an alarm system; 'all the window alarms are connected' (a#02445547)
     coming next after the fourth and just before the sixth in position (a#02105452)
+
 QUINTICEPS (n) (n-s---mn3-)
+
 QUINTICEPS (a) (aps---an3-)
+
 QUINTO (r) (rp--------)
+
 QUINTUM (r) (rp--------)
+
 QUINTUPLEX (a) (aps---an3-)
+
 QUINTUPLICITER (r) (rp--------)
+
 QUINTUPLICO (v) (v1spia--1-)
+
 QUINTUS (a) (aps---mn1-)
     coming next after the fourth and just before the sixth in position (a#02105452)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
+
 QUINTUS (n) (n-s---mn4-)
     the musical interval between one note and another five notes away from it (n#05132324)
     coming next after the fourth and just before the sixth in position (a#02105452)
@@ -3112,8 +3650,11 @@ QUINTUS (n) (n-s---mn4-)
     a fifth part (n#09892061)
     being or denoting a numerical order in a series; 'ordinal numbers'; 'held an ordinal rank of seventh' (a#02103770)
     position five in a countable series of things; 'he was fifth out of several hundred runners' (n#09976022)
+
 QUINTUSDECIMUS (a) (aps---mn1-)
+
 QUINUS (a) (aps---mn1-)
+
 QUINYMO (r) (rp--------)
     (used as an interjection to express surprise or skepticism or irony etc.) 'Wants to marry the butler? Indeed!' (r#00036883)
     in truth (often tends to intensify); 'they said the car would break down and indeed it did'; 'it is very cold indeed'; 'was indeed grateful'; 'indeed, the rain may still come'; 'he did so do it!' (r#00037028)
@@ -3140,14 +3681,20 @@ QUINYMO (r) (rp--------)
     in reality or actuality; 'in fact, it was a wonder anyone survived'; 'painters who are in fact anything but unsophisticated'; 'as a matter of fact, he is several inches taller than his father' (r#00145000)
     on the contrary; 'rather than disappoint the children, he did two quick tricks before he left'; 'he didn't call; rather (or instead), he wrote her a letter'; 'used English terms instead of Latin ones' (r#00095912)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 QUIPIAM (r) (rp--------)
+
 QUIPPE (r) (rp--------)
     as might be expected; 'naturally, the lawyer sent us a huge bill' (r#00037564)
+
 QUIPPENI (r) (rp--------)
+
 QUIPPINI (r) (rp--------)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)
     negation of a word or group of words; 'he does not speak French'; 'she is not going'; 'they are not friends'; 'not many'; 'not much'; 'not at all' (r#00022819)
+
 QUIQUEMENSTRIS (a) (aps---cn3i)
+
 QUIRIS (n) (n-s---fn3-)
     a column of light (as from a beacon) (n#07777807)
     obscene terms for penis (n#04280037)
@@ -3169,6 +3716,7 @@ QUIRIS (n) (n-s---fn3-)
     a surgical knife with a pointed double-edged blade; used for punctures and small incisions (n#02903188)
     a revolving rod that transmits power or motion (n#03255317)
     the main (mid) section of a long bone (n#04333700)
+
 QUIRITATIO (n) (n-s---fn3-)
     a state of disorder involving group violence (n#10069174)
     a special disposition (as if from a divine source) to pursue a particular course; 'he was disappointed that he had not heard the Call' (n#04698896)
@@ -3199,8 +3747,10 @@ QUIRITATIO (n) (n-s---fn3-)
     a demand especially in the phrase 'the call of duty' (n#05375417)
     a demand for a show of hands in a card game; 'after two raises there was a call' (n#05375610)
     a demand by a broker that a customer deposit enough to bring his margin up to the minimum requirement (n#05375760)
+
 QUIRITATUS (n) (n-s---mn4-)
     a cry of sorrow and grief; 'their pitiful laments could be heard throughout the ward' (n#05387878)
+
 QUIRITO (v) (v1spia--1-)
     read aloud to check for omissions or absentees; 'Call roll' (v#00725051)
     indicate a decision in regard to (sports): 'call balls and strikes behind the plate' (v#00725904)
@@ -3238,6 +3788,7 @@ QUIRITO (v) (v1spia--1-)
     free from harm or evil (v#01739567)
     order, request, or command to come; 'He has been called to active military duty'; 'She was called into the director's office'; 'Call the police!' (v#00538265)
     stop or postpone because of adverse conditions, such as bad weather; 'call a football game' (v#01804607)
+
 QUIRITOR (v) (v1spid--1-)
     cause to be enjoyable or pleasurable; 'make my day' (v#00394654)
     constitute the essence of; 'Clothes make the man' (v#01788243)
@@ -3308,12 +3859,16 @@ QUIRITOR (v) (v1spid--1-)
     spring back, as from a forceful thrust; 'The gun kicked back into my shoulder' (v#00939368)
     put in order or neaten: 'make the bed'; 'make up a room' (v#00188762)
     make a goal; 'He kicked the extra point after touchdown' (v#00754443)
+
 QUIRQUIR (r) (rp--------)
+
 QUIRRITO (v) (v1spia--1-)
+
 QUISPIAM (a) (aps---an3-)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
     definite but not specified or identified; 'set aside a certain sum each week'; 'to a certain degree'; 'certain breeds do not make good pets'; 'certain members have not paid their dues'; 'a certain popular teacher'; 'a certain Mrs. Jones' (a#00667086)
     unknown or unspecified; 'some lunatic drove into my car'; 'some man telephoned while you were out'; 'some day my prince will come'; 'some enchanted evening' (a#01049208)
+
 QUISQUAM (n) (n-s---mn3-)
     a physical (tangible and visible) entity; 'it was full of rackets, balls and other objects' (n#00009457)
     the intellectual conception of a thing as it is in itself, not as it is known through perception (n#04479075)
@@ -3337,6 +3892,7 @@ QUISQUAM (n) (n-s---mn3-)
     unknown or unspecified; 'some lunatic drove into my car'; 'some man telephoned while you were out'; 'some day my prince will come'; 'some enchanted evening' (a#01049208)
     anything having existence (living or nonliving) (n#00001740)
     a special situation; 'this thing has got to end'; 'it is a remarkable thing' (n#10047614)
+
 QUISQUE (n) (n-s---nn3-)
     a physical (tangible and visible) entity; 'it was full of rackets, balls and other objects' (n#00009457)
     to or from every one of two or more (considered individually); 'they received $10 each' (r#00236039)
@@ -3366,11 +3922,14 @@ QUISQUE (n) (n-s---nn3-)
     including all components without exception; being one unit or constituting the full amount or extent or duration; complete; 'gave his whole attention'; 'a whole wardrobe for the tropics'; 'the whole hog'; 'a whole week'; 'the baby cried the whole trip home'; 'a whole loaf of bread' (a#00481167)
     anything having existence (living or nonliving) (n#00001740)
     a special situation; 'this thing has got to end'; 'it is a remarkable thing' (n#10047614)
+
 QUISQUILIA (n) (n-p---nn2-)
+
 QUISQUILIA (n) (n-s---fn1-)
     nonsensical talk or writing (n#04959357)
     food that is discarded (as from a kitchen) (n#10656657)
     worthless material that is discarded (n#10656895)
+
 QUISQUILIAE (n) (n-p---fn1-)
     worthless material that is discarded (n#10656895)
     worthless people (n#06213342)
@@ -3385,12 +3944,14 @@ QUISQUILIAE (n) (n-p---fn1-)
     nonsensical talk or writing (n#04959357)
     puree of stewed apples usually sweetened and spiced (n#05858512)
     lining of the stomach of a ruminant (especially a bovine) used as food (n#05706815)
+
 QUISQUIS (n) (n-s---nn2-)
     (in negative statements) either every little or very great but unspecified; 'can't stand any noise'; 'could not endure chemotherapy for any length of time' (a#01470425)
     quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity; 'have some milk'; 'some roses were still blooming'; 'having some friends over'; 'some apples'; 'some paper' (a#02157624)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
     to any degree or extent; 'it isn't any better' (r#00023227)
     not within reasonable limits; 'immoderate laughter'; 'immoderate spending' (a#01469295)
+
 QUIVIS (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     referring to the degree to which a certain quality is present; 'he was no heavier than a child' (r#00049246)
@@ -3399,6 +3960,7 @@ QUIVIS (r) (rp--------)
     not in any degree or manner; not at all; 'he is no better today' (r#00023305)
     not ever; at no time in the past or future; 'I have never been to China'; 'I shall never forget this day'; 'had never seen a circus'; 'never on Sunday'; 'I will never marry you!' (r#00019520)
     by a small margin; 'they could barely hear the speaker'; 'we hardly knew them'; 'just missed being hit'; 'had scarcely rung the bell when the door flew open'; 'would have scarce arrived before she would have found some excuse to leave'- W.B.Yeats (r#00001874)
+
 QUIVIS (a) (aps---mn1-)
     (in negative statements) either every little or very great but unspecified; 'can't stand any noise'; 'could not endure chemotherapy for any length of time' (a#01470425)
     eminent beyond or above comparison; 'matchless beauty'; 'the team's nonpareil center fielder'; 'she's one girl in a million'; 'the one and only Muhammad Ali'; 'a peerless scholar'; 'infamy unmatched in the Western world'; 'wrote with unmatchable clarity'; 'unrivaled mastery of her art' (a#00471619)
@@ -3412,6 +3974,7 @@ QUIVIS (a) (aps---mn1-)
     indefinite in time or position; 'he will come one day'; 'one place or another' (a#00668683)
     being a single entity made by combining separate components; 'three chemicals combining into one solution' (a#01277795)
     having the indivisible character of a unit; 'a unitary action'; 'spoke with one voice' (a#02358518)
+
 QUO (r) (rp--------)
     put into a certain place: 'Put your things here'; 'Set the tray down'; 'Set the dogs on the scent of the mising children'; also with abstract objects and locations: 'Place emphasis on a certain point' (v#01026409)
     the passage that is being read; 'he lost his place on the page' (n#04824876)
@@ -3453,6 +4016,7 @@ QUO (r) (rp--------)
     the function or position properly or customarily occupied or served by another: 'can you go in my stead?'; 'took his place'; 'in lieu of' (n#00462982)
     a general vicinity; 'He comes from a place near Chicago' (n#06364246)
     estimate: 'We put the time of arrival at 8 P.M.' (v#00454083)
+
 QUOAD (r) (rp--------)
     a suitable moment; 'it is time to go' (n#10952869)
     primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified; ; 'a long life'; 'a long boring speech'; 'a long time'; 'a long friendship'; 'a long game'; 'long ago'; 'an hour long' (a#01380813)
@@ -3486,11 +4050,14 @@ QUOAD (r) (rp--------)
     for an extended time or at a distant time; 'a promotion long overdue'; 'something long hoped for'; 'his name has long been forgotten'; 'talked all night long'; 'how long will you be gone?'; 'arrived long before he was expected'; 'it is long after your bedtime' (r#00162139)
     to a great degree or extent; 'she's much better now' (r#00057118)
     a great amount or extent; 'they did much for humanity' (n#09921720)
+
 QUOADUSQUE (r) (rp--------)
+
 QUOCIRCA (r) (rp--------)
     as a consequence; 'he had good reason to be grateful for the opportunities which they had made available to him and which consequently led to the good position he now held' (r#00288701)
     for which reason; 'wherefore do I receive this honor?' (r#00489822)
     (used to introduce a logical conclusion) from that fact or reason or as a result; 'therefore X must be true'; 'the eggs were fresh and hence satisfactory'; 'we were young and thence optimistic'; 'it is late and thus we must go'; 'the witness is biased and so cannot be trusted' (r#00040922)
+
 QUOCUMQUE (r) (rp--------)
     particularly a section of medium length (n#04824319)
     quantifier; used with either mass nouns or plural count nouns to indicate an unspecified number or quantity; 'have some milk'; 'some roses were still blooming'; 'having some friends over'; 'some apples'; 'some paper' (a#02157624)
@@ -3501,10 +4068,13 @@ QUOCUMQUE (r) (rp--------)
     the function or position properly or customarily occupied or served by another: 'can you go in my stead?'; 'took his place'; 'in lieu of' (n#00462982)
     more than one but indefinitely small in number; 'a few roses'; 'a couple of roses' (a#01490454)
     to or in any or all places; 'You find fast food stores everywhere'; 'people everywhere are becoming aware of the problem'; 'he carried a gun everywhere he went'; 'looked all over for a suitable gift'; (`everyplace' is used informally for `everywhere') (r#00024775)
+
 QUOCUNQUE (r) (rp--------)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 QUOD (r) (rp--------)
+
 QUODAM (r) (rp--------)
     to some extent; not very well; 'he speaks French after a fashion' (r#00147171)
     behind or in the rear; 'and Jill came tumbling after' (r#00504705)
@@ -3512,6 +4082,7 @@ QUODAM (r) (rp--------)
     (of quantities) imprecise but fairly close to correct; 'lasted approximately an hour'; 'in just about a minute'; 'he's about 30 years old'; 'I've had about all I can stand'; 'we meet about once a month'; 'some forty people came'; 'weighs around a hundred pounds'; 'roughly $3,000'; 'holds 3 gallons, more or less'; '20 or so people were at the party' (r#00006065)
     in some unspecified way or manner; or by some unspecified means; 'they managed somehow'; 'he expected somehow to discover a woman who would love him'; 'he tried to make is someway acceptable' (r#00025165)
     for some unspecified reason; 'It doesn't seem fair somehow'; 'he had me dead to rights but somehow I got away with it'; 'for some reason they didn't seem to match' (r#00025444)
+
 QUODAMMODO (r) (rp--------)
     characteristic or habitual practice (n#00266480)
     a way of doing or being: 'in no wise'; 'in this wise' (n#03858557)
@@ -3527,21 +4098,33 @@ QUODAMMODO (r) (rp--------)
     doing as one pleases or chooses: 'if I had my way' (n#04464225)
     accepted practice (n#00265102)
     a manner of performance; 'a manner of living'; 'in the characteristic New York style'; 'a way of life' (n#03856995)
+
 QUODNISI (r) (rp--------)
+
 QUODQUIA (r) (rp--------)
+
 QUODQUONIAM (r) (rp--------)
+
 QUODUTINAM (r) (rp--------)
+
 QUOIAS (a) (aps---an3-)
     rough and uncouth; 'a country boy' (a#01974125)
     typical of the country; 'country-style sausage'; 'country music' (a#01974231)
     (of music) characteristic of rural life (a#00385587)
+
 QUOIATIS (a) (aps---cn3i)
+
 QUOIQUOIMODI (r) (rp--------)
+
 QUOIUS (a) (aps---mn1-)
+
 QUOIUSCEMODI (r) (rp--------)
+
 QUOIUSQUEMODI (r) (rp--------)
+
 QUOLIBET (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 QUOM (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     (formal) in or into that thing or place; 'they can read therein what our plans are' (r#00237136)
@@ -3554,6 +4137,7 @@ QUOM (r) (rp--------)
     indicates continuity or persistence or concentration; 'his spirit lives on'; 'shall I read on?' (r#00066803)
     in a state required for something to function or be effective; 'turn the lights on'; 'get a load on' is slang for 'drink enough to become intoxicated' (r#00066929)
     in equal amounts or shares; in a balanced or impartial way; 'a class evenly divided between girls and boys'; 'they split their winnings equally'; 'deal equally with rich and poor' (r#00326536)
+
 QUOMODO (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     characteristic or habitual practice (n#00266480)
@@ -3569,6 +4153,7 @@ QUOMODO (r) (rp--------)
     (quantifier used with mass nouns) great in quantity or degree or extent; 'not much rain'; 'much affection'; 'much grain is in storage' (a#01490743)
     accepted practice (n#00265102)
     a manner of performance; 'a manner of living'; 'in the characteristic New York style'; 'a way of life' (n#03856995)
+
 QUOMODOCUMQUE (r) (rp--------)
     together with this (r#00039271)
     to a greater degree or extent; used with comparisons; 'looked sick and felt even worse'; 'an even (or still) more interesting problem'; 'still another problem must be solved'; 'a yet sadder tale' (r#00016468)
@@ -3591,6 +4176,7 @@ QUOMODOCUMQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     with reference to action or condition; without change, interruption, or cessation; 'it's still warm outside'; 'will you still love me when we're old and grey?' (r#00030373)
     (of quantities) imprecise but fairly close to correct; 'lasted approximately an hour'; 'in just about a minute'; 'he's about 30 years old'; 'I've had about all I can stand'; 'we meet about once a month'; 'some forty people came'; 'weighs around a hundred pounds'; 'roughly $3,000'; 'holds 3 gallons, more or less'; '20 or so people were at the party' (r#00006065)
+
 QUOMODOCUNQUE (r) (rp--------)
     together with this (r#00039271)
     to a greater degree or extent; used with comparisons; 'looked sick and felt even worse'; 'an even (or still) more interesting problem'; 'still another problem must be solved'; 'a yet sadder tale' (r#00016468)
@@ -3613,12 +4199,17 @@ QUOMODOCUNQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     with reference to action or condition; without change, interruption, or cessation; 'it's still warm outside'; 'will you still love me when we're old and grey?' (r#00030373)
     (of quantities) imprecise but fairly close to correct; 'lasted approximately an hour'; 'in just about a minute'; 'he's about 30 years old'; 'I've had about all I can stand'; 'we meet about once a month'; 'some forty people came'; 'weighs around a hundred pounds'; 'roughly $3,000'; 'holds 3 gallons, more or less'; '20 or so people were at the party' (r#00006065)
+
 QUOMODOLIBET (r) (rp--------)
+
 QUOMODONAM (r) (rp--------)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
+
 QUOMQUE (r) (rp--------)
+
 QUONAM (r) (rp--------)
+
 QUONDAM (r) (rp--------)
     following this in time or order or place; after this; 'hereafter you will no longer receive an allowance' (r#00032005)
     in a future life or state; 'hope to win salvation hereafter' (r#00032148)
@@ -3636,6 +4227,7 @@ QUONDAM (r) (rp--------)
     without delay; with no time intervening; 'he answered immediately'; 'found an answer straightaway'; 'an official accused of dishonesty should be supended forthwith'; 'Come here now!' (r#00047341)
     (of quantities) imprecise but fairly close to correct; 'lasted approximately an hour'; 'in just about a minute'; 'he's about 30 years old'; 'I've had about all I can stand'; 'we meet about once a month'; 'some forty people came'; 'weighs around a hundred pounds'; 'roughly $3,000'; 'holds 3 gallons, more or less'; '20 or so people were at the party' (r#00006065)
     prior to the present time; 'no suspect has been found to date' (r#00168316)
+
 QUONIAM (r) (rp--------)
     at that time; 'I was young then'; 'prices were lower back then'; 'science as it was then taught' (r#00115115)
     in that case or as a consequence; 'if he didn't take it, then who did?'; 'keep it then if you want to'; 'the case, then, is closed'; 'you've made up your mind then?'; 'then you'll be rich' (r#00115244)
@@ -3649,18 +4241,24 @@ QUONIAM (r) (rp--------)
     in the immediate past; 'told me just now' (r#00048258)
     (prefatory or transitional) 'Now the next problem is...' (r#00048331)
     subsequently or soon afterward (often used as sentence connectors); 'then he left'; 'go left first, then right'; 'first came lightning, then thunder'; 'we watched the late movie and then went to bed'; 'and so home and to bed' (r#00114832)
+
 QUOPIAM (r) (rp--------)
     in or at or to some place; 'she must be somewhere'; (`someplace' is used informally for `somewhere') (r#00024625)
+
 QUOQUAM (r) (rp--------)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 QUOQUE (r) (rp--------)
     to a greater degree or extent; used with comparisons; 'looked sick and felt even worse'; 'an even (or still) more interesting problem'; 'still another problem must be solved'; 'a yet sadder tale' (r#00016468)
     in addition; 'he has a Mercedes, too' (r#00046022)
+
 QUOQUO (v) (v1spia--3-)
+
 QUOQUO (r) (rp--------)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to or from every one of two or more (considered individually); 'they received $10 each' (r#00236039)
+
 QUOQUOMODO (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     up to the present time; 'I have yet to see the results'; 'details are yet to be worked out' (r#00026875)
@@ -3677,17 +4275,23 @@ QUOQUOMODO (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     within an indefinite time or at an unspecified future time; 'he will understand eventually'; 'he longed for the flowers that were yet to show themselves'; 'sooner or later you will have to face the facts'; 'in time they came to accept the harsh reality' (r#00046129)
     with reference to action or condition; without change, interruption, or cessation; 'it's still warm outside'; 'will you still love me when we're old and grey?' (r#00030373)
+
 QUOQUOMQUE (r) (rp--------)
     at or in or to any place; 'you can find this food anywhere'; (`anyplace' is used informally for `anywhere') (r#00024375)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 QUOQUOVERSUM (r) (rp--------)
     (informal) to a great degree or by a great distance; very much; 'way over budget'; 'way off base'; 'right smart' is regional (US S and Midland) as in 'the other side of the hill is right smart steeper than the side we are on' (r#00098754)
+
 QUOQUOVERSUS (r) (rp--------)
     (informal) to a great degree or by a great distance; very much; 'way over budget'; 'way off base'; 'right smart' is regional (US S and Midland) as in 'the other side of the hill is right smart steeper than the side we are on' (r#00098754)
+
 QUOR (r) (rp--------)
     for which reason; 'wherefore do I receive this honor?' (r#00489822)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)
+
 QUORSOM (r) (rp--------)
+
 QUORSUM (r) (rp--------)
     a physical (tangible and visible) entity; 'it was full of rackets, balls and other objects' (n#00009457)
     a linear string of words expressing some idea; 'the letter consisted of three short lines' (n#05261047)
@@ -3726,24 +4330,32 @@ QUORSUM (r) (rp--------)
     direction or advice as to a decision or course of action (n#04987402)
     anything having existence (living or nonliving) (n#00001740)
     a special situation; 'this thing has got to end'; 'it is a remarkable thing' (n#10047614)
+
 QUORSUS (r) (rp--------)
+
 QUOSUM (r) (rp--------)
+
 QUOT (a) (aps---an3-)
     well matched; having the same quantity, value, or measure as another; 'on equal terms'; 'all men are equal before the law' (a#00845976)
     an equal number; 'we went to three plays in as many days' (a#00846726)
     (quantifier used with count nouns; often preceded by `as' or `too' or `so' or `that') amounting to a large but indefinite number; 'many temptations'; 'the temptations are many'; 'a good many'; 'a great many'; 'many directions'; 'take as many apples as you like'; 'too many clouds to see'; 'never saw so many people' (a#01488913)
+
 QUOTANNIS (r) (rp--------)
     without missing a year; 'they travel to China annually' (r#00079092)
     so as to pass a given point; 'every hour a train goes past' (r#00412129)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     one every year; 'we issue six volumes per annum' (r#00246941)
+
 QUOTCALENDIS (r) (rp--------)
+
 QUOTCUMQUE (r) (rp--------)
     (quantifier used with count nouns; often preceded by `as' or `too' or `so' or `that') amounting to a large but indefinite number; 'many temptations'; 'the temptations are many'; 'a good many'; 'a great many'; 'many directions'; 'take as many apples as you like'; 'too many clouds to see'; 'never saw so many people' (a#01488913)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
+
 QUOTCUNQUE (a) (aps---an3-)
     (quantifier used with count nouns; often preceded by `as' or `too' or `so' or `that') amounting to a large but indefinite number; 'many temptations'; 'the temptations are many'; 'a good many'; 'a great many'; 'many directions'; 'take as many apples as you like'; 'too many clouds to see'; 'never saw so many people' (a#01488913)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
+
 QUOTENI (n) (n-p---mn2-)
     a symbol used to represent a number; 'he learned to write the numerals before he went to school' (n#05097671)
     a short theatrical performance that is part of a longer program; 'he did his act three times every evening'; 'she had a catchy little routine'; 'it was one of the best numbers he ever did' (n#05156818)
@@ -3756,11 +4368,16 @@ QUOTENI (n) (n-p---mn2-)
     (linguistics) the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural); 'in English the subject and the verb must agree in number' (n#04774380)
     a numeral or string of numerals that is used for identification; 'she refused to give them her Social Security number' (n#04841846)
     the number is used in calling a particular phone; 'he has an unlisted number' (n#04842744)
+
 QUOTENI (a) (app---mn1-)
+
 QUOTENNIS (a) (aps---cn3i)
+
 QUOTENUS (a) (aps---mn1-)
     (quantifier used with count nouns; often preceded by `as' or `too' or `so' or `that') amounting to a large but indefinite number; 'many temptations'; 'the temptations are many'; 'a good many'; 'a great many'; 'many directions'; 'take as many apples as you like'; 'too many clouds to see'; 'never saw so many people' (a#01488913)
+
 QUOTIDIANO (r) (rp--------)
+
 QUOTIDIANUS (a) (aps---mn1-)
     not cleaned with or as if with soap and water; 'a sink full of unwashed dishes' (a#00394266)
     not exceptional in any way especially in quality or ability or size or degree; 'ordinary everyday objects'; 'ordinary decency'; 'an ordinary day'; 'an ordinary wine' (a#01613712)
@@ -3914,12 +4531,14 @@ QUOTIDIANUS (a) (aps---mn1-)
     concerned with the world or worldly matters; 'mundane affairs'; 'he developed an immense terrestrial practicality' (a#02454611)
     a periodical dedicated to a particular subject; 'he reads the medical journals' (n#04948875)
     in accordance with convention or custom; 'sealed the deal with the customary handshake' (a#00573324)
+
 QUOTIDIE (r) (rp--------)
     gradually and progressively; 'his health weakened day by day' (r#00173884)
     under normal conditions; 'usually she was late' (r#00103835)
     so as to pass a given point; 'every hour a train goes past' (r#00412129)
     in reserve; not for immediate use; 'started setting aside money to buy a car'; 'put something by for her old age'; 'has a nestegg tucked away for a rainy day' (r#00229840)
     without missing a day; 'he stops by daily' (r#00078738)
+
 QUOTIDIE (n) (n-s---nn3-)
     an era of history having some distinctive feature (n#10958298)
     the time during which someone's life continues; 'the monarch's last days'; 'in his final years' (n#10866312)
@@ -3933,13 +4552,16 @@ QUOTIDIE (n) (n-s---nn3-)
     a day reckoned from midnight to midnight (n#10878116)
     a day assigned to a particular purpose or observance; 'Mother's Day' (n#10878282)
     the time after sunrise and before sunset while it is light outside; 'the dawn turned night into day'; 'it is easier to make the repairs in the daytime' (n#10883946)
+
 QUOTIDIO (r) (rp--------)
+
 QUOTIENS (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTIENSCUMQUE (r) (rp--------)
     a suitable moment; 'it is time to go' (n#10952869)
     an arched brick or stone ceiling or roof (n#03568778)
@@ -3951,6 +4573,7 @@ QUOTIENSCUMQUE (r) (rp--------)
     (used of count nouns) each and all of the members of a group considered singly and without exception; 'every person is mortal'; 'every party is welcome'; 'had every hope of success'; 'every chance of winning' (a#02160157)
     a curved bony structure supporting or enclosing organs (especially arches of the feet) (n#04320709)
     qualsiasi superficie superiore curva; formazioni stalattitiche pendono dalla volta della caverna; volta celeste (n#W0021071)
+
 QUOTIENSCUNQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -3960,7 +4583,9 @@ QUOTIENSCUNQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTIENSQUE (r) (rp--------)
+
 QUOTIENSQUONQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -3970,12 +4595,14 @@ QUOTIENSQUONQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTIES (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTIESCUMQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -3985,6 +4612,7 @@ QUOTIESCUMQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTIESCUNQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -3994,8 +4622,11 @@ QUOTIESCUNQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTIESLIBET (r) (rp--------)
+
 QUOTIESQUE (r) (rp--------)
+
 QUOTIESQUONQUE (r) (rp--------)
     despite anything to the contrary (usually following a concession); 'although I'm a little afraid, however I'd like to try it'; 'while we disliked each other, nevertheless we agreed'; 'he was a stern yet fair master'; 'granted that it is dangerous, all the same I still want to go' (r#00026464)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
@@ -4005,22 +4636,32 @@ QUOTIESQUONQUE (r) (rp--------)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     many times at short intervals; 'we often met over a cup of coffee' (r#00033931)
     frequently or in great quantities; 'I don't drink much'; 'I don't travel much' (r#00057416)
+
 QUOTLIBET (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUOTOMUS (a) (aps---mn1-)
+
 QUOTQUOT (r) (rp--------)
+
 QUOTQUOT (a) (aps----n1-)
     (quantifier used with count nouns; often preceded by `as' or `too' or `so' or `that') amounting to a large but indefinite number; 'many temptations'; 'the temptations are many'; 'a good many'; 'a great many'; 'many directions'; 'take as many apples as you like'; 'too many clouds to see'; 'never saw so many people' (a#01488913)
     one or some or every or all without specification; 'give me any peaches you don't want'; 'not any milk is left'; 'any child would know that'; 'pick any card'; 'any day now'; 'cars can be rented at almost any airport'; 'at twilight or any other time'; 'beyond any doubt'; 'need any help we can get'; 'give me whatever peaches you don't want'; 'no milk whatsoever is left' (a#02158002)
+
 QUOTUM (n) (n-s---nn2-)
     a quantity obtained by division (n#04512950)
     the ratio of two quantities to be divided (n#09957148)
+
 QUOTUMUS (a) (aps---mn1-)
+
 QUOTUPLEX (a) (aps---an3-)
+
 QUOTUS (a) (aps---mn1-)
     of what number, how many? (a#L1756261)
+
 QUOTUS (r) (rp--------)
     (often followed by `as') to the same degree; 'they were equally beautiful'; 'birds were singing and the child sang as sweetly'; 'sang as sweetly as a nightingale'; (`every bit' is informal as in 'he is every bit as mean as she is') (r#00020994)
+
 QUOTUSCUNQUE (a) (aps---an3-)
     low or inferior in station or quality; 'a humble cottage'; 'a lowly parish priest'; 'a modest man of the people'; 'small beginnings' (a#02229453)
     have fine or very small constituent particles; 'a small misty rain' (a#02127826)
@@ -4046,20 +4687,25 @@ QUOTUSCUNQUE (a) (aps---an3-)
     made to seem smaller or less (especially in worth); 'her comments made me feel small' (a#00839486)
     limited in size or scope; 'a small business'; 'a newspaper with a modest circulation'; 'small-scale plans' (a#01358565)
     (informal) very good; 'a bully pulpit'; 'a cool sports car'; 'had a great time at the party'; 'you look simply smashing' (a#01076845)
+
 QUOTUSQUISQUE (r) (rp--------)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
+
 QUOUSQUE (r) (rp--------)
     as soon as; 'once we are home, we can rest' (r#00177383)
     to what extent or amount or degree; 'how tall is she?' (r#00107215)
     in what way or manner or by what means; 'how did you catch the snake?'; 'he told us how he did it'; (`however' is used as an intensive of `how' as in 'however did you get here so soon?') (r#00107369)
     for an extended time or at a distant time; 'a promotion long overdue'; 'something long hoped for'; 'his name has long been forgotten'; 'talked all night long'; 'how long will you be gone?'; 'arrived long before he was expected'; 'it is long after your bedtime' (r#00162139)
     for an extended distance (r#00162432)
+
 QUOVIS (r) (rp--------)
     to any degree or extent; 'it isn't any better' (r#00023227)
+
 QUR (r) (rp--------)
     for which reason; 'wherefore do I receive this honor?' (r#00489822)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)
+
 QUUR (r) (rp--------)
     for which reason; 'wherefore do I receive this honor?' (r#00489822)
     question word; what is the reason; 'why are you here?'; (`how come' is a nonstandard variant as in 'how come he got an ice cream cone but I didn't?') (r#00107597)

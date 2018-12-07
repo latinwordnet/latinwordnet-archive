@@ -1,6 +1,7 @@
 Latin WordNet 2.0
 Lemmas - X
 
+
 XANDICUS (n) (n-s---mn2-)
     one of the twelve divisions of the calendar year; 'he paid the bill last month' (n#10922179)
     the first element in a countable series; 'the first of the month' (n#09770029)
@@ -13,9 +14,13 @@ XANDICUS (n) (n-s---mn2-)
     the first or highest in an ordering or series: 'He wanted to be the first' (n#09974999)
     the fielding position of the player on a baseball team who is stationed at first base (n#00464759)
     a list or register of events (appointments or social events or court cases etc); 'I have you on my calendar for next Monday' (n#04870072)
+
 XANTHIUM (n) (n-s---nn2-)
+
 XANTHOS (n) (n-s---mn2g)
+
 XANTUS (a) (aps---mn1-)
+
 XENIOLUM (n) (n-s---nn2-)
     the act of giving (n#00703535)
     natural qualities or talents (n#04355268)
@@ -30,6 +35,7 @@ XENIOLUM (n) (n-s---nn2-)
     disposing of property by voluntary transfer without receiving value in return (n#00056167)
     something presented as a gift; 'his tie was a present from his wife' (n#09548218)
     a person who possesses unusual innate ability in some field or activity (n#07629692)
+
 XENIUM (n) (n-s---nn2-)
     any continuous stretch of time including the moment of speech; 'that is enough for the present'; 'he lives in the present with no thought of tomorrow' (n#10848167)
     the imparting of news or promises etc; 'he gave us the news and made a great show of the giving'; 'giving his word of honor seemed to come too easily' (n#05012067)
@@ -65,7 +71,9 @@ XENIUM (n) (n-s---nn2-)
     archaic terms for army (n#06083098)
     a person who acts as host at formal occasions (makes an introductory speech and introduces other speakers) (n#07399175)
     disposing of property by voluntary transfer without receiving value in return (n#00056167)
+
 XENODOCHEUM (n) (n-s---nn2-)
+
 XENODOCHIUM (n) (n-s---nn2-)
     a medical institution where sick or injured people are given medical or surgical care (n#06002864)
     any of various native American dwellings (n#02938373)
@@ -85,6 +93,7 @@ XENODOCHIUM (n) (n-s---nn2-)
     inexpensive supervised lodging (especially for youths on bicycling trips) (n#02835270)
     a hotel for travelers (n#02835429)
     where you live; 'deliver the package to my home'; 'he doesn't have a home to go to'; 'your place or mine?' (n#06309747)
+
 XENODOCHUS (n) (n-s---mn2-)
     a medical institution where sick or injured people are given medical or surgical care (n#06002864)
     the state or quality of being lodged or fixed even temporarily: 'the lodgment of the balloon in the tree' (n#03749857)
@@ -98,21 +107,25 @@ XENODOCHUS (n) (n-s---mn2-)
     the act of lodging (n#00682362)
     a person who directs and manages an organization (n#07451223)
     a health facility where patients receive treatment (n#02834408)
+
 XENON (n) (n-s---mn3-)
     a hotel for travelers (n#02835429)
     a health facility where patients receive treatment (n#02834408)
     a lodging for travelers (especially one kept by a monastic order) (n#02834289)
     an inn in some Eastern countries with a large courtyard that provides accommodation for caravans (n#02385593)
     a medical institution where sick or injured people are given medical or surgical care (n#06002864)
+
 XENOPAROCHUS (n) (n-s---mn2-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a United Nations agency to coordinate international health activities and to help governments improve health services (n#06163090)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
+
 XENOPHOBIA (n) (n-s---fn1-)
     a fear of foreigners or strangers (n#10321889)
     a feeling of intense dislike (n#05577305)
     the object of a feeling of intense aversion; something to be avoided; 'cats were his greatest antipathy' (n#04478136)
     the emotion of hate; a feeling of dislike so strong that it demands action (n#05609785)
+
 XERAMPELINA (n) (n-s---fn1-)
     an unenlightened state; 'he was in the dark concerning their intentions'; 'his lectures dispelled the darkness' (n#04591692)
     absence of moral or spiritual values; 'the powers of darkness' (n#10442294)
@@ -122,6 +135,7 @@ XERAMPELINA (n) (n-s---fn1-)
     emotionally charged terms used to refer to extreme radicals (n#07118379)
     a tributary of the Mississippi River (n#06829050)
     absence of light or illumination (n#10073287)
+
 XERAMPELINAE (n) (n-p---fn1-)
     absence of light or illumination (n#10073287)
     an unilluminated area; 'he moved off into the darkness' (n#06367601)
@@ -129,23 +143,35 @@ XERAMPELINAE (n) (n-p---fn1-)
     the time after sunset and before sunrise while it is dark outside (n#10885886)
     absence of moral or spiritual values; 'the powers of darkness' (n#10442294)
     an unenlightened state; 'he was in the dark concerning their intentions'; 'his lectures dispelled the darkness' (n#04591692)
+
 XERAMPELINUS (a) (aps---mn1-)
+
 XERANTICUS (a) (aps---mn1-)
+
 XEROCOLLYRIUM (n) (n-s---nn2-)
+
 XEROMYRON (n) (n-s---nn2g)
+
 XEROMYRRHA (n) (n-s---fn1-)
+
 XERON (n) (n-s---nn2g)
+
 XEROPHAGIA (n) (n-s---fn1-)
     opposes intoxicating beverages (n#07230292)
     abstaining from food (n#00692334)
     any substance that can be metabolized by an organism to give energy and build tissue (n#00011575)
     the act of consuming food (n#00537892)
+
 XEROPHTHALMIA (n) (n-s---fn1-)
+
 XIPHIAS (n) (n-s---mn1g)
     flesh of swordfish usually served as steaks (n#05820577)
     large toothless marine food fish with a long swordlike upper jaw; not completely cold-blooded i.e. they are able to warm their brains and eyes: worldwide in warm waters but feed on cold ocean floor coming to surface at night (n#02119408)
+
 XIPHION (n) (n-s---nn2g)
+
 XIPHIUM (n) (n-s---nn2-)
+
 XPRIMUS (n) (n-s---mn2-)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     assembly possessing high legislative powers (n#06069615)
@@ -154,12 +180,15 @@ XPRIMUS (n) (n-s---mn2-)
     the cardinal number that is the sum of nine and one; the base of the decimal system (n#09898220)
     the body of ordained religious practitioners (n#06048098)
     None (n#N0001756)
+
 XVIR (n) (n-s---mn2r)
     the force of workers available (n#06095159)
     the smallest whole number or a numeral representing this number; 'he has the one but will need a two and three to go with it'; 'they had lunch at one' (n#09894800)
     a single person or thing; 'he is the best one'; 'this is the one I ordered' (n#04516673)
     the cardinal number that is the sum of nine and one; the base of the decimal system (n#09898220)
+
 XVIRALIS (a) (aps---cn3-)
+
 XVIRATUS (n) (n-s---mn4-)
     (of a government or government official) holding an office means being in power; 'being in office already gives a candidate a great advantage'; 'during his first year in power' (n#10048361)
     professional or clerical workers in an office; 'the whole office was late the morning of the blizzard' (n#06184408)
@@ -168,33 +197,59 @@ XVIRATUS (n) (n-s---mn4-)
     the actions and activities assigned to or required or expected of a person or group: 'the function of a teacher'; 'the government must do its part' or 'play its role' or 'do its duty' (n#00462318)
     an administrative unit of government; 'the Central Intelligence Agency'; 'the Census Bureau'; 'Office of Management and Budget'; 'Tennessee Valley Authority' (n#06182017)
     a job in an organization or hierarchy; 'he ocupied a post in the treasury' (n#00385376)
+
 XYLIGLYCON (n) (n-s---nn2g)
+
 XYLINUM (n) (n-s---nn2-)
+
 XYLINUS (a) (aps---mn1-)
+
 XYLION (n) (n-s---nn2g)
+
 XYLOBALSAMUM (n) (n-s---nn2-)
+
 XYLOCASIA (n) (n-s---fn1-)
+
 XYLOCASSIA (n) (n-s---fn1-)
+
 XYLOCINNAMOMUM (n) (n-s---nn2-)
+
 XYLOCINNAMONIUM (n) (n-s---nn2-)
+
 XYLOCINNAMUM (n) (n-s---nn2-)
+
 XYLOLUCHNUCHOS (n) (n-s---mn2g)
+
 XYLOLUCHNUCHUS (n) (n-s---mn2-)
+
 XYLOLYCHNUCHOS (n) (n-s---mn2g)
+
 XYLON (n) (n-s---nn2g)
+
 XYLOPHONUM (n) (n-s---nn2-)
     a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets (n#02966612)
+
 XYLOPHYTON (n) (n-s---nn2g)
+
 XYLOPHYTUM (n) (n-s---nn2-)
+
 XYRIS (n) (n-s---fn3-)
+
 XYSTARCHA (n) (n-s---mn1-)
+
 XYSTARCHES (n) (n-s---mn1-)
+
 XYSTICI (n) (n-p---mn2-)
+
 XYSTICUS (a) (aps---mn1-)
+
 XYSTICUS (n) (n-s---mn2-)
     a person trained to compete in sports (n#07089646)
+
 XYSTRA (n) (n-s---fn1-)
+
 XYSTUM (n) (n-s---nn2-)
+
 XYSTUS (n) (n-s---mn2-)
     the act of using; 'the steps were worn from years of use' (n#00605730)
     space for movement; 'room to pass'; 'make way for': 'hardly enough elbow room to turn around' (n#09922737)
