@@ -3,11 +3,11 @@
 
 ## Mark-Up
 For literal senses of words, no special mark-up is required. However, because synsets have been assigned to lemmas through an automated process, the possibility exists of mistaken or irrelevant attributions. Therefore it may be necessary to delete certain attributions, which can be indicated with strikethrough. Alternatively, if a known word sense is missing from the listed synset attributions, it can be added by supplying the relevent synset ID. If no appropriate synset exists, a new one will need to be created: in this case, provide a suitable gloss in English of the required meaning. To indicate a metonymic (within-domain) meaning extension, mark the synset with ‘~’. For metaphoric senses (if any), use ‘#’. Additionally, the primary sense(s) of a word -- the meanings that come most immediately to mind when thinking of the word -- should be indicated by ‘p’. (The primary sense of a word may be literal or figurative: in the latter case, both indications should be given). As with literal senses, missing figurative senses can be supplied by an English gloss for later addition to the database.
-    (none)    literal
-    ~       metonymic
-    #       metaphorical
-    p       primary
-    ~~lemma~~ (deletion)
+>    (none)    literal
+>    ~       metonymic
+>    #       metaphorical
+>    p       primary
+>    *       (deletion)
 
 ## Temporal relations
 If a (literal, metonymic, or metaphorical) sense of a word is circumscribed temporally, this information can be included in the database by creating a Temporal Relation record. A Temporal Relation links a lemma and a synset (its sense) with a specification of period. Possible values are:
