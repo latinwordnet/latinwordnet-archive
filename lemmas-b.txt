@@ -221,10 +221,11 @@ BACATUS (a) (aps---mn1-)
     relating to or resembling or made of or adorned with pearls or mother-of-pearl; 'a pearl-handled knife' (a#02591695)
 
 BACCA (n) (n-s---fn1-)
-    any of numerous small edible pulpy fruits either simple (grape; blueberry) or aggregate (blackberry; raspberry) (n#05778932)
-    small ovoid fruit of the European olive tree; important food and source of oil (n#08604906)
-    a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel (n#09630121)
-    a pulpy and usually edible small fruit having any of various structures: e.g. strawberry or raspberry or blueberry (n#09425657)
+    p any of numerous small edible pulpy fruits either simple (grape; blueberry) or aggregate (blackberry; raspberry) (n#05778932)
+    ~ small ovoid fruit of the European olive tree; important food and source of oil (n#08604906)
+    # a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel (n#09630121)
+    p a pulpy and usually edible small fruit having any of various structures: e.g. strawberry or raspberry or blueberry (n#09425657)
+    relations: |, n#05778932, n#09425657
 
 BACCALARIUS (n) (n-s---mn2-)
     a man who has never been married (n#07095619)
@@ -482,6 +483,11 @@ BACCHOR (v) (v1spid--1-)
     have a personal or business relationship with someone; 'have a postdoc'; 'have an assistant'; 'have a lover' (v#01620370)
 
 BACCHUS (n) (n-s---mn2-)
+ ~ (n#05916701) fermented juice (of grapes especially)
+ ~ the cry or invocation to Bacchus 
+ ~ the vine 
+ p (n#06905863) (in ancient Greece and Rome) god of wine; equivalent of Dionysus
+
 
 BACCIA (n) (n-s---fn1-)
 
@@ -988,10 +994,15 @@ BACULA (n) (n-s---fn1-)
     any of numerous small edible pulpy fruits either simple (grape; blueberry) or aggregate (blackberry; raspberry) (n#05778932)
 
 BACULUM (n) (n-s---nn2-)
-    a stick carried in the hand for support in walking (n#03585559)
-    a ceremonial or emblematic staff (n#05424170)
-    a strong rod or stick with a specialized utilitarian purpose; 'he walked with the help of a wooden staff' (n#03397031)
-    a length of wood; 'he collected dry sticks for a campfire'; 'the kid had a candied apple on a stick' (n#03412867)
+    p a stick carried in the hand for support in walking (n#03585559)
+    ~ a ceremonial or emblematic staff (n#05424170)
+    p a strong rod or stick with a specialized utilitarian purpose; 'he walked with the help of a wooden staff' (n#03397031)
+    - a length of wood; 'he collected dry sticks for a campfire'; 'the kid had a candied apple on a stick' (n#03412867)
+    +~ staff for ornament
+    +~ (n#10363318) the imperial authority symbolized by a sceptre 
+    +# n#03400689 (ecl)
+    +~ an instrument of wrath, rod
+    +in baculo = adverb ‘in the manner of a poor person’
 
 BACULUS (n) (n-s---mn2-)
     a baton used by a magician or water diviner (n#03588019)
@@ -1576,15 +1587,15 @@ BADIUS (a) (aps---mn1-)
     used of hair; of a golden brown to reddish brown color; 'a chestnut horse'; 'chestnut hair' (a#00359214)
 
 BADIZO (v) (v1spia--1-)
-    be awarded; be allotted; 'The first prize goes to Mary'; 'Her money went on clothes' (v#01811181)
-    follow a certain course; 'The inauguration went well'; 'how did your interview go?' (v#00236311)
-    change location; move, travel, or proceed; 'How fast does your new car go?' 'We travelled from Rome to Naples by bus'; 'The policemen went from door to door looking for the suspect';'The soldiers moved towards the city in an attempt to take it before night fell' (v#01253107)
-    to be spent or finished; 'The money had gone after a few days'; 'Gas is running low at the gas stations in the Midwest' (v#00811027)
-    function properly; 'The washing machine won't go unless it's plugged in' (v#01048914)
-    be spent; 'All my money went for food and rent' (v#00811228)
-    be in the right place or situation; 'Where do these books belong?' 'Let's put health care where it belongs--under the control of the government'; 'Where do these books go?' (v#01874154)
-    be the right size or shape; fit correctly or as desired; 'This skirt won't go around your waist' (v#01815328)
-    stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; 'Service runs all the way to Cranbury'; 'His knowledge doesn't go very far'; 'My memory extends back to my fourth year of life'; 'The facts extend beyond a consideration of her personal assets' (v#01832891)
+    - be awarded; be allotted; 'The first prize goes to Mary'; 'Her money went on clothes' (v#01811181)
+    - follow a certain course; 'The inauguration went well'; 'how did your interview go?' (v#00236311)
+    p change location; move, travel, or proceed; 'How fast does your new car go?' 'We travelled from Rome to Naples by bus'; 'The policemen went from door to door looking for the suspect';'The soldiers moved towards the city in an attempt to take it before night fell' (v#01253107)
+    - to be spent or finished; 'The money had gone after a few days'; 'Gas is running low at the gas stations in the Midwest' (v#00811027)
+    - function properly; 'The washing machine won't go unless it's plugged in' (v#01048914)
+    - be spent; 'All my money went for food and rent' (v#00811228)
+    - be in the right place or situation; 'Where do these books belong?' 'Let's put health care where it belongs--under the control of the government'; 'Where do these books go?' (v#01874154)
+    - be the right size or shape; fit correctly or as desired; 'This skirt won't go around your waist' (v#01815328)
+    - stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; 'Service runs all the way to Cranbury'; 'His knowledge doesn't go very far'; 'My memory extends back to my fourth year of life'; 'The facts extend beyond a consideration of her personal assets' (v#01832891)
 
 BADO (v) (v1spia--1-)
 
@@ -1608,16 +1619,16 @@ BAETICATUS (a) (aps---mn1-)
     covered with or as if with clothes or a wrap or cloak; 'leaf-clothed trees'; 'fog-cloaked meadows'; 'a beam draped with cobwebs'; 'cloud-wrapped peaks' (a#01635626)
     wearing or provided with clothing; sometimes used in combination; 'clothed and in his right mind'- Bible; 'proud of her well-clothed family'; 'nurses clad in white'; 'white-clad nurses' (a#00422516)
 
-BAETO (v) (v1spia--3-)
-    be awarded; be allotted; 'The first prize goes to Mary'; 'Her money went on clothes' (v#01811181)
-    follow a certain course; 'The inauguration went well'; 'how did your interview go?' (v#00236311)
-    change location; move, travel, or proceed; 'How fast does your new car go?' 'We travelled from Rome to Naples by bus'; 'The policemen went from door to door looking for the suspect';'The soldiers moved towards the city in an attempt to take it before night fell' (v#01253107)
-    to be spent or finished; 'The money had gone after a few days'; 'Gas is running low at the gas stations in the Midwest' (v#00811027)
-    function properly; 'The washing machine won't go unless it's plugged in' (v#01048914)
-    be spent; 'All my money went for food and rent' (v#00811228)
-    be in the right place or situation; 'Where do these books belong?' 'Let's put health care where it belongs--under the control of the government'; 'Where do these books go?' (v#01874154)
-    be the right size or shape; fit correctly or as desired; 'This skirt won't go around your waist' (v#01815328)
-    stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; 'Service runs all the way to Cranbury'; 'His knowledge doesn't go very far'; 'My memory extends back to my fourth year of life'; 'The facts extend beyond a consideration of her personal assets' (v#01832891)
+BAETO (v) (v1spia--3-) = bito/beto
+    - be awarded; be allotted; 'The first prize goes to Mary'; 'Her money went on clothes' (v#01811181)
+    - follow a certain course; 'The inauguration went well'; 'how did your interview go?' (v#00236311)
+    p change location; move, travel, or proceed; 'How fast does your new car go?' 'We travelled from Rome to Naples by bus'; 'The policemen went from door to door looking for the suspect';'The soldiers moved towards the city in an attempt to take it before night fell' (v#01253107)
+    - to be spent or finished; 'The money had gone after a few days'; 'Gas is running low at the gas stations in the Midwest' (v#00811027)
+    - function properly; 'The washing machine won't go unless it's plugged in' (v#01048914)
+    - be spent; 'All my money went for food and rent' (v#00811228)
+    - be in the right place or situation; 'Where do these books belong?' 'Let's put health care where it belongs--under the control of the government'; 'Where do these books go?' (v#01874154)
+    - be the right size or shape; fit correctly or as desired; 'This skirt won't go around your waist' (v#01815328)
+    - stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; 'Service runs all the way to Cranbury'; 'His knowledge doesn't go very far'; 'My memory extends back to my fourth year of life'; 'The facts extend beyond a consideration of her personal assets' (v#01832891)
 
 BAETULI (n) (n-p---mn2-)
 
@@ -2581,8 +2592,10 @@ BALANTUS (a) (aps---mn1-)
     filled or impregnated with perfume; 'perfumed boudoir'; 'perfumed stationery'; 'scented soap' (a#01002398)
 
 BALANUS (n) (n-s---fn2-)
-    sweet edible fruit of the date palm with a single long woody seed (n#05800663)
-    fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base (n#08572076)
+    ~ sweet edible fruit of the date palm with a single long woody seed (n#05800663)
+    p fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base (n#08572076)
+    +# a suppository
+    +# a kind of shellfish
 
 BALARE (n) (n-s---nn3-)
     the sound of sheep or goats (or any sound resembling this) (n#05493300)
@@ -2596,10 +2609,10 @@ BALASTRUM (n) (n-s---nn2-)
 BALATIO (n) (n-s---fn3-)
 
 BALATRO (n) (n-s---mn3-)
-    a person who enjoys telling or playing jokes (n#07350149)
-    a professional clown employed to to entertain a king or nobleman in the middle ages (n#07347950)
-    a person who amuses others by ridiculous behavior (n#07161854)
-    a rude or vulgar fool (n#07162052)
+    p a person who enjoys telling or playing jokes (n#07350149)
+    - a professional clown employed to to entertain a king or nobleman in the middle ages (n#07347950)
+    p a person who amuses others by ridiculous behavior (n#07161854)
+    ~ a rude or vulgar fool (n#07162052)
 
 BALATUS (n) (n-s---mn4-)
 
@@ -2611,7 +2624,8 @@ BALAUSTIUM (n) (n-s---nn2-)
     large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind (n#05804194)
 
 BALBE (r) (rp--------)
-    in an obscure manner; 'this work is obscurely written' (r#00243464)
+    # in an obscure manner; 'this work is obscurely written' (r#00243464)
+    +p r#00458773
 
 BALBO (v) (v1spia--1-)
 
@@ -2636,8 +2650,9 @@ BALBUS (n) (n-s---mn2-)
 BALBUTIES (n) (n-s---fn5-)
 
 BALBUTIO (v) (v1spia--4-)
-    speak haltingly (v#00664326)
-    utter meaningless sounds, like a baby, or utter in an incoherent way; 'The old man is only babbling--don't pay attention' (v#00723086)
+    p speak haltingly (v#00664326)
+    ~ utter meaningless sounds, like a baby, or utter in an incoherent way; 'The old man is only babbling--don't pay attention' (v#00723086)
+    +~ of birds, not to sing clearly:
 
 BALBUTTIO (v) (v1spia--4-)
     make a babbling, gurgling sound, as of water; 'babbling brooks' (v#01498085)
@@ -2938,8 +2953,9 @@ BALISTIUM (n) (n-s---nn2-)
 BALITANS (a) (aps---an3i)
 
 BALITO (v) (v1spia--1-)
-    cry plaintively; 'The lambs were bleating' (v#00710378)
-    talk whiningly (v#00710504)
+    - cry plaintively; 'The lambs were bleating' (v#00710378)
+    - talk whiningly (v#00710504)
+    +p v#00710378
 
 BALLAENA (n) (n-s---fn1-)
     any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head (n#01574318)
@@ -3044,7 +3060,7 @@ BALLIVUS (n) (n-s---mn2-)
 BALLO (v) (v1spia--1-)
     move in a graceful and rhythmical way (v#01293338)
     move in a pattern; usually to musical accompaniment; do or perform a dance (v#01171148)
-    skip, leap, or move up and down or sideways; 'Dancing flames'; 'The children danced with joy' (v#01439432)
+    ~ skip, leap, or move up and down or sideways; 'Dancing flames'; 'The children danced with joy' (v#01439432)
 
 BALLOTE (n) (n-s---fn1g)
 
