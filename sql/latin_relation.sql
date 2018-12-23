@@ -3,7 +3,7 @@
 #
 
 DROP TABLE IF EXISTS latin_relation;
-CREATE TABLE latin_relation (type VARCHAR(2) NOT NULL,id_source CHAR(10) NOT NULL,id_target CHAR(10) NOT NULL,w_source VARCHAR(110) NOT NULL,w_target VARCHAR(110) NOT NULL, status varchar(4) NULL, PRIMARY KEY (type, id_source, id_target, w_source, w_target));
+CREATE TABLE latin_relation (type VARCHAR(2) NOT NULL,id_source CHAR(10),id_target CHAR(10),w_source VARCHAR(110),w_target VARCHAR(110), status varchar(4) NULL, PRIMARY KEY (type, id_source, id_target, w_source, w_target));
 
 INSERT INTO latin_relation VALUES ("!",NULL,NULL,"falsitas","ueritas",NULL);
 INSERT INTO latin_relation VALUES ("!",NULL,NULL,"abambulo","nocte",NULL);
