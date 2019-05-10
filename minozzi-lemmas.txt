@@ -1,5 +1,4 @@
-LATIN WORDNET 2.0
-LEMMAS
+LATIN WORDNET 1.0
 
 abalienatio (n) (n-s---fn3-)
     (n#05577059)    the feeling of being alienated from other people
