@@ -1,0 +1,17 @@
+lwn2-a-lemmas-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-n-relations.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-n-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-semfields.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-v-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-n-lemmas.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-r-relations.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-r-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-v-lemmas.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-r-lemmas.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-r-lemmas-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-v-lemmas-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-v-relations.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-a-lemmas.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-a-relations.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-a-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
+lwn2-n-lemmas-synsets.csv.bz2 filter=lfs diff=lfs merge=lfs -text
