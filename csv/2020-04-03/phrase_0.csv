@@ -1,0 +1,101 @@
+id,phrase,pos,morpho,prototypical_sense,validated
+84,excito fluctus in simpulo,v,v1spia--1-,,0
+86,inter sacrum saxumque sto,v,v1spia--1-,,0
+71,sub diuo,r,rp--------,,0
+89,ros marinus,n,n-s---mn3-,,0
+90,haud dubie,r,rp--------,,0
+91,Arsia Silua,n,n-s---fn1-,,0
+92,Cambunii Montes,n,n-p---mn3-,,0
+93,Chelidoniae Insulae,a,app---fn1-,,0
+94,Dios balanus,n,n-s---mn2-,,0
+95,Equus Tuticus,n,n-s---mn2-,,0
+1,uela do,v,v1spia--1-,,1
+2,poenas do,v,v1spia--1-,,1
+3,infitias eo,v,v1spia--4-,,1
+8,tuto sum,v,----------,,0
+5,de composito,r,rp--------,,1
+7,pro indiuiso,r,rp--------,,1
+6,res nouae,n,n-p---fn5,,1
+15,ad umbilicum,r,rp--------,,1
+10,mater familias,n,----------,,0
+11,pedem refero,v,----------,,0
+12,uicem gero,v,----------,,0
+13,ad summam,r,----------,,0
+14,de nocte,r,----------,,0
+16,sacrum facio,v,----------,,0
+63,gratias ago,v,v1spia--3-,,1
+18,ad calcem,r,----------,,0
+19,terga uerto,v,----------,,0
+20,securi ferio,v,----------,,0
+21,ancoram iacio,v,----------,,0
+22,morem gero,v,----------,,0
+23,toga uirilis,n,----------,,0
+24,pedes nauales,n,----------,,0
+25,in cassum,r,----------,,0
+27,pedem effero,v,----------,,0
+28,linguis faueo,v,----------,,0
+29,ad unguem,r,----------,,0
+30,nantes scaphae,n,----------,,0
+31,res publica,n,----------,,0
+32,genibus aduoluor,v,----------,,0
+34,Luca bos,n,----------,,0
+35,foedus ferio,v,----------,,0
+36,acu pingo,v,----------,,0
+37,promissis sto,v,----------,,0
+39,matellam praesto,v,----------,,0
+38,minor natu,a,a-s---mn3,,1
+40,e medio abeo,v,----------,,0
+41,ex tempore,r,----------,,0
+43,rem acu tango,v,----------,,0
+44,fumos uendo,v,----------,,0
+45,caudam traho,v,----------,,0
+46,satis ago,v,v1spia--3-,,1
+47,satis facio,v,----------,,0
+48,ad amussim,r,----------,,0
+50,nauis longa,n,----------,,0
+51,pater familias,n,----------,,0
+52,in unguem,r,----------,,0
+53,per aestatem liquidam no,v,----------,,0
+54,sine cortice no,v,----------,,0
+55,aes alienum,n,----------,,0
+56,multa nocte,r,----------,,0
+58,filius familias,n,----------,,0
+59,lac pressum,n,----------,,0
+60,certiorem facio,v,----------,,0
+61,digitum profero,v,----------,,0
+62,ad metam,r,----------,,0
+65,nodum in scirpo quaero,v,----------,,0
+66,nouae tabulae,n,----------,,0
+68,testamenta nuncupo,v,----------,,0
+69,senatus consultum,n,----------,,0
+70,satis offero,v,v1spia--3-,,1
+72,satis accipio,v,v1spia--3-,,1
+76,Agri Decumates,n,----------,,1
+73,se refero,v,v1spia--3-,,1
+74,refert ad,v,v3spia--3-,,1
+75,uiris equisque,r,rp--------,,1
+81,ad armillum redeo,v,----------,,1
+77,res publica,n,n-s---fn5-,,1
+79,orbis terrarum,n,n-s---mn3-,,1
+83,honorem dico,v,v1spia--3-,,1
+82,honorem praefor,v,v1spid--1-,,1
+87,rem quaero,v,v1spia--3-,,1
+85,saxum uoluo,v,v1spia--3-,,0
+4,ex composito,r,rp--------,,1
+17,maior natu,a,a-s---mn3,,1
+80,Claritas Iulia,v,n-s---fn3-,,1
+96,Falernus ager,a,aps---mn3-,,0
+97,Laborinus campus,n,n-s---mn2-,,0
+98,Litana silua,n,n-s---fn1-,,0
+99,Magni Campi,a,app---mn1-,,0
+100,Messia Silua,n,n-s---fn1-,,0
+101,Stellatis ager,a,aps---mn1r,,0
+102,Uada Uolaterrana,n,n-s---fn1-,,0
+103,fictio personae,n,n-s---fn3-,,1
+9,supra caput sum,v,----------,,0
+26,uxorem duco,v,----------,,0
+33,censu prohibeo,v,----------,,0
+42,in dies,r,----------,,0
+49,pater patriae,n,----------,,0
+57,proh dolor,r,----------,,0
+67,pedem fero,v,----------,,0
